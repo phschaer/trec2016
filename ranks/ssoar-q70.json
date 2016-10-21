@@ -1,0 +1,406 @@
+{
+  "doclist": [
+    {
+      "site-ranking": "ssoar-d7188", 
+      "docid": "ssoar-d7355"
+    }, 
+    {
+      "site-ranking": "ssoar-d7298", 
+      "docid": "ssoar-d7426"
+    }, 
+    {
+      "site-ranking": "ssoar-d7299", 
+      "docid": "ssoar-d7371"
+    }, 
+    {
+      "site-ranking": "ssoar-d7300", 
+      "docid": "ssoar-d7362"
+    }, 
+    {
+      "site-ranking": "ssoar-d7349", 
+      "docid": "ssoar-d7359"
+    }, 
+    {
+      "site-ranking": "ssoar-d7350", 
+      "docid": "ssoar-d7440"
+    }, 
+    {
+      "site-ranking": "ssoar-d7351", 
+      "docid": "ssoar-d7356"
+    }, 
+    {
+      "site-ranking": "ssoar-d7352", 
+      "docid": "ssoar-d7389"
+    }, 
+    {
+      "site-ranking": "ssoar-d7353", 
+      "docid": "ssoar-d7388"
+    }, 
+    {
+      "site-ranking": "ssoar-d7354", 
+      "docid": "ssoar-d7427"
+    }, 
+    {
+      "site-ranking": "ssoar-d7355", 
+      "docid": "ssoar-d7435"
+    }, 
+    {
+      "site-ranking": "ssoar-d7356", 
+      "docid": "ssoar-d7357"
+    }, 
+    {
+      "site-ranking": "ssoar-d7357", 
+      "docid": "ssoar-d7442"
+    }, 
+    {
+      "site-ranking": "ssoar-d7358", 
+      "docid": "ssoar-d7441"
+    }, 
+    {
+      "site-ranking": "ssoar-d7359", 
+      "docid": "ssoar-d7373"
+    }, 
+    {
+      "site-ranking": "ssoar-d7360", 
+      "docid": "ssoar-d7379"
+    }, 
+    {
+      "site-ranking": "ssoar-d7361", 
+      "docid": "ssoar-d7361"
+    }, 
+    {
+      "site-ranking": "ssoar-d7362", 
+      "docid": "ssoar-d7399"
+    }, 
+    {
+      "site-ranking": "ssoar-d7363", 
+      "docid": "ssoar-d7372"
+    }, 
+    {
+      "site-ranking": "ssoar-d7364", 
+      "docid": "ssoar-d7417"
+    }, 
+    {
+      "site-ranking": "ssoar-d7365", 
+      "docid": "ssoar-d7402"
+    }, 
+    {
+      "site-ranking": "ssoar-d7366", 
+      "docid": "ssoar-d6364"
+    }, 
+    {
+      "site-ranking": "ssoar-d7367", 
+      "docid": "ssoar-d7419"
+    }, 
+    {
+      "site-ranking": "ssoar-d3351", 
+      "docid": "ssoar-d7431"
+    }, 
+    {
+      "site-ranking": "ssoar-d7368", 
+      "docid": "ssoar-d7412"
+    }, 
+    {
+      "site-ranking": "ssoar-d7369", 
+      "docid": "ssoar-d7430"
+    }, 
+    {
+      "site-ranking": "ssoar-d7370", 
+      "docid": "ssoar-d7383"
+    }, 
+    {
+      "site-ranking": "ssoar-d7371", 
+      "docid": "ssoar-d7432"
+    }, 
+    {
+      "site-ranking": "ssoar-d7372", 
+      "docid": "ssoar-d7422"
+    }, 
+    {
+      "site-ranking": "ssoar-d7373", 
+      "docid": "ssoar-d7407"
+    }, 
+    {
+      "site-ranking": "ssoar-d7374", 
+      "docid": "ssoar-d7411"
+    }, 
+    {
+      "site-ranking": "ssoar-d7375", 
+      "docid": "ssoar-d7352"
+    }, 
+    {
+      "site-ranking": "ssoar-d7376", 
+      "docid": "ssoar-d7387"
+    }, 
+    {
+      "site-ranking": "ssoar-d7377", 
+      "docid": "ssoar-d7400"
+    }, 
+    {
+      "site-ranking": "ssoar-d7378", 
+      "docid": "ssoar-d7364"
+    }, 
+    {
+      "site-ranking": "ssoar-d7379", 
+      "docid": "ssoar-d7392"
+    }, 
+    {
+      "site-ranking": "ssoar-d7380", 
+      "docid": "ssoar-d7390"
+    }, 
+    {
+      "site-ranking": "ssoar-d7381", 
+      "docid": "ssoar-d7416"
+    }, 
+    {
+      "site-ranking": "ssoar-d7382", 
+      "docid": "ssoar-d7437"
+    }, 
+    {
+      "site-ranking": "ssoar-d7383", 
+      "docid": "ssoar-d7396"
+    }, 
+    {
+      "site-ranking": "ssoar-d7384", 
+      "docid": "ssoar-d7423"
+    }, 
+    {
+      "site-ranking": "ssoar-d7385", 
+      "docid": "ssoar-d7405"
+    }, 
+    {
+      "site-ranking": "ssoar-d7386", 
+      "docid": "ssoar-d7439"
+    }, 
+    {
+      "site-ranking": "ssoar-d7387", 
+      "docid": "ssoar-d7429"
+    }, 
+    {
+      "site-ranking": "ssoar-d7388", 
+      "docid": "ssoar-d7418"
+    }, 
+    {
+      "site-ranking": "ssoar-d7389", 
+      "docid": "ssoar-d7428"
+    }, 
+    {
+      "site-ranking": "ssoar-d7390", 
+      "docid": "ssoar-d7406"
+    }, 
+    {
+      "site-ranking": "ssoar-d7391", 
+      "docid": "ssoar-d7384"
+    }, 
+    {
+      "site-ranking": "ssoar-d7392", 
+      "docid": "ssoar-d7415"
+    }, 
+    {
+      "site-ranking": "ssoar-d7393", 
+      "docid": "ssoar-d7414"
+    }, 
+    {
+      "site-ranking": "ssoar-d7394", 
+      "docid": "ssoar-d7365"
+    }, 
+    {
+      "site-ranking": "ssoar-d7395", 
+      "docid": "ssoar-d7409"
+    }, 
+    {
+      "site-ranking": "ssoar-d7396", 
+      "docid": "ssoar-d7421"
+    }, 
+    {
+      "site-ranking": "ssoar-d7397", 
+      "docid": "ssoar-d7385"
+    }, 
+    {
+      "site-ranking": "ssoar-d7398", 
+      "docid": "ssoar-d7360"
+    }, 
+    {
+      "site-ranking": "ssoar-d7399", 
+      "docid": "ssoar-d7424"
+    }, 
+    {
+      "site-ranking": "ssoar-d7400", 
+      "docid": "ssoar-d7438"
+    }, 
+    {
+      "site-ranking": "ssoar-d7401", 
+      "docid": "ssoar-d7436"
+    }, 
+    {
+      "site-ranking": "ssoar-d7402", 
+      "docid": "ssoar-d7386"
+    }, 
+    {
+      "site-ranking": "ssoar-d7403", 
+      "docid": "ssoar-d7433"
+    }, 
+    {
+      "site-ranking": "ssoar-d7404", 
+      "docid": "ssoar-d7381"
+    }, 
+    {
+      "site-ranking": "ssoar-d7405", 
+      "docid": "ssoar-d7403"
+    }, 
+    {
+      "site-ranking": "ssoar-d7406", 
+      "docid": "ssoar-d7401"
+    }, 
+    {
+      "site-ranking": "ssoar-d7407", 
+      "docid": "ssoar-d7377"
+    }, 
+    {
+      "site-ranking": "ssoar-d7408", 
+      "docid": "ssoar-d7404"
+    }, 
+    {
+      "site-ranking": "ssoar-d7409", 
+      "docid": "ssoar-d7394"
+    }, 
+    {
+      "site-ranking": "ssoar-d7410", 
+      "docid": "ssoar-d7413"
+    }, 
+    {
+      "site-ranking": "ssoar-d7411", 
+      "docid": "ssoar-d7354"
+    }, 
+    {
+      "site-ranking": "ssoar-d7412", 
+      "docid": "ssoar-d7408"
+    }, 
+    {
+      "site-ranking": "ssoar-d7413", 
+      "docid": "ssoar-d7374"
+    }, 
+    {
+      "site-ranking": "ssoar-d7414", 
+      "docid": "ssoar-d7434"
+    }, 
+    {
+      "site-ranking": "ssoar-d7415", 
+      "docid": "ssoar-d7420"
+    }, 
+    {
+      "site-ranking": "ssoar-d7416", 
+      "docid": "ssoar-d7391"
+    }, 
+    {
+      "site-ranking": "ssoar-d7417", 
+      "docid": "ssoar-d7376"
+    }, 
+    {
+      "site-ranking": "ssoar-d7418", 
+      "docid": "ssoar-d7397"
+    }, 
+    {
+      "site-ranking": "ssoar-d7419", 
+      "docid": "ssoar-d7393"
+    }, 
+    {
+      "site-ranking": "ssoar-d6364", 
+      "docid": "ssoar-d7395"
+    }, 
+    {
+      "site-ranking": "ssoar-d7420", 
+      "docid": "ssoar-d7425"
+    }, 
+    {
+      "site-ranking": "ssoar-d7421", 
+      "docid": "ssoar-d7398"
+    }, 
+    {
+      "site-ranking": "ssoar-d7422", 
+      "docid": "ssoar-d7353"
+    }, 
+    {
+      "site-ranking": "ssoar-d7423", 
+      "docid": "ssoar-d7382"
+    }, 
+    {
+      "site-ranking": "ssoar-d7424", 
+      "docid": "ssoar-d7363"
+    }, 
+    {
+      "site-ranking": "ssoar-d7425", 
+      "docid": "ssoar-d7380"
+    }, 
+    {
+      "site-ranking": "ssoar-d7426", 
+      "docid": "ssoar-d7300"
+    }, 
+    {
+      "site-ranking": "ssoar-d7427", 
+      "docid": "ssoar-d7378"
+    }, 
+    {
+      "site-ranking": "ssoar-d7428", 
+      "docid": "ssoar-d7299"
+    }, 
+    {
+      "site-ranking": "ssoar-d7429", 
+      "docid": "ssoar-d7350"
+    }, 
+    {
+      "site-ranking": "ssoar-d7430", 
+      "docid": "ssoar-d7375"
+    }, 
+    {
+      "site-ranking": "ssoar-d7431", 
+      "docid": "ssoar-d7370"
+    }, 
+    {
+      "site-ranking": "ssoar-d7432", 
+      "docid": "ssoar-d7188"
+    }, 
+    {
+      "site-ranking": "ssoar-d7433", 
+      "docid": "ssoar-d7410"
+    }, 
+    {
+      "site-ranking": "ssoar-d7434", 
+      "docid": "ssoar-d7298"
+    }, 
+    {
+      "site-ranking": "ssoar-d7435", 
+      "docid": "ssoar-d7367"
+    }, 
+    {
+      "site-ranking": "ssoar-d7436", 
+      "docid": "ssoar-d3351"
+    }, 
+    {
+      "site-ranking": "ssoar-d7437", 
+      "docid": "ssoar-d7358"
+    }, 
+    {
+      "site-ranking": "ssoar-d7438", 
+      "docid": "ssoar-d7369"
+    }, 
+    {
+      "site-ranking": "ssoar-d7439", 
+      "docid": "ssoar-d7366"
+    }, 
+    {
+      "site-ranking": "ssoar-d7440", 
+      "docid": "ssoar-d7351"
+    }, 
+    {
+      "site-ranking": "ssoar-d7441", 
+      "docid": "ssoar-d7349"
+    }, 
+    {
+      "site-ranking": "ssoar-d7442", 
+      "docid": "ssoar-d7368"
+    }
+  ], 
+  "runid": "css-solr", 
+  "qid": "ssoar-q70"
+}

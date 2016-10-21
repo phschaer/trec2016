@@ -1,0 +1,30 @@
+{
+  "doclist": [
+    {
+      "site-ranking": "ssoar-d1335", 
+      "docid": "ssoar-d3643"
+    }, 
+    {
+      "site-ranking": "ssoar-d3641", 
+      "docid": "ssoar-d426"
+    }, 
+    {
+      "site-ranking": "ssoar-d426", 
+      "docid": "ssoar-d3640"
+    }, 
+    {
+      "site-ranking": "ssoar-d3640", 
+      "docid": "ssoar-d3642"
+    }, 
+    {
+      "site-ranking": "ssoar-d3643", 
+      "docid": "ssoar-d3641"
+    }, 
+    {
+      "site-ranking": "ssoar-d3642", 
+      "docid": "ssoar-d1335"
+    }
+  ], 
+  "runid": "css-solr", 
+  "qid": "ssoar-q52"
+}
