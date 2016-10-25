@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 0, 
+      "title": "M2d2: A formal data model for ids alert correlation", 
+      "ranks": 0, 
+      "docid": "citeseerx-d9294"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 1, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applications Of Circumscription To Formalizing Common Sense Knowledge", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Security", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 5, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 6, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Integration: A Theoretical Perspective", 
+      "ranks": 7, 
+      "docid": "citeseerx-d39"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inductive-Data-Type Systems", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4179"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On understanding types, data abstraction, and polymorphism", 
+      "ranks": 9, 
+      "docid": "citeseerx-d570"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Synchronous data flow", 
+      "ranks": 10, 
+      "docid": "citeseerx-d804"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 11, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 12, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Combining labeled and unlabeled data with co-training", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2901"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics", 
+      "ranks": 14, 
+      "docid": "citeseerx-d6375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maximum likelihood from incomplete data via the EM algorithm", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3128"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Bayesian method for the induction of probabilistic networks from data", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 17, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning probabilistic relational models", 
+      "ranks": 18, 
+      "docid": "citeseerx-d803"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model Theory", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3431"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Bayesian networks: The combination of knowledge and statistical data", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2349"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 22, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An intrusion-detection model", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The eyes have it: A task by data type taxonomy for information visualizations", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2958"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Language Modeling Approach to Information Retrieval", 
+      "ranks": 25, 
+      "docid": "citeseerx-d6985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling Term Structures of Defaultable Bonds", 
+      "ranks": 26, 
+      "docid": "citeseerx-d484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hidden Markov models in computational biology: applications to protein modeling", 
+      "ranks": 27, 
+      "docid": "citeseerx-d996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Itemset Counting and Implication Rules for Market Basket Data", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1078"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 31, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatio-temporal energy models for the Perception of Motion", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2287"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals", 
+      "ranks": 33, 
+      "docid": "citeseerx-d596"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Plenoptic Modeling: An Image-Based Rendering System", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1604"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 35, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Symbolic Model Checking: 10^20 States and Beyond", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on hidden Markov models and selected applications in speech recognition", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Heteroskedasticity-Consistent Covariance Matrix Estimator And A Direct Test For Heteroskedasticity", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Linear models and empirical Bayes methods for assessing differential expression in microarray experiments", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2304"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical exchange rate models of the Seventies: do they fit out of sample?", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1029"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model selection and estimation in regression with grouped variables", 
+      "ranks": 42, 
+      "docid": "citeseerx-d9322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Matching words and pictures", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1134"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Irrelevant Features and the Subset Selection Problem", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2963"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From SHIQ and RDF to OWL: The Making of a Web Ontology Language", 
+      "ranks": 45, 
+      "docid": "citeseerx-d11"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling and simulation of genetic regulatory systems: A literature review", 
+      "ranks": 46, 
+      "docid": "citeseerx-d3157"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Biological sequence analysis: probabilistic models of proteins and nucleic acids. Cambridge Univ", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4899"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic similarity based on corpus statistics and lexical taxonomy", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis, Modeling and Generation of Self-Similar VBR Video Traffic", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 50, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 51, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A semantics of multiple inheritance", 
+      "ranks": 53, 
+      "docid": "citeseerx-d548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Induction of Decision Trees", 
+      "ranks": 54, 
+      "docid": "citeseerx-d3699"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 56, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 57, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probabilistic Principal Component Analysis", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6393"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bayesian Interpolation", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2427"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Sense of Self for Unix Processes", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mining Sequential Patterns", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1671"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using information content to evaluate semantic similarity in a taxonomy", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2991"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Tutorial on Visual Servo Control", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 64, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparing Predictive Accuracy", 
+      "ranks": 65, 
+      "docid": "citeseerx-d6341"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 66, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1076"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generic Schema Matching with Cupid", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Independent Component Analysis", 
+      "ranks": 71, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Knowledge acquisition via incremental conceptual clustering", 
+      "ranks": 72, 
+      "docid": "citeseerx-d777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The TSIMMIS Project: Integration of Heterogeneous Information Sources", 
+      "ranks": 74, 
+      "docid": "citeseerx-d622"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 75, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pictorial Structures for Object Recognition", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1826"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 77, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inducing Features of Random Fields", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4586"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Method for Solving Hard Satisfiability Problems", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4174"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Approaches to Automatic Schema Matching", 
+      "ranks": 80, 
+      "docid": "citeseerx-d32"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scalable Application Layer Multicast", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3538"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Comparative Analysis of Methodologies for Database Schema Integration", 
+      "ranks": 82, 
+      "docid": "citeseerx-d604"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Iterative point matching for registration of free-form curves and surfaces", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The link-prediction problem for social networks", 
+      "ranks": 84, 
+      "docid": "citeseerx-d725"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 86, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 88, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 89, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 90, 
+      "docid": "citeseerx-d298"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Preparation for Mining World Wide Web Browsing Patterns", 
+      "ranks": 91, 
+      "docid": "citeseerx-d391"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maximizing the Spread of Influence Through a Social Network", 
+      "ranks": 92, 
+      "docid": "citeseerx-d730"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Information-Theoretic Definition of Similarity", 
+      "ranks": 93, 
+      "docid": "citeseerx-d50"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hierarchical mixtures of experts and the EM algorithm", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 95, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficiently computing static single assignment form and the control dependence graph", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 97, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 98, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1777"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q190"
+}

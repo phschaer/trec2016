@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4450, 
+      "title": "Convex Analysis", 
+      "ranks": 94, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 3231, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 73, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 20, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2441, 
+      "title": "Endogenous technological change", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1352"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 71, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2331, 
+      "title": "Noncommutative Geometry", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1727"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 8, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 2076, 
+      "title": "GPSR: Greedy perimeter stateless routing for wireless networks", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1105"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 86, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2050, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 80, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 1998, 
+      "title": "Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3481"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Independent Component Analysis", 
+      "ranks": 79, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 41, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1826, 
+      "title": "Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3489"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 33, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1670, 
+      "title": "Intelligence Without Representation", 
+      "ranks": 47, 
+      "docid": "citeseerx-d669"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 82, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 76, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 43, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1368, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 1327, 
+      "title": "An information-maximization approach to blind separation and blind deconvolution", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2311"
+    }, 
+    {
+      "citeBy": 1145, 
+      "title": "Separation of ownership and control", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 68, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 56, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1096, 
+      "title": "Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4564"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 49, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 986, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 42, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 30, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "SPINS: Security Protocols for Sensor Networks", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2361"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 93, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 52, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 930, 
+      "title": "Alignment by Maximization of Mutual Information", 
+      "ranks": 54, 
+      "docid": "citeseerx-d4087"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 37, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 98, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 97, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 862, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 855, 
+      "title": "Overview of the H.264/AVC Video Coding Standard", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2302"
+    }, 
+    {
+      "citeBy": 842, 
+      "title": "Visual reconstruction", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2306"
+    }, 
+    {
+      "citeBy": 814, 
+      "title": "Equation-based congestion control for unicast applications", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1081"
+    }, 
+    {
+      "citeBy": 775, 
+      "title": "DART: Directed automated random testing", 
+      "ranks": 19, 
+      "docid": "citeseerx-d653"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Quantization", 
+      "ranks": 67, 
+      "docid": "citeseerx-d339"
+    }, 
+    {
+      "citeBy": 781, 
+      "title": "The Esterel Synchronous Programming Language: Design, Semantics, Implementation", 
+      "ranks": 64, 
+      "docid": "citeseerx-d555"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 724, 
+      "title": "A case study of open source software development: the Apache server", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1052"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "The Lorel Query Language for Semistructured Data", 
+      "ranks": 22, 
+      "docid": "citeseerx-d566"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "The provision of incentives in firms", 
+      "ranks": 45, 
+      "docid": "citeseerx-d758"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 16, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Light Linear Logic", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6460"
+    }, 
+    {
+      "citeBy": 720, 
+      "title": "Some studies in machine learning using the game of Checkers", 
+      "ranks": 34, 
+      "docid": "citeseerx-d727"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 4, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 702, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 50, 
+      "docid": "citeseerx-d298"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "String theory and noncommutative geometry", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6459"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "Illusion and well-being: A social psychological perspective on mental health", 
+      "ranks": 31, 
+      "docid": "citeseerx-d3430"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 58, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 65, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "Comparison of discrimination methods for the classification of tumors using gene expression data", 
+      "ranks": 23, 
+      "docid": "citeseerx-d474"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Cache memories", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2272"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 66, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 611, 
+      "title": "Controlled and automatic human information processing", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1016"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 63, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 15, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "A Model of Investor Sentiment", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1033"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Next Century Challenges: Mobile Networking for “Smart Dust”", 
+      "ranks": 32, 
+      "docid": "citeseerx-d807"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 88, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "Model Checking Programs", 
+      "ranks": 81, 
+      "docid": "citeseerx-d688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance Limitations and Self-Sensing Magnetic Bearings", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robustness of Self-Sensing Magnetic Bearing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6457"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self--Sensing Magnetic Bearings Using Parameter Estimation", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6458"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 9, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Directed Diffusion for Wireless Sensor Networking", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2271"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The &quot;Independent Components&quot; of Natural Scenes are Edge Filters", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2412"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 30, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 56, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 59, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 61, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 63, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determinants of corporate borrowing", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 68, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 79, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 86, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 89, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 90, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prospect theory: An analysis of decisions under risk", 
+      "ranks": 92, 
+      "docid": "citeseerx-d469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parental Investment and Sexual Selection", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Nonparametric Regression", 
+      "ranks": 94, 
+      "docid": "citeseerx-d435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Logic", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6481"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The sequence of the human genome", 
+      "ranks": 97, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 98, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 99, 
+      "docid": "citeseerx-d483"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q157"
+}

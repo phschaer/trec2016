@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 715, 
+      "title": "Above the Clouds: A Berkeley View of Cloud Computing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d349"
+    }, 
+    {
+      "citeBy": 704, 
+      "title": "What is Twitter, a Social Network or a News Media?", 
+      "ranks": 2, 
+      "docid": "citeseerx-d552"
+    }, 
+    {
+      "citeBy": 578, 
+      "title": "Social Network Sites: A Definition A History of Social Network Sites Previous Scholarship", 
+      "ranks": 1, 
+      "docid": "citeseerx-d553"
+    }, 
+    {
+      "citeBy": 487, 
+      "title": "Cloud Computing and Emerging IT Platforms: Vision, Hype, and Reality for Delivering Computing as the 5th Utility", 
+      "ranks": 4, 
+      "docid": "citeseerx-d465"
+    }, 
+    {
+      "citeBy": 478, 
+      "title": "Community detection in graphs", 
+      "ranks": 5, 
+      "docid": "citeseerx-d571"
+    }, 
+    {
+      "citeBy": 394, 
+      "title": "The benefits of Facebook “friends”: Social capital and college students’ use of online social network sites", 
+      "ranks": 3, 
+      "docid": "citeseerx-d554"
+    }, 
+    {
+      "citeBy": 418, 
+      "title": "Group formation in large social networks: membership, growth, and evolution", 
+      "ranks": 6, 
+      "docid": "citeseerx-d557"
+    }, 
+    {
+      "citeBy": 377, 
+      "title": "Fast unfolding of communities in large networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d677"
+    }, 
+    {
+      "citeBy": 205, 
+      "title": "Imagined communities: Awareness, information sharing, and privacy on the Facebook", 
+      "ranks": 8, 
+      "docid": "citeseerx-d559"
+    }, 
+    {
+      "citeBy": 147, 
+      "title": "On the Evolution of User Interaction in Facebook", 
+      "ranks": 9, 
+      "docid": "citeseerx-d560"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FUNDRAISING WITH FACEBOOK", 
+      "ranks": 8, 
+      "docid": "citeseerx-d562"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy and Facebook", 
+      "ranks": 9, 
+      "docid": "citeseerx-d563"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Families on Facebook", 
+      "ranks": 10, 
+      "docid": "citeseerx-d565"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An experiment on Facebook", 
+      "ranks": 11, 
+      "docid": "citeseerx-d567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PLEASE SCROLL DOWN FOR ARTICLETo Facebook, or not to Facebook To Facebook, or not to Facebook", 
+      "ranks": 12, 
+      "docid": "citeseerx-d569"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "en Facebook", 
+      "ranks": 14, 
+      "docid": "citeseerx-d572"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kids on Facebook", 
+      "ranks": 15, 
+      "docid": "citeseerx-d573"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Researcher at Facebook and will", 
+      "ranks": 16, 
+      "docid": "citeseerx-d574"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Changes in use and perception of Facebook", 
+      "ranks": 17, 
+      "docid": "citeseerx-d576"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A familiar Face(book): Profile elements as signals in an online social network", 
+      "ranks": 18, 
+      "docid": "citeseerx-d578"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Looking at, looking up or keeping up with people?: Motives and use of Facebook", 
+      "ranks": 19, 
+      "docid": "citeseerx-d579"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook: Threats to Privacy", 
+      "ranks": 20, 
+      "docid": "citeseerx-d581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scaling Memcached at Facebook", 
+      "ranks": 21, 
+      "docid": "citeseerx-d583"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An investigation into Facebook friend grouping", 
+      "ranks": 22, 
+      "docid": "citeseerx-d585"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Student Socialization in the Age of Facebook", 
+      "ranks": 23, 
+      "docid": "citeseerx-d588"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Structure of Facebook Networks", 
+      "ranks": 24, 
+      "docid": "citeseerx-d589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Personality of Popular Facebook Users", 
+      "ranks": 25, 
+      "docid": "citeseerx-d591"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook-to-Facebook: Online Communication and Economic Cooperation∗", 
+      "ranks": 26, 
+      "docid": "citeseerx-d592"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Personality and Patterns of Facebook Usage", 
+      "ranks": 27, 
+      "docid": "citeseerx-d594"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ContractingtheFacebookAPI ∗", 
+      "ranks": 28, 
+      "docid": "citeseerx-d595"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving MapReduce Performance in Heterogeneous Environments", 
+      "ranks": 29, 
+      "docid": "citeseerx-d597"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Loosing ‘friends’ on Facebook", 
+      "ranks": 30, 
+      "docid": "citeseerx-d599"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enhance “Book Learning ” with Facebook", 
+      "ranks": 31, 
+      "docid": "citeseerx-d600"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visualization of Social Interactions in Facebook", 
+      "ranks": 32, 
+      "docid": "citeseerx-d601"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conversations and Friendships in Facebook", 
+      "ranks": 33, 
+      "docid": "citeseerx-d602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PRIVACY CONCERNS IN FACEBOOK SITE", 
+      "ranks": 34, 
+      "docid": "citeseerx-d603"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook meets the virtualized enterprise", 
+      "ranks": 35, 
+      "docid": "citeseerx-d605"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analyzing the Facebook Friendship Graph", 
+      "ranks": 36, 
+      "docid": "citeseerx-d607"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IDENTITY NEGOTIATION ON FACEBOOK.COM by", 
+      "ranks": 37, 
+      "docid": "citeseerx-d608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Student athletes on Facebook", 
+      "ranks": 38, 
+      "docid": "citeseerx-d610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Translating Facebook into Endangered Languages", 
+      "ranks": 39, 
+      "docid": "citeseerx-d611"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Azureus Plugin for Facebook Integration", 
+      "ranks": 40, 
+      "docid": "citeseerx-d613"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Places to Go: Facebook", 
+      "ranks": 41, 
+      "docid": "citeseerx-d615"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scuba: Diving into Data at Facebook", 
+      "ranks": 42, 
+      "docid": "citeseerx-d617"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emotional Experience on Facebook Site", 
+      "ranks": 43, 
+      "docid": "citeseerx-d618"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Friend Suggestion", 
+      "ranks": 44, 
+      "docid": "citeseerx-d620"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unbiased sampling of facebook", 
+      "ranks": 45, 
+      "docid": "citeseerx-d621"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Censorship on Facebook", 
+      "ranks": 46, 
+      "docid": "citeseerx-d623"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Issue challenging facebook", 
+      "ranks": 47, 
+      "docid": "citeseerx-d624"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Restaurant Recommendation for Facebook Users", 
+      "ranks": 48, 
+      "docid": "citeseerx-d626"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Analysis of Facebook Photo Caching", 
+      "ranks": 49, 
+      "docid": "citeseerx-d628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Data Infrastructure Team", 
+      "ranks": 50, 
+      "docid": "citeseerx-d629"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Data Infrastructure Team", 
+      "ranks": 51, 
+      "docid": "citeseerx-d630"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy and Awareness on Facebook.com", 
+      "ranks": 52, 
+      "docid": "citeseerx-d632"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook in Education: Lessons", 
+      "ranks": 53, 
+      "docid": "citeseerx-d633"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Successful Facebook Marketing for Events", 
+      "ranks": 54, 
+      "docid": "citeseerx-d634"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reporting on the Reporters: Facebook and Journalists", 
+      "ranks": 55, 
+      "docid": "citeseerx-d636"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook: Influence and Identity i", 
+      "ranks": 56, 
+      "docid": "citeseerx-d637"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Investigation into the Problematic Use of Facebook", 
+      "ranks": 57, 
+      "docid": "citeseerx-d639"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "New services such as Facebook Platform,", 
+      "ranks": 58, 
+      "docid": "citeseerx-d641"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identity construction on Facebook: Digital", 
+      "ranks": 59, 
+      "docid": "citeseerx-d642"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Perceptions of Privacy on Facebook", 
+      "ranks": 60, 
+      "docid": "citeseerx-d643"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Finding similar users in Facebook", 
+      "ranks": 61, 
+      "docid": "citeseerx-d645"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The “Facebook ” Effect Mashing Congress", 
+      "ranks": 62, 
+      "docid": "citeseerx-d646"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook YouTube Corporate", 
+      "ranks": 63, 
+      "docid": "citeseerx-d647"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 64, 
+      "docid": "citeseerx-d648"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 65, 
+      "docid": "citeseerx-d650"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 66, 
+      "docid": "citeseerx-d651"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 67, 
+      "docid": "citeseerx-d652"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Goes to the Doctor", 
+      "ranks": 68, 
+      "docid": "citeseerx-d654"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 69, 
+      "docid": "citeseerx-d656"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 70, 
+      "docid": "citeseerx-d658"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 71, 
+      "docid": "citeseerx-d660"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 72, 
+      "docid": "citeseerx-d662"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 73, 
+      "docid": "citeseerx-d665"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 74, 
+      "docid": "citeseerx-d666"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 75, 
+      "docid": "citeseerx-d668"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Follow Education Review on Facebook", 
+      "ranks": 76, 
+      "docid": "citeseerx-d670"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Number of", 
+      "ranks": 77, 
+      "docid": "citeseerx-d672"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Twitter Website", 
+      "ranks": 78, 
+      "docid": "citeseerx-d674"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network-level footprints of Facebook applications", 
+      "ranks": 79, 
+      "docid": "citeseerx-d676"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language", 
+      "ranks": 81, 
+      "docid": "citeseerx-d679"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook and Privacy: It’s Complicated", 
+      "ranks": 82, 
+      "docid": "citeseerx-d680"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatially bounded online social networks and social capital: the role of Facebook", 
+      "ranks": 83, 
+      "docid": "citeseerx-d682"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gesundheit! Modeling Contagion through Facebook News Feed", 
+      "ranks": 84, 
+      "docid": "citeseerx-d683"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Calling All Facebook Friends: Exploring Requests for Help on Facebook", 
+      "ranks": 85, 
+      "docid": "citeseerx-d684"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social capital on Facebook: Differentiating uses and users", 
+      "ranks": 86, 
+      "docid": "citeseerx-d687"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identity Management: Multiple Presentations of Self in Facebook", 
+      "ranks": 87, 
+      "docid": "citeseerx-d689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Opening Facebook: How to Use Facebook in the College Classroom", 
+      "ranks": 88, 
+      "docid": "citeseerx-d691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACEBOOK’S POTENTIAL IN THE CLASSROOM 1 FACEBOOK’S POTENTIAL IN THE CLASSROOM", 
+      "ranks": 89, 
+      "docid": "citeseerx-d692"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Poster: Privacy Attitudes of Facebook Users", 
+      "ranks": 90, 
+      "docid": "citeseerx-d694"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE FACEBOOK PROJECT THE MISSING BOX: THE RACIAL POLITICS BEHIND THE FACEBOOK INTERFACE", 
+      "ranks": 91, 
+      "docid": "citeseerx-d695"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INFLUENCE OF EXPOSURE TO FACEBOOK ON SELF- ESTEEM", 
+      "ranks": 92, 
+      "docid": "citeseerx-d696"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identifying Social Capital in the Facebook Interface", 
+      "ranks": 93, 
+      "docid": "citeseerx-d697"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Companies on Facebook and Twitter. Current situation and", 
+      "ranks": 94, 
+      "docid": "citeseerx-d699"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Case of Coopetition: Facebook and Decentralized Alternatives", 
+      "ranks": 95, 
+      "docid": "citeseerx-d701"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RELATIONSHIP OF FACEBOOK USAGE TO TEAM IDENTIFICATION by", 
+      "ranks": 96, 
+      "docid": "citeseerx-d703"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Extraction and Analysis of Facebook Friendship Relations", 
+      "ranks": 97, 
+      "docid": "citeseerx-d705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inference Channels in the Facebook Social Network", 
+      "ranks": 98, 
+      "docid": "citeseerx-d706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring Centraility of Facebook Comments1", 
+      "ranks": 99, 
+      "docid": "citeseerx-d707"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q4"
+}

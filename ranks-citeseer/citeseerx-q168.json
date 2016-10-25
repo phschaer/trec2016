@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 7891, 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1808"
+    }, 
+    {
+      "citeBy": 6605, 
+      "title": "Gapped Blast and PsiBlast: a new generation of protein database search programs", 
+      "ranks": 7, 
+      "docid": "citeseerx-d530"
+    }, 
+    {
+      "citeBy": 4199, 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2244"
+    }, 
+    {
+      "citeBy": 3022, 
+      "title": "Mining Association Rules between Sets of Items in Large Databases", 
+      "ranks": 18, 
+      "docid": "citeseerx-d359"
+    }, 
+    {
+      "citeBy": 2637, 
+      "title": "R-trees: A Dynamic Index Structure for Spatial Searching", 
+      "ranks": 26, 
+      "docid": "citeseerx-d6621"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 20, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1557, 
+      "title": "Mining Frequent Patterns  without Candidate Generation: A Frequent-Pattern Tree Approach", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1703"
+    }, 
+    {
+      "citeBy": 1250, 
+      "title": "Depth first search and linear graph algorithms", 
+      "ranks": 3, 
+      "docid": "citeseerx-d7339"
+    }, 
+    {
+      "citeBy": 1492, 
+      "title": "Video google: A text retrieval approach to object matching in videos", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1855"
+    }, 
+    {
+      "citeBy": 1292, 
+      "title": "Chaff: Engineering an Efficient SAT Solver", 
+      "ranks": 13, 
+      "docid": "citeseerx-d306"
+    }, 
+    {
+      "citeBy": 1356, 
+      "title": "An Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1050"
+    }, 
+    {
+      "citeBy": 1329, 
+      "title": "Automatic verification of finite-state concurrent systems using temporal logic specifications", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3584"
+    }, 
+    {
+      "citeBy": 1312, 
+      "title": "SCOP, Structural Classification of Proteins Database: Applications to Evaluation of the Effectiveness of Sequence Alignment Methods and Statistics of Protein Structural Data", 
+      "ranks": 56, 
+      "docid": "citeseerx-d535"
+    }, 
+    {
+      "citeBy": 1196, 
+      "title": "The R*-tree: an efficient and robust access method for points and rectangles", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7346"
+    }, 
+    {
+      "citeBy": 1156, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 19, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 1160, 
+      "title": "Federated database systems for managing distributed, heterogeneous, and autonomous databases", 
+      "ranks": 28, 
+      "docid": "citeseerx-d350"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Symbolic Boolean manipulation with ordered binary-decision diagrams", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1072"
+    }, 
+    {
+      "citeBy": 937, 
+      "title": "The program dependence graph and its use in optimization", 
+      "ranks": 30, 
+      "docid": "citeseerx-d234"
+    }, 
+    {
+      "citeBy": 953, 
+      "title": "Scalable Recognition with a Vocabulary Tree", 
+      "ranks": 68, 
+      "docid": "citeseerx-d205"
+    }, 
+    {
+      "citeBy": 917, 
+      "title": "An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions", 
+      "ranks": 54, 
+      "docid": "citeseerx-d248"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 92, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 69, 
+      "docid": "citeseerx-d708"
+    }, 
+    {
+      "citeBy": 783, 
+      "title": "The FF planning system: Fast plan generation through heuristic search", 
+      "ranks": 32, 
+      "docid": "citeseerx-d776"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 586, 
+      "title": "gSpan: Graph-Based Substructure Pattern Mining", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1715"
+    }, 
+    {
+      "citeBy": 759, 
+      "title": "Suffix arrays: A new method for on-line string searches", 
+      "ranks": 38, 
+      "docid": "citeseerx-d717"
+    }, 
+    {
+      "citeBy": 748, 
+      "title": "Markov Logic Networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "View-Based and Modular Eigenspaces for Face Recognition", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1797"
+    }, 
+    {
+      "citeBy": 723, 
+      "title": "VisualSEEk: a fully automated content-based image query system", 
+      "ranks": 71, 
+      "docid": "citeseerx-d457"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "M-tree: An Efficient Access Method for Similarity Search in Metric Spaces", 
+      "ranks": 6, 
+      "docid": "citeseerx-d693"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Learning generative visual models from few training examples: an incremental Bayesian approach tested on 101 object categories", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6968"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "Multidimensional Access Methods", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5401"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 75, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 661, 
+      "title": "The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1782"
+    }, 
+    {
+      "citeBy": 638, 
+      "title": "Using Linear Algebra for Intelligent Information Retrieval", 
+      "ranks": 94, 
+      "docid": "citeseerx-d733"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 17, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "An evaluation of statistical approaches to text categorization", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3566"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "BIRCH: an efficient data clustering method for very large databases", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2451"
+    }, 
+    {
+      "citeBy": 559, 
+      "title": "Similarity search in high dimensions via hashing", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2134"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "Focused crawling: a new approach to topic-specific Web resource discovery", 
+      "ranks": 50, 
+      "docid": "citeseerx-d289"
+    }, 
+    {
+      "citeBy": 607, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Hidden Markov models in computational biology: applications to protein modeling", 
+      "ranks": 77, 
+      "docid": "citeseerx-d996"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases", 
+      "ranks": 41, 
+      "docid": "citeseerx-d245"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Learning probabilistic relational models", 
+      "ranks": 89, 
+      "docid": "citeseerx-d803"
+    }, 
+    {
+      "citeBy": 568, 
+      "title": "Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search", 
+      "ranks": 40, 
+      "docid": "citeseerx-d364"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Implementing data cubes efficiently", 
+      "ranks": 11, 
+      "docid": "citeseerx-d268"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 66, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 546, 
+      "title": "Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching", 
+      "ranks": 46, 
+      "docid": "citeseerx-d75"
+    }, 
+    {
+      "citeBy": 547, 
+      "title": "Accessing Nearby Copies of Replicated Objects in a Distributed Environment", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7352"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Photobook: Content-Based Manipulation of Image Databases", 
+      "ranks": 22, 
+      "docid": "citeseerx-d976"
+    }, 
+    {
+      "citeBy": 522, 
+      "title": "Secure Group Communications Using Key Graphs", 
+      "ranks": 31, 
+      "docid": "citeseerx-d7131"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "Nested Transactions: An Approach to Reliable Distributed Computing", 
+      "ranks": 45, 
+      "docid": "citeseerx-d7348"
+    }, 
+    {
+      "citeBy": 479, 
+      "title": "Querying object-oriented databases", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7345"
+    }, 
+    {
+      "citeBy": 38, 
+      "title": "Gstring: A novel approach for efficient search in graph databases", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7336"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Graph-Based Image Segmentation", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5829"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient similarity search in sequence databases", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7338"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tabu Search", 
+      "ranks": 4, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Planning Through Planning Graph Analysis", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1084"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficiently computing static single assignment form and the control dependence graph", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 15, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Framework for Dynamic Graph Drawing", 
+      "ranks": 16, 
+      "docid": "citeseerx-d317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CURE: An Efficient Clustering Algorithm for Large Data sets", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Pfam Protein Families Database", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient and Effective Clustering Methods for Spatial Data Mining", 
+      "ranks": 22, 
+      "docid": "citeseerx-d584"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&quot;GrabCut” -- interactive foreground extraction using iterated graph cuts", 
+      "ranks": 26, 
+      "docid": "citeseerx-d290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A density-based algorithm for discovering clusters in large spatial databases with noise", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient semantic matching", 
+      "ranks": 30, 
+      "docid": "citeseerx-d36"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Graph-based algorithms for Boolean function manipulation", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1055"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An algorithm for drawing general undirected graphs", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 36, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient and Effective Querying by Image Content", 
+      "ranks": 39, 
+      "docid": "citeseerx-d356"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Software-Based Fault Isolation", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 41, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A greedy randomized adaptive search procedure for the 2-partition problem", 
+      "ranks": 43, 
+      "docid": "citeseerx-d309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ant Colony System: A cooperative learning approach to the traveling salesman problem", 
+      "ranks": 44, 
+      "docid": "citeseerx-d259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database resources of the National Center for Biotechnology Information", 
+      "ranks": 48, 
+      "docid": "citeseerx-d400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A fast and high quality multilevel scheme for partitioning irregular graphs", 
+      "ranks": 49, 
+      "docid": "citeseerx-d6311"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A new approach to the maximum flow problem", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2953"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Approaches to Automatic Schema Matching", 
+      "ranks": 57, 
+      "docid": "citeseerx-d32"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Language Modeling Approach to Information Retrieval", 
+      "ranks": 61, 
+      "docid": "citeseerx-d6985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Internet Network Distance with Coordinates-Based Approaches", 
+      "ranks": 63, 
+      "docid": "citeseerx-d443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Variants of the ICP Algorithm", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7347"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiobjective evolutionary algorithms: a comparative case study and the strength pareto approach", 
+      "ranks": 66, 
+      "docid": "citeseerx-d201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Semi-Structured Data", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4277"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Query Evaluation on Probabilistic Databases", 
+      "ranks": 79, 
+      "docid": "citeseerx-d120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Method for Solving Hard Satisfiability Problems", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4174"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nearest Neighbor Queries", 
+      "ranks": 87, 
+      "docid": "citeseerx-d6446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Bayesian method for the induction of probabilistic networks from data", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LLVM: A compilation framework for lifelong program analysis &amp; transformation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d333"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 95, 
+      "docid": "citeseerx-d236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 96, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Moses: Open Source Toolkit for Statistical Machine Translation”. ACL-2007", 
+      "ranks": 97, 
+      "docid": "citeseerx-d242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Color indexing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A bayesian hierarchical model for learning natural scene categories", 
+      "ranks": 99, 
+      "docid": "citeseerx-d252"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q168"
+}

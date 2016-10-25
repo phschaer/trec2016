@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1773, 
+      "title": "GMRES: A generalized minimal residual algorithm for solving nonsymmetric linear systems", 
+      "ranks": 21, 
+      "docid": "citeseerx-d6445"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 35, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1400, 
+      "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms", 
+      "ranks": 24, 
+      "docid": "citeseerx-d410"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 36, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1142, 
+      "title": "On the statistical analysis of dirty pictures", 
+      "ranks": 22, 
+      "docid": "citeseerx-d4889"
+    }, 
+    {
+      "citeBy": 1076, 
+      "title": "Fronts propagating with curvature dependent speed: algorithms based on Hamilton–Jacobi formulations", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4274"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 27, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "A Morphable Model For The Synthesis Of 3D Faces", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2858"
+    }, 
+    {
+      "citeBy": 1001, 
+      "title": "AN INTRODUCTION TO VARIATIONAL METHODS FOR GRAPHICAL MODELS", 
+      "ranks": 31, 
+      "docid": "citeseerx-d970"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 3, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 950, 
+      "title": "A Fast Algorithm for Particle Simulations", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1095"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 40, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 41, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 758, 
+      "title": "Shape modeling with front propagation: A level set approach", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4692"
+    }, 
+    {
+      "citeBy": 736, 
+      "title": "Plenoptic Modeling: An Image-Based Rendering System", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1604"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2313"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "Efficient Variants of the ICP Algorithm", 
+      "ranks": 10, 
+      "docid": "citeseerx-d7347"
+    }, 
+    {
+      "citeBy": 659, 
+      "title": "Parallel Numerical Linear Algebra", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1593"
+    }, 
+    {
+      "citeBy": 520, 
+      "title": "Implicit Fairing of Irregular Meshes using Diffusion and Curvature Flow", 
+      "ranks": 4, 
+      "docid": "citeseerx-d8842"
+    }, 
+    {
+      "citeBy": 548, 
+      "title": "Large steps in cloth simulation", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2450"
+    }, 
+    {
+      "citeBy": 590, 
+      "title": "AFNI: software for analysis and visualization of functional magnetic resonance neuroimages", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8847"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Multivariate adaptive regression splines", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1106"
+    }, 
+    {
+      "citeBy": 539, 
+      "title": "Nonrigid registration using free-form deformations: Application to breast MR images", 
+      "ranks": 16, 
+      "docid": "citeseerx-d8541"
+    }, 
+    {
+      "citeBy": 537, 
+      "title": "Stable Fluids", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2632"
+    }, 
+    {
+      "citeBy": 498, 
+      "title": "Coverage Control for Mobile Sensing Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3666"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 39, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 513, 
+      "title": "Face Recognition Based on Fitting a 3D Morphable Model", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2644"
+    }, 
+    {
+      "citeBy": 512, 
+      "title": "FAST VOLUME RENDERING USING A SHEAR-WARP FACTORIZATION OF THE VIEWING TRANSFORMATION", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1150"
+    }, 
+    {
+      "citeBy": 480, 
+      "title": "Reconstruction and Representation of 3D Objects with Radial Basis Functions", 
+      "ranks": 12, 
+      "docid": "citeseerx-d8845"
+    }, 
+    {
+      "citeBy": 488, 
+      "title": "A survey of general-purpose computation on graphics hardware", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2663"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Cortical surface-based analysis II: Inflation, flattening, and a surface-based coordinate system", 
+      "ranks": 44, 
+      "docid": "citeseerx-d8855"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "Identification of programmed cell death in situ via specific labeling of nuclear DNA fragmentation", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3579"
+    }, 
+    {
+      "citeBy": 435, 
+      "title": "Image analogies", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4915"
+    }, 
+    {
+      "citeBy": 431, 
+      "title": "Active Appearance Models Revisited", 
+      "ranks": 48, 
+      "docid": "citeseerx-d8401"
+    }, 
+    {
+      "citeBy": 429, 
+      "title": "The PARSEC benchmark suite: Characterization and architectural implications", 
+      "ranks": 49, 
+      "docid": "citeseerx-d7663"
+    }, 
+    {
+      "citeBy": 410, 
+      "title": "An introduction to the conjugate gradient method without the agonizing pain", 
+      "ranks": 15, 
+      "docid": "citeseerx-d8846"
+    }, 
+    {
+      "citeBy": 426, 
+      "title": "Practical animation of liquids", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2656"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 424, 
+      "title": "Discrete Differential-Geometry Operators for Triangulated 2-Manifolds", 
+      "ranks": 46, 
+      "docid": "citeseerx-d8848"
+    }, 
+    {
+      "citeBy": 405, 
+      "title": "A rapid hierarchical radiosity algorithm", 
+      "ranks": 52, 
+      "docid": "citeseerx-d8849"
+    }, 
+    {
+      "citeBy": 394, 
+      "title": "Unified analysis of discontinuous Galerkin methods for elliptic problems", 
+      "ranks": 55, 
+      "docid": "citeseerx-d8866"
+    }, 
+    {
+      "citeBy": 391, 
+      "title": "A Fast Level Set Method for Propagating Interfaces", 
+      "ranks": 53, 
+      "docid": "citeseerx-d8851"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "Rumor Routing Algorithm for Sensor Networks", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8858"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "Modeling the Interaction of Light Between Diffuse Surfaces", 
+      "ranks": 58, 
+      "docid": "citeseerx-d8853"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "QMR: a Quasi-Minimal Residual Method for Non-Hermitian Linear Systems", 
+      "ranks": 59, 
+      "docid": "citeseerx-d8852"
+    }, 
+    {
+      "citeBy": 379, 
+      "title": "Numerical Solutions of the Euler Equations by Finite Volume Methods Using Runge-Kutta Time-Stepping Schemes", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1181"
+    }, 
+    {
+      "citeBy": 373, 
+      "title": "On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition", 
+      "ranks": 61, 
+      "docid": "citeseerx-d154"
+    }, 
+    {
+      "citeBy": 349, 
+      "title": "Efficient Algorithms for Globally Optimal Trajectories", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8860"
+    }, 
+    {
+      "citeBy": 346, 
+      "title": "Centroidal Voronoi tessellations: Applications and algorithms", 
+      "ranks": 66, 
+      "docid": "citeseerx-d8876"
+    }, 
+    {
+      "citeBy": 343, 
+      "title": "Random walks for image segmentation", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5830"
+    }, 
+    {
+      "citeBy": 337, 
+      "title": "A Flexible Inner-Outer Preconditioned GMRES Algorithm", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8863"
+    }, 
+    {
+      "citeBy": 332, 
+      "title": "Visual Simulation of Smoke", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8870"
+    }, 
+    {
+      "citeBy": 326, 
+      "title": "Natural language and natural selection", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1377"
+    }, 
+    {
+      "citeBy": 325, 
+      "title": "Statistical Models of Appearance for Computer Vision", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2366"
+    }, 
+    {
+      "citeBy": 314, 
+      "title": "A review of algebraic multigrid", 
+      "ranks": 72, 
+      "docid": "citeseerx-d8865"
+    }, 
+    {
+      "citeBy": 312, 
+      "title": "Least Squares Conformal Maps for Automatic Texture Atlas Generation", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1184"
+    }, 
+    {
+      "citeBy": 303, 
+      "title": "SPARSKIT: a basic tool kit for sparse matrix computations - Version 2", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8874"
+    }, 
+    {
+      "citeBy": 302, 
+      "title": "Boundary Finding with Parametrically Deformable Models", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8869"
+    }, 
+    {
+      "citeBy": 299, 
+      "title": "Iterative Methods For Total Variation Denoising", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6603"
+    }, 
+    {
+      "citeBy": 298, 
+      "title": "Functional Phonology -- Formalizing the interactions between articulatory and perceptual drives", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1827"
+    }, 
+    {
+      "citeBy": 293, 
+      "title": "Robust treatment of collisions, contact and friction for cloth animation", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2394"
+    }, 
+    {
+      "citeBy": 289, 
+      "title": "Point Set Surfaces", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8880"
+    }, 
+    {
+      "citeBy": 282, 
+      "title": "Illustrating Smooth Surfaces", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4941"
+    }, 
+    {
+      "citeBy": 279, 
+      "title": "Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4940"
+    }, 
+    {
+      "citeBy": 279, 
+      "title": "The radiance lighting simulation and rendering system", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8882"
+    }, 
+    {
+      "citeBy": 275, 
+      "title": "Sparse matrix solvers on the GPU: conjugate gradients and multigrid", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8856"
+    }, 
+    {
+      "citeBy": 275, 
+      "title": "Generating textures on arbitrary surfaces using reaction-diffusion", 
+      "ranks": 83, 
+      "docid": "citeseerx-d8877"
+    }, 
+    {
+      "citeBy": 274, 
+      "title": "Comprehensible Rendering of 3-D Shapes", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8888"
+    }, 
+    {
+      "citeBy": 264, 
+      "title": "Computing Geodesic Paths on Manifolds", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8887"
+    }, 
+    {
+      "citeBy": 252, 
+      "title": "Multiresolution Signal Processing for Meshes", 
+      "ranks": 56, 
+      "docid": "citeseerx-d8850"
+    }, 
+    {
+      "citeBy": 204, 
+      "title": "Intrinsic Parameterizations of Surface Meshes", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8861"
+    }, 
+    {
+      "citeBy": 142, 
+      "title": "Normal Meshes", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8864"
+    }, 
+    {
+      "citeBy": 139, 
+      "title": "Irradiance Gradients", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8867"
+    }, 
+    {
+      "citeBy": 95, 
+      "title": "Subspace Gradient Domain Mesh Deformation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d8862"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Image vectorization using optimized gradient meshes", 
+      "ranks": 0, 
+      "docid": "citeseerx-d8838"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "Automatic and Topology-Preserving Gradient Mesh Generation for Image Vectorization", 
+      "ranks": 1, 
+      "docid": "citeseerx-d8839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast, Automatic, Topology-Preserving Gradient Mesh Generation for Image Vectorization", 
+      "ranks": 2, 
+      "docid": "citeseerx-d8840"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACCEPTED BY IEEE TRANSACTIONS ON MULTIMEDIA 1 Example-based Color Transfer for Gradient Meshes", 
+      "ranks": 6, 
+      "docid": "citeseerx-d8841"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesh optimization", 
+      "ranks": 6, 
+      "docid": "citeseerx-d8843"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Vectorization using Optimized Gradient Meshes ACM Reference Format", 
+      "ranks": 14, 
+      "docid": "citeseerx-d8844"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics", 
+      "ranks": 22, 
+      "docid": "citeseerx-d6375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Snopt: An SQP Algorithm For Large-Scale Constrained Optimization", 
+      "ranks": 37, 
+      "docid": "citeseerx-d4588"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesh Editing with Poisson-Based Gradient Field Manipulation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d8854"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generalized Alignment", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesh Generation And Optimal Triangulation", 
+      "ranks": 59, 
+      "docid": "citeseerx-d8859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Runge-Kutta discontinuous Galerkin method for conservation laws V: . . .", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "meshes in", 
+      "ranks": 74, 
+      "docid": "citeseerx-d8871"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesh", 
+      "ranks": 75, 
+      "docid": "citeseerx-d8872"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "meshes", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Linear Algebra Operators for GPU Implementation of Numerical Algorithms", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consistent Mesh Parameterizations", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8878"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Training Algorithms for Linear Text Classifiers", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8881"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conjugate Gradient Methods for Toeplitz Systems", 
+      "ranks": 89, 
+      "docid": "citeseerx-d8883"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance of Dynamic Load Balancing Algorithms for Unstructured Mesh Calculations", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "gradient of", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8885"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Skinning Mesh Animations", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the multi-level splitting of finite element spaces", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8892"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Height and gradient from shading", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8893"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q185"
+}

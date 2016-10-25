@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1673, 
+      "title": "The C++ Programming Language", 
+      "ranks": 8, 
+      "docid": "citeseerx-d655"
+    }, 
+    {
+      "citeBy": 1211, 
+      "title": "ATTENTION,  INTENTIONS,  AND THE STRUCTURE OF DISCOURSE", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3443"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Symbolic Model Checking: 10^20 States and Beyond", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6454"
+    }, 
+    {
+      "citeBy": 651, 
+      "title": "Prediction of Protein Secondary Structure at Better than 70% Accuracy", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3022"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Extended Static Checking for Java", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3605"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems", 
+      "ranks": 6, 
+      "docid": "citeseerx-d558"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 7, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 468, 
+      "title": "The inductive approach to verifying cryptographic protocols", 
+      "ranks": 14, 
+      "docid": "citeseerx-d8975"
+    }, 
+    {
+      "citeBy": 417, 
+      "title": "Tropos: An Agent-Oriented Software Development Methodology", 
+      "ranks": 15, 
+      "docid": "citeseerx-d159"
+    }, 
+    {
+      "citeBy": 414, 
+      "title": "Compiler Transformations for High-Performance Computing", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1045"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Mobile Values, New Names, and Secure Communication", 
+      "ranks": 18, 
+      "docid": "citeseerx-d8988"
+    }, 
+    {
+      "citeBy": 339, 
+      "title": "A Formal Approach to Software Architecture", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2356"
+    }, 
+    {
+      "citeBy": 326, 
+      "title": "Aspect-Oriented Programming is Quantification and Obliviousness", 
+      "ranks": 21, 
+      "docid": "citeseerx-d7637"
+    }, 
+    {
+      "citeBy": 304, 
+      "title": "Design Pattern Implementation in Java and AspectJ", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8990"
+    }, 
+    {
+      "citeBy": 291, 
+      "title": "The Open Agent Architecture: A Framework for Building Distributed Software Systems", 
+      "ranks": 33, 
+      "docid": "citeseerx-d8989"
+    }, 
+    {
+      "citeBy": 270, 
+      "title": "Dynamics of Complex Systems", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4100"
+    }, 
+    {
+      "citeBy": 259, 
+      "title": "Structure and Complexity of Relational Queries", 
+      "ranks": 39, 
+      "docid": "citeseerx-d8995"
+    }, 
+    {
+      "citeBy": 259, 
+      "title": "Dialogue act modeling for automatic tagging and recognition of conversational speech", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1861"
+    }, 
+    {
+      "citeBy": 252, 
+      "title": "Coordination Mechanisms: Towards a Conceptual Foundation of CSCW Systems Design", 
+      "ranks": 42, 
+      "docid": "citeseerx-d858"
+    }, 
+    {
+      "citeBy": 243, 
+      "title": "A Pattern Approach to Interaction Design", 
+      "ranks": 41, 
+      "docid": "citeseerx-d9009"
+    }, 
+    {
+      "citeBy": 232, 
+      "title": "On the geometry and cohomology of some simple Shimura varieties", 
+      "ranks": 50, 
+      "docid": "citeseerx-d9017"
+    }, 
+    {
+      "citeBy": 232, 
+      "title": "Transderivational identity: phonological relations between words", 
+      "ranks": 51, 
+      "docid": "citeseerx-d9024"
+    }, 
+    {
+      "citeBy": 230, 
+      "title": "Combinatorial approaches to finding subtle signals in DNA sequences", 
+      "ranks": 47, 
+      "docid": "citeseerx-d9013"
+    }, 
+    {
+      "citeBy": 224, 
+      "title": "Detecting Format String Vulnerabilities with Type Qualifiers", 
+      "ranks": 52, 
+      "docid": "citeseerx-d9011"
+    }, 
+    {
+      "citeBy": 222, 
+      "title": "Control Flow Analysis in Scheme", 
+      "ranks": 53, 
+      "docid": "citeseerx-d9012"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "Adaptive Execution in Complex Dynamic Worlds", 
+      "ranks": 60, 
+      "docid": "citeseerx-d9015"
+    }, 
+    {
+      "citeBy": 210, 
+      "title": "Main memory database systems: An overview", 
+      "ranks": 61, 
+      "docid": "citeseerx-d9028"
+    }, 
+    {
+      "citeBy": 209, 
+      "title": "A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems", 
+      "ranks": 63, 
+      "docid": "citeseerx-d9037"
+    }, 
+    {
+      "citeBy": 207, 
+      "title": "POSITIONAL FAITHFULNESS", 
+      "ranks": 66, 
+      "docid": "citeseerx-d9045"
+    }, 
+    {
+      "citeBy": 205, 
+      "title": "Regular Types for Active Objects", 
+      "ranks": 67, 
+      "docid": "citeseerx-d9022"
+    }, 
+    {
+      "citeBy": 203, 
+      "title": "The Size-Change Principle for Program Termination", 
+      "ranks": 68, 
+      "docid": "citeseerx-d9042"
+    }, 
+    {
+      "citeBy": 201, 
+      "title": "Back to the future: The story of Squeak, A practical Smalltalk written in itself", 
+      "ranks": 69, 
+      "docid": "citeseerx-d9043"
+    }, 
+    {
+      "citeBy": 189, 
+      "title": "Word Sense Disambiguation Using Conceptual Density", 
+      "ranks": 90, 
+      "docid": "citeseerx-d9048"
+    }, 
+    {
+      "citeBy": 183, 
+      "title": "D: A LANGUAGE FRAMEWORK FOR DISTRIBUTED PROGRAMMING", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1425"
+    }, 
+    {
+      "citeBy": 182, 
+      "title": "PolyP - a polytypic programming language extension", 
+      "ranks": 92, 
+      "docid": "citeseerx-d9044"
+    }, 
+    {
+      "citeBy": 175, 
+      "title": "Decoupled Access/Execute Computer Architectures", 
+      "ranks": 96, 
+      "docid": "citeseerx-d9049"
+    }, 
+    {
+      "citeBy": 175, 
+      "title": "The exodus optimizer generator", 
+      "ranks": 98, 
+      "docid": "citeseerx-d9050"
+    }, 
+    {
+      "citeBy": 141, 
+      "title": "A C++ implementation of CLP", 
+      "ranks": 97, 
+      "docid": "citeseerx-d9046"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Type Inference for Recursively Constrained Types and its Application to OOP", 
+      "ranks": 1, 
+      "docid": "citeseerx-d8971"
+    }, 
+    {
+      "citeBy": 30, 
+      "title": "Inheritance and Synchronization in Concurrent OOP", 
+      "ranks": 20, 
+      "docid": "citeseerx-d8977"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "An Interpretation of Typed OOP in a Language with State", 
+      "ranks": 43, 
+      "docid": "citeseerx-d8996"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Use Of Factor Analysis To Develop Oop Software Complexity Metrics", 
+      "ranks": 64, 
+      "docid": "citeseerx-d9016"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Testing of Object-Oriented Programming Systems (Oops): A Fault-Based Approach", 
+      "ranks": 62, 
+      "docid": "citeseerx-d9014"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Gaining New Fields of Application for OOP: the Parallel Evolutionary Algorithm Case", 
+      "ranks": 2, 
+      "docid": "citeseerx-d8972"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Animated UML as a 3d-illustration for teaching OOP", 
+      "ranks": 79, 
+      "docid": "citeseerx-d9031"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "A Simple Interpretation of OOP in a Language with State", 
+      "ranks": 49, 
+      "docid": "citeseerx-d9002"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Oocp = Oop + C", 
+      "ranks": 22, 
+      "docid": "citeseerx-d8978"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Where oop falls short of hardware verification needs", 
+      "ranks": 44, 
+      "docid": "citeseerx-d8997"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Interaction, Concurrency, and OOP in the Curriculum: a Sophomore Course", 
+      "ranks": 48, 
+      "docid": "citeseerx-d9000"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Getting More Out Of Your Classes: Building Families Of Programs in OOP", 
+      "ranks": 71, 
+      "docid": "citeseerx-d9020"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "SHARING KNOWLEDGE AND BUILDING COMMUNITIES A NARRATIVE OF THE FORMATION, DEVELOPMENT AND SUSTAINABILITY OF OOPS", 
+      "ranks": 83, 
+      "docid": "citeseerx-d9034"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of OOP Type Theory: State, Decidability, Integration", 
+      "ranks": 0, 
+      "docid": "citeseerx-d8970"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Type Inference for Recursively Constrained Abstract Types and its Application to OOP", 
+      "ranks": 3, 
+      "docid": "citeseerx-d8973"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OOP", 
+      "ranks": 4, 
+      "docid": "citeseerx-d8974"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aspect-oriented programming", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of AspectJ", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 14, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Teaching OOP", 
+      "ranks": 17, 
+      "docid": "citeseerx-d8976"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© iSW OOP, C", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8979"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GiGam Java and OOP", 
+      "ranks": 24, 
+      "docid": "citeseerx-d8980"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding OOP Language Support", 
+      "ranks": 25, 
+      "docid": "citeseerx-d8981"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE HUMAN CAPITAL VALUE OF OOP", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8982"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FP + OOP = Haskell", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8983"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops! It Did It Again...", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© iSW OOP, C", 
+      "ranks": 30, 
+      "docid": "citeseerx-d8985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mixing benefits of traditional OOP", 
+      "ranks": 31, 
+      "docid": "citeseerx-d8986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FP + OOP = Haskell", 
+      "ranks": 32, 
+      "docid": "citeseerx-d8987"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "� Design Patterns and OOP design examples", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From OOP to SOP: What Improved?", 
+      "ranks": 36, 
+      "docid": "citeseerx-d8991"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of OOP called SOP (Specialization Oriented", 
+      "ranks": 38, 
+      "docid": "citeseerx-d8993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of OOP called SOP (Specialization Oriented", 
+      "ranks": 39, 
+      "docid": "citeseerx-d8994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Did you validate your ontology? OOPS!", 
+      "ranks": 45, 
+      "docid": "citeseerx-d8998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Case Study on Developing Software Using OOPS", 
+      "ranks": 46, 
+      "docid": "citeseerx-d8999"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IOS Press OOPS! (OntOlogy Pitfall Scanner!):", 
+      "ranks": 48, 
+      "docid": "citeseerx-d9001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OOP: Object-Oriented-Priority for Motion Saliency Maps", 
+      "ranks": 51, 
+      "docid": "citeseerx-d9004"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract A Recipe for More Dynamic OOP:", 
+      "ranks": 54, 
+      "docid": "citeseerx-d9003"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract CS.5 – A Prelude to OOP", 
+      "ranks": 56, 
+      "docid": "citeseerx-d9005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The monadic second-order logic of graphs I. Recognizable sets of Finite Graphs", 
+      "ranks": 56, 
+      "docid": "citeseerx-d9010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1. INTRODUCTION SOME EFFECTIVE OOP EXAMPLES", 
+      "ranks": 57, 
+      "docid": "citeseerx-d9006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transitioning to OOP/Java—A Never Ending Story", 
+      "ranks": 58, 
+      "docid": "citeseerx-d9008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops they did it again! Carbon nanotubes hoax scientists in viability assays", 
+      "ranks": 65, 
+      "docid": "citeseerx-d9018"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Let Numbers Point Students the Way: Address-Based Memory Diagrams for OOP", 
+      "ranks": 70, 
+      "docid": "citeseerx-d9019"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OOPS: An Object-Oriented Particle Simulation Class Library for Distributed Architectures", 
+      "ranks": 70, 
+      "docid": "citeseerx-d9023"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Poet: An OOP Extension to Tcl Supporting Constraints, Persistence, and End-User Modification", 
+      "ranks": 72, 
+      "docid": "citeseerx-d9021"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An OOP Approach for Mesh Generation of Multi-Region Models with NURBS", 
+      "ranks": 73, 
+      "docid": "citeseerx-d9026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Subclassing errors, OOP, and practically checkable rules to prevent them", 
+      "ranks": 74, 
+      "docid": "citeseerx-d9025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops, Something Is Wrong Error Detection and Recovery for Advanced Human-Robot-Interaction", 
+      "ranks": 74, 
+      "docid": "citeseerx-d9027"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Effects of Objects-First and Objects-Late Methods on Achievements of OOP Learners", 
+      "ranks": 77, 
+      "docid": "citeseerx-d9029"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Novel Configuration of Coupled Core Fluxgate Magnetometers: Oops = Good", 
+      "ranks": 78, 
+      "docid": "citeseerx-d9030"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Improved Simulation Modeling Method Using OOP Language Features", 
+      "ranks": 80, 
+      "docid": "citeseerx-d9032"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops: User modeling method for task oriented mobile internet services", 
+      "ranks": 80, 
+      "docid": "citeseerx-d9033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Out-of-Position Occupant Testing (OOPS3 Series)", 
+      "ranks": 84, 
+      "docid": "citeseerx-d9036"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis and Modelling of Spatial Objects to Implement OOP for Spatial Data Generalisation in GIS", 
+      "ranks": 86, 
+      "docid": "citeseerx-d9038"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introductory Game Programming Instruction with OOP- What is required, How is it addressed, and Which", 
+      "ranks": 87, 
+      "docid": "citeseerx-d9039"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops! I cannot do it again: Testing for recursive feasibility in MPC", 
+      "ranks": 87, 
+      "docid": "citeseerx-d9041"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Importance of Inheritance and Interface in OOP Paradigm Measure through Coupling Metrics", 
+      "ranks": 88, 
+      "docid": "citeseerx-d9040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oops, I Did It Again: Mitigating Repeated Access Control Errors on Facebook", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5307"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Composing crosscutting concerns using composition filters", 
+      "ranks": 95, 
+      "docid": "citeseerx-d9047"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A generalized hidden markov model for the recognition of human genes", 
+      "ranks": 99, 
+      "docid": "citeseerx-d9051"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q187"
+}

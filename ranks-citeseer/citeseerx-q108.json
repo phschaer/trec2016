@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4450, 
+      "title": "Convex Analysis", 
+      "ranks": 72, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 3393, 
+      "title": "Graph-based algorithms for Boolean function manipulation", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1055"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 1, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2832, 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "ranks": 39, 
+      "docid": "citeseerx-d586"
+    }, 
+    {
+      "citeBy": 2579, 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1089"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 33, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2364, 
+      "title": "Metaphors We Live By", 
+      "ranks": 45, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 1434, 
+      "title": "Monads for functional programming", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1057"
+    }, 
+    {
+      "citeBy": 1599, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 99, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 90, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1489, 
+      "title": "Information Theory and Statistics", 
+      "ranks": 25, 
+      "docid": "citeseerx-d944"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 24, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 1413, 
+      "title": "Bayes Factors", 
+      "ranks": 38, 
+      "docid": "citeseerx-d755"
+    }, 
+    {
+      "citeBy": 1411, 
+      "title": "Matching pursuits with time-frequency dictionaries", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1112"
+    }, 
+    {
+      "citeBy": 1388, 
+      "title": "Increasing Returns and Economic Geography", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1094"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "The Laplacian Pyramid as a Compact Image Code", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1104"
+    }, 
+    {
+      "citeBy": 1240, 
+      "title": "The Generative Lexicon", 
+      "ranks": 83, 
+      "docid": "citeseerx-d606"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 70, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1156, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 93, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 1145, 
+      "title": "Separation of ownership and control", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 74, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1052, 
+      "title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1076"
+    }, 
+    {
+      "citeBy": 956, 
+      "title": "What energy functions can be minimized via graph cuts", 
+      "ranks": 7, 
+      "docid": "citeseerx-d316"
+    }, 
+    {
+      "citeBy": 1036, 
+      "title": "The Design and Implementation of a Log-Structured File System", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1090"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Symbolic Boolean manipulation with ordered binary-decision diagrams", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1072"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 12, 
+      "docid": "citeseerx-d708"
+    }, 
+    {
+      "citeBy": 899, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 864, 
+      "title": "Adapting to unknown smoothness via wavelet shrinkage", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1061"
+    }, 
+    {
+      "citeBy": 831, 
+      "title": "Sparse coding with an overcomplete basis set: a strategy employed by V1", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1091"
+    }, 
+    {
+      "citeBy": 814, 
+      "title": "Equation-based congestion control for unicast applications", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1081"
+    }, 
+    {
+      "citeBy": 791, 
+      "title": "The strength of weak learnability", 
+      "ranks": 87, 
+      "docid": "citeseerx-d272"
+    }, 
+    {
+      "citeBy": 784, 
+      "title": "Maximizing the Spread of Influence Through a Social Network", 
+      "ranks": 98, 
+      "docid": "citeseerx-d730"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Basic objects in natural categories", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1093"
+    }, 
+    {
+      "citeBy": 703, 
+      "title": "Fast and robust fixed-point algorithms for independent component analysis", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1064"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Keying hash functions for message authentication", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1054"
+    }, 
+    {
+      "citeBy": 695, 
+      "title": "Quantile Regression", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1085"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 58, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Semi-Supervised Learning Literature Survey", 
+      "ranks": 66, 
+      "docid": "citeseerx-d232"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "Some Evidence on the Importance of Sticky Prices", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1101"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 80, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 46, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 537, 
+      "title": "The Plenoptic Function and the Elements of Early Vision", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1060"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1084"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Term Rewriting Systems", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1113"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Multivariate adaptive regression splines", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1106"
+    }, 
+    {
+      "citeBy": 577, 
+      "title": "Points-to Analysis in Almost Linear Time", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1103"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 53, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The dangers of replication and a solution", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1088"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Vivaldi: A Decentralized Network Coordinate System", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1116"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems", 
+      "ranks": 30, 
+      "docid": "citeseerx-d558"
+    }, 
+    {
+      "citeBy": 535, 
+      "title": "Reliable Communication in the Presence of Failures", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1121"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Twin Crises: The Causes of Banking and Balance-of-Payments Problems", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1051"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Functional Data Analysis", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1053"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Short signatures from the Weil pairing", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 14, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A logic of authentication", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1066"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Spatial Logic based on Regions and Connection", 
+      "ranks": 16, 
+      "docid": "citeseerx-d25"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A semantics of multiple inheritance", 
+      "ranks": 17, 
+      "docid": "citeseerx-d548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Volumetric Method for Building Complex Models from Range Images", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Pfam Protein Families Database", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 20, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 28, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1078"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 31, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A training algorithm for optimal margin classifiers", 
+      "ranks": 32, 
+      "docid": "citeseerx-d239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm", 
+      "ranks": 40, 
+      "docid": "citeseerx-d269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Course in Game Theory", 
+      "ranks": 42, 
+      "docid": "citeseerx-d419"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of type polymorphism in programming", 
+      "ranks": 45, 
+      "docid": "citeseerx-d619"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Fast Algorithm for Particle Simulations", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1095"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A simple method for displaying the hydropathic character of a protein", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1097"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A View Of The Em Algorithm That Justifies Incremental, Sparse, And Other Variants", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1099"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 57, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 61, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 62, 
+      "docid": "citeseerx-d236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Markov games as a framework for multi-agent reinforcement learning", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CYC: A Large-Scale Investment in Knowledge Infrastructure", 
+      "ranks": 71, 
+      "docid": "citeseerx-d43"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 73, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Theory of the Learnable", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1118"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VisualSEEk: a fully automated content-based image query system", 
+      "ranks": 79, 
+      "docid": "citeseerx-d457"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Signal Processing Approach To Fair Surface Design", 
+      "ranks": 82, 
+      "docid": "citeseerx-d449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Particle swarm optimization", 
+      "ranks": 86, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Kind of Science", 
+      "ranks": 87, 
+      "docid": "citeseerx-d778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RTP: A Transport Protocol for Real-Time Applications", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ideal spatial adaptation by wavelet shrinkage", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1131"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 91, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lucas-Kanade 20 Years On: A Unifying Framework: Part 3", 
+      "ranks": 92, 
+      "docid": "citeseerx-d313"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 93, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Matching words and pictures", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1134"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An iterative image registration technique with an application to stereo vision", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1137"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 96, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A calculus for cryptographic protocols: The spi calculus", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1143"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed hierarchical processing in the primate cerebral cortex", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1043"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q108"
+}

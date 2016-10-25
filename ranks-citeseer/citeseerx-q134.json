@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 7891, 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1808"
+    }, 
+    {
+      "citeBy": 2911, 
+      "title": "Ad-hoc On-Demand Distance Vector Routing", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2955"
+    }, 
+    {
+      "citeBy": 2862, 
+      "title": "Dynamic source routing in ad hoc wireless networks", 
+      "ranks": 19, 
+      "docid": "citeseerx-d757"
+    }, 
+    {
+      "citeBy": 2914, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 71, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 97, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2357, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 85, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 2297, 
+      "title": "Increasing Returns and Long-Run Growth", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3461"
+    }, 
+    {
+      "citeBy": 2076, 
+      "title": "GPSR: Greedy perimeter stateless routing for wireless networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1105"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement Learning I: Introduction", 
+      "ranks": 5, 
+      "docid": "citeseerx-d267"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1114"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 55, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1670, 
+      "title": "Intelligence Without Representation", 
+      "ranks": 32, 
+      "docid": "citeseerx-d669"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 53, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1519, 
+      "title": "Combining labeled and unlabeled data with co-training", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2901"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 16, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1452, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 96, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 1339, 
+      "title": "Intelligent agents: Theory and practice", 
+      "ranks": 91, 
+      "docid": "citeseerx-d711"
+    }, 
+    {
+      "citeBy": 1180, 
+      "title": "A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d726"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 56, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 39, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 981, 
+      "title": "Mitigating Routing Misbehavior in Mobile Ad Hoc Networks", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2296"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 87, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 75, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 78, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 985, 
+      "title": "Wireless Ad Hoc Networks", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1083"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 31, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 43, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 776, 
+      "title": "Robust Monte Carlo Localization for Mobile Robots", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1616"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 57, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 50, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 903, 
+      "title": "Data Integration: A Theoretical Perspective", 
+      "ranks": 98, 
+      "docid": "citeseerx-d39"
+    }, 
+    {
+      "citeBy": 892, 
+      "title": "Visual categorization with bags of keypoints", 
+      "ranks": 58, 
+      "docid": "citeseerx-d493"
+    }, 
+    {
+      "citeBy": 811, 
+      "title": "Location-Aided Routing (LAR) in mobile ad hoc networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2348"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Context-Aware Computing Applications", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1074"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 68, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 839, 
+      "title": "Ariadne: A secure on-demand routing protocol for ad hoc networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2401"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 88, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "The part-time parliament", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1019"
+    }, 
+    {
+      "citeBy": 798, 
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3427"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "MACAW: Media access protocol for wireless lans", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4077"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 1, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 720, 
+      "title": "Some studies in machine learning using the game of Checkers", 
+      "ranks": 9, 
+      "docid": "citeseerx-d727"
+    }, 
+    {
+      "citeBy": 757, 
+      "title": "Parental Investment and Sexual Selection", 
+      "ranks": 65, 
+      "docid": "citeseerx-d3994"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 10, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 730, 
+      "title": "A Scalable Location Service for Geographic Ad Hoc Routing", 
+      "ranks": 22, 
+      "docid": "citeseerx-d799"
+    }, 
+    {
+      "citeBy": 741, 
+      "title": "Random key predistribution schemes for sensor networks", 
+      "ranks": 84, 
+      "docid": "citeseerx-d754"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 718, 
+      "title": "Is it an Agent, or just a Program?: A Taxonomy for Autonomous Agents", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2757"
+    }, 
+    {
+      "citeBy": 717, 
+      "title": "Knowledge acquisition via incremental conceptual clustering", 
+      "ranks": 48, 
+      "docid": "citeseerx-d777"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Independent component analysis: algorithms and applications", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1721"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 20, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 518, 
+      "title": "Adaptive clustering for mobile wireless networks", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4070"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 99, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 642, 
+      "title": "The Capital Structure Puzzle", 
+      "ranks": 93, 
+      "docid": "citeseerx-d753"
+    }, 
+    {
+      "citeBy": 628, 
+      "title": "Packet Leashes: A Defense against Wormhole Attacks in Wireless Ad Hoc Networks", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1107"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 60, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 581, 
+      "title": "The Context Toolkit: Aiding the Development of Context-Enabled Applications", 
+      "ranks": 54, 
+      "docid": "citeseerx-d593"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d748"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4081"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The dangers of replication and a solution", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1088"
+    }, 
+    {
+      "citeBy": 496, 
+      "title": "Analysis of TCP Performance over Mobile Ad Hoc Networks Part I: Problem Discussion and Analysis of Results", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4088"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Educational Metadata for Mobile Learning", 
+      "ranks": 23, 
+      "docid": "citeseerx-d4072"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Learning", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4066"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 4, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Collaborative Mobile Learning", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adventures in the mobile learning toolbox", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Learning and Handheld Devices in the Classroom", 
+      "ranks": 21, 
+      "docid": "citeseerx-d4074"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile learning in teacher training", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4079"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile learning: a practical guide", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4080"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of AspectJ", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications", 
+      "ranks": 52, 
+      "docid": "citeseerx-d561"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 57, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 59, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 63, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-time american sign language recognition using desk and wearable  computer based video", 
+      "ranks": 68, 
+      "docid": "citeseerx-d749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A High-Throughput Path Metric for Multi-Hop Wireless Routing", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 75, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Evolution of Cooperation", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3468"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Language-Based Information-Flow Security", 
+      "ranks": 84, 
+      "docid": "citeseerx-d673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On limits of wireless communications in a fading environment when using multiple antennas", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Universally composable security: A new paradigm for cryptographic protocols", 
+      "ranks": 87, 
+      "docid": "citeseerx-d598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tabu Search", 
+      "ranks": 88, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet time synchronization: The network time protocol", 
+      "ranks": 89, 
+      "docid": "citeseerx-d760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reliable Multicast Transport Protocol (RMTP)", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Structure of Foreign Trade", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Practical network support for IP traceback", 
+      "ranks": 92, 
+      "docid": "citeseerx-d750"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TAG: a Tiny AGgregation service for ad-hoc sensor networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2316"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 95, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 96, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RTP: A Transport Protocol for Real-Time Applications", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 98, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A calculus for cryptographic protocols: The spi calculus", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1143"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q134"
+}

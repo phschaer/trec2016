@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 898, 
+      "title": "Location Systems for Ubiquitous Computing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d250"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Wireless mesh networks: a survey", 
+      "ranks": 1, 
+      "docid": "citeseerx-d2343"
+    }, 
+    {
+      "citeBy": 319, 
+      "title": "Emerging Frameworks for Tangible User Interfaces", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5651"
+    }, 
+    {
+      "citeBy": 283, 
+      "title": "Security and Privacy Aspects of Low-Cost Radio Frequency Identification Systems", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5650"
+    }, 
+    {
+      "citeBy": 263, 
+      "title": "Bridging Physical and Virtual Worlds with Electronic Tags", 
+      "ranks": 6, 
+      "docid": "citeseerx-d5652"
+    }, 
+    {
+      "citeBy": 272, 
+      "title": "Talking To Strangers: Authentication in Ad-Hoc Wireless Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d5654"
+    }, 
+    {
+      "citeBy": 223, 
+      "title": "The blocker tag: Selective blocking of RFID tags for consumer privacy", 
+      "ranks": 3, 
+      "docid": "citeseerx-d5649"
+    }, 
+    {
+      "citeBy": 256, 
+      "title": "The Design Space of Wireless Sensor Networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1846"
+    }, 
+    {
+      "citeBy": 254, 
+      "title": "Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5666"
+    }, 
+    {
+      "citeBy": 246, 
+      "title": "Time Synchronization in Wireless Sensor Networks", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1835"
+    }, 
+    {
+      "citeBy": 241, 
+      "title": "Inferring activities from interactions with objects", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5682"
+    }, 
+    {
+      "citeBy": 235, 
+      "title": "An Ontology for Context-Aware Pervasive Computing Environments", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5684"
+    }, 
+    {
+      "citeBy": 234, 
+      "title": "The design of the borealis stream processing engine", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5681"
+    }, 
+    {
+      "citeBy": 149, 
+      "title": "Multiple Object Identification with Passive RFID Tags", 
+      "ranks": 7, 
+      "docid": "citeseerx-d5655"
+    }, 
+    {
+      "citeBy": 132, 
+      "title": "Privacy and security in library RFID: issues, practices, and architectures", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5658"
+    }, 
+    {
+      "citeBy": 120, 
+      "title": "Minimalist Cryptography for Low-Cost RFID Tags", 
+      "ranks": 14, 
+      "docid": "citeseerx-d5657"
+    }, 
+    {
+      "citeBy": 103, 
+      "title": "Squealing Euros: Privacy Protection in RFID-Enabled Banknotes", 
+      "ranks": 22, 
+      "docid": "citeseerx-d5662"
+    }, 
+    {
+      "citeBy": 96, 
+      "title": "Mapping and localization with rfid technology", 
+      "ranks": 8, 
+      "docid": "citeseerx-d5653"
+    }, 
+    {
+      "citeBy": 85, 
+      "title": "A scalable, delegatable pseudonym protocol enabling ownership transfer of rfid tags", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5699"
+    }, 
+    {
+      "citeBy": 79, 
+      "title": "Temporal management of RFID data", 
+      "ranks": 11, 
+      "docid": "citeseerx-d5656"
+    }, 
+    {
+      "citeBy": 77, 
+      "title": "Defining Strong Privacy for RFID", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5659"
+    }, 
+    {
+      "citeBy": 74, 
+      "title": "Security analysis of a cryptographically-enabled RFID device", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5687"
+    }, 
+    {
+      "citeBy": 62, 
+      "title": "Analysis of Tree Algorithms for RFID Arbitration", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5679"
+    }, 
+    {
+      "citeBy": 58, 
+      "title": "On Privacy Models for RFID", 
+      "ranks": 20, 
+      "docid": "citeseerx-d5670"
+    }, 
+    {
+      "citeBy": 56, 
+      "title": "Warehousing and analyzing massive RFID data sets", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5730"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Public key cryptography for RFID-tags", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5707"
+    }, 
+    {
+      "citeBy": 28, 
+      "title": "Super-Distributed RFID Tag Infrastructures", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5704"
+    }, 
+    {
+      "citeBy": 27, 
+      "title": "The evolution of rfid security", 
+      "ranks": 39, 
+      "docid": "citeseerx-d5680"
+    }, 
+    {
+      "citeBy": 26, 
+      "title": "Using RFID for Accurate Positioning", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5692"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Enabling RFID in retail", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5694"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Enhancing Bluetooth connectivity with RFID", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5698"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Mapping and Localization with RFID Technology", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5693"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Synchronization of RFID Readers for Dense RFID Reader Environments", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5686"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Privacy protection for RFID data", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5708"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Data architectures for RFID transactions", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5702"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Classifying RFID Attacks and Defenses", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5705"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Probabilistic rfid data management", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5722"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Designing with RFID", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5661"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Classification of RFID Attacks", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5706"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Data Management in RFID Applications", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5712"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Object Localization using RFID", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5737"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "A Survey of RFID Tags", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5716"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Antennas for RFID tags", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5711"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "AN INSIDE LOOK AT RFID TECHNOLOGY", 
+      "ranks": 81, 
+      "docid": "citeseerx-d5721"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Middleware for RFID Systems: An Overview", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5749"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Rethinking RFID: Awareness and Control For Interaction With RFID Systems", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5690"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Temporal Management of RFID Data", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5715"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Wearable RFID for Play", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5718"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Privacy and Security in Library RFID", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5719"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "CHINA RFID PATENT ANALYSIS", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID security and privacy: A research survey", 
+      "ranks": 2, 
+      "docid": "citeseerx-d5646"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Habitat monitoring: application driver for wireless communications technology", 
+      "ranks": 3, 
+      "docid": "citeseerx-d5647"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Systems and Security and Privacy Implications", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5660"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Technology", 
+      "ranks": 18, 
+      "docid": "citeseerx-d5663"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID and the Middleman", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5668"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID TAGS", 
+      "ranks": 24, 
+      "docid": "citeseerx-d5671"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detection and RFID", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5665"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Technology", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5672"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A new method to generate and maintain a WiFi fingerprinting database automatically by using", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RESEARCH Open Access", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Tickets", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5677"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Barcodes and RFIDs", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5676"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "splitting for RFID", 
+      "ranks": 33, 
+      "docid": "citeseerx-d5678"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID-tags for Anti-Counterfeiting", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5683"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Traceability: A Multilayer Problem", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5685"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Guardian: A battery-powered mobile device for RFID privacy management", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Context-aware systems", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Distance Bounding Protocols", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID middleware design - addressing application requirements and RFID constraints", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5695"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID is X-ray vision", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5696"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID in Wireless Sensor Network", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5697"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID security threat model", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID and the Innovation Cycle", 
+      "ranks": 54, 
+      "docid": "citeseerx-d5701"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID and the Perception of Control", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5703"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID implementation and benefits in libraries", 
+      "ranks": 62, 
+      "docid": "citeseerx-d5710"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Security and Privacy Concerns", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5714"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN ASSESSMENT ON THE APPLICATIONS OF RFID IN", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rfid and its vulnerability to faults", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5720"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy Implications of RFID Tags", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5725"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1. EVENT MANAGEMENT AND RFID", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5726"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Security in RFID Systems", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Literature Review on RFID and DSMS", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5728"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The RFID Reference Model", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5729"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "System Modelling and Simulation of RFID", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Middleware Benchmarking", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5732"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy and Security Challenges of RFID", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "� Semi passive RFID", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5734"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID IN MANUFACTURING: THE INVESTMENT DECISION", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile RFID Tracking System", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5736"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Importance and Analysis of RFID in Attendance", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5738"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Checkout System", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scalable RFID Pseudonym Protocol", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security and Privacy Issues of RFID", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Data Management", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evaluating RFID Infrastructures", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5744"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "User Privacy in RFID Networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID as a Disruptive Innovation", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Preparation for CompTIA RFID+", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID Equipped Forklift Trucks", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5748"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID paperclip tags", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5750"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q149"
+}

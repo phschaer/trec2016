@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 871, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Above the Clouds: A Berkeley View of Cloud Computing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d349"
+    }, 
+    {
+      "citeBy": 534, 
+      "title": "Pig Latin: A Not-So-Foreign Language for Data Processing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5870"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers", 
+      "ranks": 3, 
+      "docid": "citeseerx-d3720"
+    }, 
+    {
+      "citeBy": 487, 
+      "title": "Cloud Computing and Emerging IT Platforms: Vision, Hype, and Reality for Delivering Computing as the 5th Utility", 
+      "ranks": 6, 
+      "docid": "citeseerx-d465"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 400, 
+      "title": "Vl2: A scalable and flexible data center network", 
+      "ranks": 11, 
+      "docid": "citeseerx-d5891"
+    }, 
+    {
+      "citeBy": 396, 
+      "title": "A Scalable, Commodity Data Center Network Architecture", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5905"
+    }, 
+    {
+      "citeBy": 382, 
+      "title": "Power Provisioning for a Warehouse-sized Computer", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4211"
+    }, 
+    {
+      "citeBy": 327, 
+      "title": "Programming with bananas, lenses, envelopes and barbed wire", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5877"
+    }, 
+    {
+      "citeBy": 298, 
+      "title": "Improving MapReduce Performance in Heterogeneous Environments", 
+      "ranks": 7, 
+      "docid": "citeseerx-d597"
+    }, 
+    {
+      "citeBy": 285, 
+      "title": "The problem with threads", 
+      "ranks": 24, 
+      "docid": "citeseerx-d5966"
+    }, 
+    {
+      "citeBy": 227, 
+      "title": "Evaluating MapReduce for multi-core and multiprocessor systems", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5875"
+    }, 
+    {
+      "citeBy": 211, 
+      "title": "Hive- A Warehousing Solution Over a Map-Reduce Framework", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5884"
+    }, 
+    {
+      "citeBy": 155, 
+      "title": "HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5896"
+    }, 
+    {
+      "citeBy": 146, 
+      "title": "Twister: A runtime for iterative MapReduce", 
+      "ranks": 16, 
+      "docid": "citeseerx-d5880"
+    }, 
+    {
+      "citeBy": 117, 
+      "title": "Mars: A MapReduce Framework on Graphics Processors", 
+      "ranks": 20, 
+      "docid": "citeseerx-d5902"
+    }, 
+    {
+      "citeBy": 102, 
+      "title": "Data-Intensive Text Processing with MapReduce", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5916"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Scalable Distributed Reasoning using MapReduce", 
+      "ranks": 31, 
+      "docid": "citeseerx-d5937"
+    }, 
+    {
+      "citeBy": 72, 
+      "title": "A Model of Computation for MapReduce", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5907"
+    }, 
+    {
+      "citeBy": 67, 
+      "title": "Airavat: Security and Privacy for MapReduce", 
+      "ranks": 28, 
+      "docid": "citeseerx-d5903"
+    }, 
+    {
+      "citeBy": 66, 
+      "title": "Google’s MapReduce Programming Model — Revisited", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5969"
+    }, 
+    {
+      "citeBy": 60, 
+      "title": "The Performance of MapReduce: An In-depth Study", 
+      "ranks": 60, 
+      "docid": "citeseerx-d6004"
+    }, 
+    {
+      "citeBy": 50, 
+      "title": "Towards Automatic Optimization of MapReduce Programs", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5973"
+    }, 
+    {
+      "citeBy": 45, 
+      "title": "Pairwise Document Similarity in Large Collections with MapReduce", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5975"
+    }, 
+    {
+      "citeBy": 42, 
+      "title": "Energy Management for MapReduce Clusters", 
+      "ranks": 39, 
+      "docid": "citeseerx-d5947"
+    }, 
+    {
+      "citeBy": 40, 
+      "title": "Disco: Distributed co-clustering with map-reduce. ICDM", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6003"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "Incoop: Mapreduce for incremental computations", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5888"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Estimating the Progress of MapReduce Pipelines", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5962"
+    }, 
+    {
+      "citeBy": 36, 
+      "title": "Automatic Optimization for MapReduce Programs", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5963"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Optimizing joins in a mapreduce environment", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5900"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Densest Subgraph in Streaming and MapReduce", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5998"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Mrbench: A benchmark for mapreduce framework", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5972"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Introducing mapreduce to high end computing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5977"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "X.: Minimal mapreduce algorithms", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5910"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Fast clustering using MapReduce", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5988"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Parallel PSO Using MapReduce", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5985"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "COUNTING TRIANGLES IN MASSIVE GRAPHS WITH MAPREDUCE", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6012"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "HANDLING DATA SKEW IN MAPREDUCE", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5912"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Behavioral Simulations in MapReduce", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5914"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "An Optimization Framework for Map-Reduce Queries", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5979"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "On single-pass indexing with MapReduce", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5984"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Iterative MapReduce for Azure Cloud", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5982"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Xquery processing in the mapreduce framework", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5909"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Semantic characterization of mapreduce workloads", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5921"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Robust Regression on MapReduce", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5922"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Anti-Combining for MapReduce", 
+      "ranks": 54, 
+      "docid": "citeseerx-d5932"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Building Cubes with MapReduce", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5935"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "ranks": 0, 
+      "docid": "citeseerx-d586"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mapreduce online", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5872"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mapreduce: a flexible data processing tool", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5890"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mapreduce extensions and recursive queries", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5894"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce in the Clouds for Science", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5898"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce with Deltas", 
+      "ranks": 31, 
+      "docid": "citeseerx-d5918"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce Jobs ∗", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5924"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Map/Reduce on EMF Models", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5928"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce for Data Intensive Scientific Analysis", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5930"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MAPREDUCE CHALLENGES ON PERVASIVE GRIDS", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5933"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing MapReduce . . . Environments", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5939"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Map-Reduce Applications", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5940"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce Platform", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5951"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Map-Reduce for Parallel Computing", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce for Experimental Search", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5957"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Churn Prediction using MAPREDUCE", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5917"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Map-Reduce using Hadoop", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5959"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Map-Reduce Examples", 
+      "ranks": 54, 
+      "docid": "citeseerx-d5961"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTILABEL CLASSIFICATION OF DOCUMENTS WITH MAPREDUCE", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5926"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Genome Analysis with MapReduce", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5929"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce and Parallel DBMSs: Friends or Foes?", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing MapReduce for Multicore Architectures", 
+      "ranks": 61, 
+      "docid": "citeseerx-d5971"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated tuning of MapReduce", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithm using MapReduce", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5945"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering Based on MapReduce", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5948"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Example MapReduce Application", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5955"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "i2MapReduce: Incremental Iterative MapReduce", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5987"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Poster: Cross Cloud MapReduce: an Uncheatable MapReduce", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mrpso: Mapreduce particle swarm optimization", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5990"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Datacenter storage architecture for mapreduce applications", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5991"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large Scale Pagerank with MapReduce", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Heuristics for TSP on MapReduce", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Content Matching in MapReduce", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Soren: Adaptive MapReduce for Programmable", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "XML Query Optimization in Map-Reduce", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prism - privacy-preserving search in mapreduce", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5997"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling and Optimizing MapReduce Programs", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5999"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cross-Phase Optimization in MapReduce", 
+      "ranks": 83, 
+      "docid": "citeseerx-d6000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce and Data Intensive Applications", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A MapReduce Skeleton for Skandium", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6002"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparing fork/join and MapReduce", 
+      "ranks": 88, 
+      "docid": "citeseerx-d6005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Experiences Teaching MapReduce in the Cloud", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigation of Data Locality in MapReduce", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6007"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce for Parallel Reinforcement Learning", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pigeon: A spatial mapreduce language", 
+      "ranks": 92, 
+      "docid": "citeseerx-d6009"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving Resource Utilization in MapReduce", 
+      "ranks": 93, 
+      "docid": "citeseerx-d6010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Processing Interval Joins On Map-Reduce", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6011"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accelerating spatial data processing with mapreduce", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6013"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce Optimization Using Regulated Dynamic Prioritization", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6014"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Versatile XQuery Processing in MapReduce", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clouds and MapReduce for Scientific Applications", 
+      "ranks": 99, 
+      "docid": "citeseerx-d6016"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q151"
+}

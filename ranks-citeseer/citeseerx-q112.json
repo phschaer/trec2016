@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 11648, 
+      "title": "The Nature of Statistical Learning Theory", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1701"
+    }, 
+    {
+      "citeBy": 3673, 
+      "title": "Latent dirichlet allocation", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1708"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2933, 
+      "title": "Rapid object detection using a boosted cascade of simple features", 
+      "ranks": 11, 
+      "docid": "citeseerx-d744"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 28, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2600, 
+      "title": "Compressed sensing", 
+      "ranks": 60, 
+      "docid": "citeseerx-d346"
+    }, 
+    {
+      "citeBy": 2331, 
+      "title": "Noncommutative Geometry", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1727"
+    }, 
+    {
+      "citeBy": 2127, 
+      "title": "Text Categorization with Support Vector Machines: Learning with Many Relevant Features", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1669"
+    }, 
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 52, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 1656, 
+      "title": "Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories", 
+      "ranks": 13, 
+      "docid": "citeseerx-d663"
+    }, 
+    {
+      "citeBy": 1650, 
+      "title": "Robust real-time face detection", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1695"
+    }, 
+    {
+      "citeBy": 1657, 
+      "title": "Shape Matching and Object Recognition Using Shape Contexts", 
+      "ranks": 59, 
+      "docid": "citeseerx-d311"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 63, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1309, 
+      "title": "The WEKA Data Mining Software: An Update", 
+      "ranks": 48, 
+      "docid": "citeseerx-d827"
+    }, 
+    {
+      "citeBy": 1290, 
+      "title": "Progressive Meshes", 
+      "ranks": 62, 
+      "docid": "citeseerx-d288"
+    }, 
+    {
+      "citeBy": 1225, 
+      "title": "Object Detection with Discriminatively Trained Part Based Models", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1673"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 57, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 53, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1073, 
+      "title": "An introduction to variable and feature selection", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1662"
+    }, 
+    {
+      "citeBy": 1172, 
+      "title": "LIBLINEAR: A Library for Large Linear Classification", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1692"
+    }, 
+    {
+      "citeBy": 1156, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 27, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 1124, 
+      "title": "Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?", 
+      "ranks": 70, 
+      "docid": "citeseerx-d249"
+    }, 
+    {
+      "citeBy": 1083, 
+      "title": "Robust Real-time Object Detection", 
+      "ranks": 32, 
+      "docid": "citeseerx-d302"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 68, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 925, 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "ranks": 51, 
+      "docid": "citeseerx-d712"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 35, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 38, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 892, 
+      "title": "Visual categorization with bags of keypoints", 
+      "ranks": 26, 
+      "docid": "citeseerx-d493"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 71, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 688, 
+      "title": "Recognizing human actions: A local SVM approach", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1660"
+    }, 
+    {
+      "citeBy": 790, 
+      "title": "Sparse Bayesian Learning and the Relevance Vector Machine", 
+      "ranks": 24, 
+      "docid": "citeseerx-d310"
+    }, 
+    {
+      "citeBy": 788, 
+      "title": "A Re-Examination of Text Categorization Methods", 
+      "ranks": 23, 
+      "docid": "citeseerx-d279"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 56, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "Robust face recognition via sparse representation", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1772"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 21, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Independent component analysis: algorithms and applications", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1721"
+    }, 
+    {
+      "citeBy": 650, 
+      "title": "Behavior recognition via sparse spatio-temporal features", 
+      "ranks": 10, 
+      "docid": "citeseerx-d358"
+    }, 
+    {
+      "citeBy": 693, 
+      "title": "Learning the Kernel Matrix with Semi-Definite Programming", 
+      "ranks": 55, 
+      "docid": "citeseerx-d342"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Support Vector Machine Active Learning with Applications to Text Classification", 
+      "ranks": 43, 
+      "docid": "citeseerx-d300"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Semi-Supervised Learning Literature Survey", 
+      "ranks": 50, 
+      "docid": "citeseerx-d232"
+    }, 
+    {
+      "citeBy": 647, 
+      "title": "A practical guide to support vector classification", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1683"
+    }, 
+    {
+      "citeBy": 509, 
+      "title": "An extended set of Haar-like features for rapid objection detection", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1657"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Local features and kernels for classification of texture and object categories: a comprehensive study", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1744"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "ranks": 65, 
+      "docid": "citeseerx-d924"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "RCV1: A new benchmark collection for text categorization research", 
+      "ranks": 44, 
+      "docid": "citeseerx-d348"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "Distance metric learning for large margin nearest neighbor classification", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1779"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 17, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Learning to detect natural image boundaries using local brightness, color, and texture cues", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1740"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "The 2005 pascal visual object classes challenge", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1771"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 34, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 569, 
+      "title": "Large margin methods for structured and interdependent output variables", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1039"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "A Practical Guide to Wavelet Analysis", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1781"
+    }, 
+    {
+      "citeBy": 553, 
+      "title": "Max-margin Markov networks", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1018"
+    }, 
+    {
+      "citeBy": 537, 
+      "title": "A sentimental education: Sentiment analysis using subjectivity summarization based on minimum cuts", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1760"
+    }, 
+    {
+      "citeBy": 538, 
+      "title": "Shallow Parsing with Conditional Random Fields", 
+      "ranks": 46, 
+      "docid": "citeseerx-d355"
+    }, 
+    {
+      "citeBy": 534, 
+      "title": "Factoring wavelet transforms into lifting steps", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1730"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "An introduction to kernel-based learning algorithms", 
+      "ranks": 41, 
+      "docid": "citeseerx-d919"
+    }, 
+    {
+      "citeBy": 511, 
+      "title": "A discriminatively trained, multiscale, deformable part model", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1774"
+    }, 
+    {
+      "citeBy": 493, 
+      "title": "The pyramid match kernel: Discriminative classification with sets of image features", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1041"
+    }, 
+    {
+      "citeBy": 504, 
+      "title": "Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1738"
+    }, 
+    {
+      "citeBy": 490, 
+      "title": "The Lifting Scheme: A Construction Of Second Generation Wavelets", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1754"
+    }, 
+    {
+      "citeBy": 444, 
+      "title": "Pegasos: Primal Estimated sub-gradient solver for SVM", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1758"
+    }, 
+    {
+      "citeBy": 482, 
+      "title": "Improved prediction of signal peptides -- SignalP 3.0", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1770"
+    }, 
+    {
+      "citeBy": 479, 
+      "title": "Large Margin Classification Using the Perceptron Algorithm", 
+      "ranks": 76, 
+      "docid": "citeseerx-d382"
+    }, 
+    {
+      "citeBy": 479, 
+      "title": "A Survey of Computer Vision-Based Human Motion Capture", 
+      "ranks": 77, 
+      "docid": "citeseerx-d377"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Support Vector Machine Classification and Validation of Cancer Tissue Samples Using Microarray Expression Data", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1748"
+    }, 
+    {
+      "citeBy": 469, 
+      "title": "Convolution Kernels on Discrete Structures", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1769"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 81, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 463, 
+      "title": "Knowledge-based Analysis of Microarray Gene Expression Data By Using Support Vector Machines", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1750"
+    }, 
+    {
+      "citeBy": 461, 
+      "title": "Text Classification using String Kernels", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1757"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Evaluation campaigns and TRECVid", 
+      "ranks": 82, 
+      "docid": "citeseerx-d17"
+    }, 
+    {
+      "citeBy": 445, 
+      "title": "Fisher Discriminant Analysis With Kernels", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1775"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Efficient face detection by a cascaded support vector machine using haar-like features", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1741"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Face Tracking Based On Haar-Like Features And Eigenfaces", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection using Variance based Haar-Like feature and SVM", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1656"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "3D HAAR-LIKE FEATURES FOR PEDESTRIAN DETECTION", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Feature detection with automatic scale selection", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1664"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Surf: Speeded up robust features", 
+      "ranks": 10, 
+      "docid": "citeseerx-d343"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Entropy-Based Algorithms For Best Basis Selection", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1685"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 26, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inductive Learning Algorithms and Representations for Text Categorization", 
+      "ranks": 30, 
+      "docid": "citeseerx-d958"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transductive Inference for Text Classification using Support Vector Machines", 
+      "ranks": 31, 
+      "docid": "citeseerx-d524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 33, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Baseline Avatar Face Detection using an Extended Set of Haar-like Features", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 38, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear Approximation", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1711"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 46, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Dantzig Selector: Statistical Estimation When p Is Much Larger Than n", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SIMPLIcity: Semantics-Sensitive Integrated Matching for Picture LIbraries", 
+      "ranks": 69, 
+      "docid": "citeseerx-d380"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reversible markov chains and random walks on graphs (monograph in preparation),” http://statwww.berkeley.edu/users/aldous/RWG/book.html", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Recursive Ensemble Convolution of Haar-like Features", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Tracking: A Survey", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machine active learning for image retrieval", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discriminative probabilistic models for relational data", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bayesian Network based Reparameterization of Haar-like feature", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1764"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PARAMETRIC HAAR-LIKE TRANSFORMS IN IMAGE DENOISING", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1780"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q112"
+}

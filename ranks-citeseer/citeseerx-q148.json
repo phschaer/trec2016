@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 17, 
+      "title": "Replicative Senescence of Mesenchymal Stem Cells: A Continuous and Organized Process", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5629"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Adult mesenchymal stem cells", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5522"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Membrane Potential Controls Adipogenic and Osteogenic Differentiation of Mesenchymal Stem Cells", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5607"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Treatment of inflammatory diseases with mesenchymal stem cells", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5561"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Distinct Roles of Bone Morphogenetic Proteins in Osteogenic Differentiation of Mesenchymal Stem Cells", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5630"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Epigenetic Dysregulation in Mesenchymal Stem Cell Aging and Spontaneous Differentiation", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5637"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Isolation, characterization, gene modification, and nuclear reprogramming of porcine mesenchymal stem cells", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5639"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Integrated Control of Proliferation and Differentiation of Mesenchymal Stem Cells", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5538"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Imaging of Mesenchymal Stem Cell Transplant by Bioluminescence and", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5552"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "The Effects of Anticholinergic Insecticides on Human Mesenchymal Stem Cells", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5554"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Isolation and characterization of canine adiposederived mesenchymal stem cells", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5553"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Application of autologous cryopreserved bone marrow mesenchymal stem cells", 
+      "ranks": 28, 
+      "docid": "citeseerx-d5556"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Bone Marrow Mesenchymal Stem Cells for Improving", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5573"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Differentiation-Dependent Secretion of Proangiogenic Factors by Mesenchymal Stem Cells", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5625"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ENHANCING MESENCHYMAL STEM CELL", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5523"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IDENTIFICATION OF MESENCHYMAL STEM CELLS AS", 
+      "ranks": 2, 
+      "docid": "citeseerx-d5524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells and the Treatment", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells and", 
+      "ranks": 6, 
+      "docid": "citeseerx-d5529"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells", 
+      "ranks": 7, 
+      "docid": "citeseerx-d5530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Patterns of Genomic Regulation In Mesenchymal Stem Cells Cultured on Osteogenic Nanotopographies.", 
+      "ranks": 8, 
+      "docid": "citeseerx-d5531"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 The Biology of Human Mesenchymal Stem Cells", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "bone marrow-derived mesenchymal stem cells", 
+      "ranks": 11, 
+      "docid": "citeseerx-d5535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Role of Mesenchymal Stem Cells in the Tumor Microenvironment", 
+      "ranks": 12, 
+      "docid": "citeseerx-d5536"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Characterization of Adipogenic Differentiation of Mesenchymal Stem Cell", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5534"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells: Characterization, Therapeutic Evaluation and Manufacturing", 
+      "ranks": 14, 
+      "docid": "citeseerx-d5537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of human adipose-derived mesenchymal stem cells", 
+      "ranks": 16, 
+      "docid": "citeseerx-d5539"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal stem cells and the artery wall", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5540"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells towards chondrocytes", 
+      "ranks": 18, 
+      "docid": "citeseerx-d5541"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells towards chondrocytes", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cell Transplantation for the Treatment", 
+      "ranks": 20, 
+      "docid": "citeseerx-d5543"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Function of mesenchymal stem cells following", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5544"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "synovium-derived mesenchymal stem cells", 
+      "ranks": 22, 
+      "docid": "citeseerx-d5546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells and Cancer — for Better or for Worse?", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells for Treatment of CNS Injury", 
+      "ranks": 24, 
+      "docid": "citeseerx-d5550"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applications of Mesenchymal Stem Cells: An Updated Review", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5557"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identification of subpopulations in mesenchymal stem cell-like", 
+      "ranks": 31, 
+      "docid": "citeseerx-d5560"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells in Ischemic Wound Healing", 
+      "ranks": 32, 
+      "docid": "citeseerx-d5562"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RESEARCH Mesenchymal stem cells w v a", 
+      "ranks": 33, 
+      "docid": "citeseerx-d5564"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Exosomes Derived from Mesenchymal Stem Cells", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5572"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Molecular Characterization of Spontaneous Mesenchymal Stem Cell Transformation", 
+      "ranks": 35, 
+      "docid": "citeseerx-d5565"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Use of Genetically Modified Mesenchymal Stem Cells to", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonviral Gene Delivery to Mesenchymal Stem Cells Using", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5569"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Osteoblastic Differentiation of Rabbit Mesenchymal Stem Cells", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Aging of mesenchymal stem cells", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5525"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Mesenchymal stem cells in arthritic diseases", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5575"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "human bone marrow mesenchymal stem cells", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5576"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cell Origin of Human Mesenchymal Stem Cells Determines a Different Healing Performance in Cardiac Regeneration", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5577"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autologous Grafts of Mesenchymal Stem Cells – Between Dream and Reality", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5578"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autologous In Vitro Expanded Mesenchymal Stem Cell Therapy for", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5532"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pericytes, Mesenchymal Stem Cells and the Wound Healing Process", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hematopoietic stem cell; Mesenchymal stem cells; Cell", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recommended Citation", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5582"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5583"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1,2,6,*", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5584"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "f", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5585"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autologous Mesenchymal Stem Cells Foster Revascularization of Ischemic Limbs in Systemic Sclerosis", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5587"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Adult mesenchymal stem cells and cell-based tissue engineering", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cell Transplantation: New Avenues for Stem Cell Therapies", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tissue Distribution of Mesenchymal Stem Cell Marker Stro-1", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5592"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Classification Association Rule Mining for Mammalian Mesenchymal Stem Cell Differentiation", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5593"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inhibition of Hedgehog Signaling Decreases Proliferation and Clonogenicity of Human Mesenchymal Stem Cells", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5594"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells. The role of 5-azacytidine", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5595"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RESEARCH Mesenchymal stem cells, n d r", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5596"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Human Mesenchymal Stem Cells Form Purkinje Fibers in", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5597"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ob/ob mouse adipose mesenchymal stem cells", 
+      "ranks": 58, 
+      "docid": "citeseerx-d5598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mesenchymal stem cells discarded in surgical procedures", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5599"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Delivery of Mesenchymal Stem Cells After Transient Ischemia", 
+      "ranks": 61, 
+      "docid": "citeseerx-d5600"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Imaging of Allogeneic Mesenchymal Stem Cells", 
+      "ranks": 62, 
+      "docid": "citeseerx-d5601"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cell-Mediated Functional Tooth Regeneration in Swine", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analyzing the Action of Low Frequency Magnetic Field on Human Mesenchymal Stem Cells", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5604"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Dog Mesenchymal Stem Cells on Bone Formation: Pilot Study in Dogs", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5606"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "449. Mesenchymal Stem Cells: Methods and Protocols, edited by", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5609"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adult mesenchymal stem cells: characterization, differentiation, and application in cell and gene therapy", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5611"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Article Mesenchymal Stem Cell for Prevention and Management of Intervertebral Disc Degeneration", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transduction, and Nuclear Transfer of Bovine and Porcine Mesenchymal Stem Cells", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5612"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Article Mesenchymal Stem Cells as a Potent Cell Source for Bone", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5613"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Characterization of Human Adipose Tissue Derived Hematopoietic Stem Cell, Mesenchymal Stem Cell and Side Population Cells", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5631"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bone Marrow Mesenchymal Stem Cells Provide an Alternate Pathway of Osteoclast Activation and Bone Destruction by Cancer Cells", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5616"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 20 Isolation, Enumeration, and Expansion of Human Mesenchymal Stem Cells in Culture", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5614"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Mesenchymal Stem Cell-Derived Microparticles: A Promising Therapeutic Strategy", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5617"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Open Access The Use of Growth Factors and Mesenchymal Stem Cells in Orthopaedics", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5620"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heterogeneity in proliferative potential of ovine mesenchymal stem cell colonies", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5621"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PROGRESS IN HEMATOLOGY – REVIEW ARTICLE | 258 | haematologica | 2009; 94(2) Mesenchymal stem cells: the fibroblasts ’ new clothes?", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5619"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Mesenchymal stem cells: clinical applications and biological characterization", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5623"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Article Therapeutic Implications of Mesenchymal Stem Cells in Liver Injury", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5624"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Research Article Control of Differentiation of Human Mesenchymal Stem Cells by", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5626"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cell Therapy of Congenital Corneal Diseases with Umbilical Mesenchymal Stem Cells: Lumican Null Mice", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EDITORIAL Mesenchymal stem cells in arthritis: role of bone marrow microenvironment", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Homing and Migration Ability of Limbal Mesenchymal Stem Cells on Corneal Injury Model", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5618"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Double Mechanism for the Mesenchymal Stem Cells’ Positive Effect on Pancreatic Islets", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5622"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Successful vitrification of human amnion-derived mesenchymal stem cells", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5632"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "doi:10.4061/2011/905621 Research Article Establishment of a Mesenchymal Stem Cell Bank", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5635"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EFFECT OF 3D HYDROGEL SCAFFOLDS ON THE CHONDRODIFFERENTIATION OF SWINE MESENCHYMAL STEM CELLS IN VIVO", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5633"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bone Marrow Derived Mesenchymal Stem Cells Incorporate into the Prostate during Regrowth", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5636"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Open Access Mesenchymal Stem Cells and Articular Cartilage Repair: Clinical Studies and Future Direction", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5641"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mesenchymal Stem Cells Enhance Angiogenesis in Mechanically Viable Prevascularized Tissues via", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5642"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "n R", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5643"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "REVIEW Mesenchymal stem cells: immunobiology and role in immunomodulation and tissue regeneration", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5640"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nanobiomechanics of Repair Bone Regenerated by Genetically Modified Mesenchymal Stem Cells", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5644"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q148"
+}

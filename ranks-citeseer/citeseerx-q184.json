@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4282, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 4199, 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2244"
+    }, 
+    {
+      "citeBy": 3231, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 85, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 4, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 2884, 
+      "title": "Inflation and Growth", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4488"
+    }, 
+    {
+      "citeBy": 1798, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 1, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 2374, 
+      "title": "MEGA5:  Molecular evolutionary genetics analysis using maximum . . .", 
+      "ranks": 74, 
+      "docid": "citeseerx-d223"
+    }, 
+    {
+      "citeBy": 1933, 
+      "title": "A generalized processor sharing approach to flow control in integrated services networks: The single-node case", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6983"
+    }, 
+    {
+      "citeBy": 1857, 
+      "title": "Globus: A Metacomputing Infrastructure Toolkit", 
+      "ranks": 14, 
+      "docid": "citeseerx-d627"
+    }, 
+    {
+      "citeBy": 1780, 
+      "title": "Bayesian Data Analysis", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3440"
+    }, 
+    {
+      "citeBy": 1673, 
+      "title": "The C++ Programming Language", 
+      "ranks": 47, 
+      "docid": "citeseerx-d655"
+    }, 
+    {
+      "citeBy": 1495, 
+      "title": "Software Engineering Economics", 
+      "ranks": 94, 
+      "docid": "citeseerx-d728"
+    }, 
+    {
+      "citeBy": 1410, 
+      "title": "The Sybil Attack", 
+      "ranks": 60, 
+      "docid": "citeseerx-d6449"
+    }, 
+    {
+      "citeBy": 1356, 
+      "title": "An Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1050"
+    }, 
+    {
+      "citeBy": 1362, 
+      "title": "Pfinder: Real-time tracking of the human body", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1807"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 26, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1303, 
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms", 
+      "ranks": 37, 
+      "docid": "citeseerx-d686"
+    }, 
+    {
+      "citeBy": 1309, 
+      "title": "The WEKA Data Mining Software: An Update", 
+      "ranks": 92, 
+      "docid": "citeseerx-d827"
+    }, 
+    {
+      "citeBy": 1296, 
+      "title": "Light Field Rendering", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3982"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 98, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1174, 
+      "title": "Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7294"
+    }, 
+    {
+      "citeBy": 945, 
+      "title": "Memory Coherence in Shared Virtual Memory Systems", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4158"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 70, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1048, 
+      "title": "Modeling and Rendering Architecture from Photographs", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4065"
+    }, 
+    {
+      "citeBy": 1008, 
+      "title": "The Amoeba Distributed Operating System", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2549"
+    }, 
+    {
+      "citeBy": 997, 
+      "title": "The Lumigraph", 
+      "ranks": 61, 
+      "docid": "citeseerx-d4287"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "End-To-End Arguments In System Design", 
+      "ranks": 65, 
+      "docid": "citeseerx-d6343"
+    }, 
+    {
+      "citeBy": 965, 
+      "title": "Geography-informed Energy Conservation for Ad Hoc Routing", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3019"
+    }, 
+    {
+      "citeBy": 953, 
+      "title": "Scalable Recognition with a Vocabulary Tree", 
+      "ranks": 49, 
+      "docid": "citeseerx-d205"
+    }, 
+    {
+      "citeBy": 903, 
+      "title": "Data Integration: A Theoretical Perspective", 
+      "ranks": 90, 
+      "docid": "citeseerx-d39"
+    }, 
+    {
+      "citeBy": 898, 
+      "title": "Location Systems for Ubiquitous Computing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d250"
+    }, 
+    {
+      "citeBy": 891, 
+      "title": "Pin: building customized program analysis tools with dynamic instrumentation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1834"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Context-Aware Computing Applications", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1074"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The EigenTrust Algorithm for Reputation Management in P2P Networks", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3402"
+    }, 
+    {
+      "citeBy": 870, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 82, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 848, 
+      "title": "Elastically deformable models", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4540"
+    }, 
+    {
+      "citeBy": 812, 
+      "title": "Route Packets, Not Wires: On-Chip Interconnection Networks", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2376"
+    }, 
+    {
+      "citeBy": 768, 
+      "title": "PVM: A Framework for Parallel Distributed Computing", 
+      "ranks": 13, 
+      "docid": "citeseerx-d556"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 32, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 777, 
+      "title": "Domain Names - Concepts and Facilities", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2942"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Efficient Software-Based Fault Isolation", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2322"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 726, 
+      "title": "The Cyclical Behavior of Equilibrium Unemployment and Vacancies", 
+      "ranks": 22, 
+      "docid": "citeseerx-d4022"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Surround-screen projection-based virtual reality: The design and implementation of the CAVE", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3989"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1651"
+    }, 
+    {
+      "citeBy": 718, 
+      "title": "Model checking and abstraction", 
+      "ranks": 68, 
+      "docid": "citeseerx-d403"
+    }, 
+    {
+      "citeBy": 542, 
+      "title": "Live Migration of Virtual Machines", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3577"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "TOSSIM: Accurate and Scalable Simulation of Entire TinyOS Applications", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1087"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2313"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Grid Information Services for Distributed Resource Sharing", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1815"
+    }, 
+    {
+      "citeBy": 651, 
+      "title": "An Integrated Experimental Environment for Distributed Systems and Networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d582"
+    }, 
+    {
+      "citeBy": 696, 
+      "title": "Multiprotocol label switching architecture,” RFC 3031", 
+      "ranks": 81, 
+      "docid": "citeseerx-d318"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Identification of Prokaryotic and Eukaryotic Signal Peptides and Prediction of Their Cleavage Sites", 
+      "ranks": 20, 
+      "docid": "citeseerx-d956"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "An introduction to software architecture", 
+      "ranks": 64, 
+      "docid": "citeseerx-d974"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Cache memories", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2272"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "End-to-End Routing Behavior in the Internet", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3482"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "A Sense of Self for Unix Processes", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1788"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Do Domestic Firms Benefit from Direct Foreign Investment? Evidence from Venezuela", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4553"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Medium Access Control with Coordinated Adaptive Sleeping for Wireless Sensor Networks", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1048"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 608, 
+      "title": "Lightweight causal and atomic group multicast", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4604"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "A blueprint for introducing disruptive technology into the internet", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3521"
+    }, 
+    {
+      "citeBy": 577, 
+      "title": "Implementation and performance of Munin", 
+      "ranks": 69, 
+      "docid": "citeseerx-d4394"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "Model Checking Programs", 
+      "ranks": 19, 
+      "docid": "citeseerx-d688"
+    }, 
+    {
+      "citeBy": 566, 
+      "title": "StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1791"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 27, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 509, 
+      "title": "QuickTime VR - An Image-Based Approach to Virtual Environment Navigation", 
+      "ranks": 8, 
+      "docid": "citeseerx-d7374"
+    }, 
+    {
+      "citeBy": 481, 
+      "title": "Maté: A Tiny Virtual Machine for Sensor Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d8772"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual time", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual Time and Global States of Distributed Systems", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3976"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual clock: A new traffic control algorithm for packet switching networks", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LLVM: A compilation framework for lifelong program analysis &amp; transformation", 
+      "ranks": 32, 
+      "docid": "citeseerx-d333"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 39, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The ubiquitous B-tree", 
+      "ranks": 46, 
+      "docid": "citeseerx-d766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Example-based learning for view-based human face detection", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 58, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Internet Network Distance with Coordinates-Based Approaches", 
+      "ranks": 60, 
+      "docid": "citeseerx-d443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards a better understanding of context and context-awareness", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KQML as an agent communication language", 
+      "ranks": 82, 
+      "docid": "citeseerx-d27"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Option pricing when underlying stock returns are discontinuous", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5570"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 90, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Monitors: An Operating System Structuring Concept", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4347"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enforceable Security Policies", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4367"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Fast File System for UNIX", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5103"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Quilting for Texture Synthesis and Transfer", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2926"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An algorithm for drawing general undirected graphs", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On persistence in mutual fund performance", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 98, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 99, 
+      "docid": "citeseerx-d708"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q184"
+}

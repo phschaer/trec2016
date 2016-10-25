@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 57, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2832, 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "ranks": 75, 
+      "docid": "citeseerx-d586"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 68, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2265, 
+      "title": "How to leak a secret", 
+      "ranks": 74, 
+      "docid": "citeseerx-d4140"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 86, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 1974, 
+      "title": "Corporate Financing and Investment Decisions when Firms Have Information that Investors Do Not Have", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4108"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 1, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 11, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1798, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 66, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 1726, 
+      "title": "Agency costs of free cash flow, corporate finance and takeovers", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2286"
+    }, 
+    {
+      "citeBy": 1687, 
+      "title": "Security Architecture for the Internet Protocol", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4000"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 19, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 1495, 
+      "title": "Software Engineering Economics", 
+      "ranks": 21, 
+      "docid": "citeseerx-d728"
+    }, 
+    {
+      "citeBy": 1543, 
+      "title": "Color indexing", 
+      "ranks": 79, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 90, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 17, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 64, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 53, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1160, 
+      "title": "Federated database systems for managing distributed, heterogeneous, and autonomous databases", 
+      "ranks": 14, 
+      "docid": "citeseerx-d350"
+    }, 
+    {
+      "citeBy": 1145, 
+      "title": "Separation of ownership and control", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 31, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Performance pay and top-management incentives", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4093"
+    }, 
+    {
+      "citeBy": 1094, 
+      "title": "Mediators in the architecture of future information systems", 
+      "ranks": 69, 
+      "docid": "citeseerx-d550"
+    }, 
+    {
+      "citeBy": 1086, 
+      "title": "Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4116"
+    }, 
+    {
+      "citeBy": 1036, 
+      "title": "The Design and Implementation of a Log-Structured File System", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1090"
+    }, 
+    {
+      "citeBy": 1020, 
+      "title": "The Protein Data Bank", 
+      "ranks": 55, 
+      "docid": "citeseerx-d41"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 80, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 945, 
+      "title": "Memory Coherence in Shared Virtual Memory Systems", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4158"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The EigenTrust Algorithm for Reputation Management in P2P Networks", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3402"
+    }, 
+    {
+      "citeBy": 817, 
+      "title": "A Key-Management Scheme for Distributed Sensor Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3428"
+    }, 
+    {
+      "citeBy": 899, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "The Behaviour of Stock Market Prices", 
+      "ranks": 92, 
+      "docid": "citeseerx-d528"
+    }, 
+    {
+      "citeBy": 891, 
+      "title": "Corporate Ownership Around The World", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4044"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 41, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Context-Aware Computing Applications", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1074"
+    }, 
+    {
+      "citeBy": 871, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 853, 
+      "title": "A high-performance, portable implementation of the MPI message passing interface standard", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2298"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Hypertext Transfer Protocol - HTTP/1.1", 
+      "ranks": 67, 
+      "docid": "citeseerx-d396"
+    }, 
+    {
+      "citeBy": 835, 
+      "title": "BDI Agents: From Theory to Practice", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4112"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 50, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 18, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "An Integrative Model of Organizational Trust", 
+      "ranks": 88, 
+      "docid": "citeseerx-d983"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "Large shareholders and corporate control", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4169"
+    }, 
+    {
+      "citeBy": 767, 
+      "title": "A Methodology for Agent-Oriented Analysis and Design", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3035"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 35, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 724, 
+      "title": "A case study of open source software development: the Apache server", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1052"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1651"
+    }, 
+    {
+      "citeBy": 705, 
+      "title": "No Silver Bullet: Essence and Accidents of Software Engineering", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3045"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 29, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Domain names - Implementation and Specification", 
+      "ranks": 60, 
+      "docid": "citeseerx-d3576"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 10, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 673, 
+      "title": "Kerberos: An Authentication Service for Open Network Systems", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1819"
+    }, 
+    {
+      "citeBy": 633, 
+      "title": "Genomic Expression Programs in the Response of Yeast Cells to Environmental Changes", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3969"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Link-Sharing and Resource Management Models for Packet Networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3453"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "The x-Kernel: An Architecture for Implementing Network Protocols", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2380"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "An introduction to software architecture", 
+      "ranks": 99, 
+      "docid": "citeseerx-d974"
+    }, 
+    {
+      "citeBy": 642, 
+      "title": "The Capital Structure Puzzle", 
+      "ranks": 94, 
+      "docid": "citeseerx-d753"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 83, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 623, 
+      "title": "Market Efficiency, Long-Term Returns, and Behavioral Finance", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4119"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "SCRIBE: A large-scale and decentralized application-level multicast infrastructure", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3526"
+    }, 
+    {
+      "citeBy": 315, 
+      "title": "The evolving philosophers problem: dynamic change management", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4090"
+    }, 
+    {
+      "citeBy": 602, 
+      "title": "Electronic Markets and Electronic Hierarchies", 
+      "ranks": 22, 
+      "docid": "citeseerx-d631"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "M-tree: An Efficient Access Method for Similarity Search in Metric Spaces", 
+      "ranks": 76, 
+      "docid": "citeseerx-d693"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 87, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 606, 
+      "title": "A Comparative Analysis of Methodologies for Database Schema Integration", 
+      "ranks": 52, 
+      "docid": "citeseerx-d604"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "A blueprint for introducing disruptive technology into the internet", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3521"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Distributed Database Systems", 
+      "ranks": 98, 
+      "docid": "citeseerx-d649"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Semantic matching of web services capabilities", 
+      "ranks": 28, 
+      "docid": "citeseerx-d71"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 82, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 538, 
+      "title": "Fine-grained Mobility in the Emerald System", 
+      "ranks": 59, 
+      "docid": "citeseerx-d815"
+    }, 
+    {
+      "citeBy": 535, 
+      "title": "Reliable Communication in the Presence of Failures", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1121"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 89, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 2, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 3, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Managing Gigabytes: Compressing and Indexing Documents and Images - Errata", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4095"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review: Knowledge management and knowledge management systems: Conceptual foundations and research issues", 
+      "ranks": 15, 
+      "docid": "citeseerx-d80"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 19, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The TSIMMIS Project: Integration of Heterogeneous Information Sources", 
+      "ranks": 25, 
+      "docid": "citeseerx-d622"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Framework for Dynamic Graph Drawing", 
+      "ranks": 33, 
+      "docid": "citeseerx-d317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generating Representative Web Workloads for Network and Server Performance Evaluation", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4143"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 72, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice within the Firm", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 90, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Entity-Relationship Model: Toward a Unified View of Data", 
+      "ranks": 91, 
+      "docid": "citeseerx-d577"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On persistence in mutual fund performance", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Context Toolkit: Aiding the Development of Context-Enabled Applications", 
+      "ranks": 93, 
+      "docid": "citeseerx-d593"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Sensor Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2326"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-to-End Routing Behavior in the Internet", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3482"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Disconnected Operation in the Coda File System", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 97, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Network Weather Service: A Distributed Resource Performance Forecasting Service for Metacomputing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1082"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q135"
+}

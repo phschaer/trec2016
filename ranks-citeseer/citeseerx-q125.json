@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2135, 
+      "title": "Agents and the Semantic Web", 
+      "ranks": 0, 
+      "docid": "citeseerx-d24"
+    }, 
+    {
+      "citeBy": 450, 
+      "title": "Ontology Learning for the Semantic Web", 
+      "ranks": 1, 
+      "docid": "citeseerx-d18"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "From SHIQ and RDF to OWL: The Making of a Web Ontology Language", 
+      "ranks": 79, 
+      "docid": "citeseerx-d11"
+    }, 
+    {
+      "citeBy": 361, 
+      "title": "Adapting Golog for composition of semantic web Services", 
+      "ranks": 3, 
+      "docid": "citeseerx-d164"
+    }, 
+    {
+      "citeBy": 377, 
+      "title": "A software framework for matchmaking based on semantic web technology", 
+      "ranks": 12, 
+      "docid": "citeseerx-d122"
+    }, 
+    {
+      "citeBy": 313, 
+      "title": "Learning to map between ontologies on the semantic web", 
+      "ranks": 18, 
+      "docid": "citeseerx-d114"
+    }, 
+    {
+      "citeBy": 232, 
+      "title": "Trust management for the semantic web", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3249"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "Swoogle: A search and metadata engine for the semantic web", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3278"
+    }, 
+    {
+      "citeBy": 257, 
+      "title": "OIL: An Ontology Infrastructure for the Semantic Web", 
+      "ranks": 16, 
+      "docid": "citeseerx-d142"
+    }, 
+    {
+      "citeBy": 236, 
+      "title": "Jena: Implementing the Semantic Web Recommendations", 
+      "ranks": 21, 
+      "docid": "citeseerx-d3355"
+    }, 
+    {
+      "citeBy": 162, 
+      "title": "Trust networks on the semantic Web", 
+      "ranks": 6, 
+      "docid": "citeseerx-d3267"
+    }, 
+    {
+      "citeBy": 165, 
+      "title": "Description Logics as Ontology Languages for the Semantic Web", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3331"
+    }, 
+    {
+      "citeBy": 128, 
+      "title": "An Ontology of Time for the Semantic Web", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3273"
+    }, 
+    {
+      "citeBy": 127, 
+      "title": "Ontology versioning on the Semantic Web", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3290"
+    }, 
+    {
+      "citeBy": 103, 
+      "title": "Description Logics for the Semantic Web", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3263"
+    }, 
+    {
+      "citeBy": 106, 
+      "title": "Integrating folksonomies with the semantic web", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3325"
+    }, 
+    {
+      "citeBy": 104, 
+      "title": "Foundations of Semantic Web Databases", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3337"
+    }, 
+    {
+      "citeBy": 105, 
+      "title": "Composing Web Services on the Semantic Web", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3412"
+    }, 
+    {
+      "citeBy": 105, 
+      "title": "A Portrait of the Semantic Web in Action", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3401"
+    }, 
+    {
+      "citeBy": 87, 
+      "title": "Characterizing the Semantic Web on the Web", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3269"
+    }, 
+    {
+      "citeBy": 76, 
+      "title": "Towards semantic web mining", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3282"
+    }, 
+    {
+      "citeBy": 75, 
+      "title": "Contexts for the semantic web", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3328"
+    }, 
+    {
+      "citeBy": 71, 
+      "title": "Importing the Semantic Web in UDDI", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3408"
+    }, 
+    {
+      "citeBy": 66, 
+      "title": "Delivering Semantic Web Services", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3387"
+    }, 
+    {
+      "citeBy": 66, 
+      "title": "Ontology Translation on the Semantic Web", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3389"
+    }, 
+    {
+      "citeBy": 59, 
+      "title": "Poweraqua: Fishing the semantic web", 
+      "ranks": 75, 
+      "docid": "citeseerx-d3405"
+    }, 
+    {
+      "citeBy": 55, 
+      "title": "Information Retrieval on the Semantic Web", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3411"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Which Semantic Web?", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3349"
+    }, 
+    {
+      "citeBy": 35, 
+      "title": "Planning for Semantic Web Services", 
+      "ranks": 46, 
+      "docid": "citeseerx-d3334"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Where are the semantics in the semantic web", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3285"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Ontologies and the Semantic Web", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3416"
+    }, 
+    {
+      "citeBy": 27, 
+      "title": "Learning Ontologies for the Semantic Web", 
+      "ranks": 58, 
+      "docid": "citeseerx-d3351"
+    }, 
+    {
+      "citeBy": 20, 
+      "title": "Six Challenges for the Semantic Web", 
+      "ranks": 53, 
+      "docid": "citeseerx-d3345"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "What is the Size of the Semantic Web", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3297"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "New Tools for the Semantic Web", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3322"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Towards the Adaptive Semantic Web", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3332"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Autonomous Semantic Web Services", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3383"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Search on the semantic web", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3347"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Creating Semantic Web Contents with Protege-2000", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3362"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Meaning and the Semantic Web", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3376"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Evolving the Semantic Web with Mangrove", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3366"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Linguistic annotation for the semantic web", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3307"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "The Mathematical Semantic Web", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3336"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "An Investigation into the Feasibility of the Semantic Web", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3409"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Bringing Communities to the Semantic Web and the Semantic Web to Communities", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3353"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "An Application Server for the Semantic Web", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3369"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "From XML to Semantic Web", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3375"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Making secure Semantic Web", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3293"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Usage Mining for and on the Semantic Web", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3327"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3253"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 6, 
+      "docid": "citeseerx-d3258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantic Web and . . .", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3260"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Problems with semantic Web", 
+      "ranks": 10, 
+      "docid": "citeseerx-d3265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3271"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SEMANTIC WEB by", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SEMANTIC WEB", 
+      "ranks": 17, 
+      "docid": "citeseerx-d3279"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3287"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "adoption of the Semantic Web", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web and Information Visualization", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantic Web:", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "the Semantic Web", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3302"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3311"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "the Semantic Web", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3313"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web ⋆", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3316"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and the Semantic Web", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The SemanticWeb and Policy?", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3318"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantic Web", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3320"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic web", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "- Semantic Web", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3326"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web: Vision and Technologies", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3340"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pragmatics of the Semantic Web", 
+      "ranks": 56, 
+      "docid": "citeseerx-d3342"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web Architecture", 
+      "ranks": 58, 
+      "docid": "citeseerx-d3357"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Usage Mining for and on the Semantic Web", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantic Web and an Introduction to RDF", 
+      "ranks": 60, 
+      "docid": "citeseerx-d3360"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic matching of web services capabilities", 
+      "ranks": 62, 
+      "docid": "citeseerx-d71"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web Fred", 
+      "ranks": 64, 
+      "docid": "citeseerx-d3368"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic web technologies to reconcile privacy and context awareness", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3370"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Web Components and the Semantic Web", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3373"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web for e-Government", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3377"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The semantic web: the roles of XML and RDF", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web Spaces", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3385"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hypertext in the Semantic Web", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3395"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated Collaboration on the Semantic Web", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web and Firewall Alignment", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3397"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Creating semantic web contents with", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3399"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Web Mining", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SEMANTIC WEBS FOR LIFE SCIENCES", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3404"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Evolution of the Semantic Web", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3393"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hypertext in the Semantic Web", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3391"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantic Web and its Languages", 
+      "ranks": 92, 
+      "docid": "citeseerx-d3410"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANTAEUS The practitioner librarian and the semantic web", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Uncertainty Reasoning for the Semantic Web", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Granularity for the Semantic Web", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3413"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Implementation of Semantic Web", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Annotation Framework for the Semantic Web", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3414"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integrated Visualization for Semantic Web", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3417"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACT Meaning and the Semantic Web ∗", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3418"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q125"
+}

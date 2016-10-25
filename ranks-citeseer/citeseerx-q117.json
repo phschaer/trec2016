@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4483, 
+      "title": "Optimization by simulated annealing", 
+      "ranks": 99, 
+      "docid": "citeseerx-d228"
+    }, 
+    {
+      "citeBy": 4144, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "Capacity of multi-antenna Gaussian channels", 
+      "ranks": 1, 
+      "docid": "citeseerx-d2273"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2914, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 13, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 2059, 
+      "title": "On limits of wireless communications in a fading environment when using multiple antennas", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2282"
+    }, 
+    {
+      "citeBy": 2076, 
+      "title": "GPSR: Greedy perimeter stateless routing for wireless networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1105"
+    }, 
+    {
+      "citeBy": 1793, 
+      "title": "A simple transmit diversity technique for wireless communications", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1059"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1114"
+    }, 
+    {
+      "citeBy": 1568, 
+      "title": "Space-time codes for high data rate wireless communication: Performance criterion and code construction", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2278"
+    }, 
+    {
+      "citeBy": 1561, 
+      "title": "Cooperative diversity in wireless networks: efficient protocols and outage behavior", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2280"
+    }, 
+    {
+      "citeBy": 1656, 
+      "title": "Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories", 
+      "ranks": 47, 
+      "docid": "citeseerx-d663"
+    }, 
+    {
+      "citeBy": 1593, 
+      "title": "A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS", 
+      "ranks": 65, 
+      "docid": "citeseerx-d947"
+    }, 
+    {
+      "citeBy": 1400, 
+      "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms", 
+      "ranks": 90, 
+      "docid": "citeseerx-d410"
+    }, 
+    {
+      "citeBy": 1368, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 72, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 1327, 
+      "title": "An information-maximization approach to blind separation and blind deconvolution", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2311"
+    }, 
+    {
+      "citeBy": 1315, 
+      "title": "TAG: a Tiny AGgregation service for ad-hoc sensor networks", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2316"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2290"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Image Quality Assessment: From Error Visibility to Structural Similarity", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2291"
+    }, 
+    {
+      "citeBy": 1225, 
+      "title": "Object Detection with Discriminatively Trained Part Based Models", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1673"
+    }, 
+    {
+      "citeBy": 1116, 
+      "title": "Low-Density Parity-Check Codes", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2279"
+    }, 
+    {
+      "citeBy": 1203, 
+      "title": "Studies of transformation of Escherichia coli with plasmids", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2299"
+    }, 
+    {
+      "citeBy": 913, 
+      "title": "Diversity and Multiplexing: A Fundamental Tradeoff in Multiple Antenna Channels", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2274"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 16, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1108, 
+      "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2319"
+    }, 
+    {
+      "citeBy": 1027, 
+      "title": "Active Messages: a Mechanism for Integrated Communication and Computation", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1086"
+    }, 
+    {
+      "citeBy": 989, 
+      "title": "Secure spread spectrum watermarking for multimedia", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2309"
+    }, 
+    {
+      "citeBy": 981, 
+      "title": "Mitigating Routing Misbehavior in Mobile Ad Hoc Networks", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2296"
+    }, 
+    {
+      "citeBy": 914, 
+      "title": "Speaker verification using Adapted Gaussian mixture models", 
+      "ranks": 35, 
+      "docid": "citeseerx-d220"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 28, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 868, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 98, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 853, 
+      "title": "A high-performance, portable implementation of the MPI message passing interface standard", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2298"
+    }, 
+    {
+      "citeBy": 855, 
+      "title": "Overview of the H.264/AVC Video Coding Standard", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2302"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "A Scheme for Real-Time Channel Establishment in Wide-Area Networks", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2275"
+    }, 
+    {
+      "citeBy": 842, 
+      "title": "Visual reconstruction", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2306"
+    }, 
+    {
+      "citeBy": 815, 
+      "title": "Spatio-temporal energy models for the Perception of Motion", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2287"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Quantization", 
+      "ranks": 48, 
+      "docid": "citeseerx-d339"
+    }, 
+    {
+      "citeBy": 767, 
+      "title": "Relations between the statistics of natural images and the response properties of cortical cells", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2285"
+    }, 
+    {
+      "citeBy": 680, 
+      "title": "Short signatures from the Weil pairing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1062"
+    }, 
+    {
+      "citeBy": 762, 
+      "title": "Design and Evaluation of a Wide-Area Event Notification Service", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1079"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Opportunistic Beamforming Using Dumb Antennas", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2277"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Expectations and Exchange Rates Dynamics", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2294"
+    }, 
+    {
+      "citeBy": 733, 
+      "title": "Receiver-driven Layered Multicast", 
+      "ranks": 84, 
+      "docid": "citeseerx-d667"
+    }, 
+    {
+      "citeBy": 720, 
+      "title": "Power-Aware Routing in Mobile Ad Hoc Networks", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2292"
+    }, 
+    {
+      "citeBy": 716, 
+      "title": "Linear models and empirical Bayes methods for assessing differential expression in microarray experiments", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2304"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Good Error-Correcting Codes based on Very Sparse Matrices", 
+      "ranks": 7, 
+      "docid": "citeseerx-d282"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2313"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Fine-grained network time synchronization using reference broadcasts", 
+      "ranks": 53, 
+      "docid": "citeseerx-d729"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "Topology Control of Multihop Wireless Networks using Transmit Power Adjustment", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1100"
+    }, 
+    {
+      "citeBy": 669, 
+      "title": "Solving multiclass learning problems via error-correcting output codes", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2288"
+    }, 
+    {
+      "citeBy": 662, 
+      "title": "Dynamic programming algorithm optimization for spoken word recognition", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2305"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 22, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Cache memories", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2272"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 79, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "On Visual Formalisms", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2297"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Hidden Markov models in computational biology: applications to protein modeling", 
+      "ranks": 68, 
+      "docid": "citeseerx-d996"
+    }, 
+    {
+      "citeBy": 589, 
+      "title": "Capacity of Ad Hoc Wireless Networks", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1063"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 89, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "How to 0wn the Internet in Your Spare Time", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1840"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "LogP: Towards a Realistic Model of Parallel Computation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Capacity of Fading Channels with Channel Side Information", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 28, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The rate-distortion function for source coding with side information at the decoder", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rules, discretion, and reputation in a model of monetary policy", 
+      "ranks": 47, 
+      "docid": "citeseerx-d2301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 53, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A High-Throughput Path Metric for Multi-Hop Wireless Routing", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 73, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 78, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 79, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 80, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 82, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Software-Based Fault Isolation", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Planning Algorithms", 
+      "ranks": 84, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligence without reason", 
+      "ranks": 85, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 86, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Color indexing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Anti-de Sitter Space, Thermal Phase Transition, and Confinement in Gauge Theories", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determinants of corporate borrowing", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 90, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Affective Computing", 
+      "ranks": 92, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multitask Learning", 
+      "ranks": 93, 
+      "docid": "citeseerx-d786"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 94, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 95, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 96, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The probabilistic method", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1117"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 98, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1070"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q117"
+}

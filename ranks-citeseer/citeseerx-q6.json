@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1309, 
+      "title": "The WEKA Data Mining Software: An Update", 
+      "ranks": 9, 
+      "docid": "citeseerx-d827"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 6, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 498, 
+      "title": "The Application of Petri Nets to Workflow Management", 
+      "ranks": 7, 
+      "docid": "citeseerx-d825"
+    }, 
+    {
+      "citeBy": 20, 
+      "title": "P.: Formal modelling of feature configuration workflows", 
+      "ranks": 2, 
+      "docid": "citeseerx-d822"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of Feature Configuration Workflows", 
+      "ranks": 0, 
+      "docid": "citeseerx-d818"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Configurable Workflow Models", 
+      "ranks": 1, 
+      "docid": "citeseerx-d820"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Reflective Framework for Configurable Workflow Processes and Tools", 
+      "ranks": 4, 
+      "docid": "citeseerx-d823"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Reflective Framework for Configurable Workflow Processes and Tools", 
+      "ranks": 4, 
+      "docid": "citeseerx-d824"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Submission of Content to a Digital Object Repository Using a Configurable Workflow", 
+      "ranks": 8, 
+      "docid": "citeseerx-d826"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 9, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 10, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 12, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of active network Research", 
+      "ranks": 13, 
+      "docid": "citeseerx-d829"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Roadmap of Agent Research and Development", 
+      "ranks": 14, 
+      "docid": "citeseerx-d90"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 15, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Mining: Discovering process models from event logs", 
+      "ranks": 16, 
+      "docid": "citeseerx-d831"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Agents: Are They a Good Idea?", 
+      "ranks": 17, 
+      "docid": "citeseerx-d832"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pegasus: a framework for mapping complex scientific workflows onto distributed systems", 
+      "ranks": 18, 
+      "docid": "citeseerx-d833"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scientific workflow management and the Kepler system. Special issue: workflow in grid systems", 
+      "ranks": 19, 
+      "docid": "citeseerx-d834"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Simulation, verification, automated composition of web services", 
+      "ranks": 20, 
+      "docid": "citeseerx-d147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Cognition: Toward a New Foundation for Human-Computer Interaction Research", 
+      "ranks": 21, 
+      "docid": "citeseerx-d835"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "QoS-aware middleware for web services composition", 
+      "ranks": 22, 
+      "docid": "citeseerx-d178"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Developing Multiagent Systems: The Gaia Methodology", 
+      "ranks": 23, 
+      "docid": "citeseerx-d195"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mapping Abstract Complex Workflows onto Grid Environments", 
+      "ranks": 24, 
+      "docid": "citeseerx-d836"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Configuration Based Workflow Composition", 
+      "ranks": 25, 
+      "docid": "citeseerx-d837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Analysis of the Requirements Traceability Problem", 
+      "ranks": 26, 
+      "docid": "citeseerx-d838"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing and Emerging IT Platforms: Vision, Hype, and Reality for Delivering Computing as the 5th Utility", 
+      "ranks": 27, 
+      "docid": "citeseerx-d465"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Introduction to Software Agents", 
+      "ranks": 28, 
+      "docid": "citeseerx-d839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A taxonomy of workflow management systems for grid computing", 
+      "ranks": 29, 
+      "docid": "citeseerx-d840"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kepler: An Extensible System for Design and Execution of Scientific Workflows", 
+      "ranks": 30, 
+      "docid": "citeseerx-d841"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Web Service Modeling Framework WSMF", 
+      "ranks": 31, 
+      "docid": "citeseerx-d842"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inheritance of Workflows - An approach to tackling problems related to change", 
+      "ranks": 32, 
+      "docid": "citeseerx-d843"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Configuration", 
+      "ranks": 33, 
+      "docid": "citeseerx-d844"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Management: Models, Methods, and Systems", 
+      "ranks": 34, 
+      "docid": "citeseerx-d845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Benchmarking and Configuration of Workflow Management Systems", 
+      "ranks": 35, 
+      "docid": "citeseerx-d846"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MPICH-G2: A Grid-Enabled Implementation of the Message Passing Interface", 
+      "ranks": 36, 
+      "docid": "citeseerx-d847"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Configuration", 
+      "ranks": 37, 
+      "docid": "citeseerx-d848"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Configuration", 
+      "ranks": 38, 
+      "docid": "citeseerx-d849"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From centralized workflow specification to distributed workflow execution", 
+      "ranks": 39, 
+      "docid": "citeseerx-d850"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SAP WebFlow Made Configurable: Unifying Workflow Templates into a Configurable Model", 
+      "ranks": 40, 
+      "docid": "citeseerx-d851"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CrossFlow: Cross-organizational workflow management in dynamic virtual enterprises", 
+      "ranks": 41, 
+      "docid": "citeseerx-d852"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Requirements Engineering: a roadmap", 
+      "ranks": 42, 
+      "docid": "citeseerx-d853"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exception Handling in Workflow Management Systems", 
+      "ranks": 43, 
+      "docid": "citeseerx-d854"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GridFlow: Workflow Management for Grid Computing", 
+      "ranks": 44, 
+      "docid": "citeseerx-d855"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Examining the Challenges of Scientific Workflows", 
+      "ranks": 45, 
+      "docid": "citeseerx-d856"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Service-oriented computing", 
+      "ranks": 46, 
+      "docid": "citeseerx-d857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Coordination Mechanisms: Towards a Conceptual Foundation of CSCW Systems Design", 
+      "ranks": 47, 
+      "docid": "citeseerx-d858"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chimera: A Virtual Data System For Representing, Querying, and Automating Data Derivation", 
+      "ranks": 48, 
+      "docid": "citeseerx-d859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Workflow Activity Model WAMO", 
+      "ranks": 49, 
+      "docid": "citeseerx-d860"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflows and e-Science: An overview of workflow system features and capabilities", 
+      "ranks": 50, 
+      "docid": "citeseerx-d861"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AGENT WORK: a workflow system supporting rule-based workflow adaptation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Workflow Schema Evolution based on Workflow Type Versioning and Workflow Migration", 
+      "ranks": 52, 
+      "docid": "citeseerx-d863"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Managing Evolving Workflow Specifications", 
+      "ranks": 53, 
+      "docid": "citeseerx-d864"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces", 
+      "ranks": 54, 
+      "docid": "citeseerx-d865"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A generalized temporal role-based access control model", 
+      "ranks": 55, 
+      "docid": "citeseerx-d866"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Staged configuration through specialization and multilevel configuration of feature models", 
+      "ranks": 56, 
+      "docid": "citeseerx-d867"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmenting Organizational Memory: A Field Study of Answer Garden", 
+      "ranks": 57, 
+      "docid": "citeseerx-d868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Managing rapidly-evolving scientific workflows", 
+      "ranks": 58, 
+      "docid": "citeseerx-d869"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EXPERIENCES IN AUTOMATED WORKFLOWS USING DIALECTICAL ARGUMENTATION", 
+      "ranks": 59, 
+      "docid": "citeseerx-d870"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Technology", 
+      "ranks": 60, 
+      "docid": "citeseerx-d871"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow data patterns", 
+      "ranks": 61, 
+      "docid": "citeseerx-d872"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Agents That Buy and Sell", 
+      "ranks": 62, 
+      "docid": "citeseerx-d873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Quality of Service Architecture", 
+      "ranks": 63, 
+      "docid": "citeseerx-d874"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated Generation of Resource Configurations through Policies", 
+      "ranks": 64, 
+      "docid": "citeseerx-d875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scientific Workflows", 
+      "ranks": 65, 
+      "docid": "citeseerx-d876"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow and BPR", 
+      "ranks": 66, 
+      "docid": "citeseerx-d877"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflows and Skeletons", 
+      "ranks": 67, 
+      "docid": "citeseerx-d878"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Actor-Oriented Design of Scientific Workflows", 
+      "ranks": 68, 
+      "docid": "citeseerx-d879"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "workflow within", 
+      "ranks": 69, 
+      "docid": "citeseerx-d880"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Configurable Reference Modelling Language", 
+      "ranks": 70, 
+      "docid": "citeseerx-d881"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Grid workflows", 
+      "ranks": 71, 
+      "docid": "citeseerx-d882"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Architectures", 
+      "ranks": 72, 
+      "docid": "citeseerx-d883"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Quality of", 
+      "ranks": 73, 
+      "docid": "citeseerx-d884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "bioinformatics workflows", 
+      "ranks": 74, 
+      "docid": "citeseerx-d885"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scientific Workflows", 
+      "ranks": 75, 
+      "docid": "citeseerx-d886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow Model", 
+      "ranks": 76, 
+      "docid": "citeseerx-d887"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mining workflows", 
+      "ranks": 77, 
+      "docid": "citeseerx-d888"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "grid workflow", 
+      "ranks": 78, 
+      "docid": "citeseerx-d889"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow ControlFlow Patterns: A Revised View", 
+      "ranks": 79, 
+      "docid": "citeseerx-d890"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Functionality and Limitations of Current Workflow Management Systems", 
+      "ranks": 80, 
+      "docid": "citeseerx-d891"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Intelligent Assistant for Interactive Workflow Composition", 
+      "ranks": 81, 
+      "docid": "citeseerx-d892"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Comparison of Workflow Metamodels", 
+      "ranks": 82, 
+      "docid": "citeseerx-d893"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A constrained object model for configuration based workflow composition", 
+      "ranks": 83, 
+      "docid": "citeseerx-d894"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems", 
+      "ranks": 84, 
+      "docid": "citeseerx-d895"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integrating Machine Learning and Workflow Management to Support Acquisition and Adaptation of Workflow Models", 
+      "ranks": 85, 
+      "docid": "citeseerx-d896"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of Interacting BPEL Web Services", 
+      "ranks": 86, 
+      "docid": "citeseerx-d897"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Agent-based Workflow Configuration and Management of On-line Services", 
+      "ranks": 87, 
+      "docid": "citeseerx-d898"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Machine Learning Approach to Workflow Management", 
+      "ranks": 88, 
+      "docid": "citeseerx-d899"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow management with service quality guarantees", 
+      "ranks": 89, 
+      "docid": "citeseerx-d900"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensing Techniques for Mobile Interaction", 
+      "ranks": 90, 
+      "docid": "citeseerx-d901"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Re-configuration, and Exception Handling", 
+      "ranks": 91, 
+      "docid": "citeseerx-d902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Environment For Designing Exceptions In Workflows", 
+      "ranks": 92, 
+      "docid": "citeseerx-d903"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Concepts in Configuration Management Systems", 
+      "ranks": 93, 
+      "docid": "citeseerx-d904"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Workflow resource patterns", 
+      "ranks": 94, 
+      "docid": "citeseerx-d905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autonomous Interface Agents", 
+      "ranks": 95, 
+      "docid": "citeseerx-d906"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Evolution of Protégé: An Environment for Knowledge-Based Systems Development", 
+      "ranks": 96, 
+      "docid": "citeseerx-d907"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design and evaluation of an autonomic workflow engine", 
+      "ranks": 97, 
+      "docid": "citeseerx-d908"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mining and reasoning on workflows", 
+      "ranks": 98, 
+      "docid": "citeseerx-d909"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems", 
+      "ranks": 99, 
+      "docid": "citeseerx-d910"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q6"
+}

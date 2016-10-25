@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4450, 
+      "title": "Convex Analysis", 
+      "ranks": 14, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 2331, 
+      "title": "Noncommutative Geometry", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1727"
+    }, 
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 3, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 2456, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 19, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 16, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1296, 
+      "title": "Light Field Rendering", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3982"
+    }, 
+    {
+      "citeBy": 967, 
+      "title": "Markov chains for exploring posterior distributions", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4522"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "The geometry of algorithms with orthogonality constraints", 
+      "ranks": 0, 
+      "docid": "citeseerx-d2333"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 8, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 1000, 
+      "title": "USER’S GUIDE TO VISCOSITY SOLUTIONS OF SECOND ORDER PARTIAL DIFFERENTIAL EQUATIONS", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5405"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 6, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 917, 
+      "title": "An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions", 
+      "ranks": 11, 
+      "docid": "citeseerx-d248"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 18, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 698, 
+      "title": "Applied Nonparametric Regression", 
+      "ranks": 12, 
+      "docid": "citeseerx-d435"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "Multidimensional Access Methods", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5401"
+    }, 
+    {
+      "citeBy": 540, 
+      "title": "Deformable models in medical image analysis: A survey", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2325"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models, exponential families, and variational inference", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1023"
+    }, 
+    {
+      "citeBy": 478, 
+      "title": "Community detection in graphs", 
+      "ranks": 21, 
+      "docid": "citeseerx-d571"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 22, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 451, 
+      "title": "Preliminary design of JML: A behavioral interface specification language for Java", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1155"
+    }, 
+    {
+      "citeBy": 409, 
+      "title": "An open graph visualization system and its applications to software engineering", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4563"
+    }, 
+    {
+      "citeBy": 386, 
+      "title": "Just Relax: Convex Programming Methods for Identifying Sparse Signals in Noise", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2476"
+    }, 
+    {
+      "citeBy": 351, 
+      "title": "Survey of clustering data mining techniques", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1373"
+    }, 
+    {
+      "citeBy": 345, 
+      "title": "Control-Flow Analysis of Higher-Order Languages", 
+      "ranks": 28, 
+      "docid": "citeseerx-d5423"
+    }, 
+    {
+      "citeBy": 321, 
+      "title": "An Introduction to MCMC for Machine Learning", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3716"
+    }, 
+    {
+      "citeBy": 316, 
+      "title": "Generalized Inverses: Theory and Applications", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2393"
+    }, 
+    {
+      "citeBy": 313, 
+      "title": "Analytic Number Theory", 
+      "ranks": 31, 
+      "docid": "citeseerx-d5430"
+    }, 
+    {
+      "citeBy": 309, 
+      "title": "Dataflow Process Networks", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3596"
+    }, 
+    {
+      "citeBy": 303, 
+      "title": "Digraphs -- Theory, Algorithms and Applications", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2391"
+    }, 
+    {
+      "citeBy": 299, 
+      "title": "From frequency to meaning : Vector space models of semantics", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5504"
+    }, 
+    {
+      "citeBy": 272, 
+      "title": "Shape Distributions", 
+      "ranks": 35, 
+      "docid": "citeseerx-d5445"
+    }, 
+    {
+      "citeBy": 272, 
+      "title": "Nested Linear/Lattice Codes for Structured Multiterminal Binning", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5437"
+    }, 
+    {
+      "citeBy": 262, 
+      "title": "Combinatorial Optimization", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5435"
+    }, 
+    {
+      "citeBy": 262, 
+      "title": "Meshless methods: An overview and recent developments", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5460"
+    }, 
+    {
+      "citeBy": 255, 
+      "title": "Semantic database modeling: Survey, applications, and research issues", 
+      "ranks": 39, 
+      "docid": "citeseerx-d5441"
+    }, 
+    {
+      "citeBy": 232, 
+      "title": "An interior-point method for large-scale l1-regularized logistic regression", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5469"
+    }, 
+    {
+      "citeBy": 232, 
+      "title": "A Question of Balance: Weighing the Options on Global Warming Policies, The Challenge of Global Warming: Economic Models and Environmental Policy, Yale", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5506"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "Adaptive Filtering and Change Detection", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1895"
+    }, 
+    {
+      "citeBy": 216, 
+      "title": "Steps toward artificial intelligence", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5452"
+    }, 
+    {
+      "citeBy": 211, 
+      "title": "Damage Identification and Health Monitoring of Structural and Mechanical Systems from . . .", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5487"
+    }, 
+    {
+      "citeBy": 209, 
+      "title": "Recent Directions in Netlist Partitioning: A Survey", 
+      "ranks": 46, 
+      "docid": "citeseerx-d4107"
+    }, 
+    {
+      "citeBy": 206, 
+      "title": "Bayesian Haplotype Inference for Multiple Linked Single-Nucleotide Polymorphisms .American", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5462"
+    }, 
+    {
+      "citeBy": 202, 
+      "title": "Algorithms for Sequential Decision Making", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5464"
+    }, 
+    {
+      "citeBy": 195, 
+      "title": "An Image-Based Approach to Three-Dimensional Computer Graphics", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5457"
+    }, 
+    {
+      "citeBy": 185, 
+      "title": "Model-Based Recognition in Robot Vision", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5465"
+    }, 
+    {
+      "citeBy": 182, 
+      "title": "Self-calibration and metric reconstruction in spite of varying and unknown internal camera parameters", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5472"
+    }, 
+    {
+      "citeBy": 174, 
+      "title": "Path Sharing and Predicate Evaluation for High-Performance XML Filtering", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5475"
+    }, 
+    {
+      "citeBy": 173, 
+      "title": "Engineering and economic applications of complementarity problems", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5483"
+    }, 
+    {
+      "citeBy": 166, 
+      "title": "Network Optimization: Continuous and Discrete Models, Athena Scientific", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1433"
+    }, 
+    {
+      "citeBy": 165, 
+      "title": "The neural basis of cognitive development: A constructivist manifesto", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5482"
+    }, 
+    {
+      "citeBy": 164, 
+      "title": "Clustering categorical data: An approach based on dynamical systems", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5489"
+    }, 
+    {
+      "citeBy": 164, 
+      "title": "Lineage retrieval for scientific data processing: a survey", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5511"
+    }, 
+    {
+      "citeBy": 161, 
+      "title": "Models and Languages for Parallel Computation", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5498"
+    }, 
+    {
+      "citeBy": 158, 
+      "title": "The Euler-Poincaré equations and semidirect products with applications to continuum theories", 
+      "ranks": 62, 
+      "docid": "citeseerx-d5477"
+    }, 
+    {
+      "citeBy": 156, 
+      "title": "The intermediate Jacobian of the cubic threefold", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5499"
+    }, 
+    {
+      "citeBy": 149, 
+      "title": "Extensions of finite generalized quadrangles", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5509"
+    }, 
+    {
+      "citeBy": 146, 
+      "title": "Salient geometric features for partial shape matching and similarity", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5461"
+    }, 
+    {
+      "citeBy": 146, 
+      "title": "Practical Dependence Testing", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5500"
+    }, 
+    {
+      "citeBy": 145, 
+      "title": "Numerical Recipes in C: The Art of Scientific Computing. Second Edition", 
+      "ranks": 81, 
+      "docid": "citeseerx-d5516"
+    }, 
+    {
+      "citeBy": 143, 
+      "title": "Algorithms for the Satisfiability (SAT) Problem: A Survey", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5521"
+    }, 
+    {
+      "citeBy": 80, 
+      "title": "A Differential Geometric Approach to Motion Planning", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5486"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Some good quantum error-correcting codes from algebraic-geometric codes", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5491"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Coset bounds for algebraic geometric codes", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5497"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Linear Secret Sharing from Algebraic-Geometric Codes", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 14, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 15, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Dantzig Selector: Statistical Estimation When p Is Much Larger Than n", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reversible markov chains and random walks on graphs (monograph in preparation),” http://statwww.berkeley.edu/users/aldous/RWG/book.html", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Tracking: A Survey", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image retrieval: ideas, influences, and trends of the new age", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Invitation to Fixed-Parameter Algorithms", 
+      "ranks": 31, 
+      "docid": "citeseerx-d2360"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Geometry of Iterated Loop Spaces", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5428"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On conformal field theories", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A search engine for 3d models", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric Shortest Paths and Network Optimization", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5439"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Anisotropic Diffusion In Image Processing", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Orienting Polygonal Parts without Sensors", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Matching 3D Models with Shape Distributions", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5448"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chen Lie algebras", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Jin-Kao Hao", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5459"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Numerical solution of saddle point problems", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5463"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Quadratic Eigenvalue Problem", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5466"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The primes contain arbitrarily long arithmetic progressions", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5468"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of free-form object representation and recognition techniques", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5474"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric approximation via coresets", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5479"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Simulating Normalized Constants: From Importance Sampling to Bridge Sampling to Path Sampling", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GEOMETRIC AND ALGEBRAIC ASPECTS OF 1-FORMALITY", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5494"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric optimization and sums of algebraic functions", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algebraic Geometric Secret Sharing Schemes and Secure Multi-Party Computations over Small Fields", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Schmidt Number of Pure States in Bipartite Quantum Systems as an Algebraic-geometric Invariant", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5507"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "algebraic", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5505"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algebraic-geometric separability criterion and low rank mixed state entanglement", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric constraint solving", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Calabi-Yau algebras", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5515"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reviewed by Imin Chen References", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Chen-Ruan cohomology of weighted projective spaces", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5519"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q147"
+}

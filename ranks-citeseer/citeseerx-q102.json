@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4450, 
+      "title": "Convex Analysis", 
+      "ranks": 67, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 3680, 
+      "title": "PAUP*: Phylogenetic Analysis Using Parsimony (and other methods) 4.0.b5", 
+      "ranks": 84, 
+      "docid": "citeseerx-d330"
+    }, 
+    {
+      "citeBy": 2914, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 42, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 2626, 
+      "title": "Particle swarm optimization", 
+      "ranks": 16, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 2600, 
+      "title": "Compressed sensing", 
+      "ranks": 94, 
+      "docid": "citeseerx-d346"
+    }, 
+    {
+      "citeBy": 2374, 
+      "title": "MEGA5:  Molecular evolutionary genetics analysis using maximum . . .", 
+      "ranks": 18, 
+      "docid": "citeseerx-d223"
+    }, 
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 46, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 1703, 
+      "title": "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking", 
+      "ranks": 60, 
+      "docid": "citeseerx-d292"
+    }, 
+    {
+      "citeBy": 1666, 
+      "title": "A training algorithm for optimal margin classifiers", 
+      "ranks": 25, 
+      "docid": "citeseerx-d239"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 85, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1657, 
+      "title": "Shape Matching and Object Recognition Using Shape Contexts", 
+      "ranks": 72, 
+      "docid": "citeseerx-d311"
+    }, 
+    {
+      "citeBy": 1381, 
+      "title": "A Fast and Elitist Multi-Objective Genetic Algorithm: NSGA-II", 
+      "ranks": 8, 
+      "docid": "citeseerx-d212"
+    }, 
+    {
+      "citeBy": 1337, 
+      "title": "Wrappers for Feature Subset Selection", 
+      "ranks": 48, 
+      "docid": "citeseerx-d271"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 89, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1290, 
+      "title": "Progressive Meshes", 
+      "ranks": 56, 
+      "docid": "citeseerx-d288"
+    }, 
+    {
+      "citeBy": 1292, 
+      "title": "Chaff: Engineering an Efficient SAT Solver", 
+      "ranks": 70, 
+      "docid": "citeseerx-d306"
+    }, 
+    {
+      "citeBy": 1248, 
+      "title": "Wattch: A Framework for Architectural-Level Power Analysis and Optimizations", 
+      "ranks": 33, 
+      "docid": "citeseerx-d253"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 78, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1160, 
+      "title": "Federated database systems for managing distributed, heterogeneous, and autonomous databases", 
+      "ranks": 97, 
+      "docid": "citeseerx-d350"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 90, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 55, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Parameterized Complexity", 
+      "ranks": 93, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 1017, 
+      "title": "Genetic Programming", 
+      "ranks": 36, 
+      "docid": "citeseerx-d255"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 95, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 937, 
+      "title": "The program dependence graph and its use in optimization", 
+      "ranks": 23, 
+      "docid": "citeseerx-d234"
+    }, 
+    {
+      "citeBy": 810, 
+      "title": "No Free Lunch Theorems for Optimization", 
+      "ranks": 17, 
+      "docid": "citeseerx-d224"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 61, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 52, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Quantization", 
+      "ranks": 91, 
+      "docid": "citeseerx-d339"
+    }, 
+    {
+      "citeBy": 748, 
+      "title": "Markov Logic Networks", 
+      "ranks": 54, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 50, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "SPEA2: Improving the Strength Pareto Evolutionary Algorithm", 
+      "ranks": 4, 
+      "docid": "citeseerx-d213"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Minimum energy mobile wireless networks", 
+      "ranks": 43, 
+      "docid": "citeseerx-d265"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 40, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 693, 
+      "title": "Learning the Kernel Matrix with Semi-Definite Programming", 
+      "ranks": 92, 
+      "docid": "citeseerx-d342"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 80, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 51, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Good Error-Correcting Codes based on Very Sparse Matrices", 
+      "ranks": 53, 
+      "docid": "citeseerx-d282"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 77, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "Bandera: Extracting Finite-state Models from Java Source Code", 
+      "ranks": 66, 
+      "docid": "citeseerx-d301"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 71, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 539, 
+      "title": "Comparison of Multiobjective Evolutionary Algorithms: Empirical Results", 
+      "ranks": 6, 
+      "docid": "citeseerx-d256"
+    }, 
+    {
+      "citeBy": 610, 
+      "title": "Program Analysis and Specialization for the C Programming Language", 
+      "ranks": 99, 
+      "docid": "citeseerx-d354"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "Abduction in Logic Programming", 
+      "ranks": 96, 
+      "docid": "citeseerx-d34"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Improved algorithms for optimal winner determination in combinatorial auctions and generalizations", 
+      "ranks": 28, 
+      "docid": "citeseerx-d241"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "A Fast Elitist Non-Dominated Sorting Genetic Algorithm for Multi-Objective Optimization: NSGA-II", 
+      "ranks": 26, 
+      "docid": "citeseerx-d326"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases", 
+      "ranks": 29, 
+      "docid": "citeseerx-d245"
+    }, 
+    {
+      "citeBy": 570, 
+      "title": "Software pipelining: An effective scheduling technique for VLIW machines", 
+      "ranks": 49, 
+      "docid": "citeseerx-d273"
+    }, 
+    {
+      "citeBy": 548, 
+      "title": "The BSD Packet Filter: A New Architecture for User-level Packet Capture", 
+      "ranks": 65, 
+      "docid": "citeseerx-d299"
+    }, 
+    {
+      "citeBy": 483, 
+      "title": "The Advantages of Evolutionary Computation", 
+      "ranks": 7, 
+      "docid": "citeseerx-d216"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Implementing data cubes efficiently", 
+      "ranks": 45, 
+      "docid": "citeseerx-d268"
+    }, 
+    {
+      "citeBy": 452, 
+      "title": "Theory and Practice of Constraint Handling Rules", 
+      "ranks": 5, 
+      "docid": "citeseerx-d211"
+    }, 
+    {
+      "citeBy": 452, 
+      "title": "An Overview of Evolutionary Algorithms in Multiobjective Optimization", 
+      "ranks": 9, 
+      "docid": "citeseerx-d206"
+    }, 
+    {
+      "citeBy": 477, 
+      "title": "Multiobjective evolutionary algorithms: a comparative case study and the strength pareto approach", 
+      "ranks": 27, 
+      "docid": "citeseerx-d201"
+    }, 
+    {
+      "citeBy": 153, 
+      "title": "Theoretical and Numerical Constraint-Handling Techniques used with Evolutionary Algorithms: A Survey of the State of the Art", 
+      "ranks": 10, 
+      "docid": "citeseerx-d243"
+    }, 
+    {
+      "citeBy": 26, 
+      "title": "Search biases in constrained evolutionary optimization", 
+      "ranks": 1, 
+      "docid": "citeseerx-d198"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Towards Understanding Constraint-Handling Methods in Evolutionary Algorithms", 
+      "ranks": 3, 
+      "docid": "citeseerx-d199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Constraint-Handling using an Evolutionary Multiobjective Optimization Technique", 
+      "ranks": 0, 
+      "docid": "citeseerx-d196"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evolutionary Game Theory", 
+      "ranks": 4, 
+      "docid": "citeseerx-d203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evolutionary Computing", 
+      "ranks": 6, 
+      "docid": "citeseerx-d208"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IS-PAES: A Constraint-Handling Technique Based on", 
+      "ranks": 13, 
+      "docid": "citeseerx-d217"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Constraint-Handling Techniques Based on Evolutionary Multiobjective Optimization", 
+      "ranks": 15, 
+      "docid": "citeseerx-d219"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Some optimal inapproximability results", 
+      "ranks": 16, 
+      "docid": "citeseerx-d226"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimization by simulated annealing", 
+      "ranks": 17, 
+      "docid": "citeseerx-d228"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A data locality optimizing algorithm", 
+      "ranks": 18, 
+      "docid": "citeseerx-d231"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 19, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 21, 
+      "docid": "citeseerx-d236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 22, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions", 
+      "ranks": 27, 
+      "docid": "citeseerx-d248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?", 
+      "ranks": 28, 
+      "docid": "citeseerx-d249"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ant Colony System: A cooperative learning approach to the traveling salesman problem", 
+      "ranks": 32, 
+      "docid": "citeseerx-d259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The particel swarm: Explosion, stability, and convergence in a multidimensional complex space [J", 
+      "ranks": 36, 
+      "docid": "citeseerx-d266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Image Registration Techniques", 
+      "ranks": 44, 
+      "docid": "citeseerx-d280"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&quot;GrabCut” -- interactive foreground extraction using iterated graph cuts", 
+      "ranks": 49, 
+      "docid": "citeseerx-d290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 52, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 53, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A greedy randomized adaptive search procedure for the 2-partition problem", 
+      "ranks": 59, 
+      "docid": "citeseerx-d309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "What energy functions can be minimized via graph cuts", 
+      "ranks": 62, 
+      "docid": "citeseerx-d316"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 65, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Constraint Logic Programming: A Survey", 
+      "ranks": 68, 
+      "docid": "citeseerx-d328"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 71, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LLVM: A compilation framework for lifelong program analysis &amp; transformation", 
+      "ranks": 72, 
+      "docid": "citeseerx-d333"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 82, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pervasive Computing: Vision and Challenges", 
+      "ranks": 84, 
+      "docid": "citeseerx-d258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mining Association Rules between Sets of Items in Large Databases", 
+      "ranks": 85, 
+      "docid": "citeseerx-d359"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mining Sequential Patterns: Generalizations and Performance Improvements", 
+      "ranks": 86, 
+      "docid": "citeseerx-d361"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semi-Supervised Learning Literature Survey", 
+      "ranks": 87, 
+      "docid": "citeseerx-d232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search", 
+      "ranks": 88, 
+      "docid": "citeseerx-d364"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semidefinite Programming", 
+      "ranks": 89, 
+      "docid": "citeseerx-d366"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by . . .", 
+      "ranks": 90, 
+      "docid": "citeseerx-d368"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 91, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Semantics Of Constraint Logic Programs", 
+      "ranks": 92, 
+      "docid": "citeseerx-d370"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 93, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Democratizing Innovation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d371"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 95, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 96, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligence without reason", 
+      "ranks": 97, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 98, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 99, 
+      "docid": "citeseerx-d379"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q102"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 462, 
+      "title": "Analysis of Recommendation Algorithms for E-Commerce", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6672"
+    }, 
+    {
+      "citeBy": 266, 
+      "title": "Recommender Systems in E-Commerce", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6671"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Characterization of E-Commerce Traffic", 
+      "ranks": 61, 
+      "docid": "citeseerx-d6731"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Personalization in e-commerce applications", 
+      "ranks": 27, 
+      "docid": "citeseerx-d6697"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Patterns for E-commerce applications", 
+      "ranks": 31, 
+      "docid": "citeseerx-d6701"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Intelligent techniques for e-commerce", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6675"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Knowledge Management in an E-commerce System", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6728"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Sophisticated Crosscuts for E-Commerce", 
+      "ranks": 60, 
+      "docid": "citeseerx-d6730"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "An Architecture for Pseudonymous e-Commerce", 
+      "ranks": 74, 
+      "docid": "citeseerx-d6737"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Trust Management for E-Commerce", 
+      "ranks": 24, 
+      "docid": "citeseerx-d6694"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "The Impact of E-Commerce on Transport", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6670"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "The Missing Link: Multimedia and E-Commerce", 
+      "ranks": 55, 
+      "docid": "citeseerx-d6726"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Opportunities for E-commerce in Networking", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6693"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Scaling e-Commerce Sites", 
+      "ranks": 29, 
+      "docid": "citeseerx-d6699"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Activity-Based Costing for E-Commerce", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6763"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Supporting E-Commerce in Wireless Networks", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6766"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "UNCTAD and E-Commerce Success", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6676"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Structuring E-Commerce Inventory", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6707"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Globalization and E-Commerce: Diffusion and Impacts of the Internet and E-Commerce in Germany", 
+      "ranks": 79, 
+      "docid": "citeseerx-d6747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DESIGNING SYSTEMS FOR E-COMMERCE", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "e-Commerce", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6674"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "e-commerce", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6678"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Agribusiness E-Commerce Firms", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6677"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An E-Commerce Framework", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6679"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce Recommendation Applications", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce And Development Report 2001", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6682"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce Building Trust", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6683"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "e-commerce", 
+      "ranks": 14, 
+      "docid": "citeseerx-d6684"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trust and e-commerce in the agrifood industry:", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "e-Commerce Ventures", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6687"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ERP in the e-commerce era", 
+      "ranks": 18, 
+      "docid": "citeseerx-d6688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Leadership Styles in E-commerce", 
+      "ranks": 19, 
+      "docid": "citeseerx-d6689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PERCEPTIONS OF BARRIERS TO E-COMMERCE", 
+      "ranks": 20, 
+      "docid": "citeseerx-d6690"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An overview of E-commerce", 
+      "ranks": 21, 
+      "docid": "citeseerx-d6680"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Secure E-Commerce Protocol", 
+      "ranks": 22, 
+      "docid": "citeseerx-d6691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-COMMERCE AND THE CONSTRUCTION INDUSTRY", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6695"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Networking Metaphors for E-Commerce", 
+      "ranks": 26, 
+      "docid": "citeseerx-d6696"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysing E-commerce for Development", 
+      "ranks": 28, 
+      "docid": "citeseerx-d6698"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce in Developing Countries", 
+      "ranks": 28, 
+      "docid": "citeseerx-d6700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-COMMERCE MEASUREMENTS AND ANALYSIS", 
+      "ranks": 30, 
+      "docid": "citeseerx-d6702"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ON THE EVALUATION OF E-COMMERCE ABILITY", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6703"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An eCommerce Primer for Technical Communicators", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management For Success in eCommerce", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6704"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce and the region: not necessarily an unequivocal", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6708"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Role of E-Commerce in Business Education", 
+      "ranks": 37, 
+      "docid": "citeseerx-d6706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Application of E-commerce to a SME", 
+      "ranks": 39, 
+      "docid": "citeseerx-d6709"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Taxonomy of E-commerce Disputes", 
+      "ranks": 40, 
+      "docid": "citeseerx-d6710"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Advanced SWOT Analysis of E-Commerce", 
+      "ranks": 41, 
+      "docid": "citeseerx-d6712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Are E-commerce Users Defenceless? *", 
+      "ranks": 41, 
+      "docid": "citeseerx-d6713"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Important Factors for E-Commerce", 
+      "ranks": 43, 
+      "docid": "citeseerx-d6714"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Implementation of E-Commerce Ontology", 
+      "ranks": 44, 
+      "docid": "citeseerx-d6715"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Taxing Issue of E-Commerce The Taxing Issue of E-Commerce", 
+      "ranks": 45, 
+      "docid": "citeseerx-d6716"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Regulating E-Commerce using XML", 
+      "ranks": 46, 
+      "docid": "citeseerx-d6717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce in Asia: A Regional Scorecard", 
+      "ranks": 46, 
+      "docid": "citeseerx-d6718"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-COMMERCE SECURITY STRATEGIES", 
+      "ranks": 47, 
+      "docid": "citeseerx-d6719"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce Security Resource", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6720"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce Smartphone Application", 
+      "ranks": 49, 
+      "docid": "citeseerx-d6721"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce Stimuli and Practices in Malaysia", 
+      "ranks": 50, 
+      "docid": "citeseerx-d6722"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Who Is Hurt by E-commerce?", 
+      "ranks": 52, 
+      "docid": "citeseerx-d6723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MODELLING IS SUCCESSIONS IN E-COMMERCE", 
+      "ranks": 53, 
+      "docid": "citeseerx-d6724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emotion-Oriented eCommerce Systems", 
+      "ranks": 54, 
+      "docid": "citeseerx-d6741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce: Curriculum, Pedagogy, Outlook", 
+      "ranks": 55, 
+      "docid": "citeseerx-d6727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EXPLANATORY MODEL FOR E-COMMERCE INITIATIVES", 
+      "ranks": 59, 
+      "docid": "citeseerx-d6729"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce Security Issues", 
+      "ranks": 60, 
+      "docid": "citeseerx-d6732"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Context-Sensitive eCommerce", 
+      "ranks": 63, 
+      "docid": "citeseerx-d6733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiple Correspondences in E-Commerce", 
+      "ranks": 64, 
+      "docid": "citeseerx-d6736"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "to Payment System on E-commerce Network", 
+      "ranks": 65, 
+      "docid": "citeseerx-d6735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Some Market Effects of E-Commerce", 
+      "ranks": 66, 
+      "docid": "citeseerx-d6711"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Developing Model of E-commerce E-marketing", 
+      "ranks": 67, 
+      "docid": "citeseerx-d6734"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Architecture for Pseudonymous e-Commerce", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6740"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INVESTIGATION OF EMERGING TECHNOLOGIES IN LUXURY BRANDS E-COMMERCE", 
+      "ranks": 69, 
+      "docid": "citeseerx-d6725"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interoperability and Business Models for e-commerce", 
+      "ranks": 70, 
+      "docid": "citeseerx-d6738"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce: The role of familiarity and trust", 
+      "ranks": 70, 
+      "docid": "citeseerx-d6742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Timing to Invest in E-commerce", 
+      "ranks": 71, 
+      "docid": "citeseerx-d6739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "“E-Commerce and the Environment” Summary Document By", 
+      "ranks": 72, 
+      "docid": "citeseerx-d6744"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-commerce Success 1 E-commerce Success", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 THE ROLE OF E-COMMERCE FOR THE GROWTH OF", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bundle Recommendation in eCommerce", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Market for E-Commerce Services in Agriculture*", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Role of Software Agents in E-Commerce", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6748"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Innovation, Learning and E-Commerce", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract Formulating an E-commerce Strategy", 
+      "ranks": 82, 
+      "docid": "citeseerx-d6750"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security: important issue in e-commerce", 
+      "ranks": 83, 
+      "docid": "citeseerx-d6752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Study on Combining of E-commerce and E-marketing", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Secure E-commerce Protection Profile", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6756"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Watermarking in E-commerce", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6754"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database Design for Real-World E-Commerce Systems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d6753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GOVERNING E-COMMERCE PROSPECTS AND PROBLEMS", 
+      "ranks": 88, 
+      "docid": "citeseerx-d6757"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce in India: A Review", 
+      "ranks": 88, 
+      "docid": "citeseerx-d6760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Reference Model for E-Commerce", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6758"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Commerce In Production: Some Experiences", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LEGAL ISSUES OF PERSONALIZED E-COMMERCE", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USING EBAY TO TEACH E-COMMERCE", 
+      "ranks": 93, 
+      "docid": "citeseerx-d6762"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Student Writing The Nature of E-Commerce", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6764"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-COMMERCE BEHAVIOR IN DIFFERENT COUNTRIES", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6767"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Requirements for Building an E-commerce Infrastructure", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6765"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-COMMERCE AND E-PROCUREMENT/PURCHASING", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EIOP - An E-Commerce Interoperability Platform", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMPACT OF E-COMMERCE ON BUSINESS STRATEGY", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Application of E-Commerce in Auction Process", 
+      "ranks": 99, 
+      "docid": "citeseerx-d6771"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q160"
+}

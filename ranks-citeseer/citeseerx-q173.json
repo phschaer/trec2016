@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 16, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 989, 
+      "title": "Secure spread spectrum watermarking for multimedia", 
+      "ranks": 0, 
+      "docid": "citeseerx-d2309"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 29, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 1, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 1296, 
+      "title": "Light Field Rendering", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3982"
+    }, 
+    {
+      "citeBy": 855, 
+      "title": "Overview of the H.264/AVC Video Coding Standard", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2302"
+    }, 
+    {
+      "citeBy": 1047, 
+      "title": "The JPEG still picture compression standard", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3945"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 25, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 926, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 5, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 997, 
+      "title": "The Lumigraph", 
+      "ranks": 17, 
+      "docid": "citeseerx-d4287"
+    }, 
+    {
+      "citeBy": 916, 
+      "title": "MediaBench: A Tool for Evaluating and Synthesizing Multimedia and Communications Systems", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2267"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 33, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 34, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 7, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 814, 
+      "title": "Equation-based congestion control for unicast applications", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1081"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Quantization", 
+      "ranks": 31, 
+      "docid": "citeseerx-d339"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "Optimal Aggregation Algorithms for Middleware", 
+      "ranks": 4, 
+      "docid": "citeseerx-d437"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 11, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 528, 
+      "title": "Analysis, Modeling and Generation of Self-Similar VBR Video Traffic", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1793"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "ranks": 30, 
+      "docid": "citeseerx-d924"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "M-tree: An Efficient Access Method for Similarity Search in Metric Spaces", 
+      "ranks": 27, 
+      "docid": "citeseerx-d693"
+    }, 
+    {
+      "citeBy": 607, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "The 2005 pascal visual object classes challenge", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1771"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 522, 
+      "title": "Representing Moving Images with Layers", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5980"
+    }, 
+    {
+      "citeBy": 521, 
+      "title": "Modeling Strategic Relationships for Process Reengineering", 
+      "ranks": 24, 
+      "docid": "citeseerx-d85"
+    }, 
+    {
+      "citeBy": 514, 
+      "title": "Assigned Numbers", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1122"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Quantization Index Modulation: A Class of Provably Good Methods for Digital Watermarking and Information Embedding", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7641"
+    }, 
+    {
+      "citeBy": 487, 
+      "title": "Efficient and Effective Querying by Image Content", 
+      "ranks": 39, 
+      "docid": "citeseerx-d356"
+    }, 
+    {
+      "citeBy": 486, 
+      "title": "QSplat: A Multiresolution Point Rendering System for Large Meshes", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7640"
+    }, 
+    {
+      "citeBy": 464, 
+      "title": "Image retrieval: Current techniques, promising directions and open issues", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2661"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Evaluation campaigns and TRECVid", 
+      "ranks": 42, 
+      "docid": "citeseerx-d17"
+    }, 
+    {
+      "citeBy": 458, 
+      "title": "Lottery Scheduling: Flexible Proportional-Share Resource Management", 
+      "ranks": 45, 
+      "docid": "citeseerx-d7643"
+    }, 
+    {
+      "citeBy": 429, 
+      "title": "The PARSEC benchmark suite: Characterization and architectural implications", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7663"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 418, 
+      "title": "Horus: A flexible group communication system", 
+      "ranks": 53, 
+      "docid": "citeseerx-d7646"
+    }, 
+    {
+      "citeBy": 414, 
+      "title": "Image Indexing Using Color Correlograms", 
+      "ranks": 54, 
+      "docid": "citeseerx-d7657"
+    }, 
+    {
+      "citeBy": 410, 
+      "title": "Error Control and Concealment for Video Communication -- A Review", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4920"
+    }, 
+    {
+      "citeBy": 401, 
+      "title": "Searching in Metric Spaces", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7655"
+    }, 
+    {
+      "citeBy": 396, 
+      "title": "Overview of the scalable video coding extension of the H.264/AVC standard", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7684"
+    }, 
+    {
+      "citeBy": 397, 
+      "title": "MIME (Multipurpose Internet Mail Extensions) Part One: Mechanisms for Specifying and  Describing the Format . . .", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7652"
+    }, 
+    {
+      "citeBy": 388, 
+      "title": "Combined Object Categorization and Segmentation With An Implicit Shape Model", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7669"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "Software agents: An overview", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1369"
+    }, 
+    {
+      "citeBy": 375, 
+      "title": "Particle Systems - A Technique for Modeling a Class of Fuzzy Objects", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7650"
+    }, 
+    {
+      "citeBy": 374, 
+      "title": "Internet Indirection Infrastructure", 
+      "ranks": 66, 
+      "docid": "citeseerx-d7658"
+    }, 
+    {
+      "citeBy": 372, 
+      "title": "On The Limits of Steganography", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7660"
+    }, 
+    {
+      "citeBy": 342, 
+      "title": "Dynamic Textures", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3697"
+    }, 
+    {
+      "citeBy": 323, 
+      "title": "Videoconferencing on the Internet", 
+      "ranks": 78, 
+      "docid": "citeseerx-d7666"
+    }, 
+    {
+      "citeBy": 321, 
+      "title": "Robust multiresolution estimation of parametric motion models", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7676"
+    }, 
+    {
+      "citeBy": 315, 
+      "title": "Multimedia Watermarking Techniques", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1824"
+    }, 
+    {
+      "citeBy": 316, 
+      "title": "Attacks on Copyright Marking Systems", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7672"
+    }, 
+    {
+      "citeBy": 314, 
+      "title": "Elliptical Head Tracking Using Intensity Gradients and Color Histograms", 
+      "ranks": 84, 
+      "docid": "citeseerx-d7685"
+    }, 
+    {
+      "citeBy": 306, 
+      "title": "An Active Service Framework and its Application to Real-time Multimedia Transcoding", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7680"
+    }, 
+    {
+      "citeBy": 303, 
+      "title": "Scalable Feedback Control for Multicast Video Distribution in the Internet", 
+      "ranks": 69, 
+      "docid": "citeseerx-d7659"
+    }, 
+    {
+      "citeBy": 300, 
+      "title": "Statistical properties of MPEG video traffic . . .", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7642"
+    }, 
+    {
+      "citeBy": 294, 
+      "title": "The Simulation and Evaluation of Dynamic Voltage Scaling Algorithms", 
+      "ranks": 80, 
+      "docid": "citeseerx-d7664"
+    }, 
+    {
+      "citeBy": 286, 
+      "title": "Unsupervised Segmentation of Color-Texture Regions in Images and Video", 
+      "ranks": 73, 
+      "docid": "citeseerx-d7683"
+    }, 
+    {
+      "citeBy": 285, 
+      "title": "Distributed video coding", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7668"
+    }, 
+    {
+      "citeBy": 257, 
+      "title": "RTP profile for audio and video conferences with minimal control", 
+      "ranks": 91, 
+      "docid": "citeseerx-d7677"
+    }, 
+    {
+      "citeBy": 220, 
+      "title": "Digital Watermarking of Raw and Compressed Video", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7682"
+    }, 
+    {
+      "citeBy": 215, 
+      "title": "Multimedia dataembedding and watermarking technologies", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7656"
+    }, 
+    {
+      "citeBy": 180, 
+      "title": "Perceptual Watermarks for Digital Images and Video", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7654"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Selective Encryption and Watermarking of MPEG Video (Extended Abstract)", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7673"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Checcacci: Watermarking of MPEG-4 video objects", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7671"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONDENSATION - conditional density propagation for visual tracking", 
+      "ranks": 6, 
+      "docid": "citeseerx-d4906"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 10, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RTP: A Transport Protocol for Real-Time Applications", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 13, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Retrieval", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 23, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On combining classifiers", 
+      "ranks": 25, 
+      "docid": "citeseerx-d943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 28, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 30, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Medical Image Registration", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Watermarking of Uncompressed and Compressed Video", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "vic: A Flexible Framework for Packet Video", 
+      "ranks": 47, 
+      "docid": "citeseerx-d2673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Secure Environment for Untrusted Helper Applications -- Confining the Wily Hacker", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7647"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of general-purpose computation on graphics hardware", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2663"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-parametric model for background subtraction", 
+      "ranks": 53, 
+      "docid": "citeseerx-d7648"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Watermarking of MPEG-4 Videos", 
+      "ranks": 54, 
+      "docid": "citeseerx-d7649"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evolutionary Algorithms for Multiobjective Optimization: Methods and Applications", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improv: A System for Scripting Interactive Actors in Virtual Worlds", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3582"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Fuzzy Commitment Scheme", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7661"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Algorithm for Lossless Smoothing of MPEG Video", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7662"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MPEG Video Encryption Algorithms", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7665"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Hierarchical CPU Scheduler for Multimedia Operating Systems", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7667"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Watermark For Digital Images", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7670"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image retrieval: ideas, influences, and trends of the new age", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey on visual surveillance of object motion and behaviors", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The MPEG-4 video standard verification model", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Time-Variant Watermarking of MPEG-Compressed Digital Videos", 
+      "ranks": 90, 
+      "docid": "citeseerx-d7681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AntNet: Distributed stigmergetic control for communications networks", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SCRAMBLING-BASED WATERMARKING FOR MPEG-4 VIDEO", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7674"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Secure, Robust Watermark for Multimedia", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7687"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Video Watermarking Algorithm Resilient to MPEG-2 Compression and Collusion Attacks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Watermarking as communications with side information", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7689"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q173"
+}

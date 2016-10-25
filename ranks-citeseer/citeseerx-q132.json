@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 3435, 
+      "title": "Normalized Cuts and Image Segmentation", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3972"
+    }, 
+    {
+      "citeBy": 2914, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 2456, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 80, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 2374, 
+      "title": "MEGA5:  Molecular evolutionary genetics analysis using maximum . . .", 
+      "ranks": 29, 
+      "docid": "citeseerx-d223"
+    }, 
+    {
+      "citeBy": 2297, 
+      "title": "Increasing Returns and Long-Run Growth", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3461"
+    }, 
+    {
+      "citeBy": 2059, 
+      "title": "On limits of wireless communications in a fading environment when using multiple antennas", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2282"
+    }, 
+    {
+      "citeBy": 1987, 
+      "title": "Active Appearance Models", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3967"
+    }, 
+    {
+      "citeBy": 1798, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 11, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 68, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1841, 
+      "title": "The probabilistic method", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1117"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1593, 
+      "title": "A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS", 
+      "ranks": 95, 
+      "docid": "citeseerx-d947"
+    }, 
+    {
+      "citeBy": 1534, 
+      "title": "A Model of Saliency-based Visual Attention for Rapid Scene Analysis", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3954"
+    }, 
+    {
+      "citeBy": 1218, 
+      "title": "Monte Carlo Statistical Methods", 
+      "ranks": 7, 
+      "docid": "citeseerx-d440"
+    }, 
+    {
+      "citeBy": 1309, 
+      "title": "The WEKA Data Mining Software: An Update", 
+      "ranks": 91, 
+      "docid": "citeseerx-d827"
+    }, 
+    {
+      "citeBy": 1296, 
+      "title": "Light Field Rendering", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3982"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 77, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1225, 
+      "title": "Object Detection with Discriminatively Trained Part Based Models", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1673"
+    }, 
+    {
+      "citeBy": 1123, 
+      "title": "Base-calling of automated sequencer traces using phred. I. Accuracy Assessment", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3981"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1047, 
+      "title": "The JPEG still picture compression standard", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3945"
+    }, 
+    {
+      "citeBy": 1079, 
+      "title": "Reversible jump Markov chain Monte Carlo computation and Bayesian model determination", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2440"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Parameterized Complexity", 
+      "ranks": 54, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 1048, 
+      "title": "Multiresolution grayscale and rotation invariant texture classification with local binary patterns", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1836"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "A Morphable Model For The Synthesis Of 3D Faces", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2858"
+    }, 
+    {
+      "citeBy": 989, 
+      "title": "Secure spread spectrum watermarking for multimedia", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2309"
+    }, 
+    {
+      "citeBy": 966, 
+      "title": "The Well-Founded Semantics for General Logic Programs", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2119"
+    }, 
+    {
+      "citeBy": 892, 
+      "title": "Visual categorization with bags of keypoints", 
+      "ranks": 10, 
+      "docid": "citeseerx-d493"
+    }, 
+    {
+      "citeBy": 912, 
+      "title": "Using Bayesian networks to analyze expression data", 
+      "ranks": 23, 
+      "docid": "citeseerx-d564"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 26, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 898, 
+      "title": "Location Systems for Ubiquitous Computing", 
+      "ranks": 69, 
+      "docid": "citeseerx-d250"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 93, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 888, 
+      "title": "Separation Logic: A Logic for Shared Mutable Data Structures", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3970"
+    }, 
+    {
+      "citeBy": 853, 
+      "title": "A high-performance, portable implementation of the MPI message passing interface standard", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2298"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 94, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 864, 
+      "title": "Groupware: Some issues and experiences", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2731"
+    }, 
+    {
+      "citeBy": 862, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 41, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 16, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 773, 
+      "title": "An analysis of transformations", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3957"
+    }, 
+    {
+      "citeBy": 777, 
+      "title": "Domain Names - Concepts and Facilities", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2942"
+    }, 
+    {
+      "citeBy": 770, 
+      "title": "Distributed hierarchical processing in the primate cerebral cortex", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1043"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "EigenTracking: Robust Matching and Tracking of Articulated Objects Using a View-Based Representation", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3931"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Basic objects in natural categories", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1093"
+    }, 
+    {
+      "citeBy": 716, 
+      "title": "Linear models and empirical Bayes methods for assessing differential expression in microarray experiments", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2304"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 25, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "Virtual Time and Global States of Distributed Systems", 
+      "ranks": 58, 
+      "docid": "citeseerx-d3976"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 27, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Ontology Development 101: A Guide to Creating Your First Ontology", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "A New Kind of Science", 
+      "ranks": 59, 
+      "docid": "citeseerx-d778"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 629, 
+      "title": "The earth mover’s distance as a metric for image retrieval", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3949"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Lucas-Kanade 20 Years On: A Unifying Framework: Part 3", 
+      "ranks": 17, 
+      "docid": "citeseerx-d313"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Probabilistic Latent Semantic Analysis", 
+      "ranks": 90, 
+      "docid": "citeseerx-d284"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "Comparison of discrimination methods for the classification of tumors using gene expression data", 
+      "ranks": 15, 
+      "docid": "citeseerx-d474"
+    }, 
+    {
+      "citeBy": 638, 
+      "title": "Matching words and pictures", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1134"
+    }, 
+    {
+      "citeBy": 633, 
+      "title": "Genomic Expression Programs in the Response of Yeast Cells to Environmental Changes", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3969"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 55, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Typesetting Concrete Mathematics", 
+      "ranks": 89, 
+      "docid": "citeseerx-d936"
+    }, 
+    {
+      "citeBy": 590, 
+      "title": "Multiresolution Analysis of Arbitrary Meshes", 
+      "ranks": 31, 
+      "docid": "citeseerx-d3952"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 571, 
+      "title": "Unsupervised texture segmentation using Gabor filters", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3987"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Photobook: Content-Based Manipulation of Image Databases", 
+      "ranks": 43, 
+      "docid": "citeseerx-d976"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Applications Of Circumscription To Formalizing Common Sense Knowledge", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Simultaneous color constancy: how surface color perception varies with the illuminant", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3928"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Color indexing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 4, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 5, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&quot;GrabCut” -- interactive foreground extraction using iterated graph cuts", 
+      "ranks": 8, 
+      "docid": "citeseerx-d290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Where the really hard problems are", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Spectral Clustering: Analysis and an algorithm", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 44, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Volumetric Method for Building Complex Models from Range Images", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Subjective probability and expected utility without additivity", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3983"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficiently computing static single assignment form and the control dependence graph", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Visual Formalisms", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligence Without Representation", 
+      "ranks": 78, 
+      "docid": "citeseerx-d669"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications", 
+      "ranks": 79, 
+      "docid": "citeseerx-d561"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 80, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Knowledge acquisition via incremental conceptual clustering", 
+      "ranks": 81, 
+      "docid": "citeseerx-d777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 82, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Plenoptic Modeling: An Image-Based Rendering System", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1604"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 84, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ad-hoc On-Demand Distance Vector Routing", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2955"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Proof verification and hardness of approximation problems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 87, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parental Investment and Sexual Selection", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 89, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 90, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Why a diagram is (sometimes) worth ten thousand words", 
+      "ranks": 91, 
+      "docid": "citeseerx-d961"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on hidden Markov models and selected applications in speech recognition", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 94, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Phylogenetic identification and in situ detection of individual microbial cells without cultivation. Microbiol. Rev", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A greedy randomized adaptive search procedure for the 2-partition problem", 
+      "ranks": 97, 
+      "docid": "citeseerx-d309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Some studies in machine learning using the game of Checkers", 
+      "ranks": 98, 
+      "docid": "citeseerx-d727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing", 
+      "ranks": 99, 
+      "docid": "citeseerx-d346"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q132"
+}

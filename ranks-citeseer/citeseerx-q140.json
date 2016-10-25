@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 10418, 
+      "title": "Maximum likelihood from incomplete data via the EM algorithm", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3128"
+    }, 
+    {
+      "citeBy": 7891, 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1808"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2825, 
+      "title": "Regression Shrinkage and Selection Via the Lasso", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4468"
+    }, 
+    {
+      "citeBy": 2558, 
+      "title": "Online Learning with Kernels", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1801"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 57, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2421, 
+      "title": "A Heteroskedasticity-Consistent Covariance Matrix Estimator And A Direct Test For Heteroskedasticity", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4275"
+    }, 
+    {
+      "citeBy": 2358, 
+      "title": "Object Recognition from Local Scale-Invariant Features", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1829"
+    }, 
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 53, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 1998, 
+      "title": "Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3481"
+    }, 
+    {
+      "citeBy": 1938, 
+      "title": "Orthonormal bases of compactly supported wavelets", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4571"
+    }, 
+    {
+      "citeBy": 1626, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 58, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 1457, 
+      "title": "The Byzantine Generals Problem", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4557"
+    }, 
+    {
+      "citeBy": 1440, 
+      "title": "Mining Sequential Patterns", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1671"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 36, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 1332, 
+      "title": "A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by . . .", 
+      "ranks": 40, 
+      "docid": "citeseerx-d368"
+    }, 
+    {
+      "citeBy": 1333, 
+      "title": "An affine invariant interest point detector", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1812"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 82, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 1246, 
+      "title": "Performance of optical flow techniques", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2432"
+    }, 
+    {
+      "citeBy": 1172, 
+      "title": "LIBLINEAR: A Library for Large Linear Classification", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1692"
+    }, 
+    {
+      "citeBy": 1179, 
+      "title": "Automatic Acquisition of Hyponyms from Large Text Corpora", 
+      "ranks": 43, 
+      "docid": "citeseerx-d251"
+    }, 
+    {
+      "citeBy": 1093, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 35, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 1096, 
+      "title": "Improved Approximation Algorithms for Maximum Cut and Satisfiability Problems Using Semidefinite Programming", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4564"
+    }, 
+    {
+      "citeBy": 1061, 
+      "title": "Object class recognition by unsupervised scale-invariant learning", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2957"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 953, 
+      "title": "Scalable Recognition with a Vocabulary Tree", 
+      "ranks": 78, 
+      "docid": "citeseerx-d205"
+    }, 
+    {
+      "citeBy": 894, 
+      "title": "Closed-form solution of absolute orientation using unit quaternions", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4570"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "Automatically characterizing large scale program behavior", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4549"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 66, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 813, 
+      "title": "A Comparison of Methods for Multiclass Support Vector Machines", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4600"
+    }, 
+    {
+      "citeBy": 809, 
+      "title": "End-to-End Internet Packet Dynamics", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1098"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 26, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 85, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 789, 
+      "title": "Consensus Problems in Networks of Agents with Switching Topology and Time-Delays", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2407"
+    }, 
+    {
+      "citeBy": 784, 
+      "title": "Stochastic Perturbation Theory", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4576"
+    }, 
+    {
+      "citeBy": 779, 
+      "title": "The Twin Crises: The Causes of Banking and Balance-of-Payments Problems", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1051"
+    }, 
+    {
+      "citeBy": 754, 
+      "title": "Proof verification and hardness of approximation problems", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3993"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 743, 
+      "title": "Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3667"
+    }, 
+    {
+      "citeBy": 741, 
+      "title": "Random key predistribution schemes for sensor networks", 
+      "ranks": 72, 
+      "docid": "citeseerx-d754"
+    }, 
+    {
+      "citeBy": 721, 
+      "title": "A New Method for Solving Hard Satisfiability Problems", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4174"
+    }, 
+    {
+      "citeBy": 659, 
+      "title": "On the limited memory BFGS method for large scale optimization", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4551"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 708, 
+      "title": "Anti-de Sitter Space, Thermal Phase Transition, and Confinement in Gauge Theories", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2323"
+    }, 
+    {
+      "citeBy": 658, 
+      "title": "Feature detection with automatic scale selection", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1664"
+    }, 
+    {
+      "citeBy": 669, 
+      "title": "Solving multiclass learning problems via error-correcting output codes", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2288"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "The nas parallel benchmarks", 
+      "ranks": 77, 
+      "docid": "citeseerx-d4587"
+    }, 
+    {
+      "citeBy": 659, 
+      "title": "Parallel Numerical Linear Algebra", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1593"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 97, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "SCRIBE: A large-scale and decentralized application-level multicast infrastructure", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3526"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Inducing Features of Random Fields", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4586"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "EigenTracking: Robust Matching and Tracking of Articulated Objects Using a View-Based Representation", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3931"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4598"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 42, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 618, 
+      "title": "A new approach to the maximum flow problem", 
+      "ranks": 56, 
+      "docid": "citeseerx-d2953"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "GloMoSim: A Library for Parallel Simulation of Large-scale Wireless Networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3561"
+    }, 
+    {
+      "citeBy": 608, 
+      "title": "Iterative point matching for registration of free-form curves and surfaces", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2422"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 13, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 589, 
+      "title": "Capacity of Ad Hoc Wireless Networks", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1063"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Next Century Challenges: Mobile Networking for “Smart Dust”", 
+      "ranks": 81, 
+      "docid": "citeseerx-d807"
+    }, 
+    {
+      "citeBy": 568, 
+      "title": "Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search", 
+      "ranks": 91, 
+      "docid": "citeseerx-d364"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 96, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 14, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Shiftable Multi-scale Transforms", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4561"
+    }, 
+    {
+      "citeBy": 546, 
+      "title": "Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4281"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "BIRCH: an efficient data clustering method for very large databases", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2451"
+    }, 
+    {
+      "citeBy": 523, 
+      "title": "The Vocabulary Problem in Human-System Communication", 
+      "ranks": 31, 
+      "docid": "citeseerx-d4578"
+    }, 
+    {
+      "citeBy": 438, 
+      "title": "Valuing American options by simulation: A simple least-squares approach", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4580"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Benchmarking Least Squares Support Vector Machine Classifiers", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Least squares quantization in pcm", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Least Median of Squares Regression", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4547"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Least angle regression", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1645"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Least-Squares Policy Iteration", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4550"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LSQR: An Algorithm for Sparse Linear Equations and Sparse Least Squares", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4552"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 10, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 14, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CURE: An Efficient Clustering Algorithm for Large Data sets", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Where the really hard problems are", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large steps in cloth simulation", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Problems in Computational Geometry", 
+      "ranks": 31, 
+      "docid": "citeseerx-d351"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The large N limit of superconformal field theories and supergravity", 
+      "ranks": 32, 
+      "docid": "citeseerx-d4558"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale-space and edge detection using anisotropic diffusion", 
+      "ranks": 33, 
+      "docid": "citeseerx-d731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2402"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 49, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "How To Prove Yourself: Practical Solutions to Identification and Signature Problems", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4574"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ant Colony System: A cooperative learning approach to the traveling salesman problem", 
+      "ranks": 54, 
+      "docid": "citeseerx-d259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "De-Noising By Soft-Thresholding", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Algorithms for Mining Association Rules", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Snopt: An SQP Algorithm For Large-Scale Constrained Optimization", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4588"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 75, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Beyond Market Baskets: Generalizing Association Rules To Dependence Rules", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Snakes: Active contour models", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4601"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 92, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4193"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The complexity of theorem-proving procedures", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inverse Acoustic and Electromagnetic Scattering Theory, Second Edition", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 98, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mfold web server for nucleic acid folding and hybridization prediction", 
+      "ranks": 99, 
+      "docid": "citeseerx-d385"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q140"
+}

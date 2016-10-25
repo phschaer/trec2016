@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4144, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2933, 
+      "title": "Rapid object detection using a boosted cascade of simple features", 
+      "ranks": 33, 
+      "docid": "citeseerx-d744"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1847"
+    }, 
+    {
+      "citeBy": 1700, 
+      "title": "Scale-space and edge detection using anisotropic diffusion", 
+      "ranks": 58, 
+      "docid": "citeseerx-d731"
+    }, 
+    {
+      "citeBy": 1137, 
+      "title": "Neural Network-Based Face Detection", 
+      "ranks": 1, 
+      "docid": "citeseerx-d941"
+    }, 
+    {
+      "citeBy": 1225, 
+      "title": "Object Detection with Discriminatively Trained Part Based Models", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1673"
+    }, 
+    {
+      "citeBy": 1083, 
+      "title": "Robust Real-time Object Detection", 
+      "ranks": 10, 
+      "docid": "citeseerx-d302"
+    }, 
+    {
+      "citeBy": 1044, 
+      "title": "Snort - Lightweight Intrusion Detection for Networks", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1767"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "A Morphable Model For The Synthesis Of 3D Faces", 
+      "ranks": 31, 
+      "docid": "citeseerx-d2858"
+    }, 
+    {
+      "citeBy": 1014, 
+      "title": "The FERET evaluation methodology for face recognition algorithms", 
+      "ranks": 32, 
+      "docid": "citeseerx-d929"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 2, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 870, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 63, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 795, 
+      "title": "OBB-Tree: A hierarchical structure for rapid interference detection", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1636"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "Example-based learning for view-based human face detection", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1789"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "View-Based and Modular Eigenspaces for Face Recognition", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1797"
+    }, 
+    {
+      "citeBy": 757, 
+      "title": "Pictorial Structures for Object Recognition", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1826"
+    }, 
+    {
+      "citeBy": 747, 
+      "title": "Phylogenetic identification and in situ detection of individual microbial cells without cultivation. Microbiol. Rev", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1792"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "Robust real-time face detection", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1695"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 15, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Probabilistic Visual Learning for Object Representation", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1804"
+    }, 
+    {
+      "citeBy": 658, 
+      "title": "Feature-Based Human Face Detection", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2848"
+    }, 
+    {
+      "citeBy": 205, 
+      "title": "Rotation invariant neural network-based face detection", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2831"
+    }, 
+    {
+      "citeBy": 160, 
+      "title": "Fast Multi-view Face Detection", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2828"
+    }, 
+    {
+      "citeBy": 153, 
+      "title": "FloatBoost Learning and Statistical Face Detection", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2864"
+    }, 
+    {
+      "citeBy": 117, 
+      "title": "Coarse-to-Fine Face Detection", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2878"
+    }, 
+    {
+      "citeBy": 68, 
+      "title": "Computationally Efficient Face Detection", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2855"
+    }, 
+    {
+      "citeBy": 38, 
+      "title": "Human Face Detection in Visual Scenes", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2826"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "A Survey on Face Detection Methods", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2927"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Objcut for face detection", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2854"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Efficient Focusing and Face Detection", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2898"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Maximum Likelihood Face Detection", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2899"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Feature Selection for Face Detection", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2872"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Structural Models for Face Detection", 
+      "ranks": 47, 
+      "docid": "citeseerx-d2883"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "AN INTEGRATED APPROACH TO CONTEXTUAL FACE DETECTION.", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2930"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Inefficient face detection in schizophrenia", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2887"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Frontal View Face Detection", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2923"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Hybrid Face Detection in Color Images", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2939"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection In Color Images", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2821"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2824"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 6, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection CUDA Accelerating", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2833"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Threshold Based Face Detection", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2840"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Eigenfeature Optimization for Face Detection", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2835"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection: a Survey", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face detection project report", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2843"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Theory and Face Detection", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2842"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 19, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition: features versus templates", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face detection on embedded systems", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2849"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection and Recognition", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2851"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semi-Supervised Face Detection", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2853"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Face Detection Using the Hausdorff Distance", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2861"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face detection and modeling for recognition", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Unconstrained Face Detection", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2860"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection with Neural Networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2866"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection and Tracking", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Analysis of Eigenfaces for Face Detection by", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2870"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection Using Ferns", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACE DETECTION AND FACE RECOGNITION", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2877"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Attentive Face Detection and Recognition", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Feature detection with automatic scale selection", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1664"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Human Face detection", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2890"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Profile Face Detection", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-Time Face Detection", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2894"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection in the Near-IR Spectrum", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From Few to many: Illumination cone models for face recognition under variable lighting and pose", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection By Using Independent Component", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2907"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection using Neural Network", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2910"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face detection in normal and prosopagnosic individuals", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2912"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Component-based Face Detection", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2916"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection by Orientation Map Matching", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2920"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Learning for Statistical Face Detection", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2895"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection in Still Gray Images", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2925"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NEW FAST PCA FOR FACE DETECTION", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2914"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introduction Face detection", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2918"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vision: Face Detection", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN INTEGRATED SYSTEM FOR FACE DETECTION AND TRACKING", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2921"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Human Face Detection Using Genetic Algorithm", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2938"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Role of Structural Information for Face Detection", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2922"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Neurally-derived representations for face detection", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2941"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face detection - efficient and rank deficient", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Component-based Face Detection", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2836"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection By Direct Convexity Estimation", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2944"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection in the Near-IR Spectrum", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2945"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review: Face Detection and Recognition Techniques", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2929"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection in the Near-IR Spectrum", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2947"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-Time Face Detection and Recognition", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2949"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FEA-ACCU CASCADE FOR FACE DETECTION", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2951"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Detection using Multiple Cues", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2952"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 92, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 93, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementing remote procedure calls", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1077"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 95, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mixtures of Linear Subspaces for Face Detection", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 97, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enhancing the Performance of GPU for Face Detection", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2932"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multi-band Image Segmentation", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2956"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel face Detection and Recognition on GPU", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2940"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object class recognition by unsupervised scale-invariant learning", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2957"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q122"
+}

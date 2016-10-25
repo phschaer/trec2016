@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2914, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 76, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2291, 
+      "title": "A Course in Game Theory", 
+      "ranks": 56, 
+      "docid": "citeseerx-d419"
+    }, 
+    {
+      "citeBy": 1974, 
+      "title": "Corporate Financing and Investment Decisions when Firms Have Information that Investors Do Not Have", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4108"
+    }, 
+    {
+      "citeBy": 1726, 
+      "title": "Agency costs of free cash flow, corporate finance and takeovers", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2286"
+    }, 
+    {
+      "citeBy": 1692, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 1569, 
+      "title": "Near Shannon limit error-correcting coding and decoding", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6426"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 16, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1525, 
+      "title": "Network information flow", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2350"
+    }, 
+    {
+      "citeBy": 1430, 
+      "title": "Learning to predict by the methods of temporal differences", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2844"
+    }, 
+    {
+      "citeBy": 1335, 
+      "title": "Space-time block codes from orthogonal designs", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6660"
+    }, 
+    {
+      "citeBy": 1362, 
+      "title": "A universal algorithm for sequential data compression", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7349"
+    }, 
+    {
+      "citeBy": 1248, 
+      "title": "Wattch: A Framework for Architectural-Level Power Analysis and Optimizations", 
+      "ranks": 9, 
+      "docid": "citeseerx-d253"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 20, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1123, 
+      "title": "Perfect equilibrium in a bargaining model", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7692"
+    }, 
+    {
+      "citeBy": 1116, 
+      "title": "Low-Density Parity-Check Codes", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2279"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "The broadcast storm problem in a mobile ad hoc network", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3706"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 31, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1070, 
+      "title": "Unreliable Failure Detectors for Reliable Distributed Systems", 
+      "ranks": 54, 
+      "docid": "citeseerx-d6986"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Planning and acting in partially observable stochastic domains", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3550"
+    }, 
+    {
+      "citeBy": 1001, 
+      "title": "AN INTRODUCTION TO VARIATIONAL METHODS FOR GRAPHICAL MODELS", 
+      "ranks": 62, 
+      "docid": "citeseerx-d970"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 96, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 98, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 72, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "The Viterbi algorithm", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1560"
+    }, 
+    {
+      "citeBy": 854, 
+      "title": "Compression of Individual Sequences via Variable-Rate Coding", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7492"
+    }, 
+    {
+      "citeBy": 848, 
+      "title": "The Semantics Of Constraint Logic Programs", 
+      "ranks": 58, 
+      "docid": "citeseerx-d370"
+    }, 
+    {
+      "citeBy": 851, 
+      "title": "Mersenne Twister: A 623-dimensionally equidistributed uniform pseudorandom number generator", 
+      "ranks": 78, 
+      "docid": "citeseerx-d7693"
+    }, 
+    {
+      "citeBy": 835, 
+      "title": "Wait-Free Synchronization", 
+      "ranks": 57, 
+      "docid": "citeseerx-d4343"
+    }, 
+    {
+      "citeBy": 809, 
+      "title": "End-to-End Internet Packet Dynamics", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1098"
+    }, 
+    {
+      "citeBy": 811, 
+      "title": "Location-Aided Routing (LAR) in mobile ad hoc networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2348"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "The part-time parliament", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1019"
+    }, 
+    {
+      "citeBy": 756, 
+      "title": "Kademlia: A Peer-to-peer Information System Based on the XOR Metric", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6972"
+    }, 
+    {
+      "citeBy": 775, 
+      "title": "Worst-case equilibria", 
+      "ranks": 48, 
+      "docid": "citeseerx-d774"
+    }, 
+    {
+      "citeBy": 781, 
+      "title": "The Esterel Synchronous Programming Language: Design, Semantics, Implementation", 
+      "ranks": 99, 
+      "docid": "citeseerx-d555"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "A Tutorial on Visual Servo Control", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3567"
+    }, 
+    {
+      "citeBy": 772, 
+      "title": "Semantic similarity based on corpus statistics and lexical taxonomy", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3449"
+    }, 
+    {
+      "citeBy": 720, 
+      "title": "Power-Aware Routing in Mobile Ad Hoc Networks", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2292"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 51, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4387"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 53, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "Topology Control of Multihop Wireless Networks using Transmit Power Adjustment", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1100"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 74, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 666, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 28, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "A Transformation System for Developing Recursive Programs", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4345"
+    }, 
+    {
+      "citeBy": 646, 
+      "title": "Blind Beamforming for Non Gaussian Signals", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2405"
+    }, 
+    {
+      "citeBy": 622, 
+      "title": "How bad is selfish routing?", 
+      "ranks": 17, 
+      "docid": "citeseerx-d773"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "Bandera: Extracting Finite-state Models from Java Source Code", 
+      "ranks": 43, 
+      "docid": "citeseerx-d301"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "SCRIBE: A large-scale and decentralized application-level multicast infrastructure", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3526"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Token flow control", 
+      "ranks": 15, 
+      "docid": "citeseerx-d7156"
+    }, 
+    {
+      "citeBy": 633, 
+      "title": "Genomic Expression Programs in the Response of Yeast Cells to Environmental Changes", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3969"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The Theory of Hybrid Automata", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7695"
+    }, 
+    {
+      "citeBy": 608, 
+      "title": "Lightweight causal and atomic group multicast", 
+      "ranks": 69, 
+      "docid": "citeseerx-d4604"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Fair end-to-end window-based congestion control", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3507"
+    }, 
+    {
+      "citeBy": 589, 
+      "title": "Capacity of Ad Hoc Wireless Networks", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1063"
+    }, 
+    {
+      "citeBy": 583, 
+      "title": "A Sequential Algorithm for Training Text Classifiers", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4885"
+    }, 
+    {
+      "citeBy": 570, 
+      "title": "Software pipelining: An effective scheduling technique for VLIW machines", 
+      "ranks": 29, 
+      "docid": "citeseerx-d273"
+    }, 
+    {
+      "citeBy": 563, 
+      "title": "Symbolic Model Checking for Real-time Systems", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7691"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism", 
+      "ranks": 82, 
+      "docid": "citeseerx-d768"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Vivaldi: A Decentralized Network Coordinate System", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1116"
+    }, 
+    {
+      "citeBy": 547, 
+      "title": "Accessing Nearby Copies of Replicated Objects in a Distributed Environment", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7352"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Implementing data cubes efficiently", 
+      "ranks": 22, 
+      "docid": "citeseerx-d268"
+    }, 
+    {
+      "citeBy": 546, 
+      "title": "Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4281"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "Monitors: An Operating System Structuring Concept", 
+      "ranks": 32, 
+      "docid": "citeseerx-d4347"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Aggregation Algorithms for Middleware", 
+      "ranks": 2, 
+      "docid": "citeseerx-d437"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimization Flow Control, I: Basic Algorithm and Convergence", 
+      "ranks": 3, 
+      "docid": "citeseerx-d798"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 4, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LogP: Towards a Realistic Model of Parallel Computation", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobility increases the capacity of ad-hoc wireless networks", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Surround-screen projection-based virtual reality: The design and implementation of the CAVE", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 26, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A greedy randomized adaptive search procedure for the 2-partition problem", 
+      "ranks": 31, 
+      "docid": "citeseerx-d309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 42, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 43, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 56, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential Monte Carlo Methods for Dynamic Systems", 
+      "ranks": 70, 
+      "docid": "citeseerx-d305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 80, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 84, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Rollback-Recovery Protocols in Message-Passing Systems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generative communication in Linda", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multitask principal-agent analyses: incentive contracts, asset ownership, and job design", 
+      "ranks": 88, 
+      "docid": "citeseerx-d780"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An information-maximization approach to blind separation and blind deconvolution", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2311"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Independent component analysis: algorithms and applications", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1721"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 91, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Static Scheduling of Synchronous Data Flow Programs for Digital Signal Processing", 
+      "ranks": 92, 
+      "docid": "citeseerx-d814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model checking and abstraction", 
+      "ranks": 93, 
+      "docid": "citeseerx-d403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algebraic topology", 
+      "ranks": 94, 
+      "docid": "citeseerx-d447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Numerical Linear Algebra", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1593"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visual reconstruction", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2306"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Byzantine Generals Problem", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4557"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MACAW: Media access protocol for wireless lans", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4077"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q174"
+}

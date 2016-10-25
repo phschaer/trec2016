@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2983, 
+      "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations", 
+      "ranks": 22, 
+      "docid": "citeseerx-d587"
+    }, 
+    {
+      "citeBy": 2911, 
+      "title": "Ad-hoc On-Demand Distance Vector Routing", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2955"
+    }, 
+    {
+      "citeBy": 2628, 
+      "title": "Congestion Avoidance and Control", 
+      "ranks": 13, 
+      "docid": "citeseerx-d767"
+    }, 
+    {
+      "citeBy": 2626, 
+      "title": "Particle swarm optimization", 
+      "ranks": 70, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 14, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2364, 
+      "title": "Metaphors We Live By", 
+      "ranks": 63, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 2297, 
+      "title": "Increasing Returns and Long-Run Growth", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3461"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 1780, 
+      "title": "Bayesian Data Analysis", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3440"
+    }, 
+    {
+      "citeBy": 1788, 
+      "title": "The tragedy of the commons", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4084"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 71, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 56, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1552, 
+      "title": "The theory of planned behavior", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3429"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 64, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1399, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 95, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 704, 
+      "title": "What is Twitter, a Social Network or a News Media?", 
+      "ranks": 0, 
+      "docid": "citeseerx-d552"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 39, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1203, 
+      "title": "Studies of transformation of Escherichia coli with plasmids", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2299"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "The Design and Use of Steerable Filters", 
+      "ranks": 35, 
+      "docid": "citeseerx-d4444"
+    }, 
+    {
+      "citeBy": 1027, 
+      "title": "Culture and the self: Implications for cognition, emotion, and motivation", 
+      "ranks": 61, 
+      "docid": "citeseerx-d802"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 31, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 989, 
+      "title": "Secure spread spectrum watermarking for multimedia", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2309"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "MACAW: Media access protocol for wireless lans", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4077"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 68, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "The Viterbi algorithm", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1560"
+    }, 
+    {
+      "citeBy": 798, 
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being", 
+      "ranks": 6, 
+      "docid": "citeseerx-d3427"
+    }, 
+    {
+      "citeBy": 864, 
+      "title": "Groupware: Some issues and experiences", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2731"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 11, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Promoting the Use of End-to-End Congestion Control in the Internet", 
+      "ranks": 45, 
+      "docid": "citeseerx-d740"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Hypertext Transfer Protocol - HTTP/1.1", 
+      "ranks": 58, 
+      "docid": "citeseerx-d396"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 97, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 87, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 814, 
+      "title": "Equation-based congestion control for unicast applications", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1081"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 9, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "The Evolution of Cooperation", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3468"
+    }, 
+    {
+      "citeBy": 772, 
+      "title": "The Small-World Phenomenon: An Algorithmic Perspective", 
+      "ranks": 37, 
+      "docid": "citeseerx-d775"
+    }, 
+    {
+      "citeBy": 779, 
+      "title": "Multitask principal-agent analyses: incentive contracts, asset ownership, and job design", 
+      "ranks": 93, 
+      "docid": "citeseerx-d780"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "An argument for basic emotions", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3455"
+    }, 
+    {
+      "citeBy": 726, 
+      "title": "The Cyclical Behavior of Equilibrium Unemployment and Vacancies", 
+      "ranks": 44, 
+      "docid": "citeseerx-d4022"
+    }, 
+    {
+      "citeBy": 718, 
+      "title": "Is it an Agent, or just a Program?: A Taxonomy for Autonomous Agents", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2757"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 24, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 86, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "Illusion and well-being: A social psychological perspective on mental health", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3430"
+    }, 
+    {
+      "citeBy": 682, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 42, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "The Optimal Degree of Commitment to an Intermediate Monetary Target", 
+      "ranks": 67, 
+      "docid": "citeseerx-d821"
+    }, 
+    {
+      "citeBy": 633, 
+      "title": "Genomic Expression Programs in the Response of Yeast Cells to Environmental Changes", 
+      "ranks": 21, 
+      "docid": "citeseerx-d3969"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "An agent that assists web browsing", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2214"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Discrete Multivariate Analysis: Theory and Practice", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3432"
+    }, 
+    {
+      "citeBy": 622, 
+      "title": "Fab: Content-based, collaborative recommendation", 
+      "ranks": 34, 
+      "docid": "citeseerx-d215"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 29, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 80, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 40, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 606, 
+      "title": "Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment", 
+      "ranks": 89, 
+      "docid": "citeseerx-d752"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Quantal Response Equilibria For Normal Form Games", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4228"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Free Riding on Gnutella", 
+      "ranks": 69, 
+      "docid": "citeseerx-d812"
+    }, 
+    {
+      "citeBy": 557, 
+      "title": "Towards flexible teamwork", 
+      "ranks": 49, 
+      "docid": "citeseerx-d304"
+    }, 
+    {
+      "citeBy": 546, 
+      "title": "Portholes: Supporting Awareness in a Distributed Work Group", 
+      "ranks": 25, 
+      "docid": "citeseerx-d6685"
+    }, 
+    {
+      "citeBy": 548, 
+      "title": "The BSD Packet Filter: A New Architecture for User-level Packet Capture", 
+      "ranks": 46, 
+      "docid": "citeseerx-d299"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Review on Social Responsibilities of Media from the Report of “Sanlu Problematic Milk Powder Incident”", 
+      "ranks": 1, 
+      "docid": "citeseerx-d7307"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 2, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 7, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reality Mining: Sensing Complex Social Systems", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2411"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Error and attack tolerance of complex networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d732"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The particel swarm: Explosion, stability, and convergence in a multidimensional complex space [J", 
+      "ranks": 32, 
+      "docid": "citeseerx-d266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The &quot;Independent Components&quot; of Natural Scenes are Edge Filters", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2412"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 52, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Retrieval", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 64, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 72, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 75, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards a better understanding of context and context-awareness", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Protein Data Bank", 
+      "ranks": 79, 
+      "docid": "citeseerx-d41"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance pay and top-management incentives", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4093"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of fairness, competition and cooperation", 
+      "ranks": 81, 
+      "docid": "citeseerx-d813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RTP: A Transport Protocol for Real-Time Applications", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emergence of scaling  in random networks", 
+      "ranks": 83, 
+      "docid": "citeseerx-d736"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Database Systems", 
+      "ranks": 84, 
+      "docid": "citeseerx-d649"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Focused crawling: a new approach to topic-specific Web resource discovery", 
+      "ranks": 85, 
+      "docid": "citeseerx-d289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 86, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Endogenous technological change", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 88, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The provision of incentives in firms", 
+      "ranks": 89, 
+      "docid": "citeseerx-d758"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Organizations", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bank Runs, Deposit Insurance, and Liquidity", 
+      "ranks": 91, 
+      "docid": "citeseerx-d806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Integrative Model of Organizational Trust", 
+      "ranks": 92, 
+      "docid": "citeseerx-d983"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On agent-based software engineering", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 94, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice within the Firm", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications", 
+      "ranks": 97, 
+      "docid": "citeseerx-d561"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 99, 
+      "docid": "citeseerx-d298"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q167"
+}

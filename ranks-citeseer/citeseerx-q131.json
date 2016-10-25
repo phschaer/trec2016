@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1356, 
+      "title": "An Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1050"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 6, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2313"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Directed Diffusion for Wireless Sensor Networking", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2271"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 608, 
+      "title": "A survey on routing protocols for wireless sensor networks", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2397"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "Routing Techniques in Wireless Sensor Networks: A Survey", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3760"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Medium Access Control with Coordinated Adaptive Sleeping for Wireless Sensor Networks", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1048"
+    }, 
+    {
+      "citeBy": 306, 
+      "title": "Security In Wireless Sensor Networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3750"
+    }, 
+    {
+      "citeBy": 478, 
+      "title": "Protocols for self-organization of a wireless sensor network", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2468"
+    }, 
+    {
+      "citeBy": 513, 
+      "title": "A Pairwise Key Pre-Distribution Scheme for Wireless Sensor Networks", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3925"
+    }, 
+    {
+      "citeBy": 483, 
+      "title": "An Adaptive Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 13, 
+      "docid": "citeseerx-d3785"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Tinysec: A link layer security architecture for wireless sensor networks", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3890"
+    }, 
+    {
+      "citeBy": 298, 
+      "title": "Integrated coverage and connectivity configuration in wireless sensor networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3883"
+    }, 
+    {
+      "citeBy": 256, 
+      "title": "The Design Space of Wireless Sensor Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1846"
+    }, 
+    {
+      "citeBy": 271, 
+      "title": "Relative Location Estimation in Wireless Sensor Networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3842"
+    }, 
+    {
+      "citeBy": 246, 
+      "title": "Time Synchronization in Wireless Sensor Networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1835"
+    }, 
+    {
+      "citeBy": 211, 
+      "title": "Deploying a wireless sensor network on an active volcano", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1868"
+    }, 
+    {
+      "citeBy": 167, 
+      "title": "Mitigating congestion in wireless sensor networks", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3811"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Localization in wireless sensor networks", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3830"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Algorithms for Wireless Sensor Network", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3764"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "On Modeling Wireless Sensor Networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3861"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "On the security of wireless sensor networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3789"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "On Optimal Placement of Relay Nodes for Reliable Connectivity in Wireless Sensor Networks", 
+      "ranks": 55, 
+      "docid": "citeseerx-d3835"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Security Mechanisms for Wireless Sensor Networks", 
+      "ranks": 64, 
+      "docid": "citeseerx-d3852"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Issues in Wireless Sensor Networks", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3881"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Power-aware distributed protocol for a connectivity problem in wireless sensor networks", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3827"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Scoping in Wireless Sensor Networks", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3803"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Realistic Applications for Wireless Sensor Networks", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3877"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Routing in Wireless Sensor Networks", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3795"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Security of Wireless Sensor Network", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3853"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Applications of Wireless Sensor Networks", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3783"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "NODE LOCALIZATION IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 58, 
+      "docid": "citeseerx-d3837"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Logistic applications with Wireless Sensor Networks", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3844"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Performance Analysis of Wireless Sensor Networks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3870"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Vulnerabilities and Attacks in Wireless Sensor Networks", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3879"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3767"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ghaoui. Convex position estimation in wireless sensor networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HETEROGENEOUS WIRELESS SENSOR NETWORKS", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks, Navigation", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3772"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 21, 
+      "docid": "citeseerx-d3775"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Network with Bluetooth", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multicasting in Wireless Sensor Networks", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3780"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks (WSN)", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pragmatics of Wireless Sensor Networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithm for Wireless Sensor Networks", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor network protocols", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3804"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Overview Wireless Sensor Networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3791"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Network", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Instrumenting Wireless Sensor Networks for", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Network every...", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Protocol for Wireless Sensor Networks", 
+      "ranks": 39, 
+      "docid": "citeseerx-d3798"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security in Wireless Sensor Networks", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "For Wireless Sensor Networks", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementation of Wireless Sensor Network", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Platform for Wireless Sensor Networks", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3819"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interpolation for Wireless Sensor Network", 
+      "ranks": 54, 
+      "docid": "citeseerx-d3825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3848"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Network for Greenhouse", 
+      "ranks": 58, 
+      "docid": "citeseerx-d3849"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "D.: A wireless sensor network for structural monitoring", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2384"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "fining a Wireless Sensor Network Management Protocol", 
+      "ranks": 60, 
+      "docid": "citeseerx-d3841"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Confidentiality in Wireless sensor Networks", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3846"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and avoidance in Wireless Sensor Networks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3823"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3863"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Selection in Wireless Sensor Network", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3821"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Localization for Wireless Sensor Networks", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3833"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMAGE TRANSMISSION IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SCHEDULING AND RESOURCE ALLOCATION IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architecture in Wireless Sensor Networks", 
+      "ranks": 78, 
+      "docid": "citeseerx-d3855"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Coverage in Wireless Sensor Networks", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A. Wireless Sensor Networks", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3892"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Squares for Wireless Sensor Networks", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "with applications in wireless sensor networks", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3874"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PROBLEM IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3898"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Issues in Wireless Sensor Networks", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3900"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enhancement in Wireless Sensor Networks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3904"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks: Principle and Challenges", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3907"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Capacity limitations in wireless sensor networks", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3908"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maintenance Awareness in Wireless Sensor Networks", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3910"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor networks and TinyOS", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3912"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&amp;CHAPTER 1 Introduction to Wireless Sensor Networking", 
+      "ranks": 92, 
+      "docid": "citeseerx-d3916"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Dissemination in Wireless Sensor Network", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3888"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Surveillance with Wireless Sensor Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3865"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Load Balancing In Wireless Sensor Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3919"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SCHEME FOR WIRELESS SENSOR NETWORKS", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3915"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security in Mobile Wireless Sensor Networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3920"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Security in Wireless Sensor Networks", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3894"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing Techniques in Wireless Sensor Networks", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3922"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMMUNICATION IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3896"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Acoustic Communication in Wireless Sensor Networks", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3924"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Review on Wireless Sensor Networks", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3927"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q131"
+}

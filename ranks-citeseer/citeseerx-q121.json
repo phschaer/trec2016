@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 704, 
+      "title": "What is Twitter, a Social Network or a News Media?", 
+      "ranks": 0, 
+      "docid": "citeseerx-d552"
+    }, 
+    {
+      "citeBy": 441, 
+      "title": "Why We Twitter: Understanding Microblogging Usage and Communities", 
+      "ranks": 1, 
+      "docid": "citeseerx-d26"
+    }, 
+    {
+      "citeBy": 382, 
+      "title": "Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2697"
+    }, 
+    {
+      "citeBy": 304, 
+      "title": "Measuring user influence in Twitter: The million follower fallacy", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2698"
+    }, 
+    {
+      "citeBy": 278, 
+      "title": "Pict: A programming language based on the pi-calculus", 
+      "ranks": 31, 
+      "docid": "citeseerx-d2707"
+    }, 
+    {
+      "citeBy": 178, 
+      "title": "social networks that matter twitter under the microscope", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2703"
+    }, 
+    {
+      "citeBy": 172, 
+      "title": "A Few Chirps About Twitter", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2699"
+    }, 
+    {
+      "citeBy": 145, 
+      "title": "Everyone’s an influencer: quantifying influence on twitter", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2721"
+    }, 
+    {
+      "citeBy": 101, 
+      "title": "Who Says What to Whom on Twitter", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2723"
+    }, 
+    {
+      "citeBy": 93, 
+      "title": "Twittermonitor: Trend detection over the twitter stream", 
+      "ranks": 47, 
+      "docid": "citeseerx-d2760"
+    }, 
+    {
+      "citeBy": 91, 
+      "title": "Information Credibility on Twitter", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2709"
+    }, 
+    {
+      "citeBy": 88, 
+      "title": "Target-dependent Twitter Sentiment Classification", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2733"
+    }, 
+    {
+      "citeBy": 88, 
+      "title": "Streaming first story detection with application to Twitter", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2756"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Detecting spammers on twitter", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2716"
+    }, 
+    {
+      "citeBy": 83, 
+      "title": "Unsupervised Modeling of Twitter Conversations", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2704"
+    }, 
+    {
+      "citeBy": 72, 
+      "title": "Sentiment Analysis of Twitter Data", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2718"
+    }, 
+    {
+      "citeBy": 56, 
+      "title": "Empirical Study of Topic Modeling in Twitter", 
+      "ranks": 56, 
+      "docid": "citeseerx-d2750"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "Understanding the Demographics of Twitter Users", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2725"
+    }, 
+    {
+      "citeBy": 46, 
+      "title": "Sentiment in Twitter events", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2729"
+    }, 
+    {
+      "citeBy": 44, 
+      "title": "Political polarization on Twitter", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2728"
+    }, 
+    {
+      "citeBy": 43, 
+      "title": "Discriminating Gender on Twitter", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2730"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "Predicting Popular Messages in Twitter", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2719"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Conversational Tagging in Twitter", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2727"
+    }, 
+    {
+      "citeBy": 24, 
+      "title": "Predicting personality from twitter", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2734"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Hummingbird: Privacy at the time of Twitter", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2732"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Predicting Information Spreading in Twitter", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2737"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Geographic Dissection of the Twitter Network", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2738"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Streaming trend detection in Twitter", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2739"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Evaluating Event Credibility on Twitter", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2748"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "In the Mood for Being Influential on Twitter", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2740"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Making sense of Twitter", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2736"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Linguistic Redundancy in Twitter", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2751"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Automatic Summarization of Twitter Topics", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2771"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Personalized filtering of the twitter stream", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2746"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Recommending #-Tags in Twitter", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2747"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Finding News Curators in Twitter", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2759"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Suggesting hashtags on twitter", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2764"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Sentiment Analysis on Twitter", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2798"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "On Recommending Hashtags in Twitter Networks", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2799"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Question Identification on Twitter", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2772"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Participation in group chats on Twitter", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2754"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Tweetflows- Flexible Workflows with Twitter", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2758"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "On the Study of Social Interactions in Twitter", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2774"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Adaptive Faceted Search on Twitter", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TWITTER", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TWITTER", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2682"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2685"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "twitter", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2687"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter:", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2693"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "on Twitter", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2694"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TwitterStand: News in Tweets ∗", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2702"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter Messages", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter feed:", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter has...", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2713"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "violate the Twitter Rules. ”-- Twitter", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2701"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter: www.twitter.com/GSUSociology", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2715"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter Power: Tweets as Electronic Word of Mouth", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter as a corpus for sentiment analysis and opinion mining", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2720"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis in Twitter", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rhythms in Twitter", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2708"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "languages in Twitter", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2710"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "References Twitter", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2714"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Making sense of Twitter Search", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter sentiment analysis", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "twitter.com/jprod", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of Malware Propagation in Twitter", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Finding fires with twitter", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter Spammer Profile Detection", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Twitter Sentiment Analysis", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Personalizing Local Search with Twitter", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pandemics in the Age of Twitter:", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2779"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Machine Translation for Twitter", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CATS: Characterizing Automation of Twitter", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Apocalypse on Twitter1", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fake accounts detection on Twitter", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Propagation in Twitter", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automatic Humor Classification on Twitter", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Better Twitter Summaries?", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter News Credibility Meter", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Personalized Retweet Prediction in Twitter", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2795"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The birth of retweeting conventions in Twitter", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2796"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating and Shaping Opinions in Twitter", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scam Detection in Twitter", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Group Chats on Twitter", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2803"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analyzing Twitter Spam", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detection of Steganographic Techniques on Twitter", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2805"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting the NFL Using Twitter", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recommending Accounts to Twitter Users", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2765"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Where We Twitter", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Engagement with Health Agencies on Twitter", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2809"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A German Twitter Snapshot", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detecting Newsworthy Topics in Twitter", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2811"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enabling Private Conversations on Twitter", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2767"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust kaomoji detection in Twitter", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical Machine Translation for Twitter", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "#mygoal: Finding Motivations on Twitter", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2816"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q121"
+}

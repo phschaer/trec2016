@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 3673, 
+      "title": "Latent dirichlet allocation", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1708"
+    }, 
+    {
+      "citeBy": 2050, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 22, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 24, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1448, 
+      "title": "The model checker SPIN", 
+      "ranks": 13, 
+      "docid": "citeseerx-d763"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 28, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 42, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 3, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 1098, 
+      "title": "Algebraic topology", 
+      "ranks": 29, 
+      "docid": "citeseerx-d447"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 14, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 27, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 930, 
+      "title": "Alignment by Maximization of Mutual Information", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4087"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 40, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Quantization", 
+      "ranks": 5, 
+      "docid": "citeseerx-d339"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 39, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 842, 
+      "title": "Visual reconstruction", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2306"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "A Practical Guide to Wavelet Analysis", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1781"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "Robust face recognition via sparse representation", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1772"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 33, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 659, 
+      "title": "Parallel Numerical Linear Algebra", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1593"
+    }, 
+    {
+      "citeBy": 654, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 32, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers", 
+      "ranks": 31, 
+      "docid": "citeseerx-d3720"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 9, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "Model Checking Programs", 
+      "ranks": 6, 
+      "docid": "citeseerx-d688"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Photobook: Content-Based Manipulation of Image Databases", 
+      "ranks": 4, 
+      "docid": "citeseerx-d976"
+    }, 
+    {
+      "citeBy": 610, 
+      "title": "Program Analysis and Specialization for the C Programming Language", 
+      "ranks": 36, 
+      "docid": "citeseerx-d354"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 25, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory", 
+      "ranks": 16, 
+      "docid": "citeseerx-d78"
+    }, 
+    {
+      "citeBy": 527, 
+      "title": "Fast texture synthesis using tree-structured vector quantization", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4903"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 11, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Human-Computer Interaction", 
+      "ranks": 15, 
+      "docid": "citeseerx-d340"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "The quadtree and related hierarchical data structures", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1026"
+    }, 
+    {
+      "citeBy": 519, 
+      "title": "Inductive Logic Programming: Theory and Methods", 
+      "ranks": 26, 
+      "docid": "citeseerx-d4554"
+    }, 
+    {
+      "citeBy": 488, 
+      "title": "A survey of general-purpose computation on graphics hardware", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2663"
+    }, 
+    {
+      "citeBy": 481, 
+      "title": "Data Mining: An Overview from Database Perspective", 
+      "ranks": 46, 
+      "docid": "citeseerx-d373"
+    }, 
+    {
+      "citeBy": 479, 
+      "title": "A Survey of Computer Vision-Based Human Motion Capture", 
+      "ranks": 47, 
+      "docid": "citeseerx-d377"
+    }, 
+    {
+      "citeBy": 478, 
+      "title": "Community detection in graphs", 
+      "ranks": 44, 
+      "docid": "citeseerx-d571"
+    }, 
+    {
+      "citeBy": 472, 
+      "title": "Towards an Active Network Architecture", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4904"
+    }, 
+    {
+      "citeBy": 467, 
+      "title": "Image denoising using a scale mixture of Gaussians in the wavelet domain", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2474"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 50, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 464, 
+      "title": "Image retrieval: Current techniques, promising directions and open issues", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2661"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 52, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 435, 
+      "title": "Image analogies", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4915"
+    }, 
+    {
+      "citeBy": 431, 
+      "title": "Volume Rendering", 
+      "ranks": 54, 
+      "docid": "citeseerx-d4908"
+    }, 
+    {
+      "citeBy": 427, 
+      "title": "Environmental Protection Agency", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4922"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 423, 
+      "title": "The Challenges of Mobile Computing", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4909"
+    }, 
+    {
+      "citeBy": 415, 
+      "title": "Measurements and analysis of end-to-end Internet dynamics", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2338"
+    }, 
+    {
+      "citeBy": 414, 
+      "title": "New Support Vector Algorithms", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4918"
+    }, 
+    {
+      "citeBy": 414, 
+      "title": "Simplify: A theorem prover for program checking", 
+      "ranks": 61, 
+      "docid": "citeseerx-d4912"
+    }, 
+    {
+      "citeBy": 410, 
+      "title": "Error Control and Concealment for Video Communication -- A Review", 
+      "ranks": 62, 
+      "docid": "citeseerx-d4920"
+    }, 
+    {
+      "citeBy": 409, 
+      "title": "An open graph visualization system and its applications to software engineering", 
+      "ranks": 63, 
+      "docid": "citeseerx-d4563"
+    }, 
+    {
+      "citeBy": 401, 
+      "title": "Coverage Problems in Wireless Ad-hoc Sensor Networks", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4917"
+    }, 
+    {
+      "citeBy": 376, 
+      "title": "Connectionist Learning Procedures", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4919"
+    }, 
+    {
+      "citeBy": 369, 
+      "title": "Toward a model of text comprehension and production", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4925"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Variational algorithms for approximate Bayesian inference", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2362"
+    }, 
+    {
+      "citeBy": 362, 
+      "title": "The curvelet transform for image denoising", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4923"
+    }, 
+    {
+      "citeBy": 351, 
+      "title": "Survey of clustering data mining techniques", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1373"
+    }, 
+    {
+      "citeBy": 347, 
+      "title": "SDSI - A Simple Distributed Security Infrastructure", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3528"
+    }, 
+    {
+      "citeBy": 343, 
+      "title": "New tight frames of curvelets and optimal representations of objects with piecewise C² singularities", 
+      "ranks": 72, 
+      "docid": "citeseerx-d4929"
+    }, 
+    {
+      "citeBy": 336, 
+      "title": "Distributed representations of structure: A Theory of Analogical Access and Mapping", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2511"
+    }, 
+    {
+      "citeBy": 329, 
+      "title": "Unsupervised Learning of the Morphology of a Natural Language", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4927"
+    }, 
+    {
+      "citeBy": 324, 
+      "title": "Photographic tone reproduction for digital images", 
+      "ranks": 77, 
+      "docid": "citeseerx-d4950"
+    }, 
+    {
+      "citeBy": 319, 
+      "title": "A Survey of Optimization by Building and Using Probabilistic Models", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4926"
+    }, 
+    {
+      "citeBy": 313, 
+      "title": "An introduction to least commitment planning", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4928"
+    }, 
+    {
+      "citeBy": 302, 
+      "title": "Image coding based on a fractal theory of iterated contractive image transformations", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4933"
+    }, 
+    {
+      "citeBy": 293, 
+      "title": "Growing Cell Structures - A Self-organizing Network for Unsupervised and Supervised Learning", 
+      "ranks": 83, 
+      "docid": "citeseerx-d4931"
+    }, 
+    {
+      "citeBy": 288, 
+      "title": "Directed Sonar Sensing for Mobile Robot Navigation", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1833"
+    }, 
+    {
+      "citeBy": 282, 
+      "title": "Illustrating Smooth Surfaces", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4941"
+    }, 
+    {
+      "citeBy": 281, 
+      "title": "Internet Key Exchange (IKEv2) Protocol", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4962"
+    }, 
+    {
+      "citeBy": 280, 
+      "title": "Context-Sensitive Learning Methods for Text Categorization", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4936"
+    }, 
+    {
+      "citeBy": 279, 
+      "title": "Semi-Automatic Generation of Transfer Functions for Direct Volume Rendering", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4940"
+    }, 
+    {
+      "citeBy": 274, 
+      "title": "The Computation of Optical Flow", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4959"
+    }, 
+    {
+      "citeBy": 271, 
+      "title": "Spherical Wavelets: Efficiently Representing Functions on the Sphere", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4942"
+    }, 
+    {
+      "citeBy": 269, 
+      "title": "Local Feature Analysis: A general statistical theory for object representation", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2520"
+    }, 
+    {
+      "citeBy": 260, 
+      "title": "3-D Sound for Virtual Reality and Multimedia", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1387"
+    }, 
+    {
+      "citeBy": 254, 
+      "title": "Optimal Prefetching via Data Compression", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4924"
+    }, 
+    {
+      "citeBy": 236, 
+      "title": "Nonlinear Wavelet Image Processing: Variational Problems, Compression, and Noise Removal through Wavelet Shrinkage", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4947"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d346"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 5, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The ubiquitous B-tree", 
+      "ranks": 7, 
+      "docid": "citeseerx-d766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 10, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Image Registration Techniques", 
+      "ranks": 12, 
+      "docid": "citeseerx-d280"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear Approximation", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1711"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 25, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 31, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Guided Tour to Approximate String Matching", 
+      "ranks": 35, 
+      "docid": "citeseerx-d369"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Digital Michelangelo Project: 3D Scanning of Large Statues", 
+      "ranks": 44, 
+      "docid": "citeseerx-d4905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiple Description Coding: Compression Meets the Network", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4910"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The design and implementation of hierarchical software systems with reusable components", 
+      "ranks": 57, 
+      "docid": "citeseerx-d4913"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scaling Step-Wise Refinement", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4914"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic Reform and the Process of Global Integration", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4921"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed full-text indexes", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4939"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The HP AutoRAID hierarchical storage system", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4949"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compositional Modeling: Finding the Right Model for the Job", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EdgeCS: Edge Guided Compressive Sensing Reconstruction", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4956"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information-theoretic analysis of information hiding", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4958"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q143"
+}

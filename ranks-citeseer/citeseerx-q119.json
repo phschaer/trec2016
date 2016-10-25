@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 779, 
+      "title": "The Twin Crises: The Causes of Banking and Balance-of-Payments Problems", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1051"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "How to 0wn the Internet in Your Spare Time", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1840"
+    }, 
+    {
+      "citeBy": 462, 
+      "title": "Designing Games With A Purpose", 
+      "ranks": 5, 
+      "docid": "citeseerx-d22"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The science of emotional intelligence", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2421"
+    }, 
+    {
+      "citeBy": 422, 
+      "title": "The psychological foundations of culture", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2341"
+    }, 
+    {
+      "citeBy": 406, 
+      "title": "Economic analysis of social interactions", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2418"
+    }, 
+    {
+      "citeBy": 398, 
+      "title": "Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2424"
+    }, 
+    {
+      "citeBy": 362, 
+      "title": "The company you keep: The effects of family and neighborhood on disadvantaged youths,” NBER working paper #3705", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2425"
+    }, 
+    {
+      "citeBy": 354, 
+      "title": "The Microstructure Approach to Exchange Rates", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1883"
+    }, 
+    {
+      "citeBy": 320, 
+      "title": "A Taxonomy of DDoS Attack and DDoS Defense Mechanisms", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2443"
+    }, 
+    {
+      "citeBy": 284, 
+      "title": "The Distribution of Realized Exchange Rate Volatility", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2458"
+    }, 
+    {
+      "citeBy": 277, 
+      "title": "The Structure of Collaborative Tagging Systems", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2466"
+    }, 
+    {
+      "citeBy": 264, 
+      "title": "The Social Cost of Cheap Pseudonyms", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2453"
+    }, 
+    {
+      "citeBy": 184, 
+      "title": "A rational expectations model of financial contagion", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2423"
+    }, 
+    {
+      "citeBy": 174, 
+      "title": "Rational Contagion and the Globalization of Securities Markets", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2417"
+    }, 
+    {
+      "citeBy": 143, 
+      "title": "A New Approach to Measuring Financial Contagion", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2426"
+    }, 
+    {
+      "citeBy": 112, 
+      "title": "Complex contagion and the weakness of long ties", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2441"
+    }, 
+    {
+      "citeBy": 114, 
+      "title": "The Ripple Effect: Emotional Contagion and its Influence on Group Behavior", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2530"
+    }, 
+    {
+      "citeBy": 105, 
+      "title": "Interbank Exposures: Quantifying the Risk of Contagions", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2438"
+    }, 
+    {
+      "citeBy": 89, 
+      "title": "Liquidity risk and contagion", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2429"
+    }, 
+    {
+      "citeBy": 54, 
+      "title": "The unholy trinity of financial contagion", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2442"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "The role of motor contagion in the prediction of action", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2523"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "ON CURRENCY CRISES AND CONTAGION", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2452"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Econometric Issues in the Analysis of Contagion ∗", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2448"
+    }, 
+    {
+      "citeBy": 20, 
+      "title": "Competitive Contagion in Networks", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2460"
+    }, 
+    {
+      "citeBy": 16, 
+      "title": "Political Contagion in Currency Crises", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2449"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Financial Networks and Contagion", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2483"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "The Russian Default and the Contagion to Brazil", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2457"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Bankruptcy, Counterparty Risk, and Contagion", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2464"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Mandatory Disclosure and Financial Contagion ∗", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2554"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Heterogeneity, correlations and financial contagion", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2467"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Multivariate contagion and interdependence", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2461"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "What Is International Financial Contagion?", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2473"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Credit Risk Transfer and Contagion", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2437"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Managerial Incentives and Financial Contagion", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2512"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Emotional Contagion and the Communication of Emotion", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2496"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Is there a hedge fund contagion", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2469"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Measuring Sovereign Contagion in Europe ∗", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2507"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Financial Firm Bankruptcy and Contagion", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2482"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 2, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2409"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "2000) “Financial Contagion", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2410"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reality Mining: Sensing Complex Social Systems", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2411"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2413"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "No Contagion, Only Interdependence: Measuring Stock Market Co-Movements", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2414"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "No contagion,", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2416"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Goal contagion: Perceiving is for pursuing", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2428"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "contagion: A", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2430"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion and the composition of", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2431"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Contagion models", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Market Contagion?”", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Contagion models", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2436"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONTAGION IN EMERGING MARKETS: when Wall Street is a carrier", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2439"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion: Understanding How It Spreads", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion in financial networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2445"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Credit contagion and aggregate losses", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decoupling and Contagion", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2434"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion in Complex Social Networks", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Market Integration and Contagion", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2419"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mood contagion’’: The automatic transfer of mood between persons", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Explaining African economic performance", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Credit contagion and credit risk", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion Risk in Financial Networks", 
+      "ranks": 56, 
+      "docid": "citeseerx-d2477"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BANK CONTAGION IN EUROPE", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2479"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion of the Eurozone Debt Crisis*", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion in the presence of stochastic interdependence", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2481"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion and Industry Risk", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2485"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Financial contagion and attention allocation", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2490"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Correlation, Contagion and Asian Evidence∗", 
+      "ranks": 67, 
+      "docid": "citeseerx-d2462"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emotional Contagion with Virtual Characters", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2500"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The contagion mechanism for the origin of sex", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE DYNAMICS OF SOCIAL CONTAGION", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2475"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring Financial Contagion with Copulas", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Games and Contagion", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2516"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Liquidity Sharing and Financial Contagion⇤", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Contagion in the Baltic States", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Risk Accumulation, Contagion and the Rules for", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Liquidity and Contagion in Financial Markets", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONTAGION IN CYBERSECURITY ATTACKS", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Credit risk transfer and contagion $", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2527"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Commonality in ETF Mispricing and Contagion", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling Emotional Contagion", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2486"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Characterization of Contagion", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2488"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Crashes, Contagion, and International Diversification", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2532"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion and State Dependent Mutations", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion, and Financial Liberalization *", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Political Contagion in Currency", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "New Models for Competitive Contagion", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2538"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Uncertainty Channel of Contagion", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2493"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contagion: An Empirical Test", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2540"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Literature Contagion Algorithm Results", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Crises, Contagion, and Confusion1", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Financial contagion during Lehman", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2544"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On crises, contagion, and confusion", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2498"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Homogeneous Markovian contagion model", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FINANCIAL CONTAGION AND INVESTORS BEHAVIOR", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Informational Contagion in the Laboratory", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2550"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INFORMATION-DRIVEN DEFAULT CONTAGION", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "—Nietzsche— Emotional Contagion and Empathy", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2551"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring Financial Contagion:", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2509"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q119"
+}

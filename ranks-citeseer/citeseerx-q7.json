@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 16, 
+      "title": "Dynamic Modelling of Chaotic Time Series with Neural Networks", 
+      "ranks": 6, 
+      "docid": "citeseerx-d916"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "EPNet for Chaotic Time-Series Prediction", 
+      "ranks": 2, 
+      "docid": "citeseerx-d912"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Evolving Predictors for Chaotic Time Series", 
+      "ranks": 1, 
+      "docid": "citeseerx-d911"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Genetic programming-based chaotic time series modeling *", 
+      "ranks": 3, 
+      "docid": "citeseerx-d913"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "(??) The Management of Chaotic time-series data", 
+      "ranks": 4, 
+      "docid": "citeseerx-d914"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Modelling Description", 
+      "ranks": 4, 
+      "docid": "citeseerx-d915"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Prediction of Chaotic Time Series Using Neural Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d917"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CHAOTIC TIME SERIES PREDICTION USING WAVELET DECOMPOSITION", 
+      "ranks": 7, 
+      "docid": "citeseerx-d918"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE SPECTRUM OF CHAOTIC TIME SERIES (II): WAVELET ANALYSIS", 
+      "ranks": 9, 
+      "docid": "citeseerx-d920"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Chaotic Time Series by Reinforcement Learning", 
+      "ranks": 9, 
+      "docid": "citeseerx-d921"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear Prediction of Chaotic Time Series Using Support Vector Machines", 
+      "ranks": 10, 
+      "docid": "citeseerx-d923"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prediction of Chaotic Time Series Using Recurrent Neural Networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d925"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prediction of Chaotic Time Series with Neural Networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d926"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient Hybrid Neural Network for Chaotic Time Series Prediction", 
+      "ranks": 13, 
+      "docid": "citeseerx-d927"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Neural Networks for Chaotic Time Series Prediction", 
+      "ranks": 14, 
+      "docid": "citeseerx-d928"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "How to Determine the Redundancy of Noisy Chaotic Time Series", 
+      "ranks": 15, 
+      "docid": "citeseerx-d930"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Fractal Dimension of Chaotic Time Series", 
+      "ranks": 16, 
+      "docid": "citeseerx-d931"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A resampling algorithm for chaotic time series", 
+      "ranks": 17, 
+      "docid": "citeseerx-d932"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TELLUS Parameter estimation using chaotic time series", 
+      "ranks": 18, 
+      "docid": "citeseerx-d933"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated Embedding and the Creep Phenomenon in Chaotic Time Series", 
+      "ranks": 19, 
+      "docid": "citeseerx-d935"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic time series prediction and Mackey-Glass", 
+      "ranks": 20, 
+      "docid": "citeseerx-d937"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Delay recognition in chaotic time series", 
+      "ranks": 21, 
+      "docid": "citeseerx-d938"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Local Averaging Optimization for Chaotic Time Series Prediction ⋆", 
+      "ranks": 22, 
+      "docid": "citeseerx-d939"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A PMLP BASED METHOD FOR CHAOTIC TIME SERIES PREDICTION", 
+      "ranks": 23, 
+      "docid": "citeseerx-d940"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Local Piecewise-Linearity Prediction Method of Chaotic time Series", 
+      "ranks": 24, 
+      "docid": "citeseerx-d942"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unstable periodic orbits analysis of histograms of chaotic time series", 
+      "ranks": 25, 
+      "docid": "citeseerx-d946"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improve on chaotic time series prediction using MLPs for output training", 
+      "ranks": 26, 
+      "docid": "citeseerx-d948"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The use of NARX Neural Networks to predict Chaotic Time Series", 
+      "ranks": 27, 
+      "docid": "citeseerx-d949"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning and Approximation of Chaotic Time Series Using Wavelet-Networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d950"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic time series Part II: System identification and prediction", 
+      "ranks": 29, 
+      "docid": "citeseerx-d952"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enhancement of Chaotic Time Series Prediction with Real-time Noise Reduction", 
+      "ranks": 30, 
+      "docid": "citeseerx-d953"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Chaotic Time Series Using a Fuzzy Neural Network", 
+      "ranks": 31, 
+      "docid": "citeseerx-d955"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prediction of Chaotic Time Series Single-Step Wavelet-Networks Using", 
+      "ranks": 32, 
+      "docid": "citeseerx-d957"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Approximation Using Iterative Wavelet-Networks", 
+      "ranks": 33, 
+      "docid": "citeseerx-d959"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Chaotic Time Series Forecasting Model Based on Parameters Simultaneous Optimization Algorithm", 
+      "ranks": 34, 
+      "docid": "citeseerx-d960"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Structural Damage Detection using Chaotic Time Series Excitation", 
+      "ranks": 35, 
+      "docid": "citeseerx-d962"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "State Space Reconstruction in the Prediction of Chaotic Time Series with Neural Nets", 
+      "ranks": 36, 
+      "docid": "citeseerx-d964"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector echo-state machine for chaotic time-series prediction", 
+      "ranks": 37, 
+      "docid": "citeseerx-d965"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear Analyses of Periodic and Chaotic Time Series from the Peroxidase-Oxidase Reaction", 
+      "ranks": 38, 
+      "docid": "citeseerx-d966"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Prediction of Chaotic Time Series: a Variation on the Method of Analogues", 
+      "ranks": 39, 
+      "docid": "citeseerx-d967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tree Based Modeling, Prediction And Analysis Of Chaotic Time Series", 
+      "ranks": 40, 
+      "docid": "citeseerx-d969"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring the Neural State Space Learning from One-Dimension Chaotic Time Series", 
+      "ranks": 41, 
+      "docid": "citeseerx-d971"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Prediction using Improved ANFIS with Imperialist Competitive Learning Algorithm", 
+      "ranks": 42, 
+      "docid": "citeseerx-d973"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "c ○ World Scientific Publishing Company RECENT DEVELOPMENTS IN CHAOTIC TIME SERIES ANALYSIS", 
+      "ranks": 43, 
+      "docid": "citeseerx-d975"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prediction of Chaotic Time-Series with a Resource-Allocating RBF Network", 
+      "ranks": 44, 
+      "docid": "citeseerx-d977"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Prediction Using a Neuro-Fuzzy System with Time-Delay Coordinates", 
+      "ranks": 45, 
+      "docid": "citeseerx-d978"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Back Propagation Learning of an Affordable Neural Network for Chaotic Time Series", 
+      "ranks": 46, 
+      "docid": "citeseerx-d980"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Research on the Phase Space Reconstruction Method of Chaotic Time Series", 
+      "ranks": 47, 
+      "docid": "citeseerx-d981"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximating Chaotic Time Series Through Unstable Periodic Orbits", 
+      "ranks": 48, 
+      "docid": "citeseerx-d982"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Forecasting chaotic time series: Global vs. local methods", 
+      "ranks": 49, 
+      "docid": "citeseerx-d984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integration of Connectionist Methods and Chaotic Time-Series Analysis for the Prediction of Process Data", 
+      "ranks": 50, 
+      "docid": "citeseerx-d985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating Lyapunov Exponents In Chaotic Time Series With Locally Weighted Regression", 
+      "ranks": 51, 
+      "docid": "citeseerx-d987"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Feedforward Neural Networks with Fluctuation of Structure for Chaotic Time Series Learning", 
+      "ranks": 52, 
+      "docid": "citeseerx-d988"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identification of Variable Relations from Multivariate Chaotic Time Series Data", 
+      "ranks": 53, 
+      "docid": "citeseerx-d989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic time-series prediction using resource-allocating RBF networks", 
+      "ranks": 54, 
+      "docid": "citeseerx-d990"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model Selection, Confidence And Scaling In Predicting Chaotic Time-Series", 
+      "ranks": 55, 
+      "docid": "citeseerx-d991"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NEW LEARNING ALGORITHM FOR ADAPTIVE NETWORK BASED FUZZY INFERENCE SYSTEM IN APPLICATION OF FORCASTING CHAOTIC TIME SERIES", 
+      "ranks": 56, 
+      "docid": "citeseerx-d992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CHAOTIC TIME-SERIES PREDICTION AND THE RELOCATING-LMS (RLMS) ALGORITHM FOR RADIAL BASIS FUNCTION NETWORKS", 
+      "ranks": 57, 
+      "docid": "citeseerx-d993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "State space reconstruction parameters in the analysis of chaotic time series - the role of the time window length", 
+      "ranks": 58, 
+      "docid": "citeseerx-d995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Self-Organizing NARX Network and its Application to Prediction of Chaotic Time Series", 
+      "ranks": 59, 
+      "docid": "citeseerx-d997"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi Step Ahead Prediction of North and South Hemisphere Sun Spots Chaotic Time Series using Focused Time Lagged Recurrent Neural Network Model", 
+      "ranks": 60, 
+      "docid": "citeseerx-d998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Prediction for Rock-Paper-Scissors using Adaptive Social Behaviour Optimization (ASBO)", 
+      "ranks": 61, 
+      "docid": "citeseerx-d999"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "determination of time-delays and", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Runtime Energy Consumption Estimation for Server Workloads Based on Chaotic Time-Series Approximation", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1002"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET-NETWORK BASED ON L1-NORM MINIMISATION FOR LEARNING CHAOTIC TIME SERIES", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1004"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "What symbolic dynamics do we get with a misplaced partition? On the validity of threshold crossings analysis of chaotic time-series", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PREDICTION OF CHAOTIC TIME-SERIES BY USING THE MULTI-STAGE FUZZY INFERENCE SYSTEMS AND ITS APPLICATIONS TO THE ANALYSIS OF OPERATIONAL FLEXIBILITY", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "North-Holland PHYSICS LETTERS A Local exponential divergence plot and optimal embedding of a chaotic time series", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1007"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic time series Part I: Estimation of some invariant properties in state space", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1009"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "� World Scientific Publishing Company DOI: 10.1142/S0218127411029136 THE SPECTRUM OF CHAOTIC TIME SERIES (I): FOURIER ANALYSIS", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tomasin: Forecasting high waters at Venice Lagoon using chaotic time series analysis and nonlinear neural networks", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1011"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chaotic Time Series Prediction using the Kohonen Algorithm Luis Monzon Bentez ;;y", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1012"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parameter Estimation of a Known Chaotic Time Series Corrupted by White Gaussian Noise", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1013"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A new approach to the economic analysis of nonstationary time series and the business cycle", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet time synchronization: The network time protocol", 
+      "ranks": 74, 
+      "docid": "citeseerx-d760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Finding structure in time", 
+      "ranks": 75, 
+      "docid": "citeseerx-d657"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The part-time parliament", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1019"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Real-time Object Detection", 
+      "ranks": 77, 
+      "docid": "citeseerx-d302"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Space/Time Trade-offs in Hash Coding with Allowable Errors", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1020"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 79, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning to act using real-time dynamic programming", 
+      "ranks": 80, 
+      "docid": "citeseerx-d735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 81, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fine-grained network time synchronization using reference broadcasts", 
+      "ranks": 82, 
+      "docid": "citeseerx-d729"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 83, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Subsequence Matching in Time-Series Databases", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-time american sign language recognition using desk and wearable  computer based video", 
+      "ranks": 85, 
+      "docid": "citeseerx-d749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Indivisible labor and the business cycle", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1027"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: An infrastructure for fault-tolerant wide-area location and routing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d698"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical exchange rate models of the Seventies: do they fit out of sample?", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1029"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligence Without Representation", 
+      "ranks": 89, 
+      "docid": "citeseerx-d669"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Formal Languages", 
+      "ranks": 90, 
+      "docid": "citeseerx-d547"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generative communication in Linda", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Framework for Dynamic Graph Drawing", 
+      "ranks": 92, 
+      "docid": "citeseerx-d317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Model of Investor Sentiment", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 94, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Linear network coding", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1036"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Genetic Programming", 
+      "ranks": 96, 
+      "docid": "citeseerx-d255"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wrappers for Feature Subset Selection", 
+      "ranks": 97, 
+      "docid": "citeseerx-d271"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment", 
+      "ranks": 98, 
+      "docid": "citeseerx-d752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The FERET evaluation methodology for face recognition algorithms", 
+      "ranks": 99, 
+      "docid": "citeseerx-d929"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q7"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 677, 
+      "title": "Free-form deformation of solid geometric models", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1148"
+    }, 
+    {
+      "citeBy": 650, 
+      "title": "Behavior recognition via sparse spatio-temporal features", 
+      "ranks": 1, 
+      "docid": "citeseerx-d358"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 2, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "The PASCAL Visual Object Classes (VOC) challenge", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1188"
+    }, 
+    {
+      "citeBy": 512, 
+      "title": "FAST VOLUME RENDERING USING A SHEAR-WARP FACTORIZATION OF THE VIEWING TRANSFORMATION", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1150"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 7, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 451, 
+      "title": "Preliminary design of JML: A behavioral interface specification language for Java", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1155"
+    }, 
+    {
+      "citeBy": 379, 
+      "title": "Numerical Solutions of the Euler Equations by Finite Volume Methods Using Runge-Kutta Time-Stepping Schemes", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1181"
+    }, 
+    {
+      "citeBy": 373, 
+      "title": "On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition", 
+      "ranks": 11, 
+      "docid": "citeseerx-d154"
+    }, 
+    {
+      "citeBy": 332, 
+      "title": "Multiple Paired Forward and Inverse Models for Motor Control", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1183"
+    }, 
+    {
+      "citeBy": 319, 
+      "title": "How a Cockpit Remembers Its Speeds", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1179"
+    }, 
+    {
+      "citeBy": 312, 
+      "title": "Least Squares Conformal Maps for Automatic Texture Atlas Generation", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1184"
+    }, 
+    {
+      "citeBy": 293, 
+      "title": "Consumers and Their Brands: Developing Relationship Theory", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1237"
+    }, 
+    {
+      "citeBy": 286, 
+      "title": "The Princeton Shape Benchmark", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1208"
+    }, 
+    {
+      "citeBy": 265, 
+      "title": "A Comprehensive Survey of Evolutionary-Based Multiobjective Optimization Techniques", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1194"
+    }, 
+    {
+      "citeBy": 242, 
+      "title": "Larrabee: a many-core x86 architecture for visual computing", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1286"
+    }, 
+    {
+      "citeBy": 237, 
+      "title": "Inverse Global Illumination: Recovering Reflectance Models of Real Scenes from Photographs", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1220"
+    }, 
+    {
+      "citeBy": 234, 
+      "title": "Laplacian Surface Editing", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1297"
+    }, 
+    {
+      "citeBy": 220, 
+      "title": "JML: A Notation for Detailed Design", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1225"
+    }, 
+    {
+      "citeBy": 202, 
+      "title": "Network Centric Warfare: Developing and Leveraging Information Superiority", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1270"
+    }, 
+    {
+      "citeBy": 196, 
+      "title": "Articulatory gestures as phonological units", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1321"
+    }, 
+    {
+      "citeBy": 187, 
+      "title": "As-rigid-as-possible shape interpolation", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1306"
+    }, 
+    {
+      "citeBy": 148, 
+      "title": "Optimum aerodynamic design using the Navier-Stokes equations", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1235"
+    }, 
+    {
+      "citeBy": 57, 
+      "title": "A Perspective on Computational Algorithms for Aerodynamic Analysis and Design", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1304"
+    }, 
+    {
+      "citeBy": 51, 
+      "title": "Unsteady aerodynamic performance of model wings at low Reynolds numbers", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1298"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Computational-Fluid-Dynamics-Based Clean-Wing Aerodynamic Noise Model for Design", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1240"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Design of the blended wing body subsonic transport", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1192"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Successes and challenges in computational aerodynamics", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1292"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Efficient aerodynamic shape optimization", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1283"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Nonlinear aeroelasticity of a very flexible blended-wing-body aircraft", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1210"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Preliminary Design of a Blended Wing Body Configuration using the Design Tool PrADO", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1268"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Numerical Analysis of Flapping Wing Aerodynamics", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1264"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Advances in Aerodynamic Shape Optimization", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1288"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Future Challenges and Opportunities in Aerodynamics", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMICS OF HIGH-SUBSONIC BLENDED-WING-BODY CONFIGURATIONS", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1161"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic design via control theory", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1163"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Wing Body configuration", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1165"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BWB Blended Wing Body", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1167"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic design optimization studies of a blended-wing-body aircraft", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1169"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Analysis of a Blended-Wing-Body Aircraft Configuration", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1174"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Effect of Canard to the Aerodynamic Behavior of Blended Wing Body Aircraft", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Optimization of Box Wing – A Case Study", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1141"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimisation of the Sekwa Blended-Wing-Body Research UAV", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1176"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMIC OPTIMIZATION OF SUBSONIC FLYING WING CONFIGURATIONS", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1197"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamics", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1198"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "aerodynamic", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1200"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "aerodynamic", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMICS OF WING TIP SAILS", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1206"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMICS AND ACOUSTICS", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1216"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamically induced formation of contrails", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A CFD INVESTIGATION OF WIND TUNNEL INTERFERENCE ON DELTA WING AERODYNAMICS", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMICS BODIES By", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1224"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Propulsion and Flight Controls Integration for a Blended-Wing-Body Transport Aircraft", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic-Structural Design Studies of Low-Sweep Transonic Wings", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1227"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Shape Optimization of Supersonic Wings by Adaptive Range Multiobjective Genetic Algorithms", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Optimization of Transonic Wing Design Based on Evolutionary Algorithm", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1230"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measurements of ~ the Aerodynamic", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1217"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AERODYNAMIC PITCH-UP OF CRANKED ARROW WINGS: ESTIMATION, TRIM, AND CONFIGURATION DESIGN", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Computational aerodynamics for aircraft design", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© ECCOMAS Multiobjective Aerodynamic Optimization of Supersonic Wings Using Navier-Stokes Equations", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wings", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic forces of revolving hummingbird wings and wing models", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1249"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric Model for a Parametric Study of the Blended-Wing-Body Airplane", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1253"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wing Rotation and the Aerodynamic Basis of Insect", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Characteristics of Slender Delta Wing", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1260"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geometric Model for a Parametric Study of the Blended�Wing�Body Airplane �", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1251"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "X-48B Blended Wing Body Demonstrator Aircraft. An", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1254"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Shape Optimization of Wings including Planform Variations", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Challenges and Complexity of Aerodynamic Wing Design", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Shape Optimization Techniques Based On Control Theory", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1277"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Numerical Assessment of the Performance of Jet-Wing Distributed Propulsion on Blended-Wing-Body Aircraft", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1262"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTIPROCESSING ON SUPERCOMPUTERS FOR COMPUTATIONAL AERODYNAMICS", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Design Optimization on Unstructured Grids with a Continuous Adjoint Formulation", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMECE2011-62126 DESIGN OF A BLENDED WING BODY UAS WITH HYBRID PROPULSION", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1272"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AIAA-2005–0045 Navier-Stokes Computations of Longitudinal Forces and Moments for a Blended Wing Body", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ii Aerodynamic Properties of the Inboard Wing Concept", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1308"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "* Research Assistant, Aircraft Aerodynamics and Design", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1280"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Evolutionary Algorithm on Aerodynamic Wing Optimisation", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1310"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards Computational Flapping Wing Aerodynamics of Realistic Configurations using Spectral Difference Method", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1311"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unsteady-State Aerodynamic Performance of MEMS Wings", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1312"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Shape Optimization Using the Adjoint Method", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1314"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unsteady aerodynamics and flow controlfor flapping wing flyers", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1316"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Preliminary Subsonic Aerodynamic Model for . . .", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identification of Flight Aerodynamics for Flapping-Wing Microrobots", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1318"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Influence of Wing Configurations on Aerodynamic Characteristics of Wings in Ground Effect", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Benchmarking Optimization Algorithms for Wing Aerodynamic Design Optimization", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Phasing of dragonfly wings can improve aerodynamic", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1327"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GAs for aerodynamic shape design II:", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Discrete Adjoint Approach to Aerodynamic Shape Optimization", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1329"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Aerodynamics Conference", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1303"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Development of Wing Structural Weight Equation for Active Aeroelastic Wing Technology", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1330"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integration of Propulsion-Airframe-Aeroacoustic Technologies and Design Concepts for a Quiet Blended- Wing-Body Transport", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FUTURE REQUIREMENTS AND CONCEPTS FOR CABINS OF BLENDED WING BODY CONFIGURATIONS—A SCENARIO APPROACH", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1334"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evaluation of a Hydrogen Fuel Cell Powered Blended-Wing-Body Aircraft Concept for Reduced Noise and Emissions,” NASA", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1336"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NASA/CR-2004-213016 A Sizing Methodology for the Conceptual Design of Blended-Wing-Body Transports", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1338"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Aerodynamic and Structural Study of", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1340"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEPLOYMENT DYNAMICS OF INFLATABLE WINGS By", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1343"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q109"
+}

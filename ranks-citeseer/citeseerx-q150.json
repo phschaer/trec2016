@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 791, 
+      "title": "Crowds: Anonymity for Web Transactions", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1096"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 74, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Reflections on the Use of Blended Learning", 
+      "ranks": 6, 
+      "docid": "citeseerx-d5757"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Web Services for Blended Learning Patterns", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5776"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "A Study on students’ views on blended learning environment", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5791"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "A tool set combining learning styles prediction, a blended learning methodology and facilitator guidebooks – towards a best mix in blended learning", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5858"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Supporting Facilitators of Blended Learning with Guidebooks", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5780"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "ABSTRACT REDESIGNING A COURSE FOR BLENDED LEARNING ENVIRONMENT", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5795"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "BLESS – A Layered Blended Learning Systems Structure", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5816"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Feedback Model to Support Designers of Blended-Learning Courses", 
+      "ranks": 81, 
+      "docid": "citeseerx-d5841"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Automated Mentor Assignment in Blended Learning Environments", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5842"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Designing Learning Environments to Foster Affective Learning: Comparison of Classroom to Blended Learning", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5851"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Applications and developments of blended learning course Ecology", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5854"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "THE VIRTUAL CLASSROOM IN BLENDED LEARNING MATHEMATICS UNDERGRADUATE COURSES", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5849"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INVESTIGATING BLENDED LEARNING IN THE", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Blended learning", 
+      "ranks": 2, 
+      "docid": "citeseerx-d5753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Blended Learning", 
+      "ranks": 3, 
+      "docid": "citeseerx-d5754"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Future of Blended Learning", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VIRTUAL TEAMS AND BLENDED LEARNING", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5756"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning 1 Blended Learning: Design and Implementation", 
+      "ranks": 7, 
+      "docid": "citeseerx-d5758"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning in Insurance Company", 
+      "ranks": 8, 
+      "docid": "citeseerx-d5759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BLENDED LEARNING IN AUTOTRONIC SYSTEMS", 
+      "ranks": 9, 
+      "docid": "citeseerx-d5760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "STUDENTS ‘ OPINIONS ON BLENDED LEARNING", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Breaking the Mold on Blended Learning", 
+      "ranks": 11, 
+      "docid": "citeseerx-d5762"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adaptive Blended Learning Environments", 
+      "ranks": 12, 
+      "docid": "citeseerx-d5763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Factors for Success in Blended Learning", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5764"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning: Is it Time to Share?", 
+      "ranks": 14, 
+      "docid": "citeseerx-d5765"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "challenges to blended learning", 
+      "ranks": 14, 
+      "docid": "citeseerx-d5766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conference Proceedings Blended Learning in Practice", 
+      "ranks": 15, 
+      "docid": "citeseerx-d5767"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning: out of the lab?", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended learning: Is there evidence for its effectiveness?", 
+      "ranks": 18, 
+      "docid": "citeseerx-d5769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The significance of the reflective practitioner in blended learning", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning System Performance Evaluation", 
+      "ranks": 20, 
+      "docid": "citeseerx-d5771"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning – A Focus Study on Asia", 
+      "ranks": 22, 
+      "docid": "citeseerx-d5774"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "blended learning for higher education", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5775"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning and Learning Communities: Opportunities and Challenges", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE INFLUENCE OF BLENDED LEARNING MODEL ON DEVELOPING", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementation of blended learning project at the University of", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5779"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TRADITIONAL INSTRUCTION TO BLENDED LEARNING", 
+      "ranks": 28, 
+      "docid": "citeseerx-d5773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE BLENDED LEARNING MODEL IN UNIVERSITY STUDIES", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NEW STATISTICS: Elements for blended learning", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5782"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Panel Discussion: The Current State of Blended Learning", 
+      "ranks": 32, 
+      "docid": "citeseerx-d5783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended learning for teachers’ professional development", 
+      "ranks": 32, 
+      "docid": "citeseerx-d5784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applying Blended Learning in an Industrial Context – an Experience Report", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Learning Systems Together with Blended Learning System", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "blended learning for vocational teacher education", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning Concepts – a Short Overview", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning Is the Natural Evolution of Electronic Learning", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Blended Learning Model for Graduate Business Education", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "What makes blended learning effective? An interactive", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RESEARCHING BLENDED LEARNING PRACTICES FOR TEACHERS’ PROFESSIONAL LEARNING", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5794"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Blended Learning Concept for Guided Self-Instruction", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5796"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Online Learning versus Blended Learning: An Exploratory Study", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5797"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "POTENTIAL BENEFITS AND COMPLEXITIES OF BLENDED LEARNING IN HIGHER EDUCATION:", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5798"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "2 Blended Learning Defined and Explained", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5799"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is K-12 Blended Learning Disruptive", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design and Development of Blended Learning through LMS", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "American Management Association CONTENTS Blended Learning Opportunities What Is Blended Learning?", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5803"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Prospects for Blended Learning in Croatian Academic Institutions", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5802"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementing Blended Learning for 1000 Mechanical Engineering Students", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5804"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conditioning Factors for Group Management in Blended Learning Scenarios", 
+      "ranks": 54, 
+      "docid": "citeseerx-d5805"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Symposium Presentation 19 UniServe Science Blended Learning Symposium Proceedings", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5807"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of blended learning: a case study", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Programme (MA Online and Blended Learning)", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5809"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applying Blended Learning Techniques to Enhance the", 
+      "ranks": 58, 
+      "docid": "citeseerx-d5810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTIPLE PERSPECTIVES ON BLENDED LEARNING DESIGN", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5821"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Position: Director Blended Learning Unit", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5812"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BLENDED LEARNING STRATEGY IMPROVES BUSINESS WRITING SKILLS", 
+      "ranks": 61, 
+      "docid": "citeseerx-d5813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interaction Equivalency Theorem in Blended Learning", 
+      "ranks": 61, 
+      "docid": "citeseerx-d5814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Textbook Details: Blended Learning Tools for Teaching and Training", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LEARNING DESIGN FOR EFFECTIVE BLENDED LEARNING DELIVERY", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5818"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring the Implementation of Blended Learning in a Developing Country:", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5819"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Preliminary Study on the Role of Social Presence in Blended Learning Environment in Higher Education", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5820"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE MOTIVATION FOR VIDEO VIEWING IN BLENDED LEARNING", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5822"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing and its Application to Blended Learning in Engineering", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "K-12 Online and Blended Learning", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5815"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "____________________________________________________________________ THE VIRTUAL CLASSROOM WITHIN A BLENDED LEARNING", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5823"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "engineering students: Comparing blended learning", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5811"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Studying Project Management Using Blended Learning Approach", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PUBLIC ADMINISTRATION BLENDED LEARNING 1 Running Head: PUBLIC ADMINISTRATION BLENDED LEARNING Teaching Public Administration through Blended Learning", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5827"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Factors undermining motivation in place-based blended learning", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5826"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blending Learning in a Web 2.0 World", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5828"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Beauty and blended learning: E-learning in vocational programs", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5832"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FUTURE DIRECTIONS OF BLENDED LEARNING IN HIGHER EDUCATION AND WORKPLACE LEARNING SETTINGS", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5831"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Effective E-Learning Integration with Traditional Learning in a Blended Learning Environment", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5833"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Symposium Presentation 43 UniServe Science Blended Learning Symposium Proceedings", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5835"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Students ’ opinions on blended learning and its implementation in terms of their learning styles", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "� Asia-Pacific Society for Computers in Education EXPLORING TEACHING APPROACHES IN BLENDED LEARNING", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended Learning of Japanese between Tokyo and Taipei", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5844"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Blended learning p. 1 EVALUATION OF A BLENDED LEARNING PROFESSIONAL DEVELOPMENT PROGRAM FOR MIDDLE-SCHOOL MATHEMATICS AND SCIENCE TEACHERS", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5847"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Open source solution LMS for supporting e-learning/blended learning for engineers", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Markov games as a framework for multi-agent reinforcement learning", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Corporate Blended Learning Trends 1 Blended Learning Trends in Workplace Learning Settings: A Multi-national Study Running head: Corporate Blended Learning Trends", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5852"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Corporate Distance Training Blended Learning", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5786"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Development of Blended Learning Model based on the Perceptions of Students at Higher Education Institutes", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maximizing Collaborative Processes in Blended Learning: TSOI Hybrid Learning Model", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5860"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Evaluation System for Blending Learning Based on Blackboard Academic Suite", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BLENDED LEARNING APPROACH TO IMPROVE IN-SERVICE TEACHER EDUCATION IN EUROPE", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5863"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Marriage of Rousseau and Blended Learning: An Investigation of 3 Higher Educational Institutions ’ Praxis", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5866"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q150"
+}

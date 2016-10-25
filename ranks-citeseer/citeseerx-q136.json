@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 3393, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 16, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 3199, 
+      "title": "Bagging Predictors", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4192"
+    }, 
+    {
+      "citeBy": 2456, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 41, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 1052, 
+      "title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1076"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 77, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 1974, 
+      "title": "Corporate Financing and Investment Decisions when Firms Have Information that Investors Do Not Have", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4108"
+    }, 
+    {
+      "citeBy": 1915, 
+      "title": "Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4193"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 99, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1711, 
+      "title": "Common Risk Factors in the Returns On Stocks And Bonds", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4181"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 91, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1495, 
+      "title": "Software Engineering Economics", 
+      "ranks": 57, 
+      "docid": "citeseerx-d728"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 9, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 13, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1368, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 10, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The EigenTrust Algorithm for Reputation Management in P2P Networks", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3402"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Tapestry: An infrastructure for fault-tolerant wide-area location and routing", 
+      "ranks": 17, 
+      "docid": "citeseerx-d698"
+    }, 
+    {
+      "citeBy": 1257, 
+      "title": "A Survey of Approaches to Automatic Schema Matching", 
+      "ranks": 81, 
+      "docid": "citeseerx-d32"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2290"
+    }, 
+    {
+      "citeBy": 1218, 
+      "title": "Monte Carlo Statistical Methods", 
+      "ranks": 55, 
+      "docid": "citeseerx-d440"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1080, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 98, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 1047, 
+      "title": "The JPEG still picture compression standard", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3945"
+    }, 
+    {
+      "citeBy": 1010, 
+      "title": "Bank Runs, Deposit Insurance, and Liquidity", 
+      "ranks": 58, 
+      "docid": "citeseerx-d806"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 95, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 87, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 912, 
+      "title": "Using Bayesian networks to analyze expression data", 
+      "ranks": 61, 
+      "docid": "citeseerx-d564"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 76, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 899, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 43, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 708, 
+      "title": "Empirical exchange rate models of the Seventies: do they fit out of sample?", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1029"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 27, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 842, 
+      "title": "Visual reconstruction", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2306"
+    }, 
+    {
+      "citeBy": 811, 
+      "title": "Inductive-Data-Type Systems", 
+      "ranks": 30, 
+      "docid": "citeseerx-d4179"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Organizations", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 813, 
+      "title": "Routing with Guaranteed Delivery in ad hoc Wireless Networks", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3480"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "A theory of fairness, competition and cooperation", 
+      "ranks": 48, 
+      "docid": "citeseerx-d813"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Basic objects in natural categories", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1093"
+    }, 
+    {
+      "citeBy": 721, 
+      "title": "A New Method for Solving Hard Satisfiability Problems", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4174"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "A Model of Investor Sentiment", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1033"
+    }, 
+    {
+      "citeBy": 733, 
+      "title": "Receiver-driven Layered Multicast", 
+      "ranks": 47, 
+      "docid": "citeseerx-d667"
+    }, 
+    {
+      "citeBy": 716, 
+      "title": "Querying Heterogeneous Information Sources Using Source Descriptions", 
+      "ranks": 22, 
+      "docid": "citeseerx-d476"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "The Lorel Query Language for Semistructured Data", 
+      "ranks": 62, 
+      "docid": "citeseerx-d566"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 18, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Coherent Measures of Risk", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4184"
+    }, 
+    {
+      "citeBy": 698, 
+      "title": "Applied Nonparametric Regression", 
+      "ranks": 52, 
+      "docid": "citeseerx-d435"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 92, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 610, 
+      "title": "Program Analysis and Specialization for the C Programming Language", 
+      "ranks": 8, 
+      "docid": "citeseerx-d354"
+    }, 
+    {
+      "citeBy": 666, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 88, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 97, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 659, 
+      "title": "Parallel Numerical Linear Algebra", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1593"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Financial Intermediation and Growth: Causality and Causes", 
+      "ranks": 26, 
+      "docid": "citeseerx-d489"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 80, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 28, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 623, 
+      "title": "Market Efficiency, Long-Term Returns, and Behavioral Finance", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4119"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 85, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 602, 
+      "title": "Electronic Markets and Electronic Hierarchies", 
+      "ranks": 93, 
+      "docid": "citeseerx-d631"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 25, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism", 
+      "ranks": 86, 
+      "docid": "citeseerx-d768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Z-Tree: Zurich Toolbox for Readymade Economic Experiments, Working paper No", 
+      "ranks": 0, 
+      "docid": "citeseerx-d546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior.&quot; Working Paper no. 4995", 
+      "ranks": 6, 
+      "docid": "citeseerx-d4173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Efficient and Effective Clustering Methods for Spatial Data Mining", 
+      "ranks": 9, 
+      "docid": "citeseerx-d584"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications", 
+      "ranks": 26, 
+      "docid": "citeseerx-d561"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adapting to unknown smoothness via wavelet shrinkage", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1061"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 38, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 41, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 42, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 44, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 45, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 48, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summary cache: A scalable wide-area web cache sharing protocol", 
+      "ranks": 52, 
+      "docid": "citeseerx-d789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Insiders and Outsiders: The Choice between Informed and Arm&apos;s-Length Debt", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential Monte Carlo Methods for Dynamic Systems", 
+      "ranks": 63, 
+      "docid": "citeseerx-d305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software Transactional Memory", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Grouplens: Applying collaborative filtering to usenet news", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3926"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementing data cubes efficiently", 
+      "ranks": 83, 
+      "docid": "citeseerx-d268"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The ubiquitous B-tree", 
+      "ranks": 84, 
+      "docid": "citeseerx-d766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The tragedy of the commons", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4084"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Convex Analysis", 
+      "ranks": 86, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Kind of Science", 
+      "ranks": 87, 
+      "docid": "citeseerx-d778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Noncommutative Geometry", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cyberguide: A Mobile Context-Aware Tour Guide", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 90, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 92, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Africa´s Growth Tragedy: Policies and Ethnic Divisions”, The Quarterly", 
+      "ranks": 93, 
+      "docid": "citeseerx-d783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 94, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The sequence of the human genome", 
+      "ranks": 95, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "No Silver Bullet: Essence and Accidents of Software Engineering", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3045"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "New Directions in Cryptography", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1102"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algebraic topology", 
+      "ranks": 98, 
+      "docid": "citeseerx-d447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1140"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q136"
+}

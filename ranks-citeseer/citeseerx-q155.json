@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 10418, 
+      "title": "Maximum likelihood from incomplete data via the EM algorithm", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3128"
+    }, 
+    {
+      "citeBy": 2983, 
+      "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations", 
+      "ranks": 74, 
+      "docid": "citeseerx-d587"
+    }, 
+    {
+      "citeBy": 2540, 
+      "title": "Some methods for classification and analysis of multivariate observations", 
+      "ranks": 31, 
+      "docid": "citeseerx-d4442"
+    }, 
+    {
+      "citeBy": 2456, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 53, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "Capacity of multi-antenna Gaussian channels", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2273"
+    }, 
+    {
+      "citeBy": 1845, 
+      "title": "Generalized Autoregressive Conditional Heteroskedasticity", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6349"
+    }, 
+    {
+      "citeBy": 2421, 
+      "title": "A Heteroskedasticity-Consistent Covariance Matrix Estimator And A Direct Test For Heteroskedasticity", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4275"
+    }, 
+    {
+      "citeBy": 1765, 
+      "title": "PROBABILITY INEQUALITIES FOR SUMS OF BOUNDED RANDOM VARIABLES", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6356"
+    }, 
+    {
+      "citeBy": 2033, 
+      "title": "BLEU: a Method for Automatic Evaluation of Machine Translation", 
+      "ranks": 93, 
+      "docid": "citeseerx-d254"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Generalized Additive Models", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1838"
+    }, 
+    {
+      "citeBy": 2005, 
+      "title": "Experiments with a New Boosting Algorithm", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5667"
+    }, 
+    {
+      "citeBy": 1756, 
+      "title": "Initial Conditions and Moment Restrictions in Dynamic Panel Data Models", 
+      "ranks": 37, 
+      "docid": "citeseerx-d6384"
+    }, 
+    {
+      "citeBy": 1552, 
+      "title": "The theory of planned behavior", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3429"
+    }, 
+    {
+      "citeBy": 1569, 
+      "title": "Near Shannon limit error-correcting coding and decoding", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6426"
+    }, 
+    {
+      "citeBy": 1561, 
+      "title": "Cooperative diversity in wireless networks: efficient protocols and outage behavior", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2280"
+    }, 
+    {
+      "citeBy": 1381, 
+      "title": "A Fast and Elitist Multi-Objective Genetic Algorithm: NSGA-II", 
+      "ranks": 98, 
+      "docid": "citeseerx-d212"
+    }, 
+    {
+      "citeBy": 1344, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 36, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "The Laplacian Pyramid as a Compact Image Code", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1104"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 18, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1163, 
+      "title": "A closed-form solution for options with stochastic volatility with applications to bond and currency options", 
+      "ranks": 27, 
+      "docid": "citeseerx-d6372"
+    }, 
+    {
+      "citeBy": 1073, 
+      "title": "An introduction to variable and feature selection", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1662"
+    }, 
+    {
+      "citeBy": 1048, 
+      "title": "Multiresolution grayscale and rotation invariant texture classification with local binary patterns", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1836"
+    }, 
+    {
+      "citeBy": 1041, 
+      "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1078"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "Word Association Norms, Mutual Information, and Lexicography", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6435"
+    }, 
+    {
+      "citeBy": 863, 
+      "title": "The rendering equation", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4455"
+    }, 
+    {
+      "citeBy": 1015, 
+      "title": "The Economics of Inequality", 
+      "ranks": 75, 
+      "docid": "citeseerx-d738"
+    }, 
+    {
+      "citeBy": 967, 
+      "title": "Markov chains for exploring posterior distributions", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4522"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 930, 
+      "title": "Alignment by Maximization of Mutual Information", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4087"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "The Behaviour of Stock Market Prices", 
+      "ranks": 34, 
+      "docid": "citeseerx-d528"
+    }, 
+    {
+      "citeBy": 845, 
+      "title": "Boosting the margin: A new explanation for the effectiveness of voting methods", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3616"
+    }, 
+    {
+      "citeBy": 916, 
+      "title": "MediaBench: A Tool for Evaluating and Synthesizing Multimedia and Communications Systems", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2267"
+    }, 
+    {
+      "citeBy": 895, 
+      "title": "On Sequential Monte Carlo Sampling Methods for Bayesian Filtering", 
+      "ranks": 62, 
+      "docid": "citeseerx-d6413"
+    }, 
+    {
+      "citeBy": 872, 
+      "title": "Random Graphs", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4288"
+    }, 
+    {
+      "citeBy": 773, 
+      "title": "An analysis of transformations", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3957"
+    }, 
+    {
+      "citeBy": 831, 
+      "title": "Sparse coding with an overcomplete basis set: a strategy employed by V1", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1091"
+    }, 
+    {
+      "citeBy": 809, 
+      "title": "End-to-End Internet Packet Dynamics", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1098"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 77, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 790, 
+      "title": "Sparse Bayesian Learning and the Relevance Vector Machine", 
+      "ranks": 69, 
+      "docid": "citeseerx-d310"
+    }, 
+    {
+      "citeBy": 784, 
+      "title": "Stochastic Perturbation Theory", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4576"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4598"
+    }, 
+    {
+      "citeBy": 767, 
+      "title": "Relations between the statistics of natural images and the response properties of cortical cells", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2285"
+    }, 
+    {
+      "citeBy": 703, 
+      "title": "Fast and robust fixed-point algorithms for independent component analysis", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1064"
+    }, 
+    {
+      "citeBy": 726, 
+      "title": "The Cyclical Behavior of Equilibrium Unemployment and Vacancies", 
+      "ranks": 20, 
+      "docid": "citeseerx-d4022"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multi-band Image Segmentation", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2956"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "On the optimality of the simple Bayesian classifier under zero-one loss", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2374"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "Automatically characterizing large scale program behavior", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4549"
+    }, 
+    {
+      "citeBy": 705, 
+      "title": "Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level", 
+      "ranks": 14, 
+      "docid": "citeseerx-d510"
+    }, 
+    {
+      "citeBy": 734, 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3540"
+    }, 
+    {
+      "citeBy": 716, 
+      "title": "Linear models and empirical Bayes methods for assessing differential expression in microarray experiments", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2304"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Independent component analysis: algorithms and applications", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1721"
+    }, 
+    {
+      "citeBy": 698, 
+      "title": "Applied Nonparametric Regression", 
+      "ranks": 67, 
+      "docid": "citeseerx-d435"
+    }, 
+    {
+      "citeBy": 695, 
+      "title": "Irrelevant Features and the Subset Selection Problem", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2963"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6185"
+    }, 
+    {
+      "citeBy": 665, 
+      "title": "CURE: An Efficient Clustering Algorithm for Large Data sets", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1705"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "Active Learning with Statistical Models", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5603"
+    }, 
+    {
+      "citeBy": 646, 
+      "title": "Blind Beamforming for Non Gaussian Signals", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2405"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Discrete Multivariate Analysis: Theory and Practice", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3432"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Probabilistic Principal Component Analysis", 
+      "ranks": 45, 
+      "docid": "citeseerx-d6393"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The Cache Performance and Optimizations of Blocked Algorithms", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4363"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The probabilistic method", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1117"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics", 
+      "ranks": 22, 
+      "docid": "citeseerx-d6375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The pricing of options on assets with stochastic volatilities", 
+      "ranks": 24, 
+      "docid": "citeseerx-d6212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Option pricing when underlying stock returns are discontinuous", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5570"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Self-similar Nature of Ethernet Traffic (Extended Version)", 
+      "ranks": 32, 
+      "docid": "citeseerx-d800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-Area Traffic: The Failure of Poisson Modeling", 
+      "ranks": 33, 
+      "docid": "citeseerx-d810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Introduction to the Kalman Filter", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1315"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Graphical models", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6392"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms", 
+      "ranks": 39, 
+      "docid": "citeseerx-d3658"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Valuation of Options for Alternative Stochastic Processes", 
+      "ranks": 43, 
+      "docid": "citeseerx-d6400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Regression quantiles", 
+      "ranks": 48, 
+      "docid": "citeseerx-d467"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generating Representative Web Workloads for Network and Server Performance Evaluation", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4143"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN EQUILIBRIUM CHARACTERIZATION OF THE TERM STRUCTURE", 
+      "ranks": 52, 
+      "docid": "citeseerx-d6409"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Where the really hard problems are", 
+      "ranks": 53, 
+      "docid": "citeseerx-d3943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical performance of alternative option pricing models", 
+      "ranks": 62, 
+      "docid": "citeseerx-d6201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior.&quot; Working Paper no. 4995", 
+      "ranks": 63, 
+      "docid": "citeseerx-d4173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rules, discretion, and reputation in a model of monetary policy", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the pricing of corporate debt: The risk structure of interest rates", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4273"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparing Predictive Accuracy", 
+      "ranks": 69, 
+      "docid": "citeseerx-d6341"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On limits of wireless communications in a fading environment when using multiple antennas", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Space-time codes for high data rate wireless communication: Performance criterion and code construction", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2278"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimation and Inference in Econometrics", 
+      "ranks": 83, 
+      "docid": "citeseerx-d747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Extension of the Kalman Filter to Nonlinear Systems", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Independent Component Analysis", 
+      "ranks": 86, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 87, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2319"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1076"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Quality Assessment: From Error Visibility to Structural Similarity", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Speaker verification using Adapted Gaussian mixture models", 
+      "ranks": 91, 
+      "docid": "citeseerx-d220"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Option Pricing: A Simplified Approach", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Attention, similarity, and the identification-Categorization Relationship", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wrappers for Feature Subset Selection", 
+      "ranks": 94, 
+      "docid": "citeseerx-d271"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale-space and edge detection using anisotropic diffusion", 
+      "ranks": 95, 
+      "docid": "citeseerx-d731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE CAUSAL EFFECT OF EDUCATION ON EARNINGS", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition: features versus templates", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An introduction to the Bootstrap", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4279"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rapid object detection using a boosted cascade of simple features", 
+      "ranks": 99, 
+      "docid": "citeseerx-d744"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q155"
+}

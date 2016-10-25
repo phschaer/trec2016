@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 409, 
+      "title": "Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2478"
+    }, 
+    {
+      "citeBy": 235, 
+      "title": "Bayesian Compressive Sensing", 
+      "ranks": 2, 
+      "docid": "citeseerx-d8436"
+    }, 
+    {
+      "citeBy": 214, 
+      "title": "Iterative hard thresholding for compressed sensing", 
+      "ranks": 7, 
+      "docid": "citeseerx-d8451"
+    }, 
+    {
+      "citeBy": 123, 
+      "title": "Iteratively reweighted algorithms for compressive sensing", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8487"
+    }, 
+    {
+      "citeBy": 107, 
+      "title": "Distributed compressed sensing", 
+      "ranks": 13, 
+      "docid": "citeseerx-d8445"
+    }, 
+    {
+      "citeBy": 103, 
+      "title": "Deterministic constructions of compressed sensing matrices", 
+      "ranks": 50, 
+      "docid": "citeseerx-d8474"
+    }, 
+    {
+      "citeBy": 83, 
+      "title": "Combinatorial Algorithms for Compressed Sensing", 
+      "ranks": 20, 
+      "docid": "citeseerx-d8446"
+    }, 
+    {
+      "citeBy": 68, 
+      "title": "TOEPLITZ-STRUCTURED COMPRESSED SENSING MATRICES", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8520"
+    }, 
+    {
+      "citeBy": 63, 
+      "title": "Kalman filtered compressed sensing", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1368"
+    }, 
+    {
+      "citeBy": 62, 
+      "title": "Optimized projections for compressed sensing", 
+      "ranks": 24, 
+      "docid": "citeseerx-d8457"
+    }, 
+    {
+      "citeBy": 60, 
+      "title": "1-Bit Compressive Sensing", 
+      "ranks": 19, 
+      "docid": "citeseerx-d8449"
+    }, 
+    {
+      "citeBy": 29, 
+      "title": "BLOCK COMPRESSED SENSING OF NATURAL IMAGES", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8522"
+    }, 
+    {
+      "citeBy": 27, 
+      "title": "Towards an algorithmic theory of compressed sensing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8516"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "A remark on compressed sensing", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8453"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Kronecker Compressive Sensing", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8498"
+    }, 
+    {
+      "citeBy": 21, 
+      "title": "Learning Compressed Sensing", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8478"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "The secrecy of compressed sensing measurements", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8481"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Spectral Compressive Sensing", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8491"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Best Basis Compressive Sensing", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8476"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "AN EFFICIENT METHOD FOR COMPRESSED SENSING", 
+      "ranks": 39, 
+      "docid": "citeseerx-d8465"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Video Compressed Sensing with Multihypothesis", 
+      "ranks": 38, 
+      "docid": "citeseerx-d8462"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Blind compressed sensing", 
+      "ranks": 61, 
+      "docid": "citeseerx-d8482"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Quantization for compressed sensing reconstruction", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8484"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Sparse representations, compressive sensing and dictionaries for pattern recognition", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8519"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "BAYESIAN COMPRESSED SENSING IN ULTRASOUND IMAGING", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8521"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Theory and Applications of Compressed Sensing", 
+      "ranks": 41, 
+      "docid": "citeseerx-d8460"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Survey of Compressive Sensing", 
+      "ranks": 55, 
+      "docid": "citeseerx-d8473"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Kalman Filtering for Compressed Sensing", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1437"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "UNSCENTED COMPRESSED SENSING", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8507"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "In Situ Compressive Sensing", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8508"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d346"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive sensing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d8434"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing", 
+      "ranks": 2, 
+      "docid": "citeseerx-d8435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "compressed sensing", 
+      "ranks": 4, 
+      "docid": "citeseerx-d8437"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d8439"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing", 
+      "ranks": 6, 
+      "docid": "citeseerx-d8440"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "compressed sensing and the", 
+      "ranks": 8, 
+      "docid": "citeseerx-d8442"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing on", 
+      "ranks": 9, 
+      "docid": "citeseerx-d8443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing and Redundant Dictionaries", 
+      "ranks": 10, 
+      "docid": "citeseerx-d8444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "STATISTICAL MECHANICS OF COMPRESSED SENSING", 
+      "ranks": 12, 
+      "docid": "citeseerx-d8441"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing and Information Theory", 
+      "ranks": 16, 
+      "docid": "citeseerx-d8450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing MRI", 
+      "ranks": 19, 
+      "docid": "citeseerx-d8452"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing in Holography", 
+      "ranks": 22, 
+      "docid": "citeseerx-d8455"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing Over Networks", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical Physics of Compressed Sensing", 
+      "ranks": 25, 
+      "docid": "citeseerx-d8448"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing in MIMO Radar", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8458"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing and Blind Image", 
+      "ranks": 27, 
+      "docid": "citeseerx-d8459"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "q-ary Compressive Sensing", 
+      "ranks": 30, 
+      "docid": "citeseerx-d8454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing with Cross Validation", 
+      "ranks": 30, 
+      "docid": "citeseerx-d8463"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing  in astronomy", 
+      "ranks": 31, 
+      "docid": "citeseerx-d8464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing and Electron Microscopy", 
+      "ranks": 33, 
+      "docid": "citeseerx-d8466"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMPRESSIVE SENSING OF LIGHT FIELDS", 
+      "ranks": 34, 
+      "docid": "citeseerx-d8467"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing with Unknown Parameters", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8468"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing with Nonlinear Observations", 
+      "ranks": 36, 
+      "docid": "citeseerx-d8469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing and source separation", 
+      "ranks": 38, 
+      "docid": "citeseerx-d8471"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing with sequential observations", 
+      "ranks": 39, 
+      "docid": "citeseerx-d8472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing Algorithms Monitored by", 
+      "ranks": 44, 
+      "docid": "citeseerx-d8477"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing with quantized measurements", 
+      "ranks": 46, 
+      "docid": "citeseerx-d8479"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive sensing for background subtraction", 
+      "ranks": 50, 
+      "docid": "citeseerx-d8483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Taste of Compressed Sensing ∗", 
+      "ranks": 52, 
+      "docid": "citeseerx-d8470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing for Spectroscopy and Polarimetry", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8488"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing for Inverse Scattering", 
+      "ranks": 55, 
+      "docid": "citeseerx-d8489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "POISSON COMPRESSED SENSING", 
+      "ranks": 56, 
+      "docid": "citeseerx-d8475"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing and best k-term approximation", 
+      "ranks": 58, 
+      "docid": "citeseerx-d8494"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On combinatorial approaches to compressed sensing", 
+      "ranks": 60, 
+      "docid": "citeseerx-d8480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential Compressed Sensing", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8499"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing Off the Grid", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8500"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantization and Compressive Sensing", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8485"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential Compressed Sensing 1", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hybrid Compressed Sensing of Images", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8504"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANALOG COMPRESSED SENSING", 
+      "ranks": 69, 
+      "docid": "citeseerx-d8493"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Fusion by Compressive Sensing", 
+      "ranks": 71, 
+      "docid": "citeseerx-d8495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing and Structured Random Matrices", 
+      "ranks": 72, 
+      "docid": "citeseerx-d8509"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Quantized Compressive Sensing", 
+      "ranks": 74, 
+      "docid": "citeseerx-d8496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMPRESSED SENSING WITH CORRUPTED PARTICIPANTS", 
+      "ranks": 74, 
+      "docid": "citeseerx-d8511"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing for fusion frames", 
+      "ranks": 75, 
+      "docid": "citeseerx-d8512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing for Fusion Frames", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8513"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing Phase Retrieval", 
+      "ranks": 77, 
+      "docid": "citeseerx-d8514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequentially Designed Compressed Sensing", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support recovery in compressed sensing: An", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8515"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hybrid Compressed Sensing", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recursive Compressed Sensing", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8505"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Geometry of Compressed Sensing", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8506"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensitivity Considerations in Compressed Sensing", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning to Observation Matrices of Compressive Sensing", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8523"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Near-Optimal Adaptive Compressed Sensing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bayesian compressive sensing and projection optimization", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8525"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Graphical Models Concepts in Compressed Sensing", 
+      "ranks": 89, 
+      "docid": "citeseerx-d8526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed sensing and Bayesian experimental design", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8527"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressed Sensing of Analog Signals", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FORENSIC IDENTIFICATION OF COMPRESSIVELY SENSED IMAGES", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8529"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sigma Delta Quantization for Compressive Sensing", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMPRESSIVE SENSING FOR MIMO RADAR", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8531"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Network Compressive Sensing", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8517"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Topics in compressed sensing", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8532"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compressive Sensing of Streams of Pulses", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FORENSIC IDENTIFICATION OF COMPRESSIVELY SENSED SIGNALS", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GRAVIMETRIC DETECTION BY COMPRESSED SENSING", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8534"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Methods for Distributed Compressed Sensing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DESIGNING COMPRESSIVE SENSING DNA MICROARRAYS", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8536"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q181"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4282, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 3231, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 60, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 2911, 
+      "title": "Ad-hoc On-Demand Distance Vector Routing", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2955"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 85, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 2076, 
+      "title": "GPSR: Greedy perimeter stateless routing for wireless networks", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1105"
+    }, 
+    {
+      "citeBy": 1998, 
+      "title": "Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3481"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 70, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2050, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 71, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 1881, 
+      "title": "Highly Dynamic Destination-Sequenced Distance-Vector Routing (DSDV) for Mobile Computers", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3435"
+    }, 
+    {
+      "citeBy": 1826, 
+      "title": "Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3489"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "A Performance Comparison of Multi-Hop Wireless Ad Hoc Network Routing Protocols", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1114"
+    }, 
+    {
+      "citeBy": 1304, 
+      "title": "Tcl and the Tk Toolkit", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3552"
+    }, 
+    {
+      "citeBy": 1033, 
+      "title": "A Highly Adaptive Distributed Routing Algorithm for Mobile Wireless Networks", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2406"
+    }, 
+    {
+      "citeBy": 1064, 
+      "title": "Multicast Routing in Datagram Internetworks and Extended LANs", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3479"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 77, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Tapestry: An infrastructure for fault-tolerant wide-area location and routing", 
+      "ranks": 23, 
+      "docid": "citeseerx-d698"
+    }, 
+    {
+      "citeBy": 1180, 
+      "title": "A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks", 
+      "ranks": 22, 
+      "docid": "citeseerx-d726"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 42, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 62, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Tor: The Second-Generation Onion Router", 
+      "ranks": 50, 
+      "docid": "citeseerx-d787"
+    }, 
+    {
+      "citeBy": 1094, 
+      "title": "Mediators in the architecture of future information systems", 
+      "ranks": 68, 
+      "docid": "citeseerx-d550"
+    }, 
+    {
+      "citeBy": 1093, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 73, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 1080, 
+      "title": "A reliable multicast framework for light-weight sessions and application level framing", 
+      "ranks": 76, 
+      "docid": "citeseerx-d568"
+    }, 
+    {
+      "citeBy": 981, 
+      "title": "Mitigating Routing Misbehavior in Mobile Ad Hoc Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2296"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Planning and acting in partially observable stochastic domains", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3550"
+    }, 
+    {
+      "citeBy": 965, 
+      "title": "Geography-informed Energy Conservation for Ad Hoc Routing", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3019"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Disconnected Operation in the Coda File System", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3542"
+    }, 
+    {
+      "citeBy": 985, 
+      "title": "Wireless Ad Hoc Networks", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1083"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 75, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 69, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "A comparison of mechanisms for improving TCP performance over wireless links", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3494"
+    }, 
+    {
+      "citeBy": 839, 
+      "title": "Ariadne: A secure on-demand routing protocol for ad hoc networks", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2401"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Promoting the Use of End-to-End Congestion Control in the Internet", 
+      "ranks": 46, 
+      "docid": "citeseerx-d740"
+    }, 
+    {
+      "citeBy": 622, 
+      "title": "How bad is selfish routing?", 
+      "ranks": 2, 
+      "docid": "citeseerx-d773"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 58, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 768, 
+      "title": "PVM: A Framework for Parallel Distributed Computing", 
+      "ranks": 37, 
+      "docid": "citeseerx-d556"
+    }, 
+    {
+      "citeBy": 720, 
+      "title": "Power-Aware Routing in Mobile Ad Hoc Networks", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2292"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 741, 
+      "title": "Random key predistribution schemes for sensor networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d754"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Secure Routing in Wireless Sensor Networks: Attacks and Countermeasures", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2313"
+    }, 
+    {
+      "citeBy": 734, 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "ranks": 78, 
+      "docid": "citeseerx-d3540"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "TOSSIM: Accurate and Scalable Simulation of Entire TinyOS Applications", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1087"
+    }, 
+    {
+      "citeBy": 702, 
+      "title": "Internet Protocol", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3518"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Scalable Application Layer Multicast", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3538"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Grid Information Services for Distributed Resource Sharing", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1815"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "End-to-End Routing Behavior in the Internet", 
+      "ranks": 13, 
+      "docid": "citeseerx-d3482"
+    }, 
+    {
+      "citeBy": 651, 
+      "title": "An Integrated Experimental Environment for Distributed Systems and Networks", 
+      "ranks": 29, 
+      "docid": "citeseerx-d582"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "Topology Control of Multihop Wireless Networks using Transmit Power Adjustment", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1100"
+    }, 
+    {
+      "citeBy": 569, 
+      "title": "Probabilistic Routing in Intermittently Connected Networks", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3516"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "Reliable Multicast Transport Protocol (RMTP)", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3548"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "The x-Kernel: An Architecture for Implementing Network Protocols", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2380"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 81, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 82, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 628, 
+      "title": "Packet Leashes: A Defense against Wormhole Attacks in Wireless Ad Hoc Networks", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1107"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 620, 
+      "title": "SCRIBE: A large-scale and decentralized application-level multicast infrastructure", 
+      "ranks": 64, 
+      "docid": "citeseerx-d3526"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Medium Access Control with Coordinated Adaptive Sleeping for Wireless Sensor Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1048"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Fair end-to-end window-based congestion control", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3507"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "GloMoSim: A Library for Parallel Simulation of Large-scale Wireless Networks", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3561"
+    }, 
+    {
+      "citeBy": 565, 
+      "title": "Energy Conserving Routing in Wireless Ad-hoc Networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d2399"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "Internet time synchronization: The network time protocol", 
+      "ranks": 53, 
+      "docid": "citeseerx-d760"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "A blueprint for introducing disruptive technology into the internet", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3521"
+    }, 
+    {
+      "citeBy": 577, 
+      "title": "Points-to Analysis in Almost Linear Time", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1103"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Multiscalar Processors", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3523"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 35, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 498, 
+      "title": "An Efficient Routing Protocol for Wireless Networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3510"
+    }, 
+    {
+      "citeBy": 520, 
+      "title": "Performance comparison of two on-demand routing protocols for ad hoc networks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3503"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 99, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Routing Wasps for Distributed Factory Control", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3477"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Routing Wasps for Distributed Factory Control", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3478"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing with Guaranteed Delivery in ad hoc Wireless Networks", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Route Packets, Not Wires: On-Chip Interconnection Networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2376"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 16, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A High-Throughput Path Metric for Multi-Hop Wireless Routing", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving retrieval performance by relevance feedback", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3487"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed hierarchical processing in the primate cerebral cortex", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1043"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing in a delay tolerant network", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2329"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Network Weather Service: A Distributed Resource Performance Forecasting Service for Metacomputing", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The control of the false discovery rate in multiple testing under dependency", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3505"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 42, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 46, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1017"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing in multi-radio, multi-hop wireless mesh networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3541"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobility increases the capacity of ad-hoc wireless networks", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 76, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 77, 
+      "docid": "citeseerx-d236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Power-Law Relationships of the Internet Topology", 
+      "ranks": 85, 
+      "docid": "citeseerx-d816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 87, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design and Evaluation of a Wide-Area Event Notification Service", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1079"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Active Badge Location System", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GOLOG: A Logic Programming Language for Dynamic Domains", 
+      "ranks": 96, 
+      "docid": "citeseerx-d55"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-to-End Internet Packet Dynamics", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1098"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 98, 
+      "docid": "citeseerx-d708"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An evaluation of statistical approaches to text categorization", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3566"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q128"
+}

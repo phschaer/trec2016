@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1105, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 316, 
+      "title": "Generalized Inverses: Theory and Applications", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2393"
+    }, 
+    {
+      "citeBy": 219, 
+      "title": "Multi-resolution, object-oriented fuzzy analysis of remote sensing data for GIS-ready information", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4734"
+    }, 
+    {
+      "citeBy": 214, 
+      "title": "An architecture for privacy-sensitive ubiquitous computing", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4739"
+    }, 
+    {
+      "citeBy": 192, 
+      "title": "Synthetic Aperture Radar Interferometry", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4836"
+    }, 
+    {
+      "citeBy": 188, 
+      "title": "Indexing moving points", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4747"
+    }, 
+    {
+      "citeBy": 153, 
+      "title": "High-Performance Communication Networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d4784"
+    }, 
+    {
+      "citeBy": 117, 
+      "title": "Relational bayesian networks", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4878"
+    }, 
+    {
+      "citeBy": 28, 
+      "title": "Use of satellite SAR intensity imagery for detecting building areas damaged due to earthquake", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4761"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Characteristics of Satellite Images of Damaged Areas due to the 1995 Kobe Earthquake", 
+      "ranks": 43, 
+      "docid": "citeseerx-d4803"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Uplift and subsidence associated with the great Aceh-Andaman earthquake of 2004", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4814"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "The integration of GPS, radar interferometry and GIS for ground deformation monitoring", 
+      "ranks": 20, 
+      "docid": "citeseerx-d4753"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Building Damage Estimation by Integration of Seismic Intensity Information and Satellite L-band SAR Imagery", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4883"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Use of Interferometric satellite SAR for earthquake damage detection", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4767"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Application of Repeat-pass DInSAR and GIS for Underground Mine Subsidence Monitoring", 
+      "ranks": 56, 
+      "docid": "citeseerx-d4819"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Engineering geology landslide investigations and SAR interferometry", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4828"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 1, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FUSION OF GIS AND SAR STATISTICAL FEATURES FOR EARTHQUAKE DAMAGE MAPPING AT THE BLOCK SCALE", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SAR DATA ACQUISITION FOR EVENT-DRIVEN MAPPING OF URBAN AREAS USING GIS", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4732"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Earthquake damage assessment of buildings using VHR optical and SAR imagery", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4740"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavecluster: A multi-resolution clustering approach for very large spatial databases", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Earthquake Disaster Management System (EDMS) for Quetta City Using GIS", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EARTHQUAKES", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 DAMAGE DETECTION FOR THE 2003 ALGERIA EARTHQUAKE USING SAR INTENSITY IMAGES", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Earthquake", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EARTHQUAKES", 
+      "ranks": 17, 
+      "docid": "citeseerx-d4757"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Damage detection at different scales from SAR and QuickBird imagery for the 2003 Boumerdes, Algeria, earthquake.", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatio-Temporal Data Types: An Approach to Modeling and Querying Moving Objects in Databases", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interferometric Characterization of Areas Damaged by the 1995 Kobe Earthquake Using Satellite SAR Images", 
+      "ranks": 28, 
+      "docid": "citeseerx-d4763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "APPLICATION OF DINSAR AND GIS FOR UNDERGROUND MINE SUBSIDENCE MONITORING", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4764"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DIMENSIONS: Why do we need a new Data Handling architecture for Sensor Networks?", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4779"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MONITORING OF EARTHQUAKES ACTIVITIES ALONG THE SYRIAN RIFT SYSTEM ( LEFT-LATERAL) BY USING REMOTE SENSING AND GIS DATABASE", 
+      "ranks": 32, 
+      "docid": "citeseerx-d4766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integration of Synthetic Aperture Radar Interferometry (InSAR) and Geographical Information Systems (GIS) for Monitoring Mining Induced Surface Deformations", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4774"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Remote Sensing and GIS Applications for Urban Risk and Disaster Management for Tehran", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4772"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Use of InSAR for Monitoring of Mining Deformations", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTI-PASS DIFFERENTIAL RADAR INTERFEROMETRY WITH THE AID OF GIS", 
+      "ranks": 37, 
+      "docid": "citeseerx-d4777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "POTENTIAL OF HIGH-RESOLUTION SAR IMAGES FOR URBAN ANALYSIS", 
+      "ranks": 37, 
+      "docid": "citeseerx-d4796"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measurement of Seismic Displacements. A comparison of SAR and GPS techniques, with particular reference to a recent Californian earthquake.", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TerraSAR-X: Applications for Spaceborne High Resolution SAR Data", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Radar Interferometry and its application to changes in the Earth’s surface.&quot; Reviews of Geophysics 36(4", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geospatial Response with Remote Sensing, GIS,", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Descending orbit InSAR. SUMMARY", 
+      "ranks": 41, 
+      "docid": "citeseerx-d4788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Proceedings of the Workshop on “POLinSAR” Applications of SAR Polarimetry and Polarimetric Interferometry", 
+      "ranks": 44, 
+      "docid": "citeseerx-d4792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "POTENTIAL OF HIGH-RESOLUTION SAR IMAGES FOR URBAN ANALYSIS", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4795"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "gKh Earthquake Himalaya", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4812"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PRODUCTS DERIVED FROM AN ADVANCED DINSAR-GIS APPLICATION FOR RISK MANAGEMENT", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4798"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Earthquake Geology of Myanmar", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Applications of remote sensing and GIS for damage assessment", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4802"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUTOMATIC OBJECT EXTRACTION FOR CHANGE DETECTION AND GIS UPDATE", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The use of Interferometric SAR in a study of Reservoir Induced Crustal Deformation", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS-SUPPORTED PRECISE SPATIO-TEMPORAL MODELLING FROM AIRBORNE SAR IMAGERY", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4824"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS-SUPPORTED PRECISE SPATIO-TEMPORAL MODELLING FROM AIRBORNE SAR IMAGERY", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HAZARD MAPPING OF EARTHQUAKE TRIGGERED LANDSLIDES", 
+      "ranks": 54, 
+      "docid": "citeseerx-d4810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Editor...", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4827"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ALOS PALSAR SCANSAR INTERFEROMETRY AND ITS APPLICATION IN WENCHUAN EARTHQUAKE", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4818"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACT RICE YIELD ESTIMATION USING SAR IMAGES, METEOROLOGICAL DATA AND GIS", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4822"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS In Education", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4832"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatial Modeling for Reducing Earthquake Disaster Damages in Iran", 
+      "ranks": 62, 
+      "docid": "citeseerx-d4821"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantitative Subsidence Monitoring: The Integrated InSAR, GPS and GIS Approach", 
+      "ranks": 63, 
+      "docid": "citeseerx-d4826"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NATURAL HAZARD ASSESSMENT OF SW MYANMAR- A CONTRIBUTION OF REMOTE SENSING AND GIS METHODS TO THE DETECTION OF AREAS VULNERABLE TO EARTHQUAKES AND TSUNAMI / CYCLONE FLOODING", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4829"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Combining InSAR and optical data to detect earthquake damages", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4830"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PALSAR SAR Interferometry for co-seismic deformation monitoring of Wenchuan Earthquake", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4831"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS Characterization of the Los Angeles Water Supply, Earthquake Effects", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "InSAR observations and modelling", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4850"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient System for Creating Synthetic InSAR Images from Simulations", 
+      "ranks": 72, 
+      "docid": "citeseerx-d4834"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEVELOPING A WEB-BASED GIS APPLICATION FOR EARTHQUAKE INFORMATION", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS Assisted Interpretation of Radar Interferometric Results", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4861"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OPPORTUNITIES OF URBAN ANALYSIS FROM HIGH-RESOLUTION SAR DATA", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4841"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of GIS and Remote Sensing Technologies in Disaster Management in Algeria", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4864"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTIDIMENSIONAL SAR SATELLITE IMAGES – A MAPPING PERSPECTIVE", 
+      "ranks": 77, 
+      "docid": "citeseerx-d4843"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Use of GPS and InSAR technology and its further development in earthquake modeling", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© Author(s) 2007. This work is licensed under a Creative Commons License. Natural Hazards and Earth System Sciences Combination of SAR remote sensing and GIS for monitoring subglacial volcanic activity – recent results from", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4853"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mitigation in Vietnam using GIS", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4848"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Remote Sensing Technology for Earthquake Damage Detection", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EARTHQUAKES SYMPOSIA ON", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Possibility of Intensity Based Registration for Metric Resolution SAR and Optical Imagery", 
+      "ranks": 83, 
+      "docid": "citeseerx-d4875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An attempt of GIS analysis of the damages of the January 8, 2006 Kythira earthquake, Greece.", 
+      "ranks": 84, 
+      "docid": "citeseerx-d4847"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "APPLICATION OF REMOTE SENSING AND GIS IN EARTHQUAKE STUDY “A CASE STUDY OF BHUJ EARTHQUAKE 2001” NARENDER VERMA*", 
+      "ranks": 84, 
+      "docid": "citeseerx-d4876"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEVELOPING A WEB-BASED GIS APPLICATION FOR EARTHQUAKE INFORMATION", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4855"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatial Econometrics", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4879"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integration Of Image Analysis And GIS", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4880"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using GIS for Assessing Earthquake Hazards of San Francisco Bay, California, USA", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Utilization of Remote sensing and GIS in Managing Disasters – A Review", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4881"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SAR technologies for topographic mapping", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4882"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Persistent Scatterer InSAR and GIS for Urban Subsidence Monitoring", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4736"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE GLOBAL GIS PROJECT:  GIS DATA AND LESSONS FOR THE WORLD", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interferometry Earthquake modeling Deformation", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nevada Earthquake and the Earthquake Documentation Volume", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4887"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "revealed with InSAR", 
+      "ranks": 94, 
+      "docid": "citeseerx-d4866"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS as integrating tool in Sustainability and Global Change", 
+      "ranks": 94, 
+      "docid": "citeseerx-d4888"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rapid Post-Earthquake Assessment of", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4890"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Landcover Mapping of Banda Aceh, Indonesia, using Optical and SAR Satellite Imagery", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4870"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Urban Monitoring using Persistent Scatterer InSAR and Photogrammetry", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4891"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EVACUATION PLANNING IN EARTHQUAKE DISASTERS, USING RS &amp; GIS", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4867"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SPATIAL CORRELATION BETWEEN INTERFEROMETRIC STACKING PATTERN DEFORMATION AND DAMAGE DISTRIBUTION OF ATHENS 7-9-99 EARTHQUAKE AND ITS SEISMIC SEQUENCE", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4892"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chavoshi et al. Expert GIS for Damage Evaluation after an Earthquake Toward Developing an Expert GIS for Damage Evaluation after an Earthquake (Case study: Tehran)", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SPATIAL CORRELATION BETWEEN INTERFEROMETRIC STACKING PATTERN DEFORMATION AND DAMAGE DISTRIBUTION OF ATHENS 7-9-99 EARTHQUAKE AND ITS SEISMIC SEQUENCE", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4893"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "from GPS and InSAR Data", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4872"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integrated Earthquake Simulator to Generate", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4894"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q142"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 767, 
+      "title": "A Methodology for Agent-Oriented Analysis and Design", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3035"
+    }, 
+    {
+      "citeBy": 98, 
+      "title": "Agent-Based Business Process Management", 
+      "ranks": 10, 
+      "docid": "citeseerx-d7002"
+    }, 
+    {
+      "citeBy": 79, 
+      "title": "A declarative approach for flexible business processes management", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7070"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Making Work Flow: On the Application of Petri nets to Business Process Management", 
+      "ranks": 80, 
+      "docid": "citeseerx-d7071"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "A.: Interorganizational Business Process Management with XML Nets", 
+      "ranks": 89, 
+      "docid": "citeseerx-d7086"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Why do we actually need the Pi-Calculus for Business Process Management", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7095"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Strategic business process management for organisational effectiveness", 
+      "ranks": 35, 
+      "docid": "citeseerx-d7023"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "BPMN and Business Process Management: An Introduction to the New", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7085"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Integration of Workflow and Agent Technology for Business Process Management", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7022"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Secure Business Process Management: A Roadmap", 
+      "ranks": 31, 
+      "docid": "citeseerx-d7019"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Semantic Business Process Management", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6991"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "SLA-driven business process management in SOA", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7094"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Integration of an Ontological Information Security Concept in Risk-Aware Business Process Management", 
+      "ranks": 84, 
+      "docid": "citeseerx-d7078"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Understanding the Costs of Business Process Management Technology", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7066"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Agents of Change in Business Process Management", 
+      "ranks": 25, 
+      "docid": "citeseerx-d7014"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Extending business process management to determine efficient IT investments", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7054"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Modeling Business Objectives for Business Process Management", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7039"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "A Reference Model for Risk-Aware Business Process Management", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7091"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Organisational Ontology Framework for Semantic Business Process Management", 
+      "ranks": 66, 
+      "docid": "citeseerx-d7058"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Addressing Interoperability Issues in Business Process Management", 
+      "ranks": 57, 
+      "docid": "citeseerx-d7048"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "A roadmap to risk-aware business process management", 
+      "ranks": 32, 
+      "docid": "citeseerx-d7021"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "COOPERATION LAYERS IN AGENT-ENABLED BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 39, 
+      "docid": "citeseerx-d7028"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "A research agenda for autonomous business process management", 
+      "ranks": 47, 
+      "docid": "citeseerx-d7035"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Three Intelligent Architectures for Business Process Management", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7036"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "A conceptual framework for composition in business process management", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7100"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Integrating Data for Business Process Management", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6994"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Towards Simulation-Based Business Process Management", 
+      "ranks": 20, 
+      "docid": "citeseerx-d7007"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Constraint Checking for Business Process Management", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7012"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Developing Business Process Management Capabilities of Undergraduate IT Students", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7063"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management: A Survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6988"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ALIGNMENT OF BUSINESS PROCESS MANAGEMENT AND", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ALIGNMENT OF BUSINESS PROCESS MANAGEMENT AND", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6990"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BUSINESS PROCESS MANAGEMENT TOOL", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SIMULATION STANDARD FOR BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tutorial on Fundamentals of Business Process Management", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management: Attempted Concepticide?", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6999"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management Standards", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inter-Business Process Management:", 
+      "ranks": 13, 
+      "docid": "citeseerx-d7000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in Business Process Management", 
+      "ranks": 15, 
+      "docid": "citeseerx-d7004"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Analysis of Application of Business Process Management", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7003"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management and SOA", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Business Process Management", 
+      "ranks": 17, 
+      "docid": "citeseerx-d7006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reunifying Knowledge and Business Process Management Reunifying Knowledge and Business Process Management", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management Journal", 
+      "ranks": 20, 
+      "docid": "citeseerx-d7009"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Design for Business Process Management", 
+      "ranks": 21, 
+      "docid": "citeseerx-d7010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business process management with vague data", 
+      "ranks": 22, 
+      "docid": "citeseerx-d7011"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Business Process Management Tutorial at the", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7013"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mission-Critical Business Process Management with", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PROCESS PATTERNS FOR BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 27, 
+      "docid": "citeseerx-d7016"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN APPROACH TO ASSESS THE IMPLEMENTATION OF BUSINESS PROCESS MANAGEMENT IN ENTERPRISES", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7017"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business process management with FlowMark", 
+      "ranks": 29, 
+      "docid": "citeseerx-d7018"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE PHENOMENON OF BUSINESS PROCESS MANAGEMENT: PRACTITIONERS", 
+      "ranks": 30, 
+      "docid": "citeseerx-d7020"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management: A personal view", 
+      "ranks": 35, 
+      "docid": "citeseerx-d7024"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Guest editorial Advances in business process management", 
+      "ranks": 36, 
+      "docid": "citeseerx-d7025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SERVICE ORIENTED ARCHITECTURES FOR BUSINESS PROCESS MANAGEMENT SYSTEMS", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SemanticComplianceManagement in Business Process Management", 
+      "ranks": 38, 
+      "docid": "citeseerx-d7027"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFI for Business Process Management Suites RFI for Business Process Management Suites", 
+      "ranks": 40, 
+      "docid": "citeseerx-d7029"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "X-Aware Business Process Management", 
+      "ranks": 42, 
+      "docid": "citeseerx-d7031"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BUSINESS PROCESS MANAGEMENT SOFTWARE IN THE FIELD OF", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7032"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract An Ontology Framework for Semantic Business Process Management", 
+      "ranks": 45, 
+      "docid": "citeseerx-d7034"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Petri Nets and Business Process Management", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7037"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Business Process Management: An Empirical Case Study", 
+      "ranks": 48, 
+      "docid": "citeseerx-d7038"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligence and Business Process Management Integration", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7041"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "(PN) and Business Processes Management Notation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d7042"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Case Study in Business Process Management", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maturity Models in Business Process Management", 
+      "ranks": 53, 
+      "docid": "citeseerx-d7043"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management Systems (BPMS)", 
+      "ranks": 54, 
+      "docid": "citeseerx-d7045"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Web Services, Business Process Management, BPEL,", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7046"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Intelligent Business Process Management", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7047"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A NEW APPROACH IN BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7049"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BridgingRequirements Engineeringand BusinessProcess Management", 
+      "ranks": 59, 
+      "docid": "citeseerx-d7050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Catchword: Business Process Management in the Large Authors:", 
+      "ranks": 60, 
+      "docid": "citeseerx-d7051"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Evaluation in Agile Business Process Management Using Quality Models", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ADEPT: An Agent-Based Approach to Business Process Management", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7030"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ADEPT: An Agent-Based Approach to Business Process Management", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7053"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Three Intelligent Architectures for Business Process Management", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7055"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MAJOR ISSUES IN BUSINESS PROCESS MANAGEMENT: AN EXPERT", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7056"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autonomous Agents for Business Process Management 1", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7059"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Rules Based Approach to Business Process Management", 
+      "ranks": 69, 
+      "docid": "citeseerx-d7057"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management: A Comprehensive Survey", 
+      "ranks": 69, 
+      "docid": "citeseerx-d7060"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Autonomous Agents for Business Process Management", 
+      "ranks": 70, 
+      "docid": "citeseerx-d6995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management: A Comprehensive Survey", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7061"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "STRATEGIES TO INCREASE EXECUTIVE COMMITMENT TO BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 73, 
+      "docid": "citeseerx-d7062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management with Unified Modeling Language", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7065"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Value-Driven Business Process Management Impact and Benefits", 
+      "ranks": 75, 
+      "docid": "citeseerx-d7064"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Role-Based Approach To Business Process Management", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7067"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Business Process Management: A Vision Towards Using Semantic Web Services for Business Process Management", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Business Process Management: Using Semantic Web Services for Business Process Management", 
+      "ranks": 78, 
+      "docid": "citeseerx-d7069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic business process management: A lifecycle based requirements analysis", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7072"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Master’s Thesis Application of Business Process Management in Web-Based Education", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7074"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Rules Design Method for Business Process Management", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INCORPORATING BUSINESS PROCESS MANAGEMENT INTO NETWORK AND SYSTEMS MANAGEMENT", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7081"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multicriteria Decision Model for Information Systems Priorities Based on Business Process Management", 
+      "ranks": 88, 
+      "docid": "citeseerx-d7083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reusable Decision Models Supporting Organizational Design in Business Process Management", 
+      "ranks": 90, 
+      "docid": "citeseerx-d7080"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OPEN SOURCE SOFTWARE FOR BUSINESS PROCESS MANAGEMENT", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7089"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Research of Workflow Modeling System for Business Process Management", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7097"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study into the Critical Success Factors when Implementing Business Process Management Systems", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7102"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Business Process Management of Telecommunication Companies: Fulfillment and Operations Support and Readiness Cases", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7104"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract Integrating Learning and Business Process Management", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7106"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q164"
+}

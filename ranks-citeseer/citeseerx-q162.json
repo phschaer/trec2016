@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4199, 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2244"
+    }, 
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 20, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 85, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 4, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 2135, 
+      "title": "Agents and the Semantic Web", 
+      "ranks": 40, 
+      "docid": "citeseerx-d24"
+    }, 
+    {
+      "citeBy": 1687, 
+      "title": "Security Architecture for the Internet Protocol", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4000"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 88, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 51, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1468, 
+      "title": "Muscle: multiple sequence alignment with high accuracy and high throughput", 
+      "ranks": 62, 
+      "docid": "citeseerx-d291"
+    }, 
+    {
+      "citeBy": 1399, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 76, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 1343, 
+      "title": "Discovery of Grounded Theory", 
+      "ranks": 68, 
+      "docid": "citeseerx-d312"
+    }, 
+    {
+      "citeBy": 1332, 
+      "title": "A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by . . .", 
+      "ranks": 82, 
+      "docid": "citeseerx-d368"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 17, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1257, 
+      "title": "A Survey of Approaches to Automatic Schema Matching", 
+      "ranks": 84, 
+      "docid": "citeseerx-d32"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 29, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1219, 
+      "title": "Analysis of relative gene expression data using real-time quantitative", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3598"
+    }, 
+    {
+      "citeBy": 1165, 
+      "title": "Mfold web server for nucleic acid folding and hybridization prediction", 
+      "ranks": 92, 
+      "docid": "citeseerx-d385"
+    }, 
+    {
+      "citeBy": 1093, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 55, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 985, 
+      "title": "Wireless Ad Hoc Networks", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1083"
+    }, 
+    {
+      "citeBy": 947, 
+      "title": "Abstraction in perceptual symbol systems", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1787"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 99, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 914, 
+      "title": "Speaker verification using Adapted Gaussian mixture models", 
+      "ranks": 74, 
+      "docid": "citeseerx-d220"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 98, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 31, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 887, 
+      "title": "Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging", 
+      "ranks": 71, 
+      "docid": "citeseerx-d260"
+    }, 
+    {
+      "citeBy": 864, 
+      "title": "Groupware: Some issues and experiences", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2731"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Promoting the Use of End-to-End Congestion Control in the Internet", 
+      "ranks": 89, 
+      "docid": "citeseerx-d740"
+    }, 
+    {
+      "citeBy": 845, 
+      "title": "A bayesian hierarchical model for learning natural scene categories", 
+      "ranks": 78, 
+      "docid": "citeseerx-d252"
+    }, 
+    {
+      "citeBy": 847, 
+      "title": "Evaluating collaborative filtering recommender systems", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3709"
+    }, 
+    {
+      "citeBy": 829, 
+      "title": "Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals", 
+      "ranks": 39, 
+      "docid": "citeseerx-d596"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 41, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "CYC: A Large-Scale Investment in Knowledge Infrastructure", 
+      "ranks": 46, 
+      "docid": "citeseerx-d43"
+    }, 
+    {
+      "citeBy": 743, 
+      "title": "Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3667"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "Labeling Images with a Computer Game", 
+      "ranks": 24, 
+      "docid": "citeseerx-d737"
+    }, 
+    {
+      "citeBy": 709, 
+      "title": "The use of MMR, diversity-based reranking for reordering documents and producing summaries", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6932"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 26, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "A Sense of Self for Unix Processes", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1788"
+    }, 
+    {
+      "citeBy": 647, 
+      "title": "Practical Byzantine Fault Tolerance", 
+      "ranks": 69, 
+      "docid": "citeseerx-d671"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "Predicting Transmembrane Protein Topology with a Hidden Markov Model: Application to Complete Genomes", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4089"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Discrete Multivariate Analysis: Theory and Practice", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3432"
+    }, 
+    {
+      "citeBy": 622, 
+      "title": "Pervasive Computing: Vision and Challenges", 
+      "ranks": 59, 
+      "docid": "citeseerx-d258"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "Focused crawling: a new approach to topic-specific Web resource discovery", 
+      "ranks": 25, 
+      "docid": "citeseerx-d289"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 43, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 581, 
+      "title": "The sequence of the human genome", 
+      "ranks": 13, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Learning to act using real-time dynamic programming", 
+      "ranks": 45, 
+      "docid": "citeseerx-d735"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "Direct manipulation: a step beyond programming languages", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4382"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 87, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 565, 
+      "title": "Interior-point Methods", 
+      "ranks": 19, 
+      "docid": "citeseerx-d307"
+    }, 
+    {
+      "citeBy": 586, 
+      "title": "An intrusion-detection model", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1766"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks", 
+      "ranks": 53, 
+      "docid": "citeseerx-d748"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases", 
+      "ranks": 95, 
+      "docid": "citeseerx-d245"
+    }, 
+    {
+      "citeBy": 554, 
+      "title": "As we may think", 
+      "ranks": 50, 
+      "docid": "citeseerx-d811"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "A Security Architecture for Computational Grids", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3415"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "Access path selection in a relational database management system", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1785"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Querying Semi-Structured Data", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1735"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "Monitors: An Operating System Structuring Concept", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4347"
+    }, 
+    {
+      "citeBy": 25, 
+      "title": "Matching and sorting in online dating", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6890"
+    }, 
+    {
+      "citeBy": 27, 
+      "title": "The truth about lying in online dating profiles", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6909"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Relevance and ranking in online dating systems", 
+      "ranks": 14, 
+      "docid": "citeseerx-d6913"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Assessing Attractiveness in Online Dating Profiles", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6899"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Learning User Preferences in Online Dating", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "forRecommendationin Online Dating", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6892"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Online Dating Site Authors", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6894"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ONLINE DATING INTERACTIONS:", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6900"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Published online date", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recommender System for Online Dating Service", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6907"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recommender System for Online Dating Service", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6897"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Received: date / Published online: date", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6915"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMPRESSION MANAGEMENT AND FORMATION IN ONLINE DATING SYSTEMS", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6917"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Google File System", 
+      "ranks": 23, 
+      "docid": "citeseerx-d640"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 25, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database resources of the National Center for Biotechnology Information", 
+      "ranks": 29, 
+      "docid": "citeseerx-d400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network motifs: simple building blocks of complex networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 37, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 42, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Protein Secondary Structure Prediction . . .", 
+      "ranks": 43, 
+      "docid": "citeseerx-d257"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LLVM: A compilation framework for lifelong program analysis &amp; transformation", 
+      "ranks": 46, 
+      "docid": "citeseerx-d333"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 66, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 68, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 82, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 83, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 84, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 85, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fine-grained network time synchronization using reference broadcasts", 
+      "ranks": 86, 
+      "docid": "citeseerx-d729"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 87, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Text Classification from Labeled and Unlabeled Documents using EM", 
+      "ranks": 88, 
+      "docid": "citeseerx-d63"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 89, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Planning Algorithms", 
+      "ranks": 90, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 91, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PAUP*: Phylogenetic Analysis Using Parsimony (and other methods) 4.0.b5", 
+      "ranks": 92, 
+      "docid": "citeseerx-d330"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms", 
+      "ranks": 93, 
+      "docid": "citeseerx-d410"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Markov Logic Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Basic concepts and taxonomy of dependable and secure computing", 
+      "ranks": 95, 
+      "docid": "citeseerx-d321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 97, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tcl and the Tk Toolkit", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3552"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 99, 
+      "docid": "citeseerx-d327"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q162"
+}

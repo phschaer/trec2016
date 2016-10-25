@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2456, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 20, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 12, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 9, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 930, 
+      "title": "Alignment by Maximization of Mutual Information", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4087"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 17, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 11, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 16, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 8, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 6, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 15, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Probabilistic Visual Learning for Object Representation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1804"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "A Survey of Medical Image Registration", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2331"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "ranks": 13, 
+      "docid": "citeseerx-d924"
+    }, 
+    {
+      "citeBy": 539, 
+      "title": "Nonrigid registration using free-form deformations: Application to breast MR images", 
+      "ranks": 4, 
+      "docid": "citeseerx-d8541"
+    }, 
+    {
+      "citeBy": 540, 
+      "title": "Deformable models in medical image analysis: A survey", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2325"
+    }, 
+    {
+      "citeBy": 486, 
+      "title": "Rewriting", 
+      "ranks": 21, 
+      "docid": "citeseerx-d7398"
+    }, 
+    {
+      "citeBy": 479, 
+      "title": "A Survey of Computer Vision-Based Human Motion Capture", 
+      "ranks": 22, 
+      "docid": "citeseerx-d377"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Strategies of Discourse Comprehension", 
+      "ranks": 25, 
+      "docid": "citeseerx-d116"
+    }, 
+    {
+      "citeBy": 468, 
+      "title": "High Accuracy Optical Flow Estimation Based on a Theory for Warping", 
+      "ranks": 24, 
+      "docid": "citeseerx-d8604"
+    }, 
+    {
+      "citeBy": 416, 
+      "title": "Segmentation of brain MR images through a hidden Markov random field model and the expectationmaximization algorithm", 
+      "ranks": 27, 
+      "docid": "citeseerx-d8587"
+    }, 
+    {
+      "citeBy": 379, 
+      "title": "A survey on visual surveillance of object motion and behaviors", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3700"
+    }, 
+    {
+      "citeBy": 373, 
+      "title": "On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition", 
+      "ranks": 37, 
+      "docid": "citeseerx-d154"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Variational algorithms for approximate Bayesian inference", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2362"
+    }, 
+    {
+      "citeBy": 326, 
+      "title": "A New Point Matching Algorithm for Non-Rigid Registration", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8609"
+    }, 
+    {
+      "citeBy": 325, 
+      "title": "Statistical Models of Appearance for Computer Vision", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2366"
+    }, 
+    {
+      "citeBy": 322, 
+      "title": "Classifying Facial Actions", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3698"
+    }, 
+    {
+      "citeBy": 296, 
+      "title": "Geodesic Active Regions and Level Set Methods for Supervised Texture Segmentation", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2389"
+    }, 
+    {
+      "citeBy": 291, 
+      "title": "Bayesian Graphical Models for Discrete Data", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8666"
+    }, 
+    {
+      "citeBy": 288, 
+      "title": "Directed Sonar Sensing for Mobile Robot Navigation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1833"
+    }, 
+    {
+      "citeBy": 153, 
+      "title": "Comparison and evaluation of retrospective intermodality brain image registration techniques", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8692"
+    }, 
+    {
+      "citeBy": 144, 
+      "title": "Consistent Image Registration", 
+      "ranks": 50, 
+      "docid": "citeseerx-d8176"
+    }, 
+    {
+      "citeBy": 140, 
+      "title": "Automated multi-modality image registration based on information theory", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8560"
+    }, 
+    {
+      "citeBy": 56, 
+      "title": "Seutens P., Medical image registration using mutual information", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8664"
+    }, 
+    {
+      "citeBy": 38, 
+      "title": "A Variational Approach to Multi-Modal Image Matching", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8608"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Intensity gradient based registration and fusion of multi-modal images", 
+      "ranks": 38, 
+      "docid": "citeseerx-d8583"
+    }, 
+    {
+      "citeBy": 30, 
+      "title": "General multimodal elastic registration based on mutual information", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8651"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Robust and Fast Medical Registration of 3D-Multi-Modality Data Sets", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8660"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Learning Multi-Modal Dictionaries", 
+      "ranks": 61, 
+      "docid": "citeseerx-d8591"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "A unified statistical and information theoretic framework for multi-modal image registration", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8621"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Learning Similarity Measure for Multi-Modal 3D Image Registration", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8617"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Graph based multi-modality learning", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8653"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Gradient intensitybased registration of multi-modal images of the brain", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8566"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Shape gradient for multi-modal image segmentation using mutual information", 
+      "ranks": 47, 
+      "docid": "citeseerx-d8597"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Feature-space Mutual Information for Multi-modal Signal Processing with Application to Medical Image Registration", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8623"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Point Similarity Measure Based on Mutual Information", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8672"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "DIFFEOMORPHIC TRANSFORMATIONS FOR AUTOMATIC MULTI-MODALITY IMAGE REGISTRATION", 
+      "ranks": 33, 
+      "docid": "citeseerx-d8575"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Feature Selection for Multi-Modal Image Registration Using Mutual Information", 
+      "ranks": 45, 
+      "docid": "citeseerx-d8594"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Accurate Single Image Multi-Modal Camera Pose Estimation", 
+      "ranks": 83, 
+      "docid": "citeseerx-d8648"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Volume Registration by Maximization of Mutual Information", 
+      "ranks": 0, 
+      "docid": "citeseerx-d8537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multimodality Image Registration by Maximization of Mutual Information", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 7, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 17, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 19, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cluster Ensembles - A Knowledge Reuse Framework for Combining Multiple Partitions", 
+      "ranks": 23, 
+      "docid": "citeseerx-d381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mutual-information-based registration of medical images: a survey", 
+      "ranks": 25, 
+      "docid": "citeseerx-d8564"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Feature Neighbourhood Mutual Information for Multi-modal Image Registration: An", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8568"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Volume Registration by Maximization of Mutual Information", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8570"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Global Optimization Weighted Mutual Information", 
+      "ranks": 31, 
+      "docid": "citeseerx-d8573"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-Rigid Registration of Multi-Modality Images", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8577"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Volume Registration by Maximization . . .", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Manifold learning for Multi-Modal  . . .", 
+      "ranks": 36, 
+      "docid": "citeseerx-d8579"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal Registration Based Ultrasound", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8585"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Keywords: Multi-Modality Volume Registration, Mutual Information, Information Theory Running Title: Multi-Modal Volume Registration", 
+      "ranks": 42, 
+      "docid": "citeseerx-d8589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image retrieval: ideas, influences, and trends of the new age", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mutual", 
+      "ranks": 47, 
+      "docid": "citeseerx-d8602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantitative Multi-modal Analysis", 
+      "ranks": 48, 
+      "docid": "citeseerx-d8599"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Medical Image Registration: From Information Theory To Optimization Objective", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8605"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Non-Rigid Registration Using a Stochastic Gradient Approximation", 
+      "ranks": 52, 
+      "docid": "citeseerx-d8611"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "mutual", 
+      "ranks": 55, 
+      "docid": "citeseerx-d8615"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Multi-modal Similarity", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8618"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Learning Multi-Modal Dictionaries", 
+      "ranks": 60, 
+      "docid": "citeseerx-d8613"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Discrete Search Method for Multi-modal Non-Rigid Image Registration", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving accuracy and efficiency of mutual information for multi-modal retinal image registration using adaptive probability density estimation,” Comput", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8632"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "D.: Multi-modal image registration by quantitative-qualitative measure of mutual information Q-MI", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8636"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal Image Registration by Minimizing Kullback-Leibler Distance", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8638"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Discrete Search Method for Multi-modal Non-Rigid Image Registration", 
+      "ranks": 69, 
+      "docid": "citeseerx-d8626"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal Clustering for Multimedia Collections", 
+      "ranks": 69, 
+      "docid": "citeseerx-d8639"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Diffeomorphic Demons using Normalised Mutual Information, Evaluation on Multi-Modal Brain MR Images", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8642"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract Multi-modal image set registration and atlas formation", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal Clustering for Multimedia Collections", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8655"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning-Based Multi-Modal Rigid Image Registration By Using Bhattacharyya Distances", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8646"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal 2D-3D Non-rigid Registration", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8657"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modality web video categorization", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8662"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Theoretic Multi-modal Signal Processing", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8649"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Registration of Multi-Modal Medical Images: Towards Real-Time Clinical Applications", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8669"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal Signal Processing: An Information Theoretical Framework", 
+      "ranks": 89, 
+      "docid": "citeseerx-d8675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards Application-specific Multi-modal Similarity Measures: a Regression Approach. ⋆", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8677"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consistent multi-modal nonrigid registration based on a variational approach", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8679"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-Modal Retrieval of Trademark Images Using Global Similarity", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Registration of Multi-modal Images: Towards Real-Time Clinical Applications", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8634"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multimodality Image Registration by Maximization of Mutual Information", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8684"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Shear-Resize Factorizations For Fast Multi-Modal Volume Registration", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8670"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACT Title of dissertation: THE DYNAMICS OF MULTI-MODAL NETWORKS", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Structural Image Representation for Image Registration", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-modal data fusion techniques and applications", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8690"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Halton Sampling for Image Registration Based on Mutual Information", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8693"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unifying Maximum Likelihood Approaches in Medical Image Registration", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8294"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q182"
+}

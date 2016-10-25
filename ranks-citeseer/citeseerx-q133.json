@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4282, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 4199, 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2244"
+    }, 
+    {
+      "citeBy": 3393, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 65, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 3231, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 25, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 93, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 73, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 11, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 1798, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 3, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 34, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 1998, 
+      "title": "Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3481"
+    }, 
+    {
+      "citeBy": 1687, 
+      "title": "Security Architecture for the Internet Protocol", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4000"
+    }, 
+    {
+      "citeBy": 1826, 
+      "title": "Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3489"
+    }, 
+    {
+      "citeBy": 1692, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 30, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 64, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 88, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1616, 
+      "title": "A simple method for displaying the hydropathic character of a protein", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1097"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 67, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1561, 
+      "title": "Cooperative diversity in wireless networks: efficient protocols and outage behavior", 
+      "ranks": 75, 
+      "docid": "citeseerx-d2280"
+    }, 
+    {
+      "citeBy": 1356, 
+      "title": "An Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1050"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 69, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 60, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1303, 
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms", 
+      "ranks": 87, 
+      "docid": "citeseerx-d686"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 63, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 96, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1205, 
+      "title": "A Measurement Study of Peer-to-Peer File Sharing Systems", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4019"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1022, 
+      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2197"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 27, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 955, 
+      "title": "SOAR: An architecture for general intelligence", 
+      "ranks": 77, 
+      "docid": "citeseerx-d4048"
+    }, 
+    {
+      "citeBy": 953, 
+      "title": "Scalable Recognition with a Vocabulary Tree", 
+      "ranks": 99, 
+      "docid": "citeseerx-d205"
+    }, 
+    {
+      "citeBy": 901, 
+      "title": "Mobile ambients", 
+      "ranks": 28, 
+      "docid": "citeseerx-d538"
+    }, 
+    {
+      "citeBy": 891, 
+      "title": "Corporate Ownership Around The World", 
+      "ranks": 57, 
+      "docid": "citeseerx-d4044"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 15, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Promoting the Use of End-to-End Congestion Control in the Internet", 
+      "ranks": 17, 
+      "docid": "citeseerx-d740"
+    }, 
+    {
+      "citeBy": 868, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 72, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Hypertext Transfer Protocol - HTTP/1.1", 
+      "ranks": 32, 
+      "docid": "citeseerx-d396"
+    }, 
+    {
+      "citeBy": 809, 
+      "title": "End-to-End Routing Behavior in the Internet", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3482"
+    }, 
+    {
+      "citeBy": 777, 
+      "title": "Domain Names - Concepts and Facilities", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2942"
+    }, 
+    {
+      "citeBy": 768, 
+      "title": "PVM: A Framework for Parallel Distributed Computing", 
+      "ranks": 44, 
+      "docid": "citeseerx-d556"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 751, 
+      "title": "Awareness and Coordination in Shared Workspaces", 
+      "ranks": 55, 
+      "docid": "citeseerx-d3965"
+    }, 
+    {
+      "citeBy": 730, 
+      "title": "Grouplens: Applying collaborative filtering to usenet news", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3926"
+    }, 
+    {
+      "citeBy": 726, 
+      "title": "The Cyclical Behavior of Equilibrium Unemployment and Vacancies", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4022"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1651"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Domain names - Implementation and Specification", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3576"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Grid Information Services for Distributed Resource Sharing", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1815"
+    }, 
+    {
+      "citeBy": 666, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 26, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 651, 
+      "title": "An Integrated Experimental Environment for Distributed Systems and Networks", 
+      "ranks": 24, 
+      "docid": "citeseerx-d582"
+    }, 
+    {
+      "citeBy": 643, 
+      "title": "Reliable Multicast Transport Protocol (RMTP)", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3548"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 89, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "How to 0wn the Internet in Your Spare Time", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1840"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 33, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "A blueprint for introducing disruptive technology into the internet", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3521"
+    }, 
+    {
+      "citeBy": 500, 
+      "title": "SEDA: An Architecture for Well-Conditioned, Scalable Internet Services", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2251"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Free Riding on Gnutella", 
+      "ranks": 80, 
+      "docid": "citeseerx-d812"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "The Deisgn Philosophy of the DARPA Internet Protocols", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4005"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Vivaldi: A Decentralized Network Coordinate System", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1116"
+    }, 
+    {
+      "citeBy": 566, 
+      "title": "StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1791"
+    }, 
+    {
+      "citeBy": 490, 
+      "title": "A Hierarchical Internet Object Cache", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1124"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism", 
+      "ranks": 97, 
+      "docid": "citeseerx-d768"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "Model Checking Programs", 
+      "ranks": 51, 
+      "docid": "citeseerx-d688"
+    }, 
+    {
+      "citeBy": 506, 
+      "title": "Requirements for Internet Hosts - Communication Layers", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4011"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 61, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 45, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcoming the internet impasse through virtualization", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Status: Final Overcoming the Internet Impasse through Virtualization", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3997"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcoming the Internet Impasse through", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual clock: A new traffic control algorithm for packet switching networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Internet Network Distance with Coordinates-Based Approaches", 
+      "ranks": 9, 
+      "docid": "citeseerx-d443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-to-End Internet Packet Dynamics", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1098"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NiagaraCQ: A Scalable Continuous Query System for Internet Databases", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overcast: Reliable Multicasting with an Overlay Network", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Globus: A Metacomputing Infrastructure Toolkit", 
+      "ranks": 36, 
+      "docid": "citeseerx-d627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summary cache: A scalable wide-area web cache sharing protocol", 
+      "ranks": 47, 
+      "docid": "citeseerx-d789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 51, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 54, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Semi-Structured Data", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 81, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical Analysis of Predictive Algorithm for Collaborative Filtering", 
+      "ranks": 88, 
+      "docid": "citeseerx-d470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The click modular router", 
+      "ranks": 89, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 90, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Ad Hoc Networks", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling and Rendering Architecture from Photographs", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4065"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KQML as an agent communication language", 
+      "ranks": 93, 
+      "docid": "citeseerx-d27"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Sensor Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2326"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Security Architecture for Computational Grids", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3415"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Network Weather Service: A Distributed Resource Performance Forecasting Service for Metacomputing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The capacity of wireless networks", 
+      "ranks": 97, 
+      "docid": "citeseerx-d262"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Planning Algorithms", 
+      "ranks": 98, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 99, 
+      "docid": "citeseerx-d739"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q133"
+}

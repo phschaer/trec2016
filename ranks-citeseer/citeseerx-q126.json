@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 5031, 
+      "title": "Reinforcement Learning I: Introduction", 
+      "ranks": 82, 
+      "docid": "citeseerx-d267"
+    }, 
+    {
+      "citeBy": 4769, 
+      "title": "Prospect theory: An analysis of decisions under risk", 
+      "ranks": 53, 
+      "docid": "citeseerx-d469"
+    }, 
+    {
+      "citeBy": 2983, 
+      "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations", 
+      "ranks": 42, 
+      "docid": "citeseerx-d587"
+    }, 
+    {
+      "citeBy": 2628, 
+      "title": "Congestion Avoidance and Control", 
+      "ranks": 59, 
+      "docid": "citeseerx-d767"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 22, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 78, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2050, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 52, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 2006, 
+      "title": "Why Do Some Countries Produce So Much More Output Per Worker Than Others?", 
+      "ranks": 72, 
+      "docid": "citeseerx-d722"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Independent Component Analysis", 
+      "ranks": 94, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 1780, 
+      "title": "Bayesian Data Analysis", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3440"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 25, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1726, 
+      "title": "Agency costs of free cash flow, corporate finance and takeovers", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2286"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 58, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 33, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 1626, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 49, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 29, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1413, 
+      "title": "Bayes Factors", 
+      "ranks": 68, 
+      "docid": "citeseerx-d755"
+    }, 
+    {
+      "citeBy": 1343, 
+      "title": "Discovery of Grounded Theory", 
+      "ranks": 19, 
+      "docid": "citeseerx-d312"
+    }, 
+    {
+      "citeBy": 1276, 
+      "title": "The Architecture of Cognition", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3425"
+    }, 
+    {
+      "citeBy": 1339, 
+      "title": "Intelligent agents: Theory and practice", 
+      "ranks": 21, 
+      "docid": "citeseerx-d711"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 10, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1211, 
+      "title": "ATTENTION,  INTENTIONS,  AND THE STRUCTURE OF DISCOURSE", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3443"
+    }, 
+    {
+      "citeBy": 1027, 
+      "title": "Culture and the self: Implications for cognition, emotion, and motivation", 
+      "ranks": 13, 
+      "docid": "citeseerx-d802"
+    }, 
+    {
+      "citeBy": 1010, 
+      "title": "The Symbol Grounding Problem", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3448"
+    }, 
+    {
+      "citeBy": 798, 
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being", 
+      "ranks": 12, 
+      "docid": "citeseerx-d3427"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 39, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 784, 
+      "title": "Maximizing the Spread of Influence Through a Social Network", 
+      "ranks": 45, 
+      "docid": "citeseerx-d730"
+    }, 
+    {
+      "citeBy": 780, 
+      "title": "Assessing agreement on classification tasks: the kappa statistic", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3437"
+    }, 
+    {
+      "citeBy": 780, 
+      "title": "Centering: A Framework for Modeling the Local Coherence Of Discourse", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3444"
+    }, 
+    {
+      "citeBy": 775, 
+      "title": "Worst-case equilibria", 
+      "ranks": 77, 
+      "docid": "citeseerx-d774"
+    }, 
+    {
+      "citeBy": 772, 
+      "title": "The Small-World Phenomenon: An Algorithmic Perspective", 
+      "ranks": 93, 
+      "docid": "citeseerx-d775"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 30, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 733, 
+      "title": "The link-prediction problem for social networks", 
+      "ranks": 38, 
+      "docid": "citeseerx-d725"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Case-based reasoning; Foundational issues, methodological variations, and system approaches", 
+      "ranks": 99, 
+      "docid": "citeseerx-d625"
+    }, 
+    {
+      "citeBy": 702, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 15, 
+      "docid": "citeseerx-d298"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 90, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 682, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 40, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 79, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "Illusion and well-being: A social psychological perspective on mental health", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3430"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "The Evolution of Cooperation", 
+      "ranks": 31, 
+      "docid": "citeseerx-d3468"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 16, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 96, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 636, 
+      "title": "Model Theory", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3431"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Discrete Multivariate Analysis: Theory and Practice", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3432"
+    }, 
+    {
+      "citeBy": 615, 
+      "title": "The Strength of Weak Ties: A Network Theory Revisited", 
+      "ranks": 28, 
+      "docid": "citeseerx-d764"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 55, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 63, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 612, 
+      "title": "Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1017"
+    }, 
+    {
+      "citeBy": 611, 
+      "title": "Attention, similarity, and the identification-Categorization Relationship", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3446"
+    }, 
+    {
+      "citeBy": 589, 
+      "title": "ERC -- A Theory of Equity, Reciprocity and Competition", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3436"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 41, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 506, 
+      "title": "Implicit social cognition: Attitudes, self-esteem, and stereotypes", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3450"
+    }, 
+    {
+      "citeBy": 225, 
+      "title": "Human agency in social cognitive theory", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3419"
+    }, 
+    {
+      "citeBy": 66, 
+      "title": "The relational self: An interpersonal social-cognitive theory", 
+      "ranks": 3, 
+      "docid": "citeseerx-d3422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Cognitive Theory", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3420"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Cognitive Theory Of Personality", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3421"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 SOCIAL COGNITIVE THEORY OF MASS COMMUNICATION", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3423"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social cognitive theory of moral thought and action", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3424"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quality of Life Intervention For Breast Cancer Survivors: Application of Social Cognitive Theory", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3426"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The theory of planned behavior", 
+      "ranks": 13, 
+      "docid": "citeseerx-d3429"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 17, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 22, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Qualitative process theory", 
+      "ranks": 26, 
+      "docid": "citeseerx-d29"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 28, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evolutionary Game Theory", 
+      "ranks": 30, 
+      "docid": "citeseerx-d203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of fairness, competition and cooperation", 
+      "ranks": 33, 
+      "docid": "citeseerx-d813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 41, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 45, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 46, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EXPLORING THE BEHAVIOURS OF CONSTRUCTION PROJECT PARTICIPANTS THROUGH SOCIAL COGNITIVE THEORY", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Study of Female Postgraduate Career Development base on Social Cognitive Theory", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3434"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of memory retrieval", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3438"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "C.: &quot;Games with Incomplete Information Played by &apos;Bayesian", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3441"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimation and Inference in Econometrics", 
+      "ranks": 64, 
+      "docid": "citeseerx-d747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of human motivation", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3452"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 75, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 76, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 77, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Particle swarm optimization", 
+      "ranks": 78, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Metaphors We Live By", 
+      "ranks": 79, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Groupware: Some issues and experiences", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Toward Principles for the Design of Ontologies Used for Knowledge Sharing", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An introduction to Kolmogorov Complexity and its Applications: Preface to the First Edition", 
+      "ranks": 82, 
+      "docid": "citeseerx-d235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 83, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An argument for basic emotions", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3455"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Economics of Inequality", 
+      "ranks": 85, 
+      "docid": "citeseerx-d738"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice within the Firm", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 87, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstraction in perceptual symbol systems", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Basic objects in natural categories", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1093"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Increasing Returns and Long-Run Growth", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3461"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 91, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PVS: A Prototype Verification System", 
+      "ranks": 92, 
+      "docid": "citeseerx-d3464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On agent-based software engineering", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 94, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hierarchical mixtures of experts and the EM algorithm", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The provision of incentives in firms", 
+      "ranks": 97, 
+      "docid": "citeseerx-d758"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emergence of scaling  in random networks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d736"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1145"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q126"
+}

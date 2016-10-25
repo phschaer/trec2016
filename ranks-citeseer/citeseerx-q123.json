@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 564, 
+      "title": "Measurement and Analysis of Online Social Networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d14"
+    }, 
+    {
+      "citeBy": 704, 
+      "title": "What is Twitter, a Social Network or a News Media?", 
+      "ranks": 2, 
+      "docid": "citeseerx-d552"
+    }, 
+    {
+      "citeBy": 695, 
+      "title": "Imagenet: A large-scale hierarchical image database", 
+      "ranks": 3, 
+      "docid": "citeseerx-d23"
+    }, 
+    {
+      "citeBy": 578, 
+      "title": "Social Network Sites: A Definition A History of Social Network Sites Previous Scholarship", 
+      "ranks": 1, 
+      "docid": "citeseerx-d553"
+    }, 
+    {
+      "citeBy": 323, 
+      "title": "I Tube, You Tube, Everybody Tubes: Analyzing the World’s Largest User Generated Content Video System", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2960"
+    }, 
+    {
+      "citeBy": 261, 
+      "title": "Genetic Programming", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2969"
+    }, 
+    {
+      "citeBy": 244, 
+      "title": "A data-oriented (and beyond) network architecture", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3006"
+    }, 
+    {
+      "citeBy": 201, 
+      "title": "M (2006) Ht06, tagging paper, taxonomy, Flickr, academic article, to read", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3027"
+    }, 
+    {
+      "citeBy": 186, 
+      "title": "Utility data annotation with amazon mechanical turk", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3065"
+    }, 
+    {
+      "citeBy": 99, 
+      "title": "Statistics and Social Network of YouTube Videos", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2962"
+    }, 
+    {
+      "citeBy": 80, 
+      "title": "Video Suggestion and Discovery for YouTube: Taking Random Walks Through the View Graph", 
+      "ranks": 31, 
+      "docid": "citeseerx-d3002"
+    }, 
+    {
+      "citeBy": 60, 
+      "title": "Understanding the Characteristics of Internet Short Video Sharing: YouTube as a Case Study", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3010"
+    }, 
+    {
+      "citeBy": 49, 
+      "title": "Publicly private and privately public: Social networking on youtube", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2972"
+    }, 
+    {
+      "citeBy": 50, 
+      "title": "Watch global, cache local: YouTube network traffic at a campus network - measurements and implications", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3013"
+    }, 
+    {
+      "citeBy": 29, 
+      "title": "The Impact of YouTube Recommendation System on Video Views", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2978"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Vivisecting YouTube: An Active Measurement Study", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2977"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Dissecting video server selection strategies in the youtube XDN", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2981"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Trickle: Rate Limiting YouTube Video Streaming", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2985"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Finding meaning on youtube: Tag recommendation and category discovery", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2984"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Discriminative Tag Learning on YouTube Videos with Latent Sub-tags (DRAFT)", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3016"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Where Do You “Tube”? Uncovering YouTube Server Selection Strategy", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3014"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Critical Methods and User Generated Content: the iPhone on YouTube", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3015"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Large-scale community detection on youtube for topic discovery and exploration", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3017"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Reverse Engineering the YouTube Video Delivery Cloud", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2982"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Characterizing User Sessions on YouTube", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2973"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Broadcast yourself: Understanding YouTube uploaders", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2980"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Workload generation for YouTube", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2964"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Tenori-on Stage: YouTube As Performance Space", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2989"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "YoMo: A YouTube Application Comfort Monitoring Tool", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3018"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Creating enriched YouTube media fragments with NERD using timed-text", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3039"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Internet Video Delivery in YouTube: From Traffic Measurements to Quality of Experience", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3030"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Jihadi Video and Auto-Radicalisation: Evidence from an Exploratory YouTube", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3021"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Improving Video Classification via YouTube Video Co-Watch Data", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3038"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Pytomo: A Tool for Analyzing Playback Quality of Youtube Videos", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3020"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "1 VlogSense: Conversational Behavior and Social Attention in YouTube", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3034"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Crowdsourcing Event Detection in YouTube Videos", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2997"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Analyzing the Impact of YouTube Delivery Policies on User Experience", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3028"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Places to Go: YouTube", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2968"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Classifying YouTube Channels: a Practical System", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3001"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "The Community is Where the Rapport Is – On Sense and Structure in the YouTube Community", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3024"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "9 Characteristics and Potentials of YouTube: A Measurement Study", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image retrieval: ideas, influences, and trends of the new age", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Traffic Characterization: A View From the Edge, IMC", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2959"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The youtube video recommendation system", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2961"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The YouTube Social Network", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2965"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Based Learning", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2966"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Opinion Mining on YouTube", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Video found on YoutubeIntroduction", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2970"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook YouTube Corporate", 
+      "ranks": 18, 
+      "docid": "citeseerx-d647"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube and the 2008 Election Cycle", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2975"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Role for YouTube in Telerehabilitation", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2971"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Traffic Monitoring and Analysis", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2976"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Youtube around the world: geographic popularity of videos", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2979"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identifying Suitable YouTube Videos for", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2974"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Scale, Large Vocabulary Video Annotation", 
+      "ranks": 31, 
+      "docid": "citeseerx-d2986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube across the Disciplines: A Review of the Literature", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2987"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cool&quot; engagements with YouTube: Part 1", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding YouTube in a CSCW context", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3003"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube and political communication – Macedonian case", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Presidential Clips 2 ACKNOWLEDGEMENTS", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3007"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Intermittent YouTube Electoral Presence of Citizens and Candidates", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2988"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Characterizing Videos and Users in YouTube: A Survey", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2990"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Motivation YouTube Traffic Characterization", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube All Around: Characterizing YouTube from Mobile and Fixed-line Network Vantage Points", 
+      "ranks": 55, 
+      "docid": "citeseerx-d3011"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "After Convergence: YouTube and Remix Culture", 
+      "ranks": 56, 
+      "docid": "citeseerx-d2993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bio-Inspired Models for Characterizing YouTube Viewcount", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inferring Audience Partisanship for YouTube Videos", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouDACC: the Youtube Dialectal Arabic Commentary Corpus", 
+      "ranks": 61, 
+      "docid": "citeseerx-d2996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WEAKLY SUPERVISED TOPIC GROUPING OF YOUTUBE SEARCH RESULTS", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2999"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding Video Interactions in YouTube FABRICIO BENEVENUTO ‡", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Super Dooper! CI library goes Youtubing!", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3004"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Characterizing Quality of Content Distribution from YouTube like Portals", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3029"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Social Video Recommendation System on YouTube", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Commenting on YouTube Videos: From Guatemalan Rock", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3031"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "New Media: Engaging and Educating the YouTube Generation", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3009"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PP Caching: Proxy Caching Mechanism for YouTube Videos in Campus Network", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3032"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using YouTube to enhance student class preparation in an introductory JAVA course", 
+      "ranks": 75, 
+      "docid": "citeseerx-d3033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enrichment and Ranking of the YouTube Tag Space and Integration with the Linked Data Cloud", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3036"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Supporting Research Data Collection from YouTube with TubeKit", 
+      "ranks": 78, 
+      "docid": "citeseerx-d3037"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "36 The “You ” in “YouTube ”  – Lange 4 Searching for the ‘You ’ in ‘YouTube’: An Analysis of Online Response Ability", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3012"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Art or Circus? Characterizing User-Created Video on YouTube", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3041"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Popularity Growth Patterns of YouTube Videos: A Category-based Study", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3042"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ernest Alba The Effect of the Youtube Phenomenon on the Soap Opera Text", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3043"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geographical Characterization of YouTube: a Latin American View", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3044"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Video Genetics: A Case Study from YouTube", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3046"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Political Advertising in the 21st Century: The Influence of the YouTube Ad", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3048"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On-the-fly topic adaptation for youtube video transcription", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3049"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TAKING STATISTICAL LITERACY TO THE MASSES WITH YOUTUBE, BLOGGING, FACEBOOK AND TWITTER", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Twitter-driven YouTube Views: Beyond Individual Influencers", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3051"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cache-centric Video Recommendation: An Approach to Improve the Efficiency of YouTube Caches", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3053"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Call me Guru: user categories and large-scale behavior in YouTube", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3054"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of YouTube User Experience from Passive Measurements", 
+      "ranks": 92, 
+      "docid": "citeseerx-d3055"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CAN HEATHER GILLETTE SAVE YOUTUBE? INTERNET SERVICE PROVIDERS AND COPYRIGHT LIABILITY", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3023"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enabling on-the-fly Video Shot Detection on YouTube", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3056"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CREATING YOUTUBE VIDEOS THAT ENGAGE STUDENTS AND ENHANCE LEARNING IN STATISTICS AND EXCEL", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Diversity of User Viewpoints on Social Signals: a Study with YouTube Content", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3059"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for the content of the paper. Transport Protocol Influences on YouTube Videostreaming QoE", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3060"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Insight Data of YouTube from a Partner’s View", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "F-formations in Cooking Together: A Digital Ethnography using YouTube", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "YouTube Traffic Dynamics and Its Interplay with a Tier-1 ISP: An ISP Perspective", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3063"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q123"
+}

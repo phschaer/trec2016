@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 637, 
+      "title": "Decimation of triangle meshes", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1128"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Influence of Camber and Non-Planar Vortex Wake on Wing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1130"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cell Projection of Meshes with Non-Planar Faces", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1132"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear Aeroelastic Analysis of Joined-Wing Aircraft", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1133"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Turbulent Navier-Stokes Flow Analysis of an Advanced Semispan Diamond-Wing Model in Tunnel and Free Air at High-Lift Conditions", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1135"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kinematic Design and Analysis of a Morphing Wing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1136"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMPARATIVE INVESTIGATION OF VLM CODES FOR JOINED-WING ANALYSIS", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1138"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aeroelasticity and Flight Dynamics of Oblique Flying Wings", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1139"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aerodynamic Optimization of Box Wing – A Case Study", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1141"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DESIGN AND DEVELOPMENT OF STRUCTURALLY FEASIBLE ANTENNAS FOR DEPLOYMENT ON INFLATABLE WINGS OF", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1142"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ITERATIVE CALCULATION OF FLOW PAST A THICK CAMBERED WING NEAR THE GROUND bY", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1144"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimum Spanloads Incorporating Wing Structural Considerations And Formation Flying", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1146"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANALYSIS AND DESIGN OF A HYPER-ELLIPTICAL CAMBERED SPAN MORPHING AIRCRAFT WING", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE LIFT AND DRAG CKARACTERISTICS OF CARET WINGS ATMACH NWBERSBETWEEN 5ANDlO", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1149"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Satya N. Atluri Wing-Kam Liu, Vice President", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1151"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Computer Vision: Algorithms and Applications", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1152"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MPEG7 VISUAL SHAPE DESCRIPTORS", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1153"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gliding birds: reduction of induced drag by wing tip slots between the primary feathers", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1154"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Delaunay Refinement Mesh Generation", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1156"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "r Experiments at Mo = 4.03 on Two Families of Pressure-Plotting Wing-and-Half-Cone Combinations By", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1157"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A WIND-TUNNEL INVESTIGATION OF THE EFFECTS OF FLAP SPAN AND DEFLECTION ANGLE, WING PLANFORM AND A BODY ON THE HIGH-LIFT PERFORMANCE OF A 28 &apos; SWEPT WING", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1159"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INTRODUCTION AND EXPERIMENTAL ASPECTS OF THE NATO RTO TASK GROUP AVT-080: “STUDY OF VORTEX BREAKDOWN OVER SLENDER WINGS”", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1160"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multidisciplinary Design Optimization for a Blended Wing Body Transport Aircraft with Distributed Propulsion", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1162"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hardware Assisted Volume Rendering of Unstructured Grids by Incremental Slicing", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1164"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PRICE 80p NETThe Velocities Induced by Distributions of Infinite Kinked Source and Vortex Lines Representing Wings with Sweep and Dihedral in Incompressible Flow", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1166"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generating Tool Paths on Surfaces for a Numerically Controlled Calotte Cutting System", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1168"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Flying Carpet: A Tool To Improve Ship Repair Efficiency", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Oriented Languages and Generalized Polyhedra", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Mosaicing and Superresolution", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detection and reconstruction of free form surfaces from airborne laser scanning data", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1175"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Reflex-Free Hull", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated 3-d crack growth simulation", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1178"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "by", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1180"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Time-Optimal UAV Trajectory Planning for 3D Urban Structure Coverage", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1182"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Volume Visualization of General Polyhedral Grids", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analytic Methods for Simulated Light Transport", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1186"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ii The Investigation of an Inboard-Winglet Application to a Roadable Aircraft", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1187"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Time-Domain Simulations of Aerodynamic Forces on Three-Dimensional Configurations, Unstable Aeroelastic Responses, and Control by Neural Network Systems", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1189"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ShrinkyCircuits: Sketching, Shrinking, and Formgiving for Electronic Circuits", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1191"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flow complex based shape reconstruction from 3D curves", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1193"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Localized-hierarchy surface splines (less", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1195"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards an Assembly Plan from Observation", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1196"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "= wake static pressure coefficient, (Ps – P∞) /q", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Simplification and Compression of 3D Meshes", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vortex Lattice Method Coupled with Advanced One-Dimensional Structural Models", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal complete terrain coverage using an unmanned aerial vehicle", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1205"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "by", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Complete embedded minimal surfaces of finite total curvature", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AIAA’s 3rd Annual", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1211"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Certified by...............................................................", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1213"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An investigation of induced drag minimization using a Newton-Krylov algorithm", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1214"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A suggestive interface for image guided 3d sketching", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "to Second-Order Forces and Moments", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1219"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Topology-driven surface mappings with robust feature alignment", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1221"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Complete Optimal Terrain Coverage using an Unmanned Aerial Vehicle", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1223"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An aerodynamic analysis methodology for Upper Surface Blowing aerodynamics is", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1226"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A flexible MEMS technology and its first application to shear stress sensor skin", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1228"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pictorial Recognition of Objects Employing Affine Invariance in the Frequency Domain", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1231"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rota-Baxter algebras in renormalization of perturbative quantum field theory", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robot Instruction by Human Demonstration", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Polyhedral surfaces of constant mean curvature", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Video Cubism", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Feature-based adaptive mesh refinement for wingtip vortices", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automatic Creation of Boundary-Representation Models from Single Line Drawings", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1241"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Application of Variable Cant Angle Winglets for Morphing Aircraft Control", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1243"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HardwareAccelerated Lagrangian-Eulerian Texture Advection for 2D Flow Visualizations", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Texture-Based Algorithms for Vector Field Visualization", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1246"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overview of flow visualization", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approaching the 5/4-Approximation for Rectilinear Steiner Trees", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ExaScale Computing Study: Technology Challenges in Achieving Exascale Systems Peter Kogge, Editor &amp; Study Lead", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1252"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multimodal Reference, Studies in Automatic Generation of Multimodal Referring Expressions", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1255"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive deformations from tensor fields", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1257"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatial networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multivariate interpolation for fluid-structure-interaction problems using radial basis functions", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1261"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Computer Sculpting of Polygonal Models using Virtual Tools", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE DESIGN OF WINGLETS FOR HIGH-PERFORMANCE", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visualization of Multi-Variate Scientific Data", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1267"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting RNA secondary structures with arbitrary pseudoknots by maximizing the number of stacking pairs", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tutte&apos;s Edge-Colouring Conjecture", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1271"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Order River system Inland", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1273"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Temperature and Opacity of Atomic Hydrogen in Spiral Galaxies", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LIC on Surfaces", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1278"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COHEN-OR D.: Kset tilable surfaces", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1279"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CAD tools for aesthetic engineering", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Unifying Semantic Distance Model for Determining the Similarity Of Attribute Values", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Sequence Description Using Spatiotemporal Flow Curves: Toward Motion-Based Recognition", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "STRIPE: Remote driving using limited image data", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Graph Model for Words and their Meanings", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1287"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensitivity and noise analysis of 4 km laser interferometer gravitational wave antennae", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generating Three-Dimensional Building Models from Two-Dimensional Architectural Plans", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Visualization and Steering of CFD Simulations", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1294"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Supersonic Aircraft Optimization for Minimizing Drag and Sonic Boom", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scalable Parallel Direct Volume Rendering for Nonrectilinear Computational Grids", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1299"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Seeing the world behind the image: Spatial layout for 3D scene understanding. Doctoral dissertation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual Reality-based System for Ankle Rehabilitation Post Stroke", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1302"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Holographic duality with a view toward many-body physics", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient Point Location Method for Visualization in Large Unstructured Grids", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1307"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mid-infrared laser applications in spectroscopy,” in Solid-State Mid-Infrared Laser Sources", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1309"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1313"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q9"
+}

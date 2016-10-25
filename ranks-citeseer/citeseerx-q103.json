@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 715, 
+      "title": "Above the Clouds: A Berkeley View of Cloud Computing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d349"
+    }, 
+    {
+      "citeBy": 333, 
+      "title": "The eucalyptus open-source cloud-computing system", 
+      "ranks": 2, 
+      "docid": "citeseerx-d397"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Towards Trusted Cloud Computing", 
+      "ranks": 12, 
+      "docid": "citeseerx-d408"
+    }, 
+    {
+      "citeBy": 73, 
+      "title": "Scientific Cloud Computing: Early Definition and Experience", 
+      "ranks": 37, 
+      "docid": "citeseerx-d511"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Service-Oriented Architecture for Cloud Computing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d461"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Community Cloud Computing", 
+      "ranks": 72, 
+      "docid": "citeseerx-d525"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Taxonomy of cloud computing services", 
+      "ranks": 14, 
+      "docid": "citeseerx-d402"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "The characteristics of Cloud computing", 
+      "ranks": 15, 
+      "docid": "citeseerx-d411"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Adoption issues for cloud computing", 
+      "ranks": 35, 
+      "docid": "citeseerx-d448"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Basics About Cloud Computing", 
+      "ranks": 26, 
+      "docid": "citeseerx-d424"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Survey on Cloud Computing Security", 
+      "ranks": 54, 
+      "docid": "citeseerx-d468"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Data location compliance in cloud computing", 
+      "ranks": 23, 
+      "docid": "citeseerx-d416"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "REMINISCING CLOUD COMPUTING TECHNOLOGY", 
+      "ranks": 21, 
+      "docid": "citeseerx-d401"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Security Dynamics of Cloud Computing", 
+      "ranks": 25, 
+      "docid": "citeseerx-d421"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Security in Cloud Computing", 
+      "ranks": 50, 
+      "docid": "citeseerx-d439"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "An Illustrative Study on cloud computing", 
+      "ranks": 78, 
+      "docid": "citeseerx-d507"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 1, 
+      "docid": "citeseerx-d383"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 2, 
+      "docid": "citeseerx-d384"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 3, 
+      "docid": "citeseerx-d386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 4, 
+      "docid": "citeseerx-d387"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d388"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Cloud Computing", 
+      "ranks": 6, 
+      "docid": "citeseerx-d390"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 7, 
+      "docid": "citeseerx-d392"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: Cloud Computing Failures", 
+      "ranks": 8, 
+      "docid": "citeseerx-d393"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Uncloud the Cloud of Cloud Computing", 
+      "ranks": 10, 
+      "docid": "citeseerx-d395"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING IN EDUCATION", 
+      "ranks": 11, 
+      "docid": "citeseerx-d399"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 14, 
+      "docid": "citeseerx-d404"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 15, 
+      "docid": "citeseerx-d405"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SECURITY ISSUES IN CLOUD COMPUTING", 
+      "ranks": 18, 
+      "docid": "citeseerx-d409"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing", 
+      "ranks": 19, 
+      "docid": "citeseerx-d412"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing and . . .", 
+      "ranks": 20, 
+      "docid": "citeseerx-d413"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING CONCERNS IN DEVELOPING ECONOMIES", 
+      "ranks": 21, 
+      "docid": "citeseerx-d414"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Analysis of Cloud Computing", 
+      "ranks": 24, 
+      "docid": "citeseerx-d418"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: A Survey on Cloud Computing", 
+      "ranks": 24, 
+      "docid": "citeseerx-d420"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OPEN SOURCE IN CLOUD COMPUTING", 
+      "ranks": 27, 
+      "docid": "citeseerx-d423"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reusability Framework for Cloud Computing", 
+      "ranks": 28, 
+      "docid": "citeseerx-d425"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing- Banking on the Cloud", 
+      "ranks": 29, 
+      "docid": "citeseerx-d426"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: Review 1", 
+      "ranks": 30, 
+      "docid": "citeseerx-d428"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: The Future of Computing", 
+      "ranks": 31, 
+      "docid": "citeseerx-d430"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Access Control in Cloud Computing", 
+      "ranks": 33, 
+      "docid": "citeseerx-d432"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing Concepts", 
+      "ranks": 33, 
+      "docid": "citeseerx-d433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: A Review", 
+      "ranks": 34, 
+      "docid": "citeseerx-d434"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Survey On Cloud Computing", 
+      "ranks": 39, 
+      "docid": "citeseerx-d441"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is Cloud Computing Appropriate for Government?", 
+      "ranks": 39, 
+      "docid": "citeseerx-d442"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chief Strategist, Cloud Computing", 
+      "ranks": 41, 
+      "docid": "citeseerx-d444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Aspect of Cloud Computing", 
+      "ranks": 42, 
+      "docid": "citeseerx-d446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING: THE FUTURE OF IT INDUSTRY", 
+      "ranks": 43, 
+      "docid": "citeseerx-d450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "I. INTRODUCTION TO CLOUD COMPUTING", 
+      "ranks": 43, 
+      "docid": "citeseerx-d452"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACTION LAYER FOR CLOUD COMPUTING∗", 
+      "ranks": 44, 
+      "docid": "citeseerx-d436"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hosting Services by Cloud Computing", 
+      "ranks": 45, 
+      "docid": "citeseerx-d455"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: A Review", 
+      "ranks": 46, 
+      "docid": "citeseerx-d454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improvements of Cloud Computing: Scenario of", 
+      "ranks": 46, 
+      "docid": "citeseerx-d456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Threats to Cloud Computing", 
+      "ranks": 47, 
+      "docid": "citeseerx-d458"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Challenges In Cloud Computing", 
+      "ranks": 52, 
+      "docid": "citeseerx-d463"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing and Emerging IT Platforms: Vision, Hype, and Reality for Delivering Computing as the 5th Utility", 
+      "ranks": 53, 
+      "docid": "citeseerx-d465"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Issues of Cloud Computing", 
+      "ranks": 57, 
+      "docid": "citeseerx-d438"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing for Academic Environment", 
+      "ranks": 58, 
+      "docid": "citeseerx-d475"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Load Balancing in Cloud Computing", 
+      "ranks": 59, 
+      "docid": "citeseerx-d473"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing Security Threats", 
+      "ranks": 59, 
+      "docid": "citeseerx-d477"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geoprocessing in Cloud Computing platforms", 
+      "ranks": 60, 
+      "docid": "citeseerx-d479"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Green Cloud Computing", 
+      "ranks": 61, 
+      "docid": "citeseerx-d481"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Challenge in Cloud Computing", 
+      "ranks": 62, 
+      "docid": "citeseerx-d482"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Aspects of Cloud Computing", 
+      "ranks": 63, 
+      "docid": "citeseerx-d485"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing Services Accounting", 
+      "ranks": 65, 
+      "docid": "citeseerx-d486"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards on Cloud Computing Standardization", 
+      "ranks": 65, 
+      "docid": "citeseerx-d487"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Aspects in Cloud Computing", 
+      "ranks": 66, 
+      "docid": "citeseerx-d488"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Aspects in Cloud Computing", 
+      "ranks": 68, 
+      "docid": "citeseerx-d490"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identity Management in Cloud Computing", 
+      "ranks": 68, 
+      "docid": "citeseerx-d494"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A View of Cloud Computing", 
+      "ranks": 69, 
+      "docid": "citeseerx-d459"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING WITH BIG DATA", 
+      "ranks": 69, 
+      "docid": "citeseerx-d492"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Opportunities of Cloud Computing", 
+      "ranks": 70, 
+      "docid": "citeseerx-d453"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING:  ISSUES AND SOLUTIONS", 
+      "ranks": 71, 
+      "docid": "citeseerx-d495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud computing: a perspective study", 
+      "ranks": 72, 
+      "docid": "citeseerx-d496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN ASSESSMENT OF CLOUD COMPUTING: EVOLUTION", 
+      "ranks": 73, 
+      "docid": "citeseerx-d466"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLOUD COMPUTING: AN EMERGING TECHNOLOGY", 
+      "ranks": 73, 
+      "docid": "citeseerx-d498"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Protection Directive to cloud computing", 
+      "ranks": 74, 
+      "docid": "citeseerx-d500"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing Services and Vulnerabilities", 
+      "ranks": 75, 
+      "docid": "citeseerx-d502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Storage as the Infrastructure of Cloud Computing", 
+      "ranks": 76, 
+      "docid": "citeseerx-d503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Impact of Cloud Computing Adoption on", 
+      "ranks": 76, 
+      "docid": "citeseerx-d544"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Cloud Computing", 
+      "ranks": 77, 
+      "docid": "citeseerx-d505"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is Security Realistic In Cloud Computing?", 
+      "ranks": 79, 
+      "docid": "citeseerx-d509"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Honeypots For Cloud Computing", 
+      "ranks": 80, 
+      "docid": "citeseerx-d480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Review on the Cloud Computing", 
+      "ranks": 81, 
+      "docid": "citeseerx-d471"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Standard for ERP as Cloud Computing", 
+      "ranks": 83, 
+      "docid": "citeseerx-d517"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Issues on Cloud Computing", 
+      "ranks": 84, 
+      "docid": "citeseerx-d513"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing: The Next Computing Paradigm", 
+      "ranks": 84, 
+      "docid": "citeseerx-d519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Demystifying Cloud Computing", 
+      "ranks": 85, 
+      "docid": "citeseerx-d515"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Methodology of Cloud Computing", 
+      "ranks": 85, 
+      "docid": "citeseerx-d520"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application in Cloud Computing", 
+      "ranks": 87, 
+      "docid": "citeseerx-d523"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "institutions in adoption of Cloud computing.", 
+      "ranks": 89, 
+      "docid": "citeseerx-d527"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance Engineering for Cloud Computing", 
+      "ranks": 90, 
+      "docid": "citeseerx-d522"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing in IT and Emerging Platforms", 
+      "ranks": 90, 
+      "docid": "citeseerx-d529"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing For Business", 
+      "ranks": 92, 
+      "docid": "citeseerx-d532"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prospective of Cloud Computing Article", 
+      "ranks": 94, 
+      "docid": "citeseerx-d531"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Survey Paper on Cloud Computing", 
+      "ranks": 95, 
+      "docid": "citeseerx-d537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reviewing some Cloud Computing Platforms +", 
+      "ranks": 96, 
+      "docid": "citeseerx-d534"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing in Distributed System", 
+      "ranks": 96, 
+      "docid": "citeseerx-d539"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Load Balancing in cloud computing", 
+      "ranks": 97, 
+      "docid": "citeseerx-d541"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From mini-clouds to Cloud Computing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d536"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cloud Computing Environment", 
+      "ranks": 98, 
+      "docid": "citeseerx-d543"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q103"
+}

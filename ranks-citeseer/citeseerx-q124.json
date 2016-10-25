@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1014, 
+      "title": "The FERET evaluation methodology for face recognition algorithms", 
+      "ranks": 3, 
+      "docid": "citeseerx-d929"
+    }, 
+    {
+      "citeBy": 745, 
+      "title": "View-Based and Modular Eigenspaces for Face Recognition", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1797"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "Robust face recognition via sparse representation", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1772"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "From Few to many: Illumination cone models for face recognition under variable lighting and pose", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2905"
+    }, 
+    {
+      "citeBy": 421, 
+      "title": "Overview of the Face Recognition Grand Challenge", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3070"
+    }, 
+    {
+      "citeBy": 381, 
+      "title": "Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments", 
+      "ranks": 10, 
+      "docid": "citeseerx-d3148"
+    }, 
+    {
+      "citeBy": 234, 
+      "title": "Discriminant Analysis of Principal Components for Face Recognition", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3127"
+    }, 
+    {
+      "citeBy": 138, 
+      "title": "Three-Dimensional Face Recognition", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3083"
+    }, 
+    {
+      "citeBy": 127, 
+      "title": "Independent Component Representations for Face Recognition", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3124"
+    }, 
+    {
+      "citeBy": 76, 
+      "title": "Quo vadis Face Recognition?", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3101"
+    }, 
+    {
+      "citeBy": 59, 
+      "title": "Hidden Markov Models For Face Recognition", 
+      "ranks": 39, 
+      "docid": "citeseerx-d3142"
+    }, 
+    {
+      "citeBy": 38, 
+      "title": "Combining Classifiers For Face Recognition", 
+      "ranks": 54, 
+      "docid": "citeseerx-d3162"
+    }, 
+    {
+      "citeBy": 34, 
+      "title": "A Survey of Face Recognition", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3132"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Resampling for Face Recognition", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3126"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Boosting for Fast Face Recognition", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3135"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Components for Face Recognition", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3186"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Role of Color in Face Recognition", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3230"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Pairwise Face Recognition", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3176"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Image Analysis for Face Recognition", 
+      "ranks": 53, 
+      "docid": "citeseerx-d3156"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Three Approaches For Face Recognition", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3093"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Testing face recognition systems", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3138"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Towards unconstrained face recognition", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3200"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Is there any hope for face recognition", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3104"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Benchmark Studies on Face Recognition", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3146"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "On the Effect of Illumination and Face Recognition", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3213"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Optimal pose for face recognition", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3206"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Multiresolution Methods in Face Recognition", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3152"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Feature-Based Face Recognition", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3209"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Selection of Eigenvectors for Face Recognition", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3181"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Sampling Design For Face Recognition", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3179"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Thermal to Visible Face Recognition", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3203"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Subtasks of Unconstrained Face Recognition", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3210"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Automatic Face Recognition", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3223"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition: features versus templates", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition using laplacianfaces", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3072"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Based on Fitting a 3D Morphable Model", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3076"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3078"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition by independent component analysis", 
+      "ranks": 11, 
+      "docid": "citeseerx-d3081"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition", 
+      "ranks": 13, 
+      "docid": "citeseerx-d3085"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3086"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3088"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: the Problem of Compensating for Changes in Illumination Direction", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3091"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Face Recognition", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3095"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACE RECOGNITION FOR SMART INTERACTIONS", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3097"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition with local binary patterns", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3099"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition By Elastic Bunch Graph Matching", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3103"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ZN-Face: A system for access control using automated face recognition", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3105"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACE RECOGNITION AND ITS APPLICATIONS", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3107"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition in Hyperspectral Images", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3113"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IS THERE ANY HOPE FOR FACE RECOGNITION?", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3106"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition using", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face description with local binary patterns: Application to face recognition", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3122"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparisons of Face Recognition Algorithms", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3109"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Illumination Invariant Face Recognition", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3110"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Illumination Processing in Face Recognition", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3115"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Survey of Face Recognition Techniques", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3118"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition and retrieval in video", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3136"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Eigenspace-based Face Recognition", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3130"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition, morphable model,", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3144"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition in Dynamic Scenes", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3150"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Practical Aspects of Face Recognition", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3139"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition using Eigenface", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3154"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evaluation of Face Recognition Techniques", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition in Fourier Space", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Committee Machine", 
+      "ranks": 53, 
+      "docid": "citeseerx-d3160"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition in Subspaces", 
+      "ranks": 55, 
+      "docid": "citeseerx-d3164"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition: Some challenges in forensics", 
+      "ranks": 56, 
+      "docid": "citeseerx-d3167"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition with harmonic delighting", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3169"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition using Eigenface", 
+      "ranks": 60, 
+      "docid": "citeseerx-d3174"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition by Support Vector Machines", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition with One . . .", 
+      "ranks": 65, 
+      "docid": "citeseerx-d3183"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition and Gender Determination", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3184"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heterogeneous Face Recognition", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Automatic Face Recognition System in the", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Using Eigenfaces", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3189"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Convolutional Neural Network Approach", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3191"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face recognition using eigenfeatures", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3194"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Under Varying Pose", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3195"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition From Video", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3197"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "eFACE RECOGNITION SYSTEM", 
+      "ranks": 74, 
+      "docid": "citeseerx-d3202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition for Smart Environments", 
+      "ranks": 77, 
+      "docid": "citeseerx-d3207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Literature Review", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition in Dynamic Scenes", 
+      "ranks": 82, 
+      "docid": "citeseerx-d3216"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RESOLUTION FACE RECOGNITION SYSTEM", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3221"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Techniques", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3227"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reference Face Graph for Face Recognition", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contribution of color to face recognition", 
+      "ranks": 92, 
+      "docid": "citeseerx-d3235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pyramid Representation for Face Recognition", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SYMMETRICAL PCA IN FACE RECOGNITION", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards Optimum Face Recognition", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3220"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACE RECOGNITION USING OPENCL", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Profile-based face recognition", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling face recognition learning", 
+      "ranks": 96, 
+      "docid": "citeseerx-d3225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 96, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition Using An Embedded HMM", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Smiling Faces are Better for Face Recognition", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CBIR APPROACH TO FACE RECOGNITION", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3228"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACE DETECTION AND FACE RECOGNITION", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2877"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q124"
+}

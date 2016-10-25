@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 32, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2637, 
+      "title": "R-trees: A Dynamic Index Structure for Spatial Searching", 
+      "ranks": 20, 
+      "docid": "citeseerx-d6621"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 69, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "On the Evolution of Random Graphs", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6628"
+    }, 
+    {
+      "citeBy": 2364, 
+      "title": "Metaphors We Live By", 
+      "ranks": 98, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 21, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1847"
+    }, 
+    {
+      "citeBy": 1887, 
+      "title": "Finding structure in time", 
+      "ranks": 7, 
+      "docid": "citeseerx-d657"
+    }, 
+    {
+      "citeBy": 2050, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 95, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Independent Component Analysis", 
+      "ranks": 60, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 1845, 
+      "title": "Generalized Autoregressive Conditional Heteroskedasticity", 
+      "ranks": 50, 
+      "docid": "citeseerx-d6349"
+    }, 
+    {
+      "citeBy": 1670, 
+      "title": "Intelligence Without Representation", 
+      "ranks": 96, 
+      "docid": "citeseerx-d669"
+    }, 
+    {
+      "citeBy": 1616, 
+      "title": "A simple method for displaying the hydropathic character of a protein", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1097"
+    }, 
+    {
+      "citeBy": 1543, 
+      "title": "Color indexing", 
+      "ranks": 99, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 1211, 
+      "title": "ATTENTION,  INTENTIONS,  AND THE STRUCTURE OF DISCOURSE", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3443"
+    }, 
+    {
+      "citeBy": 1344, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 75, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 1335, 
+      "title": "Space-time block codes from orthogonal designs", 
+      "ranks": 79, 
+      "docid": "citeseerx-d6660"
+    }, 
+    {
+      "citeBy": 1333, 
+      "title": "An affine invariant interest point detector", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1812"
+    }, 
+    {
+      "citeBy": 1309, 
+      "title": "The WEKA Data Mining Software: An Update", 
+      "ranks": 43, 
+      "docid": "citeseerx-d827"
+    }, 
+    {
+      "citeBy": 1080, 
+      "title": "A reliable multicast framework for light-weight sessions and application level framing", 
+      "ranks": 4, 
+      "docid": "citeseerx-d568"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Image Quality Assessment: From Error Visibility to Structural Similarity", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2291"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "The Laplacian Pyramid as a Compact Image Code", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1104"
+    }, 
+    {
+      "citeBy": 1254, 
+      "title": "A Bayesian method for the induction of probabilistic networks from data", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1581"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 77, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 85, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1165, 
+      "title": "Mfold web server for nucleic acid folding and hybridization prediction", 
+      "ranks": 46, 
+      "docid": "citeseerx-d385"
+    }, 
+    {
+      "citeBy": 1133, 
+      "title": "Edge Detection", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4911"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 65, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1048, 
+      "title": "Modeling and Rendering Architecture from Photographs", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4065"
+    }, 
+    {
+      "citeBy": 1031, 
+      "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1706"
+    }, 
+    {
+      "citeBy": 1016, 
+      "title": "Implementing remote procedure calls", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1077"
+    }, 
+    {
+      "citeBy": 997, 
+      "title": "The Lumigraph", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4287"
+    }, 
+    {
+      "citeBy": 988, 
+      "title": "A tutorial on learning with Bayesian networks", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2371"
+    }, 
+    {
+      "citeBy": 927, 
+      "title": "Prediction of complete gene structures in human genomic DNA", 
+      "ranks": 17, 
+      "docid": "citeseerx-d451"
+    }, 
+    {
+      "citeBy": 921, 
+      "title": "GPS-less Low Cost Outdoor Localization For Very Small Devices", 
+      "ranks": 41, 
+      "docid": "citeseerx-d784"
+    }, 
+    {
+      "citeBy": 871, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 891, 
+      "title": "Corporate Ownership Around The World", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4044"
+    }, 
+    {
+      "citeBy": 862, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 67, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 863, 
+      "title": "The rendering equation", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4455"
+    }, 
+    {
+      "citeBy": 757, 
+      "title": "Pictorial Structures for Object Recognition", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1826"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 66, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 55, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 92, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Counterexample-guided Abstraction Refinement", 
+      "ranks": 38, 
+      "docid": "citeseerx-d3580"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 44, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 51, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Case-based reasoning; Foundational issues, methodological variations, and system approaches", 
+      "ranks": 45, 
+      "docid": "citeseerx-d625"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Basic objects in natural categories", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1093"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "Virtual Time and Global States of Distributed Systems", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3976"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Ontology Development 101: A Guide to Creating Your First Ontology", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 80, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Discrete Multivariate Analysis: Theory and Practice", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3432"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 83, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "A Transformation System for Developing Recursive Programs", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4345"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "The x-Kernel: An Architecture for Implementing Network Protocols", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2380"
+    }, 
+    {
+      "citeBy": 636, 
+      "title": "Model Theory", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3431"
+    }, 
+    {
+      "citeBy": 607, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Hidden Markov models in computational biology: applications to protein modeling", 
+      "ranks": 70, 
+      "docid": "citeseerx-d996"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 73, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 37, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 29, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "Querying Semi-Structured Data", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1735"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 63, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Vivaldi: A Decentralized Network Coordinate System", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1116"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 57, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 273, 
+      "title": "High-accuracy stereo depth maps using structured light", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6625"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Light Linear Logic", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Light Field Rendering", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3982"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Structure of Foreign Trade", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Structural Approach to Operational Semantics", 
+      "ranks": 9, 
+      "docid": "citeseerx-d551"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the pricing of corporate debt: The risk structure of interest rates", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4273"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From Few to many: Illumination cone models for face recognition under variable lighting and pose", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "What Do We Know about Capital Structure? Some Evidence from International Data", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4270"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generic Schema Matching with Cupid", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 55, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A classification and comparison framework for software architecture description languages", 
+      "ranks": 59, 
+      "docid": "citeseerx-d58"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The architecture of complexity", 
+      "ranks": 79, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sparse coding with an overcomplete basis set: a strategy employed by V1", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1091"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wattch: A Framework for Architectural-Level Power Analysis and Optimizations", 
+      "ranks": 82, 
+      "docid": "citeseerx-d253"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1990]:”Property Rights and the Nature of the Firm", 
+      "ranks": 83, 
+      "docid": "citeseerx-d6215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Tutorial on Visual Servo Control", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of AspectJ", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Temporal and modal logic", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Active Badge Location System", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Visual Formalisms", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Next Century Challenges: Mobile Networking for “Smart Dust”", 
+      "ranks": 89, 
+      "docid": "citeseerx-d807"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abduction in Logic Programming", 
+      "ranks": 90, 
+      "docid": "citeseerx-d34"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 91, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 92, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interpretation as Abduction", 
+      "ranks": 93, 
+      "docid": "citeseerx-d49"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Volumetric Method for Building Complex Models from Range Images", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS", 
+      "ranks": 95, 
+      "docid": "citeseerx-d947"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4315"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 97, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "System architecture directions for networked sensors", 
+      "ranks": 98, 
+      "docid": "citeseerx-d664"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transductive Inference for Text Classification using Support Vector Machines", 
+      "ranks": 99, 
+      "docid": "citeseerx-d524"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q159"
+}

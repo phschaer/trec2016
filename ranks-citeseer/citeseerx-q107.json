@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 6605, 
+      "title": "Gapped Blast and PsiBlast: a new generation of protein database search programs", 
+      "ranks": 36, 
+      "docid": "citeseerx-d530"
+    }, 
+    {
+      "citeBy": 4450, 
+      "title": "Convex Analysis", 
+      "ranks": 82, 
+      "docid": "citeseerx-d303"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 5, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 3143, 
+      "title": "Conditional random fields: Probabilistic models for segmenting and labeling sequence data", 
+      "ranks": 40, 
+      "docid": "citeseerx-d972"
+    }, 
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 54, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2548, 
+      "title": "Random forests", 
+      "ranks": 23, 
+      "docid": "citeseerx-d951"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 0, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1657, 
+      "title": "Shape Matching and Object Recognition Using Shape Contexts", 
+      "ranks": 2, 
+      "docid": "citeseerx-d311"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 72, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1666, 
+      "title": "A training algorithm for optimal margin classifiers", 
+      "ranks": 8, 
+      "docid": "citeseerx-d239"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 10, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1593, 
+      "title": "A PERFORMANCE EVALUATION OF LOCAL DESCRIPTORS", 
+      "ranks": 21, 
+      "docid": "citeseerx-d947"
+    }, 
+    {
+      "citeBy": 1626, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 51, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 1489, 
+      "title": "Information Theory and Statistics", 
+      "ranks": 19, 
+      "docid": "citeseerx-d944"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 62, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1488, 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "ranks": 68, 
+      "docid": "citeseerx-d508"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 14, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 1420, 
+      "title": "The C Programming Language", 
+      "ranks": 28, 
+      "docid": "citeseerx-d954"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 52, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 1, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 1014, 
+      "title": "The FERET evaluation methodology for face recognition algorithms", 
+      "ranks": 3, 
+      "docid": "citeseerx-d929"
+    }, 
+    {
+      "citeBy": 1137, 
+      "title": "Neural Network-Based Face Detection", 
+      "ranks": 16, 
+      "docid": "citeseerx-d941"
+    }, 
+    {
+      "citeBy": 1105, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 65, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 1001, 
+      "title": "AN INTRODUCTION TO VARIATIONAL METHODS FOR GRAPHICAL MODELS", 
+      "ranks": 39, 
+      "docid": "citeseerx-d970"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 81, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 27, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 950, 
+      "title": "A comparison of event models for Naive Bayes text classification", 
+      "ranks": 38, 
+      "docid": "citeseerx-d968"
+    }, 
+    {
+      "citeBy": 917, 
+      "title": "An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions", 
+      "ranks": 45, 
+      "docid": "citeseerx-d248"
+    }, 
+    {
+      "citeBy": 850, 
+      "title": "Hypertext Transfer Protocol - HTTP/1.1", 
+      "ranks": 37, 
+      "docid": "citeseerx-d396"
+    }, 
+    {
+      "citeBy": 790, 
+      "title": "Sparse Bayesian Learning and the Relevance Vector Machine", 
+      "ranks": 22, 
+      "docid": "citeseerx-d310"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "An Integrative Model of Organizational Trust", 
+      "ranks": 49, 
+      "docid": "citeseerx-d983"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Organizations", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 15, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 734, 
+      "title": "Bayesian Network Classifiers", 
+      "ranks": 31, 
+      "docid": "citeseerx-d963"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 79, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 4, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 702, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 66, 
+      "docid": "citeseerx-d298"
+    }, 
+    {
+      "citeBy": 688, 
+      "title": "Why a diagram is (sometimes) worth ten thousand words", 
+      "ranks": 30, 
+      "docid": "citeseerx-d961"
+    }, 
+    {
+      "citeBy": 686, 
+      "title": "Basic concepts and taxonomy of dependable and secure computing", 
+      "ranks": 55, 
+      "docid": "citeseerx-d321"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Eye movements in reading and information processing: 20 years of research", 
+      "ranks": 34, 
+      "docid": "citeseerx-d347"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Learning realistic human actions from movies", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1042"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Support Vector Machine Active Learning with Applications to Text Classification", 
+      "ranks": 41, 
+      "docid": "citeseerx-d300"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "An introduction to software architecture", 
+      "ranks": 43, 
+      "docid": "citeseerx-d974"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Identification of Prokaryotic and Eukaryotic Signal Peptides and Prediction of Their Cleavage Sites", 
+      "ranks": 29, 
+      "docid": "citeseerx-d956"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 74, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 645, 
+      "title": "Incorporating non-local information into information extraction systems by gibbs sampling", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1034"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 57, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Typesetting Concrete Mathematics", 
+      "ranks": 9, 
+      "docid": "citeseerx-d936"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 47, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 53, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models, exponential families, and variational inference", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1023"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "ranks": 63, 
+      "docid": "citeseerx-d924"
+    }, 
+    {
+      "citeBy": 612, 
+      "title": "Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1017"
+    }, 
+    {
+      "citeBy": 611, 
+      "title": "Controlled and automatic human information processing", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1016"
+    }, 
+    {
+      "citeBy": 553, 
+      "title": "Max-margin Markov networks", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1018"
+    }, 
+    {
+      "citeBy": 542, 
+      "title": "High confidence visual recognition of persons by a test of statistical independence", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1014"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "RCV1: A new benchmark collection for text categorization research", 
+      "ranks": 33, 
+      "docid": "citeseerx-d348"
+    }, 
+    {
+      "citeBy": 569, 
+      "title": "Large margin methods for structured and interdependent output variables", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1039"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Hidden Markov models in computational biology: applications to protein modeling", 
+      "ranks": 67, 
+      "docid": "citeseerx-d996"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 59, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 567, 
+      "title": "Predictive reward signal of dopamine neurons", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1022"
+    }, 
+    {
+      "citeBy": 532, 
+      "title": "Maximum entropy markov models for information extraction and segmentation", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1021"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 73, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "A capacity theory of comprehension: Individual differences in working memory", 
+      "ranks": 70, 
+      "docid": "citeseerx-d367"
+    }, 
+    {
+      "citeBy": 548, 
+      "title": "Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora", 
+      "ranks": 56, 
+      "docid": "citeseerx-d341"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "An introduction to kernel-based learning algorithms", 
+      "ranks": 20, 
+      "docid": "citeseerx-d919"
+    }, 
+    {
+      "citeBy": 523, 
+      "title": "A Guided Tour to Approximate String Matching", 
+      "ranks": 25, 
+      "docid": "citeseerx-d369"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "The empirical case for two systems of reasoning", 
+      "ranks": 61, 
+      "docid": "citeseerx-d94"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 64, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Photobook: Content-Based Manipulation of Image Databases", 
+      "ranks": 44, 
+      "docid": "citeseerx-d976"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "The quadtree and related hierarchical data structures", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1026"
+    }, 
+    {
+      "citeBy": 502, 
+      "title": "Learnability in Optimality Theory", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1030"
+    }, 
+    {
+      "citeBy": 498, 
+      "title": "A Trainable Document Summarizer", 
+      "ranks": 83, 
+      "docid": "citeseerx-d374"
+    }, 
+    {
+      "citeBy": 493, 
+      "title": "The pyramid match kernel: Discriminative classification with sets of image features", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1041"
+    }, 
+    {
+      "citeBy": 493, 
+      "title": "The lexical nature of syntactic ambiguity resolution", 
+      "ranks": 84, 
+      "docid": "citeseerx-d922"
+    }, 
+    {
+      "citeBy": 484, 
+      "title": "Mixtures of Probabilistic Principal Component Analysers", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1035"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Strategies of Discourse Comprehension", 
+      "ranks": 87, 
+      "docid": "citeseerx-d116"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Information Retrieval", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1038"
+    }, 
+    {
+      "citeBy": 464, 
+      "title": "The Ontolingua Server: a Tool for Collaborative Ontology Construction", 
+      "ranks": 90, 
+      "docid": "citeseerx-d16"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 94, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 6, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On combining classifiers", 
+      "ranks": 13, 
+      "docid": "citeseerx-d943"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics", 
+      "ranks": 15, 
+      "docid": "citeseerx-d945"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 18, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inductive Learning Algorithms and Representations for Text Categorization", 
+      "ranks": 23, 
+      "docid": "citeseerx-d958"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 26, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 37, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 38, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "handwritten", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1024"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of handwritten characters", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1028"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handwritten Character Recognition", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1032"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cluster Ensembles - A Knowledge Reuse Framework for Combining Multiple Partitions", 
+      "ranks": 81, 
+      "docid": "citeseerx-d381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handwritten Digit Recognition with a Back-Propagation Network", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1037"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reversible markov chains and random walks on graphs (monograph in preparation),” http://statwww.berkeley.edu/users/aldous/RWG/book.html", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1040"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Complete discrete 2-D Gabor transforms by neural networks for image analysis and compression", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1044"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compiler Transformations for High-Performance Computing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1045"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Metrics and Models for Handwritten Character Recognition", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1047"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A practical part-of-speech tagger", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1049"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q107"
+}

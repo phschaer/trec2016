@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1703, 
+      "title": "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking", 
+      "ranks": 1, 
+      "docid": "citeseerx-d292"
+    }, 
+    {
+      "citeBy": 1538, 
+      "title": "Factor Graphs and the Sum-Product Algorithm", 
+      "ranks": 3, 
+      "docid": "citeseerx-d431"
+    }, 
+    {
+      "citeBy": 1362, 
+      "title": "Pfinder: Real-time tracking of the human body", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1807"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 22, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 16, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 13, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "The Viterbi algorithm", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1560"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 14, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 12, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 776, 
+      "title": "Robust Monte Carlo Localization for Mobile Robots", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1616"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 4, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Detecting faces in images: A survey", 
+      "ranks": 18, 
+      "docid": "citeseerx-d229"
+    }, 
+    {
+      "citeBy": 608, 
+      "title": "Iterative point matching for registration of free-form curves and surfaces", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2422"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 20, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models, exponential families, and variational inference", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1023"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers", 
+      "ranks": 21, 
+      "docid": "citeseerx-d3720"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "Detection of Abrupt Changes: Theory and Application", 
+      "ranks": 17, 
+      "docid": "citeseerx-d357"
+    }, 
+    {
+      "citeBy": 506, 
+      "title": "Constructing Free Energy Approximations and Generalized Belief Propagation Algorithms", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3674"
+    }, 
+    {
+      "citeBy": 512, 
+      "title": "Bundle Adjustment -- A Modern Synthesis", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3676"
+    }, 
+    {
+      "citeBy": 381, 
+      "title": "The Ensemble Kalman Filter: theoretical formulation And Practical Implementation", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1355"
+    }, 
+    {
+      "citeBy": 470, 
+      "title": "Atmospheric Modeling, Data Assimilation and Predictability", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3684"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 25, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 456, 
+      "title": "Timing-Sync Protocol for Sensor Networks", 
+      "ranks": 26, 
+      "docid": "citeseerx-d3682"
+    }, 
+    {
+      "citeBy": 439, 
+      "title": "Visual interpretation of hand gestures for human-computer interaction: A review", 
+      "ranks": 28, 
+      "docid": "citeseerx-d3678"
+    }, 
+    {
+      "citeBy": 427, 
+      "title": "MonoSLAM: Realtime single camera SLAM", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2355"
+    }, 
+    {
+      "citeBy": 417, 
+      "title": "Automatic Analysis of Facial Expressions: The State of the Art", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3690"
+    }, 
+    {
+      "citeBy": 402, 
+      "title": "Real-time simultaneous localisation and mapping with a single camera", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2342"
+    }, 
+    {
+      "citeBy": 352, 
+      "title": "Data Assimilation Using an Ensemble Kalman Filter Technique", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1339"
+    }, 
+    {
+      "citeBy": 379, 
+      "title": "A survey on visual surveillance of object motion and behaviors", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3700"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Variational algorithms for approximate Bayesian inference", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2362"
+    }, 
+    {
+      "citeBy": 359, 
+      "title": "A survey of industrial model predictive control technology", 
+      "ranks": 39, 
+      "docid": "citeseerx-d3702"
+    }, 
+    {
+      "citeBy": 342, 
+      "title": "Dynamic Textures", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3697"
+    }, 
+    {
+      "citeBy": 336, 
+      "title": "A Survey on Wireless Multimedia Sensor Networks", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2590"
+    }, 
+    {
+      "citeBy": 322, 
+      "title": "Classifying Facial Actions", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3698"
+    }, 
+    {
+      "citeBy": 321, 
+      "title": "Experiences with an Interactive Museum Tour-Guide Robot", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2545"
+    }, 
+    {
+      "citeBy": 321, 
+      "title": "An Introduction to MCMC for Machine Learning", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3716"
+    }, 
+    {
+      "citeBy": 303, 
+      "title": "Computational Models of Sensorimotor Integration", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3722"
+    }, 
+    {
+      "citeBy": 299, 
+      "title": "Icondensation: Unifying low-level and high-level tracking in a stochastic framework", 
+      "ranks": 54, 
+      "docid": "citeseerx-d3707"
+    }, 
+    {
+      "citeBy": 288, 
+      "title": "Directed Sonar Sensing for Mobile Robot Navigation", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1833"
+    }, 
+    {
+      "citeBy": 288, 
+      "title": "Recursive estimation of motion, structure, and focal length", 
+      "ranks": 59, 
+      "docid": "citeseerx-d3704"
+    }, 
+    {
+      "citeBy": 270, 
+      "title": "Correctness of belief propagation in gaussian graphical models of arbitrary topology", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3719"
+    }, 
+    {
+      "citeBy": 263, 
+      "title": "Strongly Typed Genetic Programming", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3715"
+    }, 
+    {
+      "citeBy": 257, 
+      "title": "Energy-Aware Wireless Microsensor Networks", 
+      "ranks": 75, 
+      "docid": "citeseerx-d3739"
+    }, 
+    {
+      "citeBy": 251, 
+      "title": "Outline of a Theory of Intelligence", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1851"
+    }, 
+    {
+      "citeBy": 250, 
+      "title": "A line in the sand: A wireless sensor network for target detection, classification, and tracking", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1849"
+    }, 
+    {
+      "citeBy": 249, 
+      "title": "Differential space-time modulation", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3714"
+    }, 
+    {
+      "citeBy": 248, 
+      "title": "Mobile Robot Localization and Mapping with Uncertainty using Scale-Invariant Visual Landmarks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3718"
+    }, 
+    {
+      "citeBy": 248, 
+      "title": "Epipolarplane image analysis: An approach to determining structure from motion", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3731"
+    }, 
+    {
+      "citeBy": 238, 
+      "title": "Model-Driven Data Acquisition in Sensor Networks", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2340"
+    }, 
+    {
+      "citeBy": 226, 
+      "title": "Order-Sorted Algebra I: Equational Deduction for Multiple Inheritance, Overloading, Exceptions and Partial Operations", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3725"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "An Ensemble Adjustment Kalman Filter for Data Assimilation", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3686"
+    }, 
+    {
+      "citeBy": 210, 
+      "title": "The PERFECT Club Benchmarks: Effective Performance Evaluation of Supercomputers", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3737"
+    }, 
+    {
+      "citeBy": 183, 
+      "title": "Particle Filters for Positioning, Navigation and Tracking", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3729"
+    }, 
+    {
+      "citeBy": 122, 
+      "title": "Ensemble Kalman filter assimilation of Doppler radar data for the . . .", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3711"
+    }, 
+    {
+      "citeBy": 113, 
+      "title": "Analysis Scheme in the Ensemble Kalman Filter", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1357"
+    }, 
+    {
+      "citeBy": 106, 
+      "title": "A Hybrid Ensemble Kalman Filter / 3D-Variational Analysis Scheme", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3733"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "An Extended Kalman Filter for Quaternion-Based Orientation Estimation Using MARG Sensors", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3663"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Design, Implementation, and Experimental Results of a Quaternion-Based Kalman Filter for Human Body Motion Tracking", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3679"
+    }, 
+    {
+      "citeBy": 31, 
+      "title": "The Unscented Kalman Filter", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1353"
+    }, 
+    {
+      "citeBy": 29, 
+      "title": "Automating the Implementation of Kalman Filter Algorithms", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1464"
+    }, 
+    {
+      "citeBy": 21, 
+      "title": "Sigma-Point Kalman Filters for  . . .", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3701"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "A gyrofree quaternion-based attitude determination system suitable for implementation using low cost sensors", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3703"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Pose And Motion Estimation From Vision Using Dual Quaternion-Based Extended Kalman Filtering", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3672"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Synthesis of Human Motion using Kalman Filter", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3735"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Nonlinear Observer for GNSS-Aided Inertial Navigation with Quaternion-Based Attitude Estimation", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3687"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 5, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A new approach to the economic analysis of nonstationary time series and the business cycle", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 14, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Articulated body motion capture by annealed particle filtering", 
+      "ranks": 18, 
+      "docid": "citeseerx-d3671"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Algorithm for Tracking Multiple Targets", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1557"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quaternion-Based Kalman Filtering for GPS-Based Spacecraft Attitude Determination", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic topic models", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unscented Filtering and Nonlinear Estimation", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3677"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mixture Kalman filters", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1328"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Tracking: A Survey", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter-based Algorithms for Estimating Depth from Image Sequences", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3680"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Coding, Analysis, Interpretation, and Recognition of Facial Expressions", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2363"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Quaternion-Based Unscented Kalman Filter for Accurate Indoor Heading Estimation Using Wearable Multi-Sensor System", 
+      "ranks": 41, 
+      "docid": "citeseerx-d3683"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consensus and cooperation in networked multi-agent systems", 
+      "ranks": 44, 
+      "docid": "citeseerx-d3688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quaternion-Based Coordinated Control of a Subsea Mobile Manipulator with Only Position Measurements", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter · Filtering Theory", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1354"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning and Recognizing Human Dynamics in Video Sequences", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3693"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Keeping a Good Attitude: A Quaternion-Based Orientation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3692"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visual Recognition of American Sign Language Using Hidden Markov Models", 
+      "ranks": 51, 
+      "docid": "citeseerx-d3694"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3695"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3708"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adaptive Filtering and Change Detection", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1895"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model-Based Object Pose in 25 Lines of Code", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3710"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Long Short-term Memory", 
+      "ranks": 70, 
+      "docid": "citeseerx-d3712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recipes for Adjoint Code Construction", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3713"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sigma-Point Kalman Filters For Integrated Navigation", 
+      "ranks": 75, 
+      "docid": "citeseerx-d3717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From HMM&apos;s to Segment Models: A Unified View  of Stochastic Modeling for Speech Recognition", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3721"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition without Correspondence using Multidimensional Receptive Field Histograms", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Verification of Synthesized Kalman Filters", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1359"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter Tracking", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1345"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Certifying Kalman Filters", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1360"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filters, factor graphs, and . . .", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1341"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ensemble Kalman Filter Analyses of the . . .", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1342"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtering in R", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1363"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filters and Robot Localization", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1361"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q130"
+}

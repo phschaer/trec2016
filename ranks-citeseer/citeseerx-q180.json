@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2558, 
+      "title": "Online Learning with Kernels", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1801"
+    }, 
+    {
+      "citeBy": 1103, 
+      "title": "Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones", 
+      "ranks": 0, 
+      "docid": "citeseerx-d2402"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 1893, 
+      "title": "Good features to track", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4946"
+    }, 
+    {
+      "citeBy": 1765, 
+      "title": "Energy-efficient communication protocol for wireless microsensor networks", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2369"
+    }, 
+    {
+      "citeBy": 1506, 
+      "title": "On Spectral Clustering: Analysis and an algorithm", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3608"
+    }, 
+    {
+      "citeBy": 1492, 
+      "title": "Video google: A text retrieval approach to object matching in videos", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1855"
+    }, 
+    {
+      "citeBy": 1172, 
+      "title": "LIBLINEAR: A Library for Large Linear Classification", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1692"
+    }, 
+    {
+      "citeBy": 1327, 
+      "title": "An information-maximization approach to blind separation and blind deconvolution", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2311"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Image Quality Assessment: From Error Visibility to Structural Similarity", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2291"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 47, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1071, 
+      "title": "Ideal spatial adaptation by wavelet shrinkage", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1131"
+    }, 
+    {
+      "citeBy": 1048, 
+      "title": "Multiresolution grayscale and rotation invariant texture classification with local binary patterns", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1836"
+    }, 
+    {
+      "citeBy": 998, 
+      "title": "Web Caching and Zipf-like Distributions: Evidence and Implications", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2238"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 37, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 29, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 43, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 54, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "Robust face recognition via sparse representation", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1772"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 734, 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "ranks": 32, 
+      "docid": "citeseerx-d3540"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Above the Clouds: A Berkeley View of Cloud Computing", 
+      "ranks": 46, 
+      "docid": "citeseerx-d349"
+    }, 
+    {
+      "citeBy": 703, 
+      "title": "Fast and robust fixed-point algorithms for independent component analysis", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1064"
+    }, 
+    {
+      "citeBy": 538, 
+      "title": "EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis", 
+      "ranks": 2, 
+      "docid": "citeseerx-d130"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 44, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 701, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 49, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Learning generative visual models from few training examples: an incremental Bayesian approach tested on 101 object categories", 
+      "ranks": 25, 
+      "docid": "citeseerx-d6968"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Snakes, Shapes, and Gradient Vector Flow", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2557"
+    }, 
+    {
+      "citeBy": 653, 
+      "title": "Image Quilting for Texture Synthesis and Transfer", 
+      "ranks": 12, 
+      "docid": "citeseerx-d2926"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Lucas-Kanade 20 Years On: A Unifying Framework: Part 3", 
+      "ranks": 22, 
+      "docid": "citeseerx-d313"
+    }, 
+    {
+      "citeBy": 654, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 51, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 646, 
+      "title": "Blind Beamforming for Non Gaussian Signals", 
+      "ranks": 33, 
+      "docid": "citeseerx-d2405"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "Distance metric learning for large margin nearest neighbor classification", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1779"
+    }, 
+    {
+      "citeBy": 593, 
+      "title": "Actions as space-time shapes", 
+      "ranks": 24, 
+      "docid": "citeseerx-d8370"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Learning to detect natural image boundaries using local brightness, color, and texture cues", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1740"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "The 2005 pascal visual object classes challenge", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1771"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "Detection of Abrupt Changes: Theory and Application", 
+      "ranks": 35, 
+      "docid": "citeseerx-d357"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "Genetic Algorithms for Multiobjective Optimization: Formulation, Discussion and Generalization", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1544"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Variable Selection via Nonconcave Penalized Likelihood and its Oracle Properties", 
+      "ranks": 16, 
+      "docid": "citeseerx-d8376"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "The geometry of algorithms with orthogonality constraints", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2333"
+    }, 
+    {
+      "citeBy": 502, 
+      "title": "Impact of interference on multi-hop wireless network performance", 
+      "ranks": 9, 
+      "docid": "citeseerx-d8374"
+    }, 
+    {
+      "citeBy": 531, 
+      "title": "An introduction to kernel-based learning algorithms", 
+      "ranks": 42, 
+      "docid": "citeseerx-d919"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "Nonparametric estimation of average treatment effects under exogeneity: a review", 
+      "ranks": 48, 
+      "docid": "citeseerx-d8380"
+    }, 
+    {
+      "citeBy": 492, 
+      "title": "Gaussian processes for machine learning", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8415"
+    }, 
+    {
+      "citeBy": 485, 
+      "title": "Feedback Control Theory", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2659"
+    }, 
+    {
+      "citeBy": 474, 
+      "title": "Completely Derandomized Self-Adaptation in Evolution Strategies", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2334"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Rehag, “Statistical color models with application to skin detection,’’ Intl", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3499"
+    }, 
+    {
+      "citeBy": 467, 
+      "title": "Image denoising using a scale mixture of Gaussians in the wavelet domain", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2474"
+    }, 
+    {
+      "citeBy": 461, 
+      "title": "The University of Florida sparse matrix collection", 
+      "ranks": 59, 
+      "docid": "citeseerx-d8229"
+    }, 
+    {
+      "citeBy": 451, 
+      "title": "Lambertian Reflectance and Linear Subspaces", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8386"
+    }, 
+    {
+      "citeBy": 437, 
+      "title": "Convergence Properties of the Nelder-Mead Simplex Method in Low Dimensions", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8405"
+    }, 
+    {
+      "citeBy": 431, 
+      "title": "Active Appearance Models Revisited", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8401"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 421, 
+      "title": "Multivariable Feedback Control: Analysis", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8420"
+    }, 
+    {
+      "citeBy": 419, 
+      "title": "Least-Squares Policy Iteration", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4550"
+    }, 
+    {
+      "citeBy": 410, 
+      "title": "Blobworld: Image segmentation using Expectation-Maximization and its application to image querying", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5834"
+    }, 
+    {
+      "citeBy": 409, 
+      "title": "Gradient projection for sparse reconstruction: Application to compressed sensing and other inverse problems", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2478"
+    }, 
+    {
+      "citeBy": 385, 
+      "title": "A Fluid-based Analysis of a Network of AQM Routers Supporting TCP Flows with an Application to RED", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8395"
+    }, 
+    {
+      "citeBy": 383, 
+      "title": "A Parametric Texture Model based on Joint Statistics of Complex Wavelet Coefficients", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8422"
+    }, 
+    {
+      "citeBy": 378, 
+      "title": "Direct least Square Fitting of Ellipses", 
+      "ranks": 83, 
+      "docid": "citeseerx-d8431"
+    }, 
+    {
+      "citeBy": 376, 
+      "title": "Concept Decompositions for Large Sparse Text Data using Clustering", 
+      "ranks": 85, 
+      "docid": "citeseerx-d169"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Variational algorithms for approximate Bayesian inference", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2362"
+    }, 
+    {
+      "citeBy": 362, 
+      "title": "Control of Systems Integrating Logic, Dynamics, and Constraints", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8427"
+    }, 
+    {
+      "citeBy": 345, 
+      "title": "Modeling the effect of technology trends on the soft error rate of combinational logic", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8412"
+    }, 
+    {
+      "citeBy": 342, 
+      "title": "Dynamic Textures", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3697"
+    }, 
+    {
+      "citeBy": 338, 
+      "title": "Unsupervised learning of models for recognition", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8433"
+    }, 
+    {
+      "citeBy": 292, 
+      "title": "SDPT3 -- a MATLAB software package for semidefinite programming", 
+      "ranks": 77, 
+      "docid": "citeseerx-d8398"
+    }, 
+    {
+      "citeBy": 216, 
+      "title": "The Bayes Net Toolbox for MATLAB", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8383"
+    }, 
+    {
+      "citeBy": 181, 
+      "title": "Neural Network Toolbox For Use with Matlab", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The &quot;Independent Components&quot; of Natural Scenes are Edge Filters", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2412"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A fast learning algorithm for deep belief nets", 
+      "ranks": 8, 
+      "docid": "citeseerx-d247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adapting to unknown smoothness via wavelet shrinkage", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1061"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 35, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Matlab user’s guide", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8359"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantile Regression", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1085"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From Few to many: Illumination cone models for face recognition under variable lighting and pose", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2905"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LabelMe: A Database and Web-Based Tool for Image Annotation", 
+      "ranks": 42, 
+      "docid": "citeseerx-d363"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Dantzig Selector: Statistical Estimation When p Is Much Larger Than n", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cluster Ensembles - A Knowledge Reuse Framework for Combining Multiple Partitions", 
+      "ranks": 45, 
+      "docid": "citeseerx-d381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ghaoui. Convex position estimation in wireless sensor networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Coupled hidden Markov models for complex action recognition", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering by passing messages between data points", 
+      "ranks": 62, 
+      "docid": "citeseerx-d4094"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MATLAB", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8390"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering Gene Expression Patterns", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8392"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Tracking: A Survey", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Global Optimization with Polynomials and the Problem of Moments", 
+      "ranks": 73, 
+      "docid": "citeseerx-d8400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determining the Number of Factors in Approximate Factor Models", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Choosing multiple parameters for support vector machines", 
+      "ranks": 78, 
+      "docid": "citeseerx-d7210"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiobjective Evolutionary Algorithms: Analyzing the State-of-the-Art", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1572"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-negative matrix factorization with sparseness constraints", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An analysis of a large scale habitat monitoring application", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Locality-sensitive hashing scheme based on p-stable distributions", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sparse matrices in Matlab: Design and implementation", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8417"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Regularization tools – a matlab package for analysis and solution of discrete ill-posed problems", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8423"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GTM: The generative topographic mapping", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8425"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Localization from Mere Connectivity", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8429"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q180"
+}

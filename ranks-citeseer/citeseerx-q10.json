@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 961, 
+      "title": "An Introduction to the Kalman Filter", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1315"
+    }, 
+    {
+      "citeBy": 654, 
+      "title": "A New Extension of the Kalman Filter to Nonlinear Systems", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1317"
+    }, 
+    {
+      "citeBy": 352, 
+      "title": "Data Assimilation Using an Ensemble Kalman Filter Technique", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1339"
+    }, 
+    {
+      "citeBy": 193, 
+      "title": "Mixture Kalman filters", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1328"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CMU SCS Kalman Filters", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1319"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1320"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KALMAN FILTERING", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Kalman Filter", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtering with intermittent observations", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1326"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman and Extended Kalman Filters:", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1333"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1337"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filters, factor graphs, and . . .", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1341"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ensemble Kalman Filter Analyses of the . . .", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1342"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fourier-Hermite Kalman Filter", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1344"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter Tracking", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1345"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering in Two Dimensions", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1346"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ADAPTIVE KALMAN FILTERING", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1347"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Kalman Filter Explained", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1348"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discriminative training of Kalman filters", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1349"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Least Squares and Kalman Filtering", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1350"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filters: A Tutorial", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1351"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Unscented Kalman Filter", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1353"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter · Filtering Theory", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1354"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ensemble Kalman Filter: theoretical formulation And Practical Implementation", 
+      "ranks": 25, 
+      "docid": "citeseerx-d1355"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 KALMAN FILTERS", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1356"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis Scheme in the Ensemble Kalman Filter", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1357"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Verification of Synthesized Kalman Filters", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1359"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Certifying Kalman Filters", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1360"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filters and Robot Localization", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1361"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internal. Tutorial: The Kalman Filter.", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1362"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtering in R", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1363"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multilevel Mixture Kalman Filter", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1364"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The convergence of the extended Kalman filter", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1366"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtered compressed sensing", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1368"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "using an Extended Kalman Filter", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1370"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ON THE CONVERGENCE OF THE ENSEMBLE KALMAN FILTER", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1372"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Convergence of the Ensemble Kalman Filter", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Switching Kalman Filters", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1378"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lifted Relational Kalman Filtering", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN APPROACH FOR DISTRIBUTED KALMAN FILTERING", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1383"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Control, and Kalman Filtering", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1384"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering in Correlated Losses", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1385"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "using discrete Kalman filtering", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1388"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Unscented Kalman Filter for nonlinear estimation", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1390"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resampling the Ensemble Kalman Filter", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1393"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resampling the Ensemble Kalman Filter", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1395"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Repeated surveys and the Kalman filter ∗", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1397"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering with Intermittent Observations*", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1399"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Kalman filter", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1401"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Kalman Filter", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Recursive Kalman-Filtering", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1405"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter Enhancement for UAV Navigation", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE QUADRATIC EXTENDED KALMAN FILTER", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1408"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The FPGA implementation of Kalman filter", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1410"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pobust Kalman Filter Design", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1412"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bayesian Estimation and the Kalman Filter", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1414"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering Of Strange Attractors", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1416"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating Curvature By Kalman Filters", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1418"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Supplementary Material The Kalman filter", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1420"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtering with partial observation losses", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1423"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Morphing ensemble kalman filters", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1424"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filter Estimation of the Number of", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1426"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is the Hippocampus a Kalman Filter?", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1428"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EKF = the Extended Kalman Filter", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1431"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Differentially private Kalman filtering", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1432"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1Cubature Kalman Filters", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1434"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering for Compressed Sensing", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1437"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Four-dimensional ensemble Kalman filtering", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1439"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering: Whence, What and Whither?", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1440"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementation of Kalman Filter with Python Language", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1442"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman filtering with uncertain noise covariances", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1444"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering with Unknown Noise Covariances", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding the Kalman Filter", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating Value at Risk with the Kalman Filter", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1451"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introduction to Kalman Filtering", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1453"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INFLUENCE OF THE KALMAN FILTER FOR STATE SPACE", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1455"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Comparitive Study Of Kalman Filter, Extended Kalman Filter And Unscented Kalman Filter For Harmonic Analysis Of The Non-Stationary Signals", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning an Outlier-Robust Kalman Filter", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1459"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adaptive Kalman filtering for vehicle navigation", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1461"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automating the Implementation of Kalman Filter Algorithms", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Some Ideas for Ensemble Kalman Filtering", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1466"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Kalman Filtering in Doppler-Bearing Tracking", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1468"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Derivation of Kalman filtering and smoothing equations", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Continuous-Discrete Cubature Kalman Filtering", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filtering in Hydrological Modelling", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1474"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Kalman filter-smoother", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1475"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Kalman filtering for", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1477"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hybrid Kalman Filter Approach for . . .", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1479"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kalman Filters for Prediction and Tracking in an", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1481"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Kalman Filter for Wall Following", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Kalman Filter: Intuition", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1486"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Extended Kalman Filter", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1488"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KALMAN FILTER BASED SPEECH SYNTHESIS †", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Krylov Space Approximate Kalman Filtering", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Continuous-discrete unscented kalman filtering", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1492"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of the Extended Kalman Filter", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1494"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "extended Kalman filter", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Kalman filtering for detectable systems with . . .", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1498"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q10"
+}

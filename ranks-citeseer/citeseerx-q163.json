@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 22, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 82, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 1525, 
+      "title": "Network information flow", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2350"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 98, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 31, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 62, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 59, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1160, 
+      "title": "Federated database systems for managing distributed, heterogeneous, and autonomous databases", 
+      "ranks": 26, 
+      "docid": "citeseerx-d350"
+    }, 
+    {
+      "citeBy": 1094, 
+      "title": "Mediators in the architecture of future information systems", 
+      "ranks": 15, 
+      "docid": "citeseerx-d550"
+    }, 
+    {
+      "citeBy": 1129, 
+      "title": "The eyes have it: A task by data type taxonomy for information visualizations", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2958"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "Word Association Norms, Mutual Information, and Lexicography", 
+      "ranks": 50, 
+      "docid": "citeseerx-d6435"
+    }, 
+    {
+      "citeBy": 1052, 
+      "title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1076"
+    }, 
+    {
+      "citeBy": 1022, 
+      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2197"
+    }, 
+    {
+      "citeBy": 1036, 
+      "title": "The Design and Implementation of a Log-Structured File System", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1090"
+    }, 
+    {
+      "citeBy": 1008, 
+      "title": "The Amoeba Distributed Operating System", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2549"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Disconnected Operation in the Coda File System", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3542"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 965, 
+      "title": "Geography-informed Energy Conservation for Ad Hoc Routing", 
+      "ranks": 35, 
+      "docid": "citeseerx-d3019"
+    }, 
+    {
+      "citeBy": 952, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 64, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 930, 
+      "title": "Alignment by Maximization of Mutual Information", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4087"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Performance pay and top-management incentives", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4093"
+    }, 
+    {
+      "citeBy": 898, 
+      "title": "Location Systems for Ubiquitous Computing", 
+      "ranks": 65, 
+      "docid": "citeseerx-d250"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The EigenTrust Algorithm for Reputation Management in P2P Networks", 
+      "ranks": 57, 
+      "docid": "citeseerx-d3402"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Using collaborative filtering to weave an information tapestry", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2221"
+    }, 
+    {
+      "citeBy": 871, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Formal Ontology and Information Systems", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1"
+    }, 
+    {
+      "citeBy": 847, 
+      "title": "Evaluating collaborative filtering recommender systems", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3709"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 12, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 771, 
+      "title": "Language-Based Information-Flow Security", 
+      "ranks": 23, 
+      "docid": "citeseerx-d673"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 90, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 756, 
+      "title": "Kademlia: A Peer-to-peer Information System Based on the XOR Metric", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6972"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Insiders and Outsiders: The Choice between Informed and Arm&apos;s-Length Debt", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4083"
+    }, 
+    {
+      "citeBy": 716, 
+      "title": "Querying Heterogeneous Information Sources Using Source Descriptions", 
+      "ranks": 88, 
+      "docid": "citeseerx-d476"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 21, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1651"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "DISTRIBUTED SYSTEMS", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1073"
+    }, 
+    {
+      "citeBy": 673, 
+      "title": "Kerberos: An Authentication Service for Open Network Systems", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1819"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "A Lattice Model of Secure Information Flow", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6975"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 44, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 638, 
+      "title": "Using Linear Algebra for Intelligent Information Retrieval", 
+      "ranks": 51, 
+      "docid": "citeseerx-d733"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "PVS: A Prototype Verification System", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3464"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 20, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 612, 
+      "title": "Controlled and automatic human information processing", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1016"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 607, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Link-Sharing and Resource Management Models for Packet Networks", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3453"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "Access path selection in a relational database management system", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1785"
+    }, 
+    {
+      "citeBy": 557, 
+      "title": "JFlow: Practical Mostly-Static Information Flow Control", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6977"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Distributed Database Systems", 
+      "ranks": 72, 
+      "docid": "citeseerx-d649"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "A Fast File System for UNIX", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5103"
+    }, 
+    {
+      "citeBy": 538, 
+      "title": "Fine-grained Mobility in the Emerald System", 
+      "ranks": 89, 
+      "docid": "citeseerx-d815"
+    }, 
+    {
+      "citeBy": 525, 
+      "title": "The TSIMMIS Project: Integration of Heterogeneous Information Sources", 
+      "ranks": 76, 
+      "docid": "citeseerx-d622"
+    }, 
+    {
+      "citeBy": 507, 
+      "title": "Object exchange across heterogeneous information sources", 
+      "ranks": 41, 
+      "docid": "citeseerx-d73"
+    }, 
+    {
+      "citeBy": 20, 
+      "title": "The organizational validity of management information systems", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6970"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "IMIS: Intelligent Management Information System", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6966"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MANAGEMENT INFORMATION SYSTEMS", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6953"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management Information System to Help . . .", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quality in PHC Management Information Systems", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6955"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Public Sector Management Information Systems", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6956"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MANAGEMENT INFORMATION SYSTEMS", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6957"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management Information Systems", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6958"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "management information system", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6959"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management Information Systems", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6960"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "School of Management Information Systems", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6962"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management Information Systems Quarterly.", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6963"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management Information Systems", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6964"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Management information systems: . . .", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6965"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Urban Planning Management Information System based on GIS", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review: Knowledge management and knowledge management systems: Conceptual foundations and research issues", 
+      "ranks": 29, 
+      "docid": "citeseerx-d80"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontological Management Information Systems Requirements and Architectural Proposal", 
+      "ranks": 32, 
+      "docid": "citeseerx-d6969"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Retrieval", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Grid Information Services for Distributed Resource Sharing", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1815"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Theory and Statistics", 
+      "ranks": 45, 
+      "docid": "citeseerx-d944"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Security on NECTEC Management Information System", 
+      "ranks": 47, 
+      "docid": "citeseerx-d6971"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Active Badge Location System", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Google File System", 
+      "ranks": 59, 
+      "docid": "citeseerx-d640"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "System architecture directions for networked sensors", 
+      "ranks": 70, 
+      "docid": "citeseerx-d664"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 71, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4315"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The h Index for Management Information Systems", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6979"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database resources of the National Center for Biotechnology Information", 
+      "ranks": 83, 
+      "docid": "citeseerx-d400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The h Index for Management Information Systems", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6981"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RADAR: an in-building RF-based user location and tracking system", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3451"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 86, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Memory Coherence in Shared Virtual Memory Systems", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An information-maximization approach to blind separation and blind deconvolution", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2311"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Language Modeling Approach to Information Retrieval", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-To-End Arguments In System Design", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6343"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The h Index for Management Information Systems", 
+      "ranks": 92, 
+      "docid": "citeseerx-d6978"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distance Metric Learning, With Application To Clustering With Side-Information", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Snapshots: Determining Global States of Distributed Systems", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1795"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The FF planning system: Fast plan generation through heuristic search", 
+      "ranks": 94, 
+      "docid": "citeseerx-d776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Integrated Experimental Environment for Distributed Systems and Networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d582"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems", 
+      "ranks": 96, 
+      "docid": "citeseerx-d558"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unreliable Failure Detectors for Reliable Distributed Systems", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Environmental Management Information System (emis)", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6987"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 99, 
+      "docid": "citeseerx-d236"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q163"
+}

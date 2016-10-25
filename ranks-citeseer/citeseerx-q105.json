@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 3393, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 97, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 3060, 
+      "title": "Emergence of scaling  in random networks", 
+      "ranks": 19, 
+      "docid": "citeseerx-d736"
+    }, 
+    {
+      "citeBy": 2862, 
+      "title": "Dynamic source routing in ad hoc wireless networks", 
+      "ranks": 46, 
+      "docid": "citeseerx-d757"
+    }, 
+    {
+      "citeBy": 2628, 
+      "title": "Congestion Avoidance and Control", 
+      "ranks": 54, 
+      "docid": "citeseerx-d767"
+    }, 
+    {
+      "citeBy": 2626, 
+      "title": "Particle swarm optimization", 
+      "ranks": 84, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 95, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 29, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2006, 
+      "title": "Why Do Some Countries Produce So Much More Output Per Worker Than Others?", 
+      "ranks": 67, 
+      "docid": "citeseerx-d722"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Independent Component Analysis", 
+      "ranks": 77, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 6, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 1692, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 1495, 
+      "title": "Software Engineering Economics", 
+      "ranks": 14, 
+      "docid": "citeseerx-d728"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 45, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 1344, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 86, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 90, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 71, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 82, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Africa´s Growth Tragedy: Policies and Ethnic Divisions”, The Quarterly", 
+      "ranks": 70, 
+      "docid": "citeseerx-d783"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Tor: The Second-Generation Onion Router", 
+      "ranks": 72, 
+      "docid": "citeseerx-d787"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 50, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 1010, 
+      "title": "Bank Runs, Deposit Insurance, and Liquidity", 
+      "ranks": 94, 
+      "docid": "citeseerx-d806"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 40, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 912, 
+      "title": "Using Bayesian networks to analyze expression data", 
+      "ranks": 47, 
+      "docid": "citeseerx-d564"
+    }, 
+    {
+      "citeBy": 870, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 53, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "The Evolution of Social and Economic Networks", 
+      "ranks": 2, 
+      "docid": "citeseerx-d716"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 12, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 43, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 847, 
+      "title": "Summary cache: A scalable wide-area web cache sharing protocol", 
+      "ranks": 74, 
+      "docid": "citeseerx-d789"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 85, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 784, 
+      "title": "Maximizing the Spread of Influence Through a Social Network", 
+      "ranks": 16, 
+      "docid": "citeseerx-d730"
+    }, 
+    {
+      "citeBy": 733, 
+      "title": "The link-prediction problem for social networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d725"
+    }, 
+    {
+      "citeBy": 775, 
+      "title": "Worst-case equilibria", 
+      "ranks": 60, 
+      "docid": "citeseerx-d774"
+    }, 
+    {
+      "citeBy": 772, 
+      "title": "The Small-World Phenomenon: An Algorithmic Perspective", 
+      "ranks": 61, 
+      "docid": "citeseerx-d775"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 13, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 754, 
+      "title": "Error and attack tolerance of complex networks", 
+      "ranks": 33, 
+      "docid": "citeseerx-d732"
+    }, 
+    {
+      "citeBy": 748, 
+      "title": "Markov Logic Networks", 
+      "ranks": 32, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 741, 
+      "title": "Random key predistribution schemes for sensor networks", 
+      "ranks": 44, 
+      "docid": "citeseerx-d754"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 88, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 730, 
+      "title": "A Scalable Location Service for Geographic Ad Hoc Routing", 
+      "ranks": 89, 
+      "docid": "citeseerx-d799"
+    }, 
+    {
+      "citeBy": 717, 
+      "title": "Knowledge acquisition via incremental conceptual clustering", 
+      "ranks": 63, 
+      "docid": "citeseerx-d777"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 49, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 78, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 64, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 66, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 666, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 69, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 30, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 98, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Optimization Flow Control, I: Basic Algorithm and Convergence", 
+      "ranks": 87, 
+      "docid": "citeseerx-d798"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "A Strategic Model of Social and Economic Networks", 
+      "ranks": 4, 
+      "docid": "citeseerx-d721"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Practical network support for IP traceback", 
+      "ranks": 38, 
+      "docid": "citeseerx-d750"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "Algorithmic mechanism design", 
+      "ranks": 68, 
+      "docid": "citeseerx-d516"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 52, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 615, 
+      "title": "The Strength of Weak Ties: A Network Theory Revisited", 
+      "ranks": 31, 
+      "docid": "citeseerx-d764"
+    }, 
+    {
+      "citeBy": 622, 
+      "title": "How bad is selfish routing?", 
+      "ranks": 59, 
+      "docid": "citeseerx-d773"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 81, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 92, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d748"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "Internet time synchronization: The network time protocol", 
+      "ranks": 48, 
+      "docid": "citeseerx-d760"
+    }, 
+    {
+      "citeBy": 534, 
+      "title": "The sources and consequences of embeddedness for the economic performance of organizations: The network effect", 
+      "ranks": 9, 
+      "docid": "citeseerx-d791"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Learning probabilistic relational models", 
+      "ranks": 93, 
+      "docid": "citeseerx-d803"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism", 
+      "ranks": 55, 
+      "docid": "citeseerx-d768"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "The Stability and Efficiency of Economic and Social Networks", 
+      "ranks": 1, 
+      "docid": "citeseerx-d714"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The economics of social networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d713"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 1: The Economics of Social Networks", 
+      "ranks": 3, 
+      "docid": "citeseerx-d715"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 4, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 7, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 14, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Economics of Inequality", 
+      "ranks": 17, 
+      "docid": "citeseerx-d738"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 18, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 21, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network motifs: simple building blocks of complex networks", 
+      "ranks": 22, 
+      "docid": "citeseerx-d460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Z-Tree: Zurich Toolbox for Readymade Economic Experiments, Working paper No", 
+      "ranks": 23, 
+      "docid": "citeseerx-d546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A contribution to the empirics of economic growth", 
+      "ranks": 25, 
+      "docid": "citeseerx-d745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Economics of Immigration", 
+      "ranks": 26, 
+      "docid": "citeseerx-d746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 29, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 31, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic analysis of cross section and panel data", 
+      "ranks": 32, 
+      "docid": "citeseerx-d590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 46, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Economics of networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d772"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 53, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Globus: A Metacomputing Infrastructure Toolkit", 
+      "ranks": 60, 
+      "docid": "citeseerx-d627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Self-similar Nature of Ethernet Traffic (Extended Version)", 
+      "ranks": 73, 
+      "docid": "citeseerx-d800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 81, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 82, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 84, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Universally composable security: A new paradigm for cryptographic protocols", 
+      "ranks": 86, 
+      "docid": "citeseerx-d598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Focused crawling: a new approach to topic-specific Web resource discovery", 
+      "ranks": 87, 
+      "docid": "citeseerx-d289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-Area Traffic: The Failure of Poisson Modeling", 
+      "ranks": 88, 
+      "docid": "citeseerx-d810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "As we may think", 
+      "ranks": 89, 
+      "docid": "citeseerx-d811"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Free Riding on Gnutella", 
+      "ranks": 90, 
+      "docid": "citeseerx-d812"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A theory of fairness, competition and cooperation", 
+      "ranks": 91, 
+      "docid": "citeseerx-d813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Metaphors We Live By", 
+      "ranks": 92, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 93, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Power-Law Relationships of the Internet Topology", 
+      "ranks": 94, 
+      "docid": "citeseerx-d816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 95, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 96, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A simple model of herd behavior", 
+      "ranks": 97, 
+      "docid": "citeseerx-d819"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Optimal Degree of Commitment to an Intermediate Monetary Target", 
+      "ranks": 98, 
+      "docid": "citeseerx-d821"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 99, 
+      "docid": "citeseerx-d240"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q105"
+}

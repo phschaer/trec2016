@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 613, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Glacier monitoring from ASTER imagery: accuracy and applications, EARSel eProceedings", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4971"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Spatial Object Modelling in Fuzzy Topological Spaces -- with Applications to Land Cover Change", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5098"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Detection of Neolithic Settlements in Thessaly (Greece) Through Multispectral and Hyperspectral Satellite Imagery", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4985"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Accuracy assessment of automatically derived digital elevation models from ASTER data in mountainous terrain", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4996"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Snail density prediction for schistosomiasis control using IKONOS and ASTER images. Photogrammetric Engineering &amp; Remote Sensing 70", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5021"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Combined adjustment of MOC stereo imagery and MOLA altimetry data, Photogrammetric Engineering and Remote", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5053"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Sciences Evaluation of the Surface Energy Balance System (SEBS) applied to ASTER imagery with flux-measurements at the SPARC 2004 site", 
+      "ranks": 23, 
+      "docid": "citeseerx-d4998"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5031"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Automated Registration of High-Resolution Satellite Imagery for Change Detection", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5106"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Integration of high resolution multispectral imagery with LIDAR and IFSAR data for urban analysis applications", 
+      "ranks": 17, 
+      "docid": "citeseerx-d4987"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Combining high resolution satellite imagery and airborne laser scanning data for generating bareland DEM in urban areas", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5039"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "FUSION OF HYPERSPECTRAL IMAGES AND LIDAR-BASED DEMS FOR COASTAL MAPPING", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5113"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Using ASTER and SRTM DEMs for studying geomorphology and glaciation in high mountain areas", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4977"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Multi-level Indexing and GIS Enhanced Learning for Satellite Imageries", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5081"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "2003. Human impacts on land cover and panda habitat in Wolong Nature Reserve: linking ecological, socioeconomic, demographic, and behavioral data", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5115"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Automatic Orthorectification of ASTER Images by Matching Digital Elevation Models&quot;, ICIAR 2007, LNCS 4633", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5028"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Urban land-use classification using integrated airborne laser scanning data and high resolution multi-spectral satellite imagery", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4980"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "ELIMINATION OF THE OUTLIERS FROM ASTER GDEM DATA", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4999"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "THE EFFECT OF STRATIFIED TOPOGRAPHIC CORRECTION ON LAND COVER CLASSIFICATION IN TROPICAL MOUNTAINOUS REGIONS", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5061"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "THE POTENTIAL OF MULTI-SENSOR SATELLITE DATA FOR APPLICATIONS IN ENVIRONMENTAL MONITORING WITH SPECIAL EMPHASIS ON LAND COVER MAPPING, DESERTIFICATION MONITORING AND FIRE DETECTION", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5083"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Generation Of A Consistent Spatial Database For A Land Use", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5101"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CORRECTING DEM EXTRACTED FROM ASTER STEREO IMAGES BY COMBINING CARTOGRAPHIC DEM", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4963"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 12 MULTISPECTRAL IMAGERY", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4966"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACCURACY ASSESSMENT OF ASTER GLOBAL DEM OVER TURKEY", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Land cover update by supervised classification of segmented ASTER images", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4969"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEM generation from ASTER satellite data for geomorphometric analysis of Cerro Sillajhuay", 
+      "ranks": 6, 
+      "docid": "citeseerx-d4973"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMPARISON OF DIFFERENT MATHEMATICAL MODELS ON THE ACCURACY OF THE ORTHORECTIFICATION OF ASTER IMAGERY", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4975"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Characterizing and mapping forest fire fuels using ASTER", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4981"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SPECTRAL DISCRIMINATION AND SEPARABILITY ANALYSIS OF AGRICULTURAL CROPS AND SOIL ATTRIBUTES USING ASTER IMAGERY", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4982"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN EVALUATION OF SRTM, ASTER, AND CONTOUR BASED DEMS IN THE CARIBBEAN REGION", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4983"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ERROR ESTIMATION OF ASTER GDEM FOR REGIONAL APPLICATIONS- COMPARISON TO ASTER DEM AND ALS ELEVATION MODELS", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ASTER Imagery for British Columbia – An Online Exploration Resource 1", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conference 6233: Algorithms and Technologies for Multispectral, Hyperspectral, and Ultraspectral Imagery XII", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4991"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USE OF SATELLITE IMAGERY FOR DEM EXTRACTION, LANSCAPE MODELING AND GIS APPLICATIONS", 
+      "ranks": 20, 
+      "docid": "citeseerx-d4993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A General Methodology of Urban Land Cover Type Classification for Atmospheric Modeling", 
+      "ranks": 21, 
+      "docid": "citeseerx-d4995"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contribution of Satellite imagery and DEMs to the Detection of Neolithic Settlements in Thessaly, Greece", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4997"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient Hybrid Classification System for Mining Multi-spectral Remote Sensing Imagery Guided by Spatial Databases", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Land Cover Mapping by . . .", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5004"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integrating Imagery Data into Spatial Databases", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5002"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Redefining the Border line of the Neka River&apos;s Watershed with Comparing ASTER, SRTM, Digital Topography DEM, and Topographic Map by GIS and Remote Sensing Techniques", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTITEMPORAL LANDSAT IMAGERY ANALYSIS TO STUDY THE DYNAMICS OF LAND COVER OVER LAKE KIVU REGION", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accuracy analysis for DEM and orthoimages derived from SPOT-HRS stereo data without using", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5010"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SOME APPLICATIONS OF THE REMOTE SENSING IN GEOLOGY BY USING OF ASTER IMAGES", 
+      "ranks": 31, 
+      "docid": "citeseerx-d5006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of Relationship between Surface Temperature and Shade in an Urban Area by ASTER and PRISM Data", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5018"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "using satellite imagery and coarse resolution lidar in the Virgin Islands", 
+      "ranks": 35, 
+      "docid": "citeseerx-d5013"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "APPLICATION OF REMOTELY SENSED IMAGERY TO WATERSHED ANALYSIS", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5014"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "site effects using geomorphometry and ASTER satellite", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5016"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ORTHORECTIFICATION OF BILSAT IMAGERY USING RIGOROUS AND SIMPLE GEOMETRIC MODELS", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5022"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 GEOMATICS WITH RADARSAT IMAGERY", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5024"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS MODELLING OF LAND DEGRADATION IN NORTHERN-JORDAN USING LANDSAT IMAGERY", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5034"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© IDOSI Publications, 2012 Clustering Approach on Land Use Land Cover Classification", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIS MODELLING OF LAND DEGRADATION IN NORTHERN-JORDAN USING LANDSAT IMAGERY", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Orthophoto generation using IKONOS imagery", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5036"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Produced by Global Congresos THE USE OF HIGH RESOLUTION SATELLITE IMAGERY IN BACKGROUND STUDIES FOR LINEAR WORKS", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5048"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimation Of Snow Fraction Using Aviris Simulated Aster Image Data", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5042"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Landscapes Using Satellite Imagery", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5045"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Continent-wide DEM Creation for the European Union", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5044"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OBJECT-BASED CLASSIFICATION OF SPOT AND ASTER DATA COMPLEMENTED WITH DATA DERIVED FROM MODIS VEGETATION INDICES TIME SERIES IN A MEDITERRANEAN TEST-SITE", 
+      "ranks": 53, 
+      "docid": "citeseerx-d5046"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flood Hazard Mapping using Aster Image data with GIS", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Operational Monitoring of Vegetative Cover by Remote Sensing in Semi-arid Lands of Iran", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5051"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEM Generation, Orthorectification, and Atmospheric Correction", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GENERATION OF DEM AND ORTHOIMAGES FROM SPOT HRS STEREO DATA WITHOUT USING GCP", 
+      "ranks": 58, 
+      "docid": "citeseerx-d5055"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Locating Helicopter Landing Zones: ENVI for", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5057"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEM Registration and Error Analysis using ASCII Values", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5066"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Watershed Hydrological Responses to Changes in Land Use and Land Cover, and Management", 
+      "ranks": 61, 
+      "docid": "citeseerx-d5059"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Land-Use/Land- Cover Dynamics In Chiang Mai: Appraisal from Remote Sensing, GIS and Modelling Approaches", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5076"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summit-to-Sea mapping and change detection using satellite imagery: tools for conservation and management of coral reefs", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5064"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LAND COVER CHANGES IN THE REGION OF ROSTOCK- CAN REMOTE SENSING AND GIS HELP TO VERIFY AND CONSOLIDATE OFFICIAL CENSUS DATA?", 
+      "ranks": 67, 
+      "docid": "citeseerx-d5085"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A LANDCOVER CLASSIFICATION SCHEME FOR HIGH RESOLUTION IMAGERY AND IT’S APPLICATION TO BUSHFIRE PROTECTION IN RESIDENTIAL AREAS", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "www.mdpi.com/journal/remotesensing Article Accuracy Enhancement of ASTER Global Digital Elevation Models Using ICESat Data", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5070"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Habitat Mapping in Rugged Terrain Using Multispectral Ikonos", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5073"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Land Ecosystems and Hydrology", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5093"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Erosion Relevant Topographical Parameters Derived from Different DEMs—A Comparative Study from the Indian Lesser Himalayas", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5078"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Land Cover Classification for Snohomish County Critical Area Monitoring", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5099"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "REFINEMENT OF DIGITAL SURFACE MODELS THROUGH CONSTRAINED CONNECTIVITY PARTITIONING OF OPTICAL IMAGERY", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5086"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Processing of Façade Imagery", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5088"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "3D Face Recognition Using Photometric Stereo", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5102"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ORIENTATION OF SPOT STEREOPAIRS BY MEANS OF MATCHING A RELATIVE DEM AND THE SRTM DEM", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5089"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "islands: the REALDEMS project", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5104"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Karst Depression Detection Using ASTER, ALOS/PRISM and SRTM-Derived Digital Elevation Models in the", 
+      "ranks": 81, 
+      "docid": "citeseerx-d5091"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GEOLOGICAL MAPPING IN THE CHELEKEN PENINSULA, TURKMENISTAN AREA USING ADVANCED SPACEBORNE THERMAL EMISSION AND REFLECTION RADIOMETER (ASTER) DATA", 
+      "ranks": 84, 
+      "docid": "citeseerx-d5094"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object-based Analysis of Ikonos-2 Imagery for Extraction of Forest Inventory Parameters", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5096"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AIRBORNE AND SPACEBORNE IMAGERY FOR MAPPING 119 Airborne and Spaceborne Imagery for Mapping", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5100"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Journal of Spatial Hydrology Vol.3, No.2 Fall 2003 ASSESSMENT OF THE IMPACT OF MINING ON AGRICULTURAL LAND USING EROSION-DEPOSITION MODEL AND SPACE BORNE MULTISPECTRAL DATA", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5105"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tidal wetland classification from Landsat imagery using an integrated pixel-based and object-based classification approach. Paper presented at the ASPRS 2006 Annual Conference", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5116"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACCURACY ASSESSMENT OF RADARGRAMMETRIC DEMS DERIVED FROM RADARSAT-2 ULTRAFINE MODE", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5117"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ESTIMATION OF ECOLOGICALLY RELEVANT LAND COVER VARIABLES FROM IMAGING SPECTROSCOPY", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5107"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "leaf-on conditions with USGS Level 1 and Level 2 DEMs", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5118"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Color Constancy Problem in Multispectral Remote Sensing On the Impact of Surface Orientation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5109"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EVALUATION OF USE OF REMOTE-SENSING IMAGERY IN REFINEMENT OF GEOLOGIC MAPPING FOR SEISMIC HAZARD ZONING IN", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ORIENTATION, ORTHORECTIFICATION, DSM EXTRACTION AND 3D CITY MODELING BY CARTOSAT-1 STEREO IMAGERY: FIRST RESULTS OF A TEST OVER ROME", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5110"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "High Resolution Population Maps for Low Income Nations: Combining Land Cover and Census in East Africa", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5122"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "geo9th International Symposium on High Mountain Remote Sensing Cartography 2. General Characteristics of the Debris-Covered Glaciers at Mt.", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OBJECT-ORIENTED ANALYSIS OF REMOTE SENSING IMAGES FOR LAND COVER MAPPING: CONCEPTUAL FOUNDATIONS AND A SEGMENTATION METHOD TO DERIVE A BASELINE PARTITION FOR CLASSIFICATION", 
+      "ranks": 96, 
+      "docid": "citeseerx-d5123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Changing Regimes: Forested Land-cover Dynamics in Central Siberia 1974 to 2001", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5112"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEM GENERATION BY MEANS OF NEW DIGITAL AERIAL CAMERAS", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5124"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pines of Central Spain using QuickBird-2 Imagery and Classification and Regression Tree Analysis (CART)", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5114"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COGNITIVE APPROACHES AND OPTICAL MULTISPECTRAL DATA FOR SEMI- AUTOMATED CLASSIFICATION OF LANDFORMS IN A RUGGED MOUNTAINOUS AREA", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5125"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communication Analyzing Land Use/Land Cover Changes Using Remote Sensing and GIS in Rize, North-East Turkey", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5126"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q144"
+}

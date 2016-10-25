@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4199, 
+      "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2244"
+    }, 
+    {
+      "citeBy": 4144, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 27, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2579, 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1089"
+    }, 
+    {
+      "citeBy": 2364, 
+      "title": "Metaphors We Live By", 
+      "ranks": 23, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 2033, 
+      "title": "BLEU: a Method for Automatic Evaluation of Machine Translation", 
+      "ranks": 67, 
+      "docid": "citeseerx-d254"
+    }, 
+    {
+      "citeBy": 1937, 
+      "title": "An introduction to Kolmogorov Complexity and its Applications: Preface to the First Edition", 
+      "ranks": 98, 
+      "docid": "citeseerx-d235"
+    }, 
+    {
+      "citeBy": 1673, 
+      "title": "The C++ Programming Language", 
+      "ranks": 84, 
+      "docid": "citeseerx-d655"
+    }, 
+    {
+      "citeBy": 1626, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 57, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 1488, 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "ranks": 79, 
+      "docid": "citeseerx-d508"
+    }, 
+    {
+      "citeBy": 1434, 
+      "title": "Monads for functional programming", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1057"
+    }, 
+    {
+      "citeBy": 1420, 
+      "title": "The C Programming Language", 
+      "ranks": 89, 
+      "docid": "citeseerx-d954"
+    }, 
+    {
+      "citeBy": 1399, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 39, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 1343, 
+      "title": "Discovery of Grounded Theory", 
+      "ranks": 21, 
+      "docid": "citeseerx-d312"
+    }, 
+    {
+      "citeBy": 1312, 
+      "title": "SCOP, Structural Classification of Proteins Database: Applications to Evaluation of the Effectiveness of Sequence Alignment Methods and Statistics of Protein Structural Data", 
+      "ranks": 36, 
+      "docid": "citeseerx-d535"
+    }, 
+    {
+      "citeBy": 1255, 
+      "title": "Temporal and modal logic", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2403"
+    }, 
+    {
+      "citeBy": 1304, 
+      "title": "Tcl and the Tk Toolkit", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3552"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 18, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1240, 
+      "title": "The Generative Lexicon", 
+      "ranks": 35, 
+      "docid": "citeseerx-d606"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 29, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1230, 
+      "title": "Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions", 
+      "ranks": 95, 
+      "docid": "citeseerx-d47"
+    }, 
+    {
+      "citeBy": 1172, 
+      "title": "LIBLINEAR: A Library for Large Linear Classification", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1692"
+    }, 
+    {
+      "citeBy": 1183, 
+      "title": "The knowledge complexity of interactive proof systems", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4353"
+    }, 
+    {
+      "citeBy": 1146, 
+      "title": "The Concept of a Linguistic Variable and its Application to Approximate Reasoning", 
+      "ranks": 62, 
+      "docid": "citeseerx-d4276"
+    }, 
+    {
+      "citeBy": 1123, 
+      "title": "Base-calling of automated sequencer traces using phred. I. Accuracy Assessment", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3981"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 1105, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 74, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 1051, 
+      "title": "SRILM -- An extensible language modeling toolkit", 
+      "ranks": 25, 
+      "docid": "citeseerx-d227"
+    }, 
+    {
+      "citeBy": 1005, 
+      "title": "Comparison of parametric representations for monosyllabic word recognition in continuously spoken sentences", 
+      "ranks": 11, 
+      "docid": "citeseerx-d704"
+    }, 
+    {
+      "citeBy": 1041, 
+      "title": "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1078"
+    }, 
+    {
+      "citeBy": 950, 
+      "title": "Transactional Memory: Architectural Support for Lock-Free Data Structures", 
+      "ranks": 20, 
+      "docid": "citeseerx-d796"
+    }, 
+    {
+      "citeBy": 963, 
+      "title": "Accurate Unlexicalized Parsing", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4365"
+    }, 
+    {
+      "citeBy": 899, 
+      "title": "Scale and performance in a distributed file system", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1071"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Using collaborative filtering to weave an information tapestry", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2221"
+    }, 
+    {
+      "citeBy": 847, 
+      "title": "The CN2 Induction Algorithm", 
+      "ranks": 26, 
+      "docid": "citeseerx-d4324"
+    }, 
+    {
+      "citeBy": 864, 
+      "title": "Groupware: Some issues and experiences", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2731"
+    }, 
+    {
+      "citeBy": 835, 
+      "title": "Wait-Free Synchronization", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4343"
+    }, 
+    {
+      "citeBy": 638, 
+      "title": "Matching words and pictures", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1134"
+    }, 
+    {
+      "citeBy": 767, 
+      "title": "A Methodology for Agent-Oriented Analysis and Design", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3035"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 28, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 1, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 753, 
+      "title": "A Survey of Program Slicing Techniques", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2351"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Eye movements in reading and information processing: 20 years of research", 
+      "ranks": 8, 
+      "docid": "citeseerx-d347"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 3, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 52, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 688, 
+      "title": "Why a diagram is (sometimes) worth ten thousand words", 
+      "ranks": 12, 
+      "docid": "citeseerx-d961"
+    }, 
+    {
+      "citeBy": 730, 
+      "title": "Grouplens: Applying collaborative filtering to usenet news", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3926"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 17, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 662, 
+      "title": "Dynamic programming algorithm optimization for spoken word recognition", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2305"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "Labeling Images with a Computer Game", 
+      "ranks": 65, 
+      "docid": "citeseerx-d737"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Automatic labeling of semantic roles", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4370"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4387"
+    }, 
+    {
+      "citeBy": 682, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 56, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 37, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Stacked generalization", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2937"
+    }, 
+    {
+      "citeBy": 660, 
+      "title": "Eraser: a dynamic data race detector for multithreaded programs", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2182"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "A Transformation System for Developing Recursive Programs", 
+      "ranks": 46, 
+      "docid": "citeseerx-d4345"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "A capacity theory of comprehension: Individual differences in working memory", 
+      "ranks": 6, 
+      "docid": "citeseerx-d367"
+    }, 
+    {
+      "citeBy": 601, 
+      "title": "Sorting networks and their applications", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4266"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "From SHIQ and RDF to OWL: The Making of a Web Ontology Language", 
+      "ranks": 76, 
+      "docid": "citeseerx-d11"
+    }, 
+    {
+      "citeBy": 578, 
+      "title": "Weighted Voting for Replicated Data", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4317"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "Direct manipulation: a step beyond programming languages", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4382"
+    }, 
+    {
+      "citeBy": 571, 
+      "title": "TCP Vegas: New techniques for congestion detection and avoidance", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2735"
+    }, 
+    {
+      "citeBy": 591, 
+      "title": "Enforceable Security Policies", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4367"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 577, 
+      "title": "Implementation and performance of Munin", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4394"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Strategies of Discourse Comprehension", 
+      "ranks": 4, 
+      "docid": "citeseerx-d116"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The Cache Performance and Optimizations of Blocked Algorithms", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4363"
+    }, 
+    {
+      "citeBy": 554, 
+      "title": "As we may think", 
+      "ranks": 88, 
+      "docid": "citeseerx-d811"
+    }, 
+    {
+      "citeBy": 494, 
+      "title": "Hierarchically Classifying Documents Using Very Few Words", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4308"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 34, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "Monitors: An Operating System Structuring Concept", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4347"
+    }, 
+    {
+      "citeBy": 524, 
+      "title": "Applications Of Circumscription To Formalizing Common Sense Knowledge", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 3, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 8, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Criteria To Be Used in Decomposing Systems into Modules", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4315"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software Transactional Memory", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 33, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 37, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lattice-Based Access Control Models", 
+      "ranks": 63, 
+      "docid": "citeseerx-d675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Affective Computing", 
+      "ranks": 80, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Empirical Study of Smoothing Techniques for Language Modeling", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4398"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Google File System", 
+      "ranks": 82, 
+      "docid": "citeseerx-d640"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MapReduce: Simplified Data Processing on Large Clusters", 
+      "ranks": 83, 
+      "docid": "citeseerx-d586"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Architecture for the Internet Protocol", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 86, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A formal basis for architectural connection", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The architecture of complexity", 
+      "ranks": 88, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Toward Principles for the Design of Ontologies Used for Knowledge Sharing", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A translation approach to portable ontology specifications", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 91, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimality Theory: Constraint interaction in Generative Grammar", 
+      "ranks": 92, 
+      "docid": "citeseerx-d65"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Moses: Open Source Toolkit for Statistical Machine Translation”. ACL-2007", 
+      "ranks": 93, 
+      "docid": "citeseerx-d242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ATTENTION,  INTENTIONS,  AND THE STRUCTURE OF DISCOURSE", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The PageRank Citation Ranking: Bringing Order to the Web", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4414"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Organizations", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1791"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Maximum-Entropy-Inspired Parser", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2928"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q138"
+}

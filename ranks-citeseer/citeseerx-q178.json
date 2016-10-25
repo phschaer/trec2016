@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2633, 
+      "title": "An iterative image registration technique with an application to stereo vision", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1137"
+    }, 
+    {
+      "citeBy": 882, 
+      "title": "A Survey of Medical Image Registration", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2331"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Multimodality Image Registration by Maximization of Mutual Information", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4902"
+    }, 
+    {
+      "citeBy": 194, 
+      "title": "Numerical methods for image registration", 
+      "ranks": 5, 
+      "docid": "citeseerx-d8174"
+    }, 
+    {
+      "citeBy": 144, 
+      "title": "Consistent Image Registration", 
+      "ranks": 8, 
+      "docid": "citeseerx-d8176"
+    }, 
+    {
+      "citeBy": 147, 
+      "title": "Spline-based image registration", 
+      "ranks": 12, 
+      "docid": "citeseerx-d8180"
+    }, 
+    {
+      "citeBy": 89, 
+      "title": "Fast parametric elastic image registration", 
+      "ranks": 36, 
+      "docid": "citeseerx-d8216"
+    }, 
+    {
+      "citeBy": 83, 
+      "title": "Unifying Maximum Likelihood Approaches in Medical Image Registration", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8294"
+    }, 
+    {
+      "citeBy": 81, 
+      "title": "Incorporating Prior Knowledge Into Image Registration.", 
+      "ranks": 61, 
+      "docid": "citeseerx-d8277"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "Fundamental Performance Limits in Image Registration", 
+      "ranks": 43, 
+      "docid": "citeseerx-d8223"
+    }, 
+    {
+      "citeBy": 31, 
+      "title": "Curvature based image registration", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8228"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "An Overview of Medical Image Registration Methods", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8292"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Symmetric Image Registration", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8240"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Consistent Nonlinear Elastic Image Registration", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8245"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Multisensor Image Registration", 
+      "ranks": 40, 
+      "docid": "citeseerx-d8214"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "F.: Improved methods for image registration", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8287"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Performance bounds on image registration", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8198"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Similarity Measures for Image Registration", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8197"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Vertical Image Registration In Stereopsis", 
+      "ranks": 72, 
+      "docid": "citeseerx-d8260"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Multiresolution feature-based image registration", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8290"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "MULTISCALE IMAGE REGISTRATION", 
+      "ranks": 25, 
+      "docid": "citeseerx-d8193"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Diffusion-Tensor Image Registration", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8210"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Local image registration by adaptive filtering", 
+      "ranks": 51, 
+      "docid": "citeseerx-d8231"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Structural Image Representation for Image Registration", 
+      "ranks": 53, 
+      "docid": "citeseerx-d8234"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Cofir: Coarse and fine image registration", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8278"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Reconfigurable Image Registration on FPGA platforms", 
+      "ranks": 44, 
+      "docid": "citeseerx-d8219"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Membrane Nonrigid Image Registration", 
+      "ranks": 45, 
+      "docid": "citeseerx-d8221"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Differential Evolution for Medical Image Registration", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8280"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Numerical Methods for Image Registration", 
+      "ranks": 19, 
+      "docid": "citeseerx-d8187"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Entropy-based Image Registration", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8208"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "W.: An Introduction to Statistical Methods of Medical Image Registration", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8243"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Correcting Distortion of Image by Image Registration", 
+      "ranks": 69, 
+      "docid": "citeseerx-d8255"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Entropic graphs for image registration", 
+      "ranks": 74, 
+      "docid": "citeseerx-d8261"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "On the Source of Asymmetry in Image Registration Problems", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8282"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Measuring Ball Spin by Image Registration", 
+      "ranks": 89, 
+      "docid": "citeseerx-d8285"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "EFFICIENT IMAGE REGISTRATION WITH SUBPIXEL ACCURACY", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8295"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Depth-Based Image Registration", 
+      "ranks": 20, 
+      "docid": "citeseerx-d8188"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "On nonparametric image registration", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8195"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "GRID-BASED IMAGE REGISTRATION", 
+      "ranks": 32, 
+      "docid": "citeseerx-d8202"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Volume preserving image registration", 
+      "ranks": 38, 
+      "docid": "citeseerx-d8211"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Morphological Pyramid Image Registration", 
+      "ranks": 39, 
+      "docid": "citeseerx-d8212"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Intensity Based Nonparametric Image Registration", 
+      "ranks": 56, 
+      "docid": "citeseerx-d8236"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Mapping the problem space of image registration", 
+      "ranks": 60, 
+      "docid": "citeseerx-d8242"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "ADAPTIVE IMAGE REGISTRATION", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8250"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Differential Elastic Image Registration", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8254"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Volume-to-Image Registration", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Image Registration Techniques", 
+      "ranks": 3, 
+      "docid": "citeseerx-d280"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "image registration", 
+      "ranks": 7, 
+      "docid": "citeseerx-d8175"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image registration Evolutionary computation", 
+      "ranks": 9, 
+      "docid": "citeseerx-d8177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "with image registration", 
+      "ranks": 10, 
+      "docid": "citeseerx-d8178"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image registration", 
+      "ranks": 11, 
+      "docid": "citeseerx-d8179"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMAGE REGISTRATION RESEARCH ASSIGNMENT", 
+      "ranks": 13, 
+      "docid": "citeseerx-d8181"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TOOLS FOR DEFORMABLE IMAGE REGISTRATION", 
+      "ranks": 15, 
+      "docid": "citeseerx-d8182"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Iterative Image Registration Technique", 
+      "ranks": 16, 
+      "docid": "citeseerx-d8183"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration Techniques: An overview", 
+      "ranks": 16, 
+      "docid": "citeseerx-d8184"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration for MRI", 
+      "ranks": 17, 
+      "docid": "citeseerx-d8185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compression-based Image Registration", 
+      "ranks": 18, 
+      "docid": "citeseerx-d8186"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bibliography on Image Registration", 
+      "ranks": 21, 
+      "docid": "citeseerx-d8189"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet-Based Image Registration", 
+      "ranks": 22, 
+      "docid": "citeseerx-d8190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Image Registration In Magnetic Resonance Imaging", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8191"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Shift-map Image Registration", 
+      "ranks": 24, 
+      "docid": "citeseerx-d8192"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-Rigid Image Registration", 
+      "ranks": 27, 
+      "docid": "citeseerx-d8205"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "2006 MULTIMODALITY IMAGE REGISTRATION", 
+      "ranks": 30, 
+      "docid": "citeseerx-d8199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration: An Application of", 
+      "ranks": 30, 
+      "docid": "citeseerx-d8201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration by Differential Evolution", 
+      "ranks": 32, 
+      "docid": "citeseerx-d8203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration And Target Tracking", 
+      "ranks": 34, 
+      "docid": "citeseerx-d8207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract Symmetric Image Registration", 
+      "ranks": 42, 
+      "docid": "citeseerx-d8217"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration Based on Boundary Mapping", 
+      "ranks": 43, 
+      "docid": "citeseerx-d8220"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Elastic Image Registration with Applications to", 
+      "ranks": 46, 
+      "docid": "citeseerx-d8224"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reliable and Efficient Image Registration", 
+      "ranks": 47, 
+      "docid": "citeseerx-d8226"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study on Image Registration for Remote Sensing Images", 
+      "ranks": 48, 
+      "docid": "citeseerx-d8227"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration for Image-Based Rendering", 
+      "ranks": 50, 
+      "docid": "citeseerx-d8230"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMAGE REGISTRATION USING ROBUST CORRELATION", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SATELLITE IMAGE REGISTRATION AND IMAGE STITCHING", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Boosting Cross-Modality Image Registration", 
+      "ranks": 58, 
+      "docid": "citeseerx-d8239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Different Image Registration Methods – An Overview", 
+      "ranks": 59, 
+      "docid": "citeseerx-d8233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated Medical Image Registration . . .", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration Using Genetic Algorithms", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "„Source“ Image Registration", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8252"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distance-Intensity for Image Registration", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cores for Image Registration", 
+      "ranks": 71, 
+      "docid": "citeseerx-d8258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multimodality and Nonrigid Image Registration", 
+      "ranks": 73, 
+      "docid": "citeseerx-d8259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensorcam cameras and image registration", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Adaptive Filtering Framework For Image Registration", 
+      "ranks": 77, 
+      "docid": "citeseerx-d8264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN ADAPTIVE FILTERING FRAMEWORK FOR IMAGE REGISTRATION", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "REGRIDDING IN NONRIGID IMAGE REGISTRATION", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8267"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contributions to  Image Registration and to the . . .", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8270"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Three-dimensional image registration of . . .", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8273"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Medical Image Registration", 
+      "ranks": 83, 
+      "docid": "citeseerx-d8275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Medical Image Registration Algorithms Assesment:", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8288"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration with Local Rigidity Constraints", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image registration in high dimensional feature space", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Segmentation by surface-to-image registration", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interpolation artifacts in biomedical image registration", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8299"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Iterative point matching for registration of free-form curves and surfaces", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Shadow Resistant Direct Image Registration", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Eigenspace Approach to Multiple Image Registration", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Registration For Perspective Deformation Recovery", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8302"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q178"
+}

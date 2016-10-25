@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 10418, 
+      "title": "Maximum likelihood from incomplete data via the EM algorithm", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3128"
+    }, 
+    {
+      "citeBy": 2933, 
+      "title": "Rapid object detection using a boosted cascade of simple features", 
+      "ranks": 87, 
+      "docid": "citeseerx-d744"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "Capacity of multi-antenna Gaussian channels", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2273"
+    }, 
+    {
+      "citeBy": 1909, 
+      "title": "Space/Time Trade-offs in Hash Coding with Allowable Errors", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1020"
+    }, 
+    {
+      "citeBy": 1887, 
+      "title": "Finding structure in time", 
+      "ranks": 7, 
+      "docid": "citeseerx-d657"
+    }, 
+    {
+      "citeBy": 1915, 
+      "title": "Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4193"
+    }, 
+    {
+      "citeBy": 1694, 
+      "title": "Self-efficacy: Toward a unifying theory of behavioral change", 
+      "ranks": 48, 
+      "docid": "citeseerx-d661"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 91, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 65, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1568, 
+      "title": "Space-time codes for high data rate wireless communication: Performance criterion and code construction", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2278"
+    }, 
+    {
+      "citeBy": 1599, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 89, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 51, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1344, 
+      "title": "Self-Similarity in World Wide Web Traffic: Evidence and Possible Causes", 
+      "ranks": 76, 
+      "docid": "citeseerx-d797"
+    }, 
+    {
+      "citeBy": 1337, 
+      "title": "Wrappers for Feature Subset Selection", 
+      "ranks": 74, 
+      "docid": "citeseerx-d271"
+    }, 
+    {
+      "citeBy": 1165, 
+      "title": "Distributed Snapshots: Determining Global States of Distributed Systems", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1795"
+    }, 
+    {
+      "citeBy": 1213, 
+      "title": "Image Quality Assessment: From Error Visibility to Structural Similarity", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2291"
+    }, 
+    {
+      "citeBy": 1083, 
+      "title": "Robust Real-time Object Detection", 
+      "ranks": 13, 
+      "docid": "citeseerx-d302"
+    }, 
+    {
+      "citeBy": 1124, 
+      "title": "Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?", 
+      "ranks": 30, 
+      "docid": "citeseerx-d249"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "The broadcast storm problem in a mobile ad hoc network", 
+      "ranks": 98, 
+      "docid": "citeseerx-d3706"
+    }, 
+    {
+      "citeBy": 1045, 
+      "title": "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6451"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Shape and motion from image streams under orthography: a factorization method", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4086"
+    }, 
+    {
+      "citeBy": 1036, 
+      "title": "The Design and Implementation of a Log-Structured File System", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1090"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "The Design and Use of Steerable Filters", 
+      "ranks": 61, 
+      "docid": "citeseerx-d4444"
+    }, 
+    {
+      "citeBy": 1017, 
+      "title": "Genetic Programming", 
+      "ranks": 92, 
+      "docid": "citeseerx-d255"
+    }, 
+    {
+      "citeBy": 1014, 
+      "title": "The FERET evaluation methodology for face recognition algorithms", 
+      "ranks": 72, 
+      "docid": "citeseerx-d929"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 63, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 951, 
+      "title": "The complexity of theorem-proving procedures", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4602"
+    }, 
+    {
+      "citeBy": 917, 
+      "title": "An Optimal Algorithm for Approximate Nearest Neighbor Searching in Fixed Dimensions", 
+      "ranks": 90, 
+      "docid": "citeseerx-d248"
+    }, 
+    {
+      "citeBy": 895, 
+      "title": "On Sequential Monte Carlo Sampling Methods for Bayesian Filtering", 
+      "ranks": 56, 
+      "docid": "citeseerx-d6413"
+    }, 
+    {
+      "citeBy": 871, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 789, 
+      "title": "Consensus Problems in Networks of Agents with Switching Topology and Time-Delays", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2407"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 14, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "The part-time parliament", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1019"
+    }, 
+    {
+      "citeBy": 736, 
+      "title": "Plenoptic Modeling: An Image-Based Rendering System", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1604"
+    }, 
+    {
+      "citeBy": 726, 
+      "title": "The Cyclical Behavior of Equilibrium Unemployment and Vacancies", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4022"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Fine-grained network time synchronization using reference broadcasts", 
+      "ranks": 21, 
+      "docid": "citeseerx-d729"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "Labeling Images with a Computer Game", 
+      "ranks": 49, 
+      "docid": "citeseerx-d737"
+    }, 
+    {
+      "citeBy": 708, 
+      "title": "Empirical exchange rate models of the Seventies: do they fit out of sample?", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1029"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Indivisible labor and the business cycle", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1027"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "On the Determination of the Public Debt", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6669"
+    }, 
+    {
+      "citeBy": 705, 
+      "title": "Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level", 
+      "ranks": 95, 
+      "docid": "citeseerx-d510"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 682, 
+      "title": "Measuring individual differences in implicit cognition: The implicit association test. J Personality Social Psychol 74:1464–1480", 
+      "ranks": 44, 
+      "docid": "citeseerx-d751"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 12, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "Internet time synchronization: The network time protocol", 
+      "ranks": 5, 
+      "docid": "citeseerx-d760"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Optimization Flow Control, I: Basic Algorithm and Convergence", 
+      "ranks": 67, 
+      "docid": "citeseerx-d798"
+    }, 
+    {
+      "citeBy": 640, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 41, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 69, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Inducing Features of Random Fields", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4586"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "End-to-End Routing Behavior in the Internet", 
+      "ranks": 64, 
+      "docid": "citeseerx-d3482"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Learning to act using real-time dynamic programming", 
+      "ranks": 18, 
+      "docid": "citeseerx-d735"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Fair end-to-end window-based congestion control", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3507"
+    }, 
+    {
+      "citeBy": 611, 
+      "title": "Controlled and automatic human information processing", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1016"
+    }, 
+    {
+      "citeBy": 612, 
+      "title": "BoosTexter: A Boosting-based System for Text Categorization", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6245"
+    }, 
+    {
+      "citeBy": 606, 
+      "title": "Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment", 
+      "ranks": 75, 
+      "docid": "citeseerx-d752"
+    }, 
+    {
+      "citeBy": 586, 
+      "title": "An intrusion-detection model", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1766"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Formal Languages", 
+      "ranks": 52, 
+      "docid": "citeseerx-d547"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determining Lyapunov Exponents from a Time Series", 
+      "ranks": 0, 
+      "docid": "citeseerx-d8707"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A new approach to the economic analysis of nonstationary time series and the business cycle", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 13, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Short signatures from the Weil pairing", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Subsequence Matching in Time-Series Databases", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-time american sign language recognition using desk and wearable  computer based video", 
+      "ranks": 17, 
+      "docid": "citeseerx-d749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems", 
+      "ranks": 21, 
+      "docid": "citeseerx-d8915"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Image Registration Techniques", 
+      "ranks": 25, 
+      "docid": "citeseerx-d280"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Model of Investor Sentiment", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Framework for Dynamic Graph Drawing", 
+      "ranks": 31, 
+      "docid": "citeseerx-d317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 46, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 47, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A semantics of multiple inheritance", 
+      "ranks": 49, 
+      "docid": "citeseerx-d548"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Option Pricing: A Simplified Approach", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Maximum Entropy approach to Natural Language Processing", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4676"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A density-based algorithm for discovering clusters in large spatial databases with noise", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 60, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 68, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A model of growth through creative destruction", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1046"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Signal Processing Approach To Fair Surface Design", 
+      "ranks": 72, 
+      "docid": "citeseerx-d449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Tutorial on Visual Servo Control", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cyberguide: A Mobile Context-Aware Tour Guide", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Extension of the Kalman Filter to Nonlinear Systems", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling TCP Throughput: A Simple Model and its Empirical Validation", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4650"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3658"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 82, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A contribution to the empirics of economic growth", 
+      "ranks": 83, 
+      "docid": "citeseerx-d745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-Area Traffic: The Failure of Poisson Modeling", 
+      "ranks": 86, 
+      "docid": "citeseerx-d810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 87, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rules, discretion, and reputation in a model of monetary policy", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using Linear Algebra for Intelligent Information Retrieval", 
+      "ranks": 90, 
+      "docid": "citeseerx-d733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 91, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "How to leak a secret", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parameterized Complexity", 
+      "ranks": 97, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Kind of Science", 
+      "ranks": 98, 
+      "docid": "citeseerx-d778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Conceptual Framework and a Toolkit for Supporting the Rapid Prototyping of Context-Aware Applications", 
+      "ranks": 99, 
+      "docid": "citeseerx-d561"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q186"
+}

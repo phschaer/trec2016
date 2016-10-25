@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2960, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 55, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 2628, 
+      "title": "Congestion Avoidance and Control", 
+      "ranks": 34, 
+      "docid": "citeseerx-d767"
+    }, 
+    {
+      "citeBy": 2434, 
+      "title": "Economic Action and Social Structure: The Problem of Embeddedness", 
+      "ranks": 10, 
+      "docid": "citeseerx-d718"
+    }, 
+    {
+      "citeBy": 2357, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 28, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 2297, 
+      "title": "Increasing Returns and Long-Run Growth", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3461"
+    }, 
+    {
+      "citeBy": 1793, 
+      "title": "A simple transmit diversity technique for wireless communications", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1059"
+    }, 
+    {
+      "citeBy": 1726, 
+      "title": "Agency costs of free cash flow, corporate finance and takeovers", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2286"
+    }, 
+    {
+      "citeBy": 1452, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 35, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 32, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 11, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 40, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 52, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 868, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 12, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Context-Aware Computing Applications", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1074"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 36, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 39, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 855, 
+      "title": "Overview of the H.264/AVC Video Coding Standard", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2302"
+    }, 
+    {
+      "citeBy": 818, 
+      "title": "The Structure of Foreign Trade", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2281"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "The part-time parliament", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1019"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 1, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 762, 
+      "title": "Design and Evaluation of a Wide-Area Event Notification Service", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1079"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Expectations and Exchange Rates Dynamics", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2294"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 59, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Above the Clouds: A Berkeley View of Cloud Computing", 
+      "ranks": 47, 
+      "docid": "citeseerx-d349"
+    }, 
+    {
+      "citeBy": 642, 
+      "title": "The Capital Structure Puzzle", 
+      "ranks": 24, 
+      "docid": "citeseerx-d753"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Financial Intermediation and Growth: Causality and Causes", 
+      "ranks": 23, 
+      "docid": "citeseerx-d489"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "Algorithmic mechanism design", 
+      "ranks": 51, 
+      "docid": "citeseerx-d516"
+    }, 
+    {
+      "citeBy": 621, 
+      "title": "Linked Data -- The story so far", 
+      "ranks": 31, 
+      "docid": "citeseerx-d15"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 33, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Do Domestic Firms Benefit from Direct Foreign Investment? Evidence from Venezuela", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4553"
+    }, 
+    {
+      "citeBy": 615, 
+      "title": "The Strength of Weak Ties: A Network Theory Revisited", 
+      "ranks": 37, 
+      "docid": "citeseerx-d764"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "The Economics of Immigration", 
+      "ranks": 21, 
+      "docid": "citeseerx-d746"
+    }, 
+    {
+      "citeBy": 545, 
+      "title": "User Cooperation Diversity - Part I: System Description", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6085"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Wireless mesh networks: a survey", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2343"
+    }, 
+    {
+      "citeBy": 587, 
+      "title": "OpenFlow: Enabling Innovation in Campus Networks", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4606"
+    }, 
+    {
+      "citeBy": 578, 
+      "title": "Social Network Sites: A Definition A History of Social Network Sites Previous Scholarship", 
+      "ranks": 29, 
+      "docid": "citeseerx-d553"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Semantic matching of web services capabilities", 
+      "ranks": 15, 
+      "docid": "citeseerx-d71"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Finance and the sources of growth", 
+      "ranks": 41, 
+      "docid": "citeseerx-d6078"
+    }, 
+    {
+      "citeBy": 539, 
+      "title": "Estimating Wealth Effects without Expenditure Data— or Tears", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6098"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Human-Computer Interaction", 
+      "ranks": 53, 
+      "docid": "citeseerx-d340"
+    }, 
+    {
+      "citeBy": 527, 
+      "title": "Managing Energy and Server Resources in Hosting Centers", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5182"
+    }, 
+    {
+      "citeBy": 510, 
+      "title": "Coda: A Highly Available File System for a Distributed Workstation Environment", 
+      "ranks": 44, 
+      "docid": "citeseerx-d6061"
+    }, 
+    {
+      "citeBy": 497, 
+      "title": "Anonymous usage of location-based services through spatial and temporal cloaking", 
+      "ranks": 61, 
+      "docid": "citeseerx-d6096"
+    }, 
+    {
+      "citeBy": 481, 
+      "title": "A Roadmap of Agent Research and Development", 
+      "ranks": 62, 
+      "docid": "citeseerx-d90"
+    }, 
+    {
+      "citeBy": 472, 
+      "title": "Towards an Active Network Architecture", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4904"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Rehag, “Statistical color models with application to skin detection,’’ Intl", 
+      "ranks": 63, 
+      "docid": "citeseerx-d3499"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 71, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 434, 
+      "title": "Knowledge Discovery in Databases: an Overview", 
+      "ranks": 77, 
+      "docid": "citeseerx-d6090"
+    }, 
+    {
+      "citeBy": 426, 
+      "title": "PAMAS -- Power Aware Multi-Access protocol with Signalling for Ad Hoc Networks", 
+      "ranks": 82, 
+      "docid": "citeseerx-d6102"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 419, 
+      "title": "Tamper Resistance -- a Cautionary Note", 
+      "ranks": 86, 
+      "docid": "citeseerx-d6104"
+    }, 
+    {
+      "citeBy": 408, 
+      "title": "Intercepting Mobile Communications: The Insecurity of 802.11", 
+      "ranks": 67, 
+      "docid": "citeseerx-d6071"
+    }, 
+    {
+      "citeBy": 406, 
+      "title": "Spectrum Auctions", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6131"
+    }, 
+    {
+      "citeBy": 401, 
+      "title": "Developing a Context-aware Electronic Tourist Guide: Some Issues and Experiences", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6115"
+    }, 
+    {
+      "citeBy": 396, 
+      "title": "Social Networks and Labor-Market Outcomes: Towards an Economic Analysis", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2680"
+    }, 
+    {
+      "citeBy": 397, 
+      "title": "Limits of instruction-level parallelism", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1803"
+    }, 
+    {
+      "citeBy": 395, 
+      "title": "Applications of Intelligent Agents", 
+      "ranks": 99, 
+      "docid": "citeseerx-d127"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "No Contagion, Only Interdependence: Measuring Stock Market Co-Movements", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2414"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Contribution to Theory Building for Mobile Marketing: Categorizing Mobile Marketing Campaigns through Case Study Research", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6067"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "CONSUMER RESPONSIVENESS TO MOBILE MARKETING", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6022"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Diffusion and success factors of mobile marketing", 
+      "ranks": 20, 
+      "docid": "citeseerx-d6033"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Advertising or Mobile Marketing.", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6019"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Marketing: From Marketing Strategy to Mobile Marketing Campaign Implementation", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MOBILE MARKETING: IMPLICATIONS FOR MARKETING STRATEGIES", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 CONSUMER RESPONSIVENESS TO MOBILE MARKETING", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6028"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Preview of the Mobile Marketing Research by", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6060"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 14, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 17, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 18, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 38, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 40, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantile Regression", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1085"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reality Mining: Sensing Complex Social Systems", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2411"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Games and decisions", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The market for corporate control: The scientific evidence", 
+      "ranks": 59, 
+      "docid": "citeseerx-d6075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Agents: Are They a Good Idea?", 
+      "ranks": 60, 
+      "docid": "citeseerx-d832"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Auction Theory: A Guide to the Literature", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1874"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MOBILE MARKETING USING A LOCATION BASED", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6088"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Contribution to Theory Building for Mobile Marketing: Categorizing Mobile Marketing Campaigns through Case Study Research", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Amfiteatru Economic 786 INSIGHTS INTO THE DEVELOPMENT OF THE MARKET OF MOBILE MARKETING SERVICES IN ROMANIA", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6073"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Extending TAM: Success factors of Mobile Marketing Xing Who", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6100"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance Measurement of Mobile Marketing in Multi-Channel Environments", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6081"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Effects of Regulatory Policy on Market Structure and Performance in OECD Mobile Markets", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6105"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Different Market Structures: the Tunisian Mobile Market Case", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6109"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Driving Consumer Acceptance of Mobile Marketing: A Theoretical Framework and Empirical", 
+      "ranks": 82, 
+      "docid": "citeseerx-d6112"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Integrated Architecture for Enhanced Structuring of Mobile Market Place", 
+      "ranks": 83, 
+      "docid": "citeseerx-d6083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile marketing of the Brazilian Tourist Board: Case study of Brazil Mobile application", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6117"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FROM CELL PHONE TO “SELL ” PHONE: HIRING THE BEST MOBILE MARKETERS", 
+      "ranks": 87, 
+      "docid": "citeseerx-d6120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Brand Personality and Mobile Marketing: An Empirical Investigation", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6124"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Bundle of Multimedia Services in Emerging Mobile Markets (*)", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6126"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Bundle of Multimedia Services in Emerging Mobile Markets (*)", 
+      "ranks": 92, 
+      "docid": "citeseerx-d6127"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kasbah: An Agent Marketplace for Buying and Selling Goods", 
+      "ranks": 93, 
+      "docid": "citeseerx-d6129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Competition in the Mobile Market, Subsidies and Collusion", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Innovation Characteristics, Perceived Risk, Permissibility and Trustworthiness in the Adoption of Mobile Marketing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6094"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software agents: An overview", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1369"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Power Analysis of Embedded Software: A First Step towards Software Power Minimization", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6134"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Effect of Brand Extension Strategies upon Brand Image in the Mobile Market", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6136"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q152"
+}

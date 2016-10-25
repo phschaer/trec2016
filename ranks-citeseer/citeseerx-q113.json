@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 3, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 15, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1366, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 5, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 1303, 
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms", 
+      "ranks": 7, 
+      "docid": "citeseerx-d686"
+    }, 
+    {
+      "citeBy": 999, 
+      "title": "Accurate Methods for the Statistics of Surprise and Coincidence", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1790"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 1, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 947, 
+      "title": "Abstraction in perceptual symbol systems", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1787"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 19, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 11, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 4, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 12, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 532, 
+      "title": "Sensor networks: Evolution, opportunities, and challenges", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1794"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 8, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Scale-Space Theory in Computer Vision", 
+      "ranks": 18, 
+      "docid": "citeseerx-d681"
+    }, 
+    {
+      "citeBy": 529, 
+      "title": "Understanding Normal and Impaired Word Reading: Computational Principles in Quasi-Regular Domains", 
+      "ranks": 6, 
+      "docid": "citeseerx-d362"
+    }, 
+    {
+      "citeBy": 528, 
+      "title": "Analysis, Modeling and Generation of Self-Similar VBR Video Traffic", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1793"
+    }, 
+    {
+      "citeBy": 493, 
+      "title": "Formalising trust as a computational concept", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1799"
+    }, 
+    {
+      "citeBy": 485, 
+      "title": "The Structure-Mapping Engine: Algorithm and Examples", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1800"
+    }, 
+    {
+      "citeBy": 478, 
+      "title": "Community detection in graphs", 
+      "ranks": 21, 
+      "docid": "citeseerx-d571"
+    }, 
+    {
+      "citeBy": 474, 
+      "title": "Halfa century of research on the Stroop effect: An integrative review", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1805"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Verb Semantics And Lexical Selection", 
+      "ranks": 25, 
+      "docid": "citeseerx-d160"
+    }, 
+    {
+      "citeBy": 455, 
+      "title": "Defining Virtual Reality: Dimensions Determining Telepresence", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1802"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 27, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 397, 
+      "title": "Limits of instruction-level parallelism", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1803"
+    }, 
+    {
+      "citeBy": 387, 
+      "title": "Informed Prefetching and Caching", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1809"
+    }, 
+    {
+      "citeBy": 382, 
+      "title": "Forward models: Supervised learning with a distal teacher", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1813"
+    }, 
+    {
+      "citeBy": 381, 
+      "title": "The Ensemble Kalman Filter: theoretical formulation And Practical Implementation", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1355"
+    }, 
+    {
+      "citeBy": 368, 
+      "title": "The Lumière Project: Bayesian User Modeling for Inferring the Goals and Needs of Software Users", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1810"
+    }, 
+    {
+      "citeBy": 352, 
+      "title": "Fading Channels: Information-Theoretic And Communications Aspects", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1818"
+    }, 
+    {
+      "citeBy": 351, 
+      "title": "A land use and land cover classification system for use with remote sensor data", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1374"
+    }, 
+    {
+      "citeBy": 339, 
+      "title": "Libckpt: Transparent Checkpointing under Unix", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1820"
+    }, 
+    {
+      "citeBy": 326, 
+      "title": "Natural language and natural selection", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1377"
+    }, 
+    {
+      "citeBy": 322, 
+      "title": "Instrumenting the world with wireless sensor networks,” ICASSP", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1816"
+    }, 
+    {
+      "citeBy": 315, 
+      "title": "Multimedia Watermarking Techniques", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1824"
+    }, 
+    {
+      "citeBy": 305, 
+      "title": "A neuropsychological theory of multiple systems in category learning", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1831"
+    }, 
+    {
+      "citeBy": 298, 
+      "title": "Functional Phonology -- Formalizing the interactions between articulatory and perceptual drives", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1827"
+    }, 
+    {
+      "citeBy": 290, 
+      "title": "The Practice of Management", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1864"
+    }, 
+    {
+      "citeBy": 288, 
+      "title": "Directed Sonar Sensing for Mobile Robot Navigation", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1833"
+    }, 
+    {
+      "citeBy": 286, 
+      "title": "The political blogosphere and the 2004 U.S. election: Divided they blog", 
+      "ranks": 50, 
+      "docid": "citeseerx-d42"
+    }, 
+    {
+      "citeBy": 283, 
+      "title": "Topic Detection and Tracking Pilot Study Final Report", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1842"
+    }, 
+    {
+      "citeBy": 281, 
+      "title": "The motor theory of speech perception revised", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1844"
+    }, 
+    {
+      "citeBy": 275, 
+      "title": "Underwater Acoustic Sensor Networks: Research Challenges", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1392"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "An Environment for Merging and Testing Large Ontologies", 
+      "ranks": 57, 
+      "docid": "citeseerx-d132"
+    }, 
+    {
+      "citeBy": 266, 
+      "title": "Development and Validation of a Genetic  Algorithm for Flexible Docking", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1859"
+    }, 
+    {
+      "citeBy": 266, 
+      "title": "SELECTION AND INFORMATION: A CLASS-BASED APPROACH TO LEXICAL RELATIONSHIPS", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1843"
+    }, 
+    {
+      "citeBy": 263, 
+      "title": "Content-based multimedia information retrieval: State of the art and challenges", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1901"
+    }, 
+    {
+      "citeBy": 260, 
+      "title": "3-D Sound for Virtual Reality and Multimedia", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1387"
+    }, 
+    {
+      "citeBy": 259, 
+      "title": "Dialogue act modeling for automatic tagging and recognition of conversational speech", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1861"
+    }, 
+    {
+      "citeBy": 256, 
+      "title": "The Design Space of Wireless Sensor Networks", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1846"
+    }, 
+    {
+      "citeBy": 251, 
+      "title": "Fidelity and yield in a volcano monitoring sensor network", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1856"
+    }, 
+    {
+      "citeBy": 252, 
+      "title": "Content-based classification, search, and retrieval of audio", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1841"
+    }, 
+    {
+      "citeBy": 251, 
+      "title": "Outline of a Theory of Intelligence", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1851"
+    }, 
+    {
+      "citeBy": 250, 
+      "title": "A line in the sand: A wireless sensor network for target detection, classification, and tracking", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1849"
+    }, 
+    {
+      "citeBy": 246, 
+      "title": "Time Synchronization in Wireless Sensor Networks", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1835"
+    }, 
+    {
+      "citeBy": 237, 
+      "title": "Traffic and related self-driven many-particle systems", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1438"
+    }, 
+    {
+      "citeBy": 233, 
+      "title": "Lessons From A Sensor Network Expedition", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1848"
+    }, 
+    {
+      "citeBy": 227, 
+      "title": "Building Secure and Reliable Network Applications", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1828"
+    }, 
+    {
+      "citeBy": 224, 
+      "title": "Using Collaborative Plans to Model the Intentional Structure of Discourse", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1863"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "Transactional memory coherence and consistency", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1873"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "Adaptive Filtering and Change Detection", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1895"
+    }, 
+    {
+      "citeBy": 219, 
+      "title": "Junctional complexes in various epithelia", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1860"
+    }, 
+    {
+      "citeBy": 211, 
+      "title": "Deploying a wireless sensor network on an active volcano", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1868"
+    }, 
+    {
+      "citeBy": 188, 
+      "title": "Habitat Monitoring with Sensor Networks", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1865"
+    }, 
+    {
+      "citeBy": 187, 
+      "title": "Wireless Sensor Networks: A New Regime for Time Synchronization", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1886"
+    }, 
+    {
+      "citeBy": 122, 
+      "title": "The WHOI micro-modem: an acoustic communications and navigation system for multiple platforms", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1878"
+    }, 
+    {
+      "citeBy": 101, 
+      "title": "Proakis,“Underwater acoustic networks", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1798"
+    }, 
+    {
+      "citeBy": 75, 
+      "title": "Challenges for Efficient Communication in Underwater Acoustic Sensor Networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1881"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Statistical characterization and capacity of shallow water acoustic channels", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1869"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Design of networking protocols for shallow water peer-to-peer acoustic networks", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1821"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "UNDERWATER ACOUSTIC COMMUNICATIONS IN WARM SHALLOW WATER CHANNELS", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A shallow water acoustic network for mine countermeasures operations with autonomous underwater vehicles", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Games and decisions", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Shallow-Water Acoustics Extracting", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1811"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evolutionary Algorithms for Multiobjective Optimization: Methods and Applications", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An analysis of a large scale habitat monitoring application", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "shallow", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1823"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "acoustic", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Users&apos; Guide for the Harwell-Boeing Sparse Matrix Collection (Release I)", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1850"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "shallow", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1852"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "shallow", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1853"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "shallow", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1854"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigation of advanced algorithms for acoustic communication in shallow water", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1830"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Range Estimation Using Acoustic and Multimodal Sensing", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Acoustic Propagation Prediction in Shallow Water", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1858"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACOUSTICAL METHODS FOR THE MONITORING OF THE MARINE ENVIRONMENT WITH APPLICATIONS TO SHALLOW WATER", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in shallow water", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1866"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Locating the Nodes -- Cooperative localization in wireless sensor networks", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1870"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Acoustics", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1871"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software-Driven Sensor Networks for Short-Range Shallow Water Applications", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Explanation-Driven Case-Based Reasoning", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1880"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A SHALLOW WATER OCEAN ACOUSTICS INVERSE PROBLEM", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Networking Protocol for Underwater Acoustic Networks", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1887"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Capacity of MIMO systems in shallow water acoustic channels", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1890"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating Snapping Shrimp Noise in Warm Shallow Water", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1891"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Underwater Acoustic Networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1893"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scintillating Shallow-Water Waveguides", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1896"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Acoustics", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1900"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design of a Wireless Sensor Network Platform for Detecting Rare, Random, and Ephemeral Events", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1903"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q113"
+}

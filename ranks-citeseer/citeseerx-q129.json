@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 5031, 
+      "title": "Reinforcement Learning I: Introduction", 
+      "ranks": 37, 
+      "docid": "citeseerx-d267"
+    }, 
+    {
+      "citeBy": 3393, 
+      "title": "Graph-based algorithms for Boolean function manipulation", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1055"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2983, 
+      "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations", 
+      "ranks": 86, 
+      "docid": "citeseerx-d587"
+    }, 
+    {
+      "citeBy": 2558, 
+      "title": "Online Learning with Kernels", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1801"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 96, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 1981, 
+      "title": "Term-weighting approaches in automatic text retrieval", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3581"
+    }, 
+    {
+      "citeBy": 1998, 
+      "title": "Pastry: Scalable, distributed object location and routing for large-scale peer-to-peer systems", 
+      "ranks": 84, 
+      "docid": "citeseerx-d3481"
+    }, 
+    {
+      "citeBy": 1845, 
+      "title": "RADAR: an in-building RF-based user location and tracking system", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3451"
+    }, 
+    {
+      "citeBy": 1666, 
+      "title": "A training algorithm for optimal margin classifiers", 
+      "ranks": 30, 
+      "docid": "citeseerx-d239"
+    }, 
+    {
+      "citeBy": 1552, 
+      "title": "The theory of planned behavior", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3429"
+    }, 
+    {
+      "citeBy": 1448, 
+      "title": "The model checker SPIN", 
+      "ranks": 38, 
+      "docid": "citeseerx-d763"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 31, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 1329, 
+      "title": "Automatic verification of finite-state concurrent systems using temporal logic specifications", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3584"
+    }, 
+    {
+      "citeBy": 651, 
+      "title": "An Integrated Experimental Environment for Distributed Systems and Networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d582"
+    }, 
+    {
+      "citeBy": 1219, 
+      "title": "Analysis of relative gene expression data using real-time quantitative", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3598"
+    }, 
+    {
+      "citeBy": 1156, 
+      "title": "Optimizing Search Engines using Clickthrough Data", 
+      "ranks": 91, 
+      "docid": "citeseerx-d238"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 78, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Tor: The Second-Generation Onion Router", 
+      "ranks": 61, 
+      "docid": "citeseerx-d787"
+    }, 
+    {
+      "citeBy": 1051, 
+      "title": "SRILM -- An extensible language modeling toolkit", 
+      "ranks": 28, 
+      "docid": "citeseerx-d227"
+    }, 
+    {
+      "citeBy": 1064, 
+      "title": "Active Contours without Edges", 
+      "ranks": 80, 
+      "docid": "citeseerx-d3634"
+    }, 
+    {
+      "citeBy": 964, 
+      "title": "Efficiently computing static single assignment form and the control dependence graph", 
+      "ranks": 8, 
+      "docid": "citeseerx-d3571"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Planning and acting in partially observable stochastic domains", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3550"
+    }, 
+    {
+      "citeBy": 990, 
+      "title": "Myrinet: A Gigabit-per-Second Local Area Network", 
+      "ranks": 19, 
+      "docid": "citeseerx-d3445"
+    }, 
+    {
+      "citeBy": 977, 
+      "title": "Using information content to evaluate semantic similarity in a taxonomy", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2991"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 39, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 937, 
+      "title": "The program dependence graph and its use in optimization", 
+      "ranks": 15, 
+      "docid": "citeseerx-d234"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "Versatile Low Power Media Access for Wireless Sensor Networks", 
+      "ranks": 69, 
+      "docid": "citeseerx-d314"
+    }, 
+    {
+      "citeBy": 814, 
+      "title": "Equation-based congestion control for unicast applications", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1081"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "A Tutorial on Visual Servo Control", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3567"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "A comparison of mechanisms for improving TCP performance over wireless links", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3494"
+    }, 
+    {
+      "citeBy": 845, 
+      "title": "Boosting the margin: A new explanation for the effectiveness of voting methods", 
+      "ranks": 60, 
+      "docid": "citeseerx-d3616"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Counterexample-guided Abstraction Refinement", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3580"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 43, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 51, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 36, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Optimization Flow Control, I: Basic Algorithm and Convergence", 
+      "ranks": 7, 
+      "docid": "citeseerx-d798"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Domain names - Implementation and Specification", 
+      "ranks": 17, 
+      "docid": "citeseerx-d3576"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "Topology Control of Multihop Wireless Networks using Transmit Power Adjustment", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1100"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Scalable Application Layer Multicast", 
+      "ranks": 50, 
+      "docid": "citeseerx-d3538"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 55, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 685, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "Illusion and well-being: A social psychological perspective on mental health", 
+      "ranks": 87, 
+      "docid": "citeseerx-d3430"
+    }, 
+    {
+      "citeBy": 662, 
+      "title": "Dynamic programming algorithm optimization for spoken word recognition", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2305"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Telos: enabling ultra-low power wireless research", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3574"
+    }, 
+    {
+      "citeBy": 656, 
+      "title": "Identification of Prokaryotic and Eukaryotic Signal Peptides and Prediction of Their Cleavage Sites", 
+      "ranks": 92, 
+      "docid": "citeseerx-d956"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Virtual clock: A new traffic control algorithm for packet switching networks", 
+      "ranks": 10, 
+      "docid": "citeseerx-d3040"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Medium Access Control with Coordinated Adaptive Sleeping for Wireless Sensor Networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1048"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Good Error-Correcting Codes based on Very Sparse Matrices", 
+      "ranks": 59, 
+      "docid": "citeseerx-d282"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 94, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 570, 
+      "title": "Behavior-based Formation Control for Multi-robot Teams", 
+      "ranks": 9, 
+      "docid": "citeseerx-d3573"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Distributional Clustering Of English Words", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2420"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "An evaluation of statistical approaches to text categorization", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3566"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "GOLOG: A Logic Programming Language for Dynamic Domains", 
+      "ranks": 75, 
+      "docid": "citeseerx-d55"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Extended Static Checking for Java", 
+      "ranks": 52, 
+      "docid": "citeseerx-d3605"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "GloMoSim: A Library for Parallel Simulation of Large-scale Wireless Networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3561"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Free Riding on Gnutella", 
+      "ranks": 33, 
+      "docid": "citeseerx-d812"
+    }, 
+    {
+      "citeBy": 571, 
+      "title": "TCP Vegas: New techniques for congestion detection and avoidance", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2735"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "A blueprint for introducing disruptive technology into the internet", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3521"
+    }, 
+    {
+      "citeBy": 570, 
+      "title": "Software pipelining: An effective scheduling technique for VLIW machines", 
+      "ranks": 93, 
+      "docid": "citeseerx-d273"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Multiscalar Processors", 
+      "ranks": 68, 
+      "docid": "citeseerx-d3523"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 63, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "Access path selection in a relational database management system", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Controlled and automatic human information processing", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1016"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 9, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Z-Tree: Zurich Toolbox for Readymade Economic Experiments, Working paper No", 
+      "ranks": 11, 
+      "docid": "citeseerx-d546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Controlled and automatic human information processing: II. Perceptual learning, automatic attending and a general theory", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1017"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Advances in Prospect Theory: Cumulative Representation of Uncertainty", 
+      "ranks": 29, 
+      "docid": "citeseerx-d3591"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 37, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The particel swarm: Explosion, stability, and convergence in a multidimensional complex space [J", 
+      "ranks": 42, 
+      "docid": "citeseerx-d266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Spectral Clustering: Analysis and an algorithm", 
+      "ranks": 43, 
+      "docid": "citeseerx-d3608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Graph Cuts for Optimal Boundary &amp; Region Segmentation of Objects in N-D Images", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generic Schema Matching with Cupid", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 52, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Infinite Hidden Markov Model", 
+      "ranks": 62, 
+      "docid": "citeseerx-d3627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geodesic Active Contours", 
+      "ranks": 65, 
+      "docid": "citeseerx-d3631"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A density-based algorithm for discovering clusters in large spatial databases with noise", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Boosting Algorithms Using Confidence-rated Predictions", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3636"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CURE: An Efficient Clustering Algorithm for Large Data sets", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Self-similar Nature of Ethernet Traffic (Extended Version)", 
+      "ranks": 72, 
+      "docid": "citeseerx-d800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Active Badge Location System", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 85, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Architecture for Wide-Area Multicast Routing", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3655"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiresolution grayscale and rotation invariant texture classification with local binary patterns", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1836"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pastry: Scalable, decentralized object location, and routing for large-scale peer-to-peer systems", 
+      "ranks": 88, 
+      "docid": "citeseerx-d3489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 89, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3658"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Stacked generalization", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2937"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Energy-Efficient MAC Protocol for Wireless Sensor Networks", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 93, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet Protocol", 
+      "ranks": 95, 
+      "docid": "citeseerx-d3518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPS-less Low Cost Outdoor Localization For Very Small Devices", 
+      "ranks": 96, 
+      "docid": "citeseerx-d784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hierarchical Models of Object Recognition in Cortex", 
+      "ranks": 97, 
+      "docid": "citeseerx-d3661"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment", 
+      "ranks": 98, 
+      "docid": "citeseerx-d752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1651"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q129"
+}

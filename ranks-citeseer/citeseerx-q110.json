@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 3, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 1, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2441, 
+      "title": "Endogenous technological change", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1352"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 5, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 2, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models, exponential families, and variational inference", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1023"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "The PASCAL Visual Object Classes (VOC) challenge", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1188"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Human-Computer Interaction", 
+      "ranks": 8, 
+      "docid": "citeseerx-d340"
+    }, 
+    {
+      "citeBy": 503, 
+      "title": "The quadtree and related hierarchical data structures", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1026"
+    }, 
+    {
+      "citeBy": 471, 
+      "title": "Strategies of Discourse Comprehension", 
+      "ranks": 11, 
+      "docid": "citeseerx-d116"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 12, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 380, 
+      "title": "Software agents: An overview", 
+      "ranks": 15, 
+      "docid": "citeseerx-d1369"
+    }, 
+    {
+      "citeBy": 366, 
+      "title": "Analogical Mapping by Constraint Satisfaction", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1371"
+    }, 
+    {
+      "citeBy": 356, 
+      "title": "Evolution of networks", 
+      "ranks": 13, 
+      "docid": "citeseerx-d1365"
+    }, 
+    {
+      "citeBy": 359, 
+      "title": "Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution. The Quarterly", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1380"
+    }, 
+    {
+      "citeBy": 351, 
+      "title": "Survey of clustering data mining techniques", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1373"
+    }, 
+    {
+      "citeBy": 351, 
+      "title": "A land use and land cover classification system for use with remote sensor data", 
+      "ranks": 19, 
+      "docid": "citeseerx-d1374"
+    }, 
+    {
+      "citeBy": 326, 
+      "title": "Natural language and natural selection", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1377"
+    }, 
+    {
+      "citeBy": 275, 
+      "title": "Underwater Acoustic Sensor Networks: Research Challenges", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1392"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "Active learning literature survey", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1509"
+    }, 
+    {
+      "citeBy": 260, 
+      "title": "3-D Sound for Virtual Reality and Multimedia", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1387"
+    }, 
+    {
+      "citeBy": 254, 
+      "title": "Communication in reactive multiagent robotic systems", 
+      "ranks": 28, 
+      "docid": "citeseerx-d1391"
+    }, 
+    {
+      "citeBy": 250, 
+      "title": "United Nations Framework Convention on Climate Change. Convention on climate change. http://www.unfccc.de/resource/conv/index.html UNFCCC", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1413"
+    }, 
+    {
+      "citeBy": 245, 
+      "title": "The Economist as Engineer: Game Theory, Experimentation, and Computation as Tools for Design Economics", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1411"
+    }, 
+    {
+      "citeBy": 237, 
+      "title": "Traffic and related self-driven many-particle systems", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1438"
+    }, 
+    {
+      "citeBy": 209, 
+      "title": "Observational evidence of recent change in the northern high-latitude environment", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1526"
+    }, 
+    {
+      "citeBy": 190, 
+      "title": "Clustering with instance-level constraints", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1429"
+    }, 
+    {
+      "citeBy": 183, 
+      "title": "D: A LANGUAGE FRAMEWORK FOR DISTRIBUTED PROGRAMMING", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1425"
+    }, 
+    {
+      "citeBy": 164, 
+      "title": "ObjectOriented Reengineering Patterns", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1530"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Document Classification with Unsupervised Artificial Neural Networks", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1448"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Review The Use of Artificial Neural Networks for Identifying Sustainable", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1406"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Natural Object Classification Using Artificial Neural Networks", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1421"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "State of the Art of Artificial Neural Networks in Geotechnical Engineering", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1452"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "ESTIMATING POINT-SOURCE IMPACTS ON THE BEAUFORT RIVER USING ARTIFICIAL NEURAL NETWORK MODELS", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1427"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Applying artificial neural networks to business, economics and finance. Working Paper nr", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Games and decisions", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1358"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chebyshev and Fourier Spectral Methods", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Complex networks: Structure and dynamics", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1376"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pattern Recognition of Kedah River Water Quality Data by Implementation of Principal Component Analysis", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1379"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Neural networks for the prediction and forecasting of water . . .", 
+      "ranks": 22, 
+      "docid": "citeseerx-d1382"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "artificial neural networks", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1389"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN ARTIFICIAL NEURAL NETWORK MODEL FOR PREDICTING LONGITUDINAL DISPERSION COEFFICIENTS IN RIVERS", 
+      "ranks": 30, 
+      "docid": "citeseerx-d1396"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PRINCIPAL COMPONENT ANALYSIS – ENGINEERING APPLICATIONS Edited by Parinya SanguansatPrincipal Component Analysis – Engineering Applications", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1398"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Neural Networks for Scene Analysis", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of Satellite Images using Artificial Neural Network", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1402"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial neural network ensembles and their application in pooled flood frequency analysis", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1404"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LANDSAT - TM Image Classification Using Principal Components Analysis and Neural Networks", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1394"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network Optimization: Continuous and Discrete Models, Athena Scientific", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Neural Networks Modeling in Water Resources Engineering: Infrastructure and Applications", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimization Of The Water Use In The River Damodar In West Bengal In India: An Integrated Multi-Reservoir System With The Help Of Artificial Neural Network", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1409"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sodium Adsorption Ratio (SAR) Prediction of the Chalghazi River Using Artificial Neural Network (ANN) Iran", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1415"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ESTIMATION OF BIOLOGICAL OXYGEN DEMAND USING ARTIFICIAL NEURAL NETWORK", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1419"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "River Water Quality Modeling Using Combined Principle Component Analysis (PCA) and Multiple Linear Regressions (MLR): A Case Study at Klang River, Malaysia", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANALYSIS AND NEURAL NETWORKS by", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1445"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Scientist Water &amp; Environment", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multivariate modelling of water resources time series using artificial neural networks", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1417"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEVELOPMENT OF ARAB WATER SUSTAINABILITY INDEX USING PRINCIPAL COMPONENT ANALYSIS", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Water Quality Component.......................................................................................................................... 9 Statistical Evaluation.....................................................................................", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rainfall Forecasting in the Tiber River Basin using a Predictor based on Singular Spectrum Analysis and Neural Networks", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1430"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Engineer", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pattern Classification and Prediction of Water Quality by Neural Network with Particle Swarm Optimization *", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1436"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "water quality", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1462"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Water Quality Analysis for the Heartland Inventory and", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1463"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hydrology Days 2007 © Hydrology Days Stochastic modeling of Karasu River (Turkey) using the meth- ods of Artificial Neural Networks", 
+      "ranks": 65, 
+      "docid": "citeseerx-d1441"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Investigators", 
+      "ranks": 66, 
+      "docid": "citeseerx-d1467"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "River flow time series prediction with a range-dependent neural network", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Water Demand Prediction using Artificial Neural Networks and Support Vector Regression", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1471"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Authors", 
+      "ranks": 69, 
+      "docid": "citeseerx-d1473"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Investigator:", 
+      "ranks": 70, 
+      "docid": "citeseerx-d1476"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Neural Networks in Safety Critical Applications For my family", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1478"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "© Shiraz University MOST PROBABLE POLLUTION SOURCE IDENTIFICATION IN RIVERS BY NEURAL NETWORKS*", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Assessing Tigris River Water Quality in Baghdad City Using Water Quality Index and Multivariate Statistical Analysis", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1457"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ARTIFICIAL INTELLIGENCE TECHNIQUES", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1485"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reservoir Management Using Artificial Neural Networks", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1458"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Investigators", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1487"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From Artificial Evolution to Artificial Life", 
+      "ranks": 79, 
+      "docid": "citeseerx-d1495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INTEGRATING ARTIFICIAL NEURAL NETWORKS, IMAGE ANALYSIS AND GIS FOR URBAN SPATIAL GROWTH CHARACTERIZATION By", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1465"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Neural Networks Technology to Model and Predict Plant Biology Process", 
+      "ranks": 82, 
+      "docid": "citeseerx-d1501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "River", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ARTIFICIAL NEURAL NETWORKS TO PREDICT THE NITRATE DISTRIBUTION IN CIMARRON TERRACE AQUIFER, OKLAHOMA By", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1505"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Investigators", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1507"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "River Flow Forecasting using Recurrent Neural Networks", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Rainfall Prediction using Artificial Neural Network", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUTOMATIC RIVER QUALITY MONITORING by", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "JOAQUIN RIVER FLOWS AND SOUTHERN DELTA WATER QUALITY", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Development and Evaluation of Artificial Neural Networks for Modeling Indicator Organism Concentrations", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1482"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FILLING IN MISSING PEAKFLOW DATA USING ARTIFICIAL NEURAL NETWORKS", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1516"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Neural Network Models for Rainfall Prediction in Pondicherry", 
+      "ranks": 91, 
+      "docid": "citeseerx-d1517"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TMDL Water Quality Study of the Virgin River CONTENTS", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design of artificial neural oscillatory circuits for the control of . . .", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Biochemical Oxygen Demand As Indicator Of River Pollution Using Artificial Neural Networks", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1490"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Advisor", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensitivity Analysis for Water Quality Index (WQI) Prediction for Kinta River, Malaysia", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1493"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "based on artificial neural", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Networks, Crowds, and Markets: Reasoning about a Highly Connected World", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Incorporation of ARMA models into flow forecasting by artificial neural networks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1531"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Role of Artificial Neural Network Models in Developing a Regional Wastewater Reclamation Facility for", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1499"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principal Investigator", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1533"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q110"
+}

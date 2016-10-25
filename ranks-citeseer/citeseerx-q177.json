@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 2, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 4, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 0, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 767, 
+      "title": "A Methodology for Agent-Oriented Analysis and Design", 
+      "ranks": 1, 
+      "docid": "citeseerx-d3035"
+    }, 
+    {
+      "citeBy": 527, 
+      "title": "Managing Energy and Server Resources in Hosting Centers", 
+      "ranks": 3, 
+      "docid": "citeseerx-d5182"
+    }, 
+    {
+      "citeBy": 398, 
+      "title": "Aggregate Productivity Growth: Lessons from Microeconomic Evidence. NBER Working Paper No. 6803", 
+      "ranks": 5, 
+      "docid": "citeseerx-d8087"
+    }, 
+    {
+      "citeBy": 341, 
+      "title": "Foreign Direct Investment and Relative Wages: Evidence from Mexico’s Maquiladoras", 
+      "ranks": 12, 
+      "docid": "citeseerx-d8093"
+    }, 
+    {
+      "citeBy": 329, 
+      "title": "Negotiation decision functions for autonomous agents", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4198"
+    }, 
+    {
+      "citeBy": 328, 
+      "title": "Technical Change, Inequality, and The Labor Market", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3529"
+    }, 
+    {
+      "citeBy": 290, 
+      "title": "Global Sourcing", 
+      "ranks": 15, 
+      "docid": "citeseerx-d8110"
+    }, 
+    {
+      "citeBy": 282, 
+      "title": "The WSLA framework: Specifying and monitoring service level agreements for web services", 
+      "ranks": 20, 
+      "docid": "citeseerx-d8104"
+    }, 
+    {
+      "citeBy": 274, 
+      "title": "A framework for argumentation-based negotiation", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8101"
+    }, 
+    {
+      "citeBy": 273, 
+      "title": "Governance in Global Value Chains", 
+      "ranks": 25, 
+      "docid": "citeseerx-d8157"
+    }, 
+    {
+      "citeBy": 254, 
+      "title": "Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems", 
+      "ranks": 35, 
+      "docid": "citeseerx-d5666"
+    }, 
+    {
+      "citeBy": 253, 
+      "title": "Reenen ‘‘Technology and Changes in Skill Structure: Evidence from", 
+      "ranks": 36, 
+      "docid": "citeseerx-d8128"
+    }, 
+    {
+      "citeBy": 228, 
+      "title": "Towards Requirements-Driven Information  Systems Engineering: The Tropos Project", 
+      "ranks": 55, 
+      "docid": "citeseerx-d8127"
+    }, 
+    {
+      "citeBy": 181, 
+      "title": "Do Formal Contracts and Relational Governance Function as Substitutes or Complements", 
+      "ranks": 34, 
+      "docid": "citeseerx-d8131"
+    }, 
+    {
+      "citeBy": 116, 
+      "title": "Incomplete Contracts and the Product Cycle", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8136"
+    }, 
+    {
+      "citeBy": 109, 
+      "title": "Production and Transaction Economies and IS Outsourcing: A", 
+      "ranks": 28, 
+      "docid": "citeseerx-d8100"
+    }, 
+    {
+      "citeBy": 108, 
+      "title": "Relational contracts and the theory of the firm", 
+      "ranks": 56, 
+      "docid": "citeseerx-d8133"
+    }, 
+    {
+      "citeBy": 85, 
+      "title": "The Muddles over Outsourcing", 
+      "ranks": 27, 
+      "docid": "citeseerx-d8106"
+    }, 
+    {
+      "citeBy": 70, 
+      "title": "Competition and Outsourcing with Scale Economies", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8108"
+    }, 
+    {
+      "citeBy": 67, 
+      "title": "International Outsourcing and Incomplete Contracts", 
+      "ranks": 76, 
+      "docid": "citeseerx-d8085"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "Assessing the Risk of IT Outsourcing", 
+      "ranks": 62, 
+      "docid": "citeseerx-d8124"
+    }, 
+    {
+      "citeBy": 36, 
+      "title": "SECURE OUTSOURCING OF SEQUENCE COMPARISONS", 
+      "ranks": 73, 
+      "docid": "citeseerx-d8132"
+    }, 
+    {
+      "citeBy": 29, 
+      "title": "The politcs and economics of offshore outsourcing", 
+      "ranks": 74, 
+      "docid": "citeseerx-d8130"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Complementarities between Outsourcing and Foreign", 
+      "ranks": 71, 
+      "docid": "citeseerx-d8126"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "2005), “Strategic Outsourcing Revisited", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8148"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Quantitative Aspects of Outsourcing Deals", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8140"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Government Outsourcing: Public Contracting with Private Monopoly&apos;&apos;, mimeo", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8169"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Call center outsourcing contract analysis and choice", 
+      "ranks": 47, 
+      "docid": "citeseerx-d8112"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Designing Effective Incentive-Oriented Outsourcing Contracts for ERP Systems", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8143"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "An Empirical Analysis of Contract Structures in IT Outsourcing", 
+      "ranks": 31, 
+      "docid": "citeseerx-d8098"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "The Impact of Contract Enforcement Costs on Outsourcing and Aggregate Productivity", 
+      "ranks": 66, 
+      "docid": "citeseerx-d8123"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Characteristics of IT Outsourcing Contracts", 
+      "ranks": 17, 
+      "docid": "citeseerx-d8089"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Secrets of a Successful Outsourcing Contract: A Risk Analysis", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8151"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Environmental Impacts of a North American Free Trade Agreement,” in Mexican-U.S. Free Trade Agreement, edited by", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4213"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Achieving trust in IT outsourcing relationships", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8138"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT outsourcing.", 
+      "ranks": 5, 
+      "docid": "citeseerx-d8081"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing of", 
+      "ranks": 6, 
+      "docid": "citeseerx-d8082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contracts in outsourcing", 
+      "ranks": 7, 
+      "docid": "citeseerx-d8083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OUTSOURCING", 
+      "ranks": 8, 
+      "docid": "citeseerx-d8084"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integration of trade and disintegration of production in the global economy", 
+      "ranks": 10, 
+      "docid": "citeseerx-d8086"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT Outsourcing Contracts and Performance Measurement", 
+      "ranks": 12, 
+      "docid": "citeseerx-d8088"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "XOptimal Contracts for Outsourced Computation", 
+      "ranks": 18, 
+      "docid": "citeseerx-d8090"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Contracts for Outsourced Computation?", 
+      "ranks": 19, 
+      "docid": "citeseerx-d8091"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Termination of outsourcing contract.................................................................................17", 
+      "ranks": 21, 
+      "docid": "citeseerx-d8092"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT Outsourcing Contracts: Practical Implications of the Incomplete Contract Theory", 
+      "ranks": 21, 
+      "docid": "citeseerx-d8095"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT Outsourcing Contracts: Practical Issues for Management", 
+      "ranks": 22, 
+      "docid": "citeseerx-d8096"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "How to improve security by contracting security outsourcing", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8094"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT Outsourcing Contracts: Practical Implications of the Incomplete Contract Theory", 
+      "ranks": 23, 
+      "docid": "citeseerx-d8097"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing in a Global Economy", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8099"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing of Innovation", 
+      "ranks": 29, 
+      "docid": "citeseerx-d8102"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing in Contests ∗", 
+      "ranks": 31, 
+      "docid": "citeseerx-d8105"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing and Volatility", 
+      "ranks": 33, 
+      "docid": "citeseerx-d8107"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Outsourcing Wave", 
+      "ranks": 35, 
+      "docid": "citeseerx-d8109"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Environmental outsourcing", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contracts", 
+      "ranks": 40, 
+      "docid": "citeseerx-d8114"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OUTSOURCING IN CONTESTS", 
+      "ranks": 42, 
+      "docid": "citeseerx-d8116"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourced Databases", 
+      "ranks": 43, 
+      "docid": "citeseerx-d8117"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Outsourcing Landscape by", 
+      "ranks": 44, 
+      "docid": "citeseerx-d8118"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OUTSOURCING AND INEQUALITY", 
+      "ranks": 45, 
+      "docid": "citeseerx-d8119"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing Information Security: Contracting Issues and Security Implications", 
+      "ranks": 46, 
+      "docid": "citeseerx-d8120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The contracting NHS –", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8122"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Various Outsourcing and", 
+      "ranks": 53, 
+      "docid": "citeseerx-d8113"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OUTSOURCING VERSUS FDI IN INDUSTRY EQUILIBRIUM", 
+      "ranks": 56, 
+      "docid": "citeseerx-d8129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Competence, Specificity and Outsourcing: Impact on the Complexity of the Contract", 
+      "ranks": 57, 
+      "docid": "citeseerx-d8115"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing: Current and Future Trends", 
+      "ranks": 61, 
+      "docid": "citeseerx-d8134"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT OUTSOURCING: A SURVEY AMONG", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8139"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE IMPACT OF TRANSACTION COSTS ON OUTSOURCING CONTRACTS: THEORETICAL ASPECTS", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8121"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing and Offshoring to Eastern Europe", 
+      "ranks": 71, 
+      "docid": "citeseerx-d8145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Labor Market Pooling, Outsourcing and Labor Contracts", 
+      "ranks": 72, 
+      "docid": "citeseerx-d8125"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contract as a Source of Trust- Commitment in Successful IT Outsourcing Relationship: An Empirical Study", 
+      "ranks": 75, 
+      "docid": "citeseerx-d8149"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Pros and Cons of Outsourcing 1 The Pros and Cons of Outsourcing", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8152"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FDI, International Outsourcing and Linkages", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8135"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Security in System Outsourcing", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8153"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "International Outsourcing and Factor Prices with Multistage Production", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8154"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IT Outsourcing Contracts and Performance Measurement Extended Abstract for WISE 2006", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8155"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Norm Development in Outsourcing Relationships", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8156"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LEGAL CONSTRUCTION OF OUTSOURCING AGREEMENT", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8141"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "111. An Empirical Study on the Importance of Psychological Contract Commitment in Information Systems Outsourcing", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Impact of I.T. on the Degree of Outsourcing, the Number of Suppliers and the Duration of Contracts", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8159"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IS DEVELOPMENT IN AN OUTSOURCING CONTEXT – REVISITING THE IS OUTSOURCING BANDWAGON", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8142"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing with Long Term Contracts: Capital Structure and Product Market Competition Effects ∗", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8160"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE OPTIMAL DEGREE OF OUTSOURCING", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8161"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AND NEW FORMS OF OUTSOURCING", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8144"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "When XP met outsourcing", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8162"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing network functionality", 
+      "ranks": 89, 
+      "docid": "citeseerx-d8163"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Outsourcing of Services", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8164"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Effects of Relational Contracts on Procurement: Evidence from Information Technology Outsourcing ∗", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8165"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contributions to IT Security in Outsourcing", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8166"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Arm’s Length Outsourcing", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8146"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing Process and Theories", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8167"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Managing Complex IT Outsourcing- Partnerships", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8168"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pharmaceutical outsourcing industry-focused", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improvement of outsourcing by employing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introduction Evolution of Outsourcing Why Consider Outsourcing?", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8150"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Outsourcing in the IT Industry: The Case of the Philippines", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Making the Decision to Contract for Cloud Services: Managing the Risk of an Extreme Form of IT Outsourcing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sarbanes-Oxley and the Outsourcing of Accounting", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8173"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q177"
+}

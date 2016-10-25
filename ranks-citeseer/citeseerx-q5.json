@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 3025, 
+      "title": "A Decision-Theoretic Generalization of on-Line Learning and an Application to Boosting", 
+      "ranks": 8, 
+      "docid": "citeseerx-d719"
+    }, 
+    {
+      "citeBy": 1877, 
+      "title": "WordNet: An on-line lexical database", 
+      "ranks": 1, 
+      "docid": "citeseerx-d210"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 4, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1703, 
+      "title": "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking", 
+      "ranks": 5, 
+      "docid": "citeseerx-d292"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 6, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 759, 
+      "title": "Suffix arrays: A new method for on-line string searches", 
+      "ranks": 7, 
+      "docid": "citeseerx-d717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consumer Research, 129-134. Online Reviews: Do Consumers Use Them?", 
+      "ranks": 0, 
+      "docid": "citeseerx-d709"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "ranks": 3, 
+      "docid": "citeseerx-d712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The sequence of the human genome", 
+      "ranks": 8, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Heterogeneous Information Sources Using Source Descriptions", 
+      "ranks": 9, 
+      "docid": "citeseerx-d476"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Why Do Some Countries Produce So Much More Output Per Worker Than Others?", 
+      "ranks": 10, 
+      "docid": "citeseerx-d722"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "ranks": 11, 
+      "docid": "citeseerx-d724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks", 
+      "ranks": 12, 
+      "docid": "citeseerx-d726"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Some studies in machine learning using the game of Checkers", 
+      "ranks": 13, 
+      "docid": "citeseerx-d727"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Text Classification from Labeled and Unlabeled Documents using EM", 
+      "ranks": 14, 
+      "docid": "citeseerx-d63"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fine-grained network time synchronization using reference broadcasts", 
+      "ranks": 15, 
+      "docid": "citeseerx-d729"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scale-space and edge detection using anisotropic diffusion", 
+      "ranks": 16, 
+      "docid": "citeseerx-d731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 17, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using Linear Algebra for Intelligent Information Retrieval", 
+      "ranks": 18, 
+      "docid": "citeseerx-d733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning to act using real-time dynamic programming", 
+      "ranks": 19, 
+      "docid": "citeseerx-d735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Labeling Images with a Computer Game", 
+      "ranks": 20, 
+      "docid": "citeseerx-d737"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semi-Supervised Learning Literature Survey", 
+      "ranks": 21, 
+      "docid": "citeseerx-d232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 22, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Promoting the Use of End-to-End Congestion Control in the Internet", 
+      "ranks": 23, 
+      "docid": "citeseerx-d740"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 24, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rapid object detection using a boosted cascade of simple features", 
+      "ranks": 25, 
+      "docid": "citeseerx-d744"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel database systems: the future of high performance database systems", 
+      "ranks": 26, 
+      "docid": "citeseerx-d378"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 27, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 28, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimation and Inference in Econometrics", 
+      "ranks": 29, 
+      "docid": "citeseerx-d747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Approaches to Automatic Schema Matching", 
+      "ranks": 30, 
+      "docid": "citeseerx-d32"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-time american sign language recognition using desk and wearable  computer based video", 
+      "ranks": 31, 
+      "docid": "citeseerx-d749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 32, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 33, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigating the Energy Consumption of a Wireless Network Interface in an Ad Hoc Networking Environment", 
+      "ranks": 34, 
+      "docid": "citeseerx-d752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PAUP*: Phylogenetic Analysis Using Parsimony (and other methods) 4.0.b5", 
+      "ranks": 35, 
+      "docid": "citeseerx-d330"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Capital Structure Puzzle", 
+      "ranks": 37, 
+      "docid": "citeseerx-d753"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bayes Factors", 
+      "ranks": 38, 
+      "docid": "citeseerx-d755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The provision of incentives in firms", 
+      "ranks": 39, 
+      "docid": "citeseerx-d758"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 40, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey of Rollback-Recovery Protocols in Message-Passing Systems", 
+      "ranks": 41, 
+      "docid": "citeseerx-d761"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 42, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The model checker SPIN", 
+      "ranks": 43, 
+      "docid": "citeseerx-d763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 44, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The ubiquitous B-tree", 
+      "ranks": 45, 
+      "docid": "citeseerx-d766"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Program Analysis and Specialization for the C Programming Language", 
+      "ranks": 46, 
+      "docid": "citeseerx-d354"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 47, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fab: Content-based, collaborative recommendation", 
+      "ranks": 48, 
+      "docid": "citeseerx-d215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Strength of Weak Ties: A Network Theory Revisited", 
+      "ranks": 49, 
+      "docid": "citeseerx-d764"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 50, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Content-based image retrieval at the end of the early years", 
+      "ranks": 51, 
+      "docid": "citeseerx-d274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The FF planning system: Fast plan generation through heuristic search", 
+      "ranks": 52, 
+      "docid": "citeseerx-d776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New Kind of Science", 
+      "ranks": 53, 
+      "docid": "citeseerx-d778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prospect theory: An analysis of decisions under risk", 
+      "ranks": 54, 
+      "docid": "citeseerx-d469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multitask principal-agent analyses: incentive contracts, asset ownership, and job design", 
+      "ranks": 55, 
+      "docid": "citeseerx-d780"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Language-Based Information-Flow Security", 
+      "ranks": 56, 
+      "docid": "citeseerx-d673"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interior-point Methods", 
+      "ranks": 57, 
+      "docid": "citeseerx-d307"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An introduction to Kolmogorov Complexity and its Applications: Preface to the First Edition", 
+      "ranks": 58, 
+      "docid": "citeseerx-d235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligent agents: Theory and practice", 
+      "ranks": 59, 
+      "docid": "citeseerx-d711"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 60, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 61, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPS-less Low Cost Outdoor Localization For Very Small Devices", 
+      "ranks": 62, 
+      "docid": "citeseerx-d784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The architecture of complexity", 
+      "ranks": 63, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multitask Learning", 
+      "ranks": 64, 
+      "docid": "citeseerx-d786"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 65, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Metaphors We Live By", 
+      "ranks": 66, 
+      "docid": "citeseerx-d790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 67, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 68, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-Uniform Random Variate Generation", 
+      "ranks": 69, 
+      "docid": "citeseerx-d794"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transactional Memory: Architectural Support for Lock-Free Data Structures", 
+      "ranks": 70, 
+      "docid": "citeseerx-d796"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning in graphical models", 
+      "ranks": 72, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review: Knowledge management and knowledge management systems: Conceptual foundations and research issues", 
+      "ranks": 73, 
+      "docid": "citeseerx-d80"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Scalable Location Service for Geographic Ad Hoc Routing", 
+      "ranks": 74, 
+      "docid": "citeseerx-d799"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 75, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 76, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 77, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Culture and the self: Implications for cognition, emotion, and motivation", 
+      "ranks": 78, 
+      "docid": "citeseerx-d802"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Synchronous data flow", 
+      "ranks": 79, 
+      "docid": "citeseerx-d804"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tapestry: A Resilient Global-scale Overlay for Service Deployment", 
+      "ranks": 80, 
+      "docid": "citeseerx-d352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 81, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Next Century Challenges: Mobile Networking for “Smart Dust”", 
+      "ranks": 82, 
+      "docid": "citeseerx-d807"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Agents and the Semantic Web", 
+      "ranks": 83, 
+      "docid": "citeseerx-d24"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 84, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 85, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 86, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 87, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 88, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 89, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 90, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Muscle: multiple sequence alignment with high accuracy and high throughput", 
+      "ranks": 91, 
+      "docid": "citeseerx-d291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Social Information Filtering: Algorithms for Automating &quot;Word of Mouth&quot;", 
+      "ranks": 92, 
+      "docid": "citeseerx-d739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 93, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Static Scheduling of Synchronous Data Flow Programs for Digital Signal Processing", 
+      "ranks": 94, 
+      "docid": "citeseerx-d814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential Monte Carlo Methods for Dynamic Systems", 
+      "ranks": 95, 
+      "docid": "citeseerx-d305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fine-grained Mobility in the Emerald System", 
+      "ranks": 96, 
+      "docid": "citeseerx-d815"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Electronic Markets and Electronic Hierarchies", 
+      "ranks": 97, 
+      "docid": "citeseerx-d631"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 98, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pervasive Computing: Vision and Challenges", 
+      "ranks": 99, 
+      "docid": "citeseerx-d258"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q5"
+}

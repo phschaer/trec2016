@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4282, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3556"
+    }, 
+    {
+      "citeBy": 3274, 
+      "title": "New Directions in Cryptography", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1102"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 57, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "Capacity of multi-antenna Gaussian channels", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2273"
+    }, 
+    {
+      "citeBy": 2180, 
+      "title": "Directed Diffusion: A scalable and robust communication paradigm for sensor networks", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3439"
+    }, 
+    {
+      "citeBy": 2135, 
+      "title": "Agents and the Semantic Web", 
+      "ranks": 30, 
+      "docid": "citeseerx-d24"
+    }, 
+    {
+      "citeBy": 2059, 
+      "title": "On limits of wireless communications in a fading environment when using multiple antennas", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2282"
+    }, 
+    {
+      "citeBy": 967, 
+      "title": "Grounding in communication", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7044"
+    }, 
+    {
+      "citeBy": 1793, 
+      "title": "A simple transmit diversity technique for wireless communications", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1059"
+    }, 
+    {
+      "citeBy": 1857, 
+      "title": "Globus: A Metacomputing Infrastructure Toolkit", 
+      "ranks": 99, 
+      "docid": "citeseerx-d627"
+    }, 
+    {
+      "citeBy": 1765, 
+      "title": "Energy-efficient communication protocol for wireless microsensor networks", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2369"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 23, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1711, 
+      "title": "System architecture directions for networked sensors", 
+      "ranks": 84, 
+      "docid": "citeseerx-d664"
+    }, 
+    {
+      "citeBy": 1568, 
+      "title": "Space-time codes for high data rate wireless communication: Performance criterion and code construction", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2278"
+    }, 
+    {
+      "citeBy": 1538, 
+      "title": "Factor Graphs and the Sum-Product Algorithm", 
+      "ranks": 96, 
+      "docid": "citeseerx-d431"
+    }, 
+    {
+      "citeBy": 1457, 
+      "title": "The Byzantine Generals Problem", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4557"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 1, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 1155, 
+      "title": "KQML as an agent communication language", 
+      "ranks": 6, 
+      "docid": "citeseerx-d27"
+    }, 
+    {
+      "citeBy": 1293, 
+      "title": "On the Security of Public Key Protocols", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4280"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1122, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 11, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 1180, 
+      "title": "A Review of Current Routing Protocols for Ad-Hoc Mobile Wireless Networks", 
+      "ranks": 79, 
+      "docid": "citeseerx-d726"
+    }, 
+    {
+      "citeBy": 1127, 
+      "title": "Bigraphs and Mobile Processes", 
+      "ranks": 52, 
+      "docid": "citeseerx-d445"
+    }, 
+    {
+      "citeBy": 1116, 
+      "title": "Low-Density Parity-Check Codes", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2279"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Tor: The Second-Generation Onion Router", 
+      "ranks": 33, 
+      "docid": "citeseerx-d787"
+    }, 
+    {
+      "citeBy": 1027, 
+      "title": "Active Messages: a Mechanism for Integrated Communication and Computation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1086"
+    }, 
+    {
+      "citeBy": 1090, 
+      "title": "Mobility increases the capacity of ad-hoc wireless networks", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2386"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 74, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1016, 
+      "title": "Implementing remote procedure calls", 
+      "ranks": 31, 
+      "docid": "citeseerx-d1077"
+    }, 
+    {
+      "citeBy": 990, 
+      "title": "Myrinet: A Gigabit-per-Second Local Area Network", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3445"
+    }, 
+    {
+      "citeBy": 985, 
+      "title": "Wireless Ad Hoc Networks", 
+      "ranks": 75, 
+      "docid": "citeseerx-d1083"
+    }, 
+    {
+      "citeBy": 916, 
+      "title": "MediaBench: A Tool for Evaluating and Synthesizing Multimedia and Communications Systems", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2267"
+    }, 
+    {
+      "citeBy": 921, 
+      "title": "GPS-less Low Cost Outdoor Localization For Very Small Devices", 
+      "ranks": 86, 
+      "docid": "citeseerx-d784"
+    }, 
+    {
+      "citeBy": 913, 
+      "title": "Diversity and Multiplexing: A Fundamental Tradeoff in Multiple Antenna Channels", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2274"
+    }, 
+    {
+      "citeBy": 691, 
+      "title": "Multiparty Communication Complexity", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7112"
+    }, 
+    {
+      "citeBy": 879, 
+      "title": "Ant Colony System: A cooperative learning approach to the traveling salesman problem", 
+      "ranks": 97, 
+      "docid": "citeseerx-d259"
+    }, 
+    {
+      "citeBy": 862, 
+      "title": "Charging and rate control for elastic traffic", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7194"
+    }, 
+    {
+      "citeBy": 817, 
+      "title": "A Key-Management Scheme for Distributed Sensor Networks", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3428"
+    }, 
+    {
+      "citeBy": 839, 
+      "title": "Ariadne: A secure on-demand routing protocol for ad hoc networks", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2401"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 38, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 813, 
+      "title": "Routing with Guaranteed Delivery in ad hoc Wireless Networks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d3480"
+    }, 
+    {
+      "citeBy": 812, 
+      "title": "Route Packets, Not Wires: On-Chip Interconnection Networks", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2376"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "Universally composable security: A new paradigm for cryptographic protocols", 
+      "ranks": 80, 
+      "docid": "citeseerx-d598"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "Efficient Software-Based Fault Isolation", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2322"
+    }, 
+    {
+      "citeBy": 754, 
+      "title": "Error and attack tolerance of complex networks", 
+      "ranks": 63, 
+      "docid": "citeseerx-d732"
+    }, 
+    {
+      "citeBy": 753, 
+      "title": "A Survey of Program Slicing Techniques", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2351"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Chord: A Scalable Peer-to-Peer Lookup Protocol for Internet Applications", 
+      "ranks": 89, 
+      "docid": "citeseerx-d3553"
+    }, 
+    {
+      "citeBy": 730, 
+      "title": "Learning in graphical models", 
+      "ranks": 70, 
+      "docid": "citeseerx-d332"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Formal and real authority in organizations", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3685"
+    }, 
+    {
+      "citeBy": 707, 
+      "title": "Memory Consistency and Event Ordering in Scalable Shared-Memory Multiprocessors", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4387"
+    }, 
+    {
+      "citeBy": 701, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 90, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 697, 
+      "title": "Minimum energy mobile wireless networks", 
+      "ranks": 60, 
+      "docid": "citeseerx-d265"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "A Scheme for Real-Time Channel Establishment in Wide-Area Networks", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2275"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 13, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Energy-Efficient Computing for Wildlife Tracking: Design Tradeoffs and Early Experiences with ZebraNet", 
+      "ranks": 24, 
+      "docid": "citeseerx-d781"
+    }, 
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 98, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 686, 
+      "title": "Basic concepts and taxonomy of dependable and secure computing", 
+      "ranks": 88, 
+      "docid": "citeseerx-d321"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 43, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "The x-Kernel: An Architecture for Implementing Network Protocols", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2380"
+    }, 
+    {
+      "citeBy": 535, 
+      "title": "Reliable Communication in the Presence of Failures", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1121"
+    }, 
+    {
+      "citeBy": 628, 
+      "title": "Packet Leashes: A Defense against Wormhole Attacks in Wireless Ad Hoc Networks", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1107"
+    }, 
+    {
+      "citeBy": 614, 
+      "title": "Understanding packet delivery performance in dense wireless sensor networks", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2315"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Adaptive Protocols for Information Dissemination in Wireless Sensor Networks", 
+      "ranks": 56, 
+      "docid": "citeseerx-d308"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Directed Diffusion for Wireless Sensor Networking", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2271"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "A Field Study of the Software Design Process for Large Systems", 
+      "ranks": 44, 
+      "docid": "citeseerx-d795"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "Reaching Agreement in the Presence of Faults", 
+      "ranks": 29, 
+      "docid": "citeseerx-d7140"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Token flow control", 
+      "ranks": 47, 
+      "docid": "citeseerx-d7156"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "User Datagram Protocol", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5128"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "U-Net: A User-Level Network Interface for Parallel and Distributed Computing", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2295"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d748"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Next Century Challenges: Mobile Networking for “Smart Dust”", 
+      "ranks": 36, 
+      "docid": "citeseerx-d807"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "I-TCP: Indirect TCP for mobile hosts", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4599"
+    }, 
+    {
+      "citeBy": 583, 
+      "title": "A New Learning Algorithm for Blind Signal Separation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d214"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Algebraic laws for nondeterminism and concurrency", 
+      "ranks": 87, 
+      "docid": "citeseerx-d612"
+    }, 
+    {
+      "citeBy": 523, 
+      "title": "The Vocabulary Problem in Human-System Communication", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4578"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Secure Routing for Mobile Ad Hoc Networks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3442"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Vivaldi: A Decentralized Network Coordinate System", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1116"
+    }, 
+    {
+      "citeBy": 557, 
+      "title": "Towards flexible teamwork", 
+      "ranks": 42, 
+      "docid": "citeseerx-d304"
+    }, 
+    {
+      "citeBy": 506, 
+      "title": "Requirements for Internet Hosts - Communication Layers", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4011"
+    }, 
+    {
+      "citeBy": 522, 
+      "title": "Secure Group Communications Using Key Graphs", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7131"
+    }, 
+    {
+      "citeBy": 555, 
+      "title": "Knowledge and Common Knowledge in a Distributed Environment", 
+      "ranks": 77, 
+      "docid": "citeseerx-d575"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "LogP: Towards a Realistic Model of Parallel Computation", 
+      "ranks": 34, 
+      "docid": "citeseerx-d1058"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "A Security Architecture for Computational Grids", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3415"
+    }, 
+    {
+      "citeBy": 544, 
+      "title": "Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems", 
+      "ranks": 39, 
+      "docid": "citeseerx-d558"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Communicating Sequential Processes", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1008"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Linear network coding", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1036"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 90, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 91, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Space-time block codes from orthogonal designs", 
+      "ranks": 92, 
+      "docid": "citeseerx-d6660"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GloMoSim: A Library for Parallel Simulation of Large-scale Wireless Networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d3561"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The SPLASH-2 programs: Characterization and methodological considerations", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DSR: The Dynamic Source Routing Protocol for Multi-Hop Wireless Ad Hoc Networks", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Consensus Problems in Networks of Agents with Switching Topology and Time-Delays", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network information flow", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2350"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 98, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A randomized protocol for signing contracts", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7196"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q165"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2579, 
+      "title": "Building a Large Annotated Corpus of English: The Penn Treebank", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1089"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 53, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 2006, 
+      "title": "Why Do Some Countries Produce So Much More Output Per Worker Than Others?", 
+      "ranks": 97, 
+      "docid": "citeseerx-d722"
+    }, 
+    {
+      "citeBy": 1726, 
+      "title": "Agency costs of free cash flow, corporate finance and takeovers", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2286"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 88, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 42, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 1452, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 59, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 64, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 90, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 82, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1160, 
+      "title": "Federated database systems for managing distributed, heterogeneous, and autonomous databases", 
+      "ranks": 95, 
+      "docid": "citeseerx-d350"
+    }, 
+    {
+      "citeBy": 1145, 
+      "title": "Separation of ownership and control", 
+      "ranks": 56, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 1108, 
+      "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2319"
+    }, 
+    {
+      "citeBy": 1101, 
+      "title": "Fundamentals of Wireless Communications", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2283"
+    }, 
+    {
+      "citeBy": 1080, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 66, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 84, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 1020, 
+      "title": "The Protein Data Bank", 
+      "ranks": 46, 
+      "docid": "citeseerx-d41"
+    }, 
+    {
+      "citeBy": 1010, 
+      "title": "", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4249"
+    }, 
+    {
+      "citeBy": 881, 
+      "title": "Wireless Communications", 
+      "ranks": 80, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 868, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 36, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 783, 
+      "title": "Simultaneous Multithreading: Maximizing On-Chip Parallelism", 
+      "ranks": 57, 
+      "docid": "citeseerx-d1056"
+    }, 
+    {
+      "citeBy": 744, 
+      "title": "Applying design by contract", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4285"
+    }, 
+    {
+      "citeBy": 743, 
+      "title": "Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections", 
+      "ranks": 83, 
+      "docid": "citeseerx-d3667"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Formal and real authority in organizations", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3685"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Is public expenditure productive", 
+      "ranks": 43, 
+      "docid": "citeseerx-d4268"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Indivisible labor and the business cycle", 
+      "ranks": 92, 
+      "docid": "citeseerx-d1027"
+    }, 
+    {
+      "citeBy": 662, 
+      "title": "Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews", 
+      "ranks": 30, 
+      "docid": "citeseerx-d724"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 48, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 661, 
+      "title": "The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1782"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 89, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "Some Evidence on the Importance of Sticky Prices", 
+      "ranks": 35, 
+      "docid": "citeseerx-d1101"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Financial Intermediation and Growth: Causality and Causes", 
+      "ranks": 41, 
+      "docid": "citeseerx-d489"
+    }, 
+    {
+      "citeBy": 641, 
+      "title": "Predicting Transmembrane Protein Topology with a Hidden Markov Model: Application to Complete Genomes", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4089"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 623, 
+      "title": "The swiss-prot protein knowledgebase and its supplement trembl in 2003", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4278"
+    }, 
+    {
+      "citeBy": 602, 
+      "title": "Electronic Markets and Electronic Hierarchies", 
+      "ranks": 44, 
+      "docid": "citeseerx-d631"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 581, 
+      "title": "The sequence of the human genome", 
+      "ranks": 99, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Multiscalar Processors", 
+      "ranks": 76, 
+      "docid": "citeseerx-d3523"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The dangers of replication and a solution", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1088"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 61, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 546, 
+      "title": "Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4281"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Association Rules and Predictive Models for e-Banking Services", 
+      "ranks": 7, 
+      "docid": "citeseerx-d4236"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Challenges of Marketing E-banking Services in a Developing Country: The Case of Ghana", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4231"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Evaluating the Impacts of Online Banking Factors on Motivating the Process of E-banking", 
+      "ranks": 23, 
+      "docid": "citeseerx-d4253"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Customers ’ Perception of E-banking Adoption in Cameroon: An Empirical Assessment of an Extended TAM", 
+      "ranks": 26, 
+      "docid": "citeseerx-d4258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Evaluation of E-Banking Services on Customer Satisfaction:", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Securing Agent-based e-Banking Services", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4230"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Usage Pattern of e-Banking Services among Individuals: A Comparative Study", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-banking Services for Automated Agent-based Trading ABSTRACT", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Banking Services Risk in Jordanian Banking Sector", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-BANKING SERVICES AS AN ELEMENT OF E-BUSINESS", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AWARENESS OF E- BANKING SERVICES AMONG EDUCATED WOMEN", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-banking Services for Automated Agent-based Trading", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Order No. 512 CAN E-BANKING SERVICES BE PROFITABLE? 1", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Authenticating E- Banking Services in Nigeria through Digital Signatures", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AE Considerations Regarding the Security and Protection of E-Banking Services Consumers ’ Interests Amfiteatru Economic 388 CONSIDERATIONS REGARDING THE SECURITY AND PROTECTION OF E-BANKING SERVICES CONSUMERS ’ INTERESTS", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4241"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Comparative Study of Customer Perception toward E-banking Services Provided By Selected Private &amp; Public Sector Bank in India", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-BANKING SERVICES UTILISATION PATTERN AMONG CUSTOMERS IN COIMBATORE CITY", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4243"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Empirical Study of Customers ’ Perception of E-Banking Service Based on Time Usage", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A MODEL FOR ANALYSING THE DETERMINANT FACTORS OF ADOPTION E-BANKING SERVICES BY ROMANIAN CUSTOMERS", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study on Identifying Usage of E-banking Services by Pensioners in Nationalised and Private Sector Banks", 
+      "ranks": 17, 
+      "docid": "citeseerx-d4246"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DELIVERING E-BANKING SERVICE: AN EMERGING INTERNET BUSINESS MODEL AND A CASE STUDY", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Awareness and Adoptability of E-Banking Services across the Customers with Reference to Selected Banks in Chennai", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "In 5 th International Conference on Data Mining, Text Mining and their Business Applications, 2004 Association rules model of e-banking services", 
+      "ranks": 21, 
+      "docid": "citeseerx-d4250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Impact of E-Banking on Bank Profitability: Evidence", 
+      "ranks": 22, 
+      "docid": "citeseerx-d4251"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Service Quality in Banking: E-Banking A Core Solution", 
+      "ranks": 23, 
+      "docid": "citeseerx-d4252"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACCEPTANCE OF E-BANKING AMONG CUSTOMERS (An Empirical Investigation in India)", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4254"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Acceptance of E-banking among Adult Customers: An Empirical Investigation in India", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4255"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 E-Banking in Bangladesh: Some Policy Implications", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4257"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-banking Functionality and Outcomes of Customer Satisfaction: An Empirical Investigation", 
+      "ranks": 30, 
+      "docid": "citeseerx-d4260"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering e-Banking Customer using Data Mining and Marketing Segmentation 63 Clustering e-Banking Customer using Data Mining and Marketing Segmentation", 
+      "ranks": 31, 
+      "docid": "citeseerx-d4263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 33, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "E-Banking: A Case Study of Askari Commercial Bank Pakistan", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Insiders and Outsiders: The Choice between Informed and Arm&apos;s-Length Debt", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4083"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bank Runs, Deposit Insurance, and Liquidity", 
+      "ranks": 37, 
+      "docid": "citeseerx-d806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 40, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database resources of the National Center for Biotechnology Information", 
+      "ranks": 43, 
+      "docid": "citeseerx-d400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "What Do We Know about Capital Structure? Some Evidence from International Data", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4270"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Equity Premium: A Puzzle", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lattice-Based Access Control Models", 
+      "ranks": 48, 
+      "docid": "citeseerx-d675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 52, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 56, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 59, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 63, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Probability: Theory and examples", 
+      "ranks": 65, 
+      "docid": "citeseerx-d3483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The limits of arbitrage", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "By Force of Habit: A Consumption-Based Explanation of Aggregate Stock Market Behavior.&quot; Working Paper no. 4995", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determinants of corporate borrowing", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aspect-oriented programming", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discovery of Grounded Theory", 
+      "ranks": 93, 
+      "docid": "citeseerx-d312"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Indexing by latent semantic analysis", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accurate Methods for the Statistics of Surprise and Coincidence", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 96, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 98, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 99, 
+      "docid": "citeseerx-d276"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q137"
+}

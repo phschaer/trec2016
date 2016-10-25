@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 401, 
+      "title": "A Survey of Augmented Reality", 
+      "ranks": 0, 
+      "docid": "citeseerx-d1983"
+    }, 
+    {
+      "citeBy": 476, 
+      "title": "Marker tracking and HMD calibration for a video-based augmented reality conferencing system", 
+      "ranks": 12, 
+      "docid": "citeseerx-d2113"
+    }, 
+    {
+      "citeBy": 105, 
+      "title": "The Studierstube Augmented Reality Project", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1990"
+    }, 
+    {
+      "citeBy": 107, 
+      "title": "Calibration-free augmented reality", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2004"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Design of a Component-Based Augmented Reality Framework", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2131"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "Perceptual Issues in Augmented Reality", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2007"
+    }, 
+    {
+      "citeBy": 53, 
+      "title": "Predictive Tracking for Augmented Reality", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2021"
+    }, 
+    {
+      "citeBy": 38, 
+      "title": "Collaborative Gaming in Augmented Reality", 
+      "ranks": 35, 
+      "docid": "citeseerx-d2051"
+    }, 
+    {
+      "citeBy": 33, 
+      "title": "Mobile Collaborative Augmented Reality", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2009"
+    }, 
+    {
+      "citeBy": 33, 
+      "title": "Spatially Augmented Reality", 
+      "ranks": 15, 
+      "docid": "citeseerx-d2011"
+    }, 
+    {
+      "citeBy": 34, 
+      "title": "Visual Servoing-Based Augmented Reality", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2135"
+    }, 
+    {
+      "citeBy": 26, 
+      "title": "Ubiquitous Tracking for Augmented Reality", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2073"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "Zooming Interfaces for Augmented Reality Browsers", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2124"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "D.: Handheld Augmented Reality Displays", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2093"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Object Calibration for Augmented Reality", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2037"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Storytelling in Collaborative Augmented Reality Environments", 
+      "ranks": 86, 
+      "docid": "citeseerx-d2136"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Modern Approaches to Augmented Reality", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2029"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "High precision augmented reality haptics", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2150"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Interaction Modes for Augmented Reality Visualization", 
+      "ranks": 72, 
+      "docid": "citeseerx-d2118"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Steerable augmented reality with the beamatron", 
+      "ranks": 61, 
+      "docid": "citeseerx-d2107"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Analyzing Interaction in Augmented Reality Systems", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2126"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Fast Calibration for Augmented Reality", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2098"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Reconfigurable Computing for Augmented Reality", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2033"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Adaptive Hypermedia in Augmented Reality", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2034"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Collaborative Augmented Reality", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2001"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Wearable Computing and Augmented Reality", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2102"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Multi-Context Augmented Reality", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2065"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Sensor fusion for augmented reality", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2078"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Haptic collaboration with augmented reality", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2115"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Design Patterns for Augmented Reality Systems", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2139"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Visual tracking for augmented reality", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2039"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Introduction to augmented reality", 
+      "ranks": 88, 
+      "docid": "citeseerx-d2141"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Design of Augmented Reality for Collaboration", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2013"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "ARML- An Augmented Reality Standard", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2015"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Depth Compositing for Augmented Reality", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2031"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "On Computer Vision for Augmented Reality", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2044"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Color Harmonization for Augmented Reality", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2075"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Categorizing Augmented Reality Systems", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2087"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "In-Place Augmented Reality", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2100"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Research techniques for augmented reality", 
+      "ranks": 67, 
+      "docid": "citeseerx-d2110"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Fachgebiet Augmented Reality", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2091"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Hybrid Tracking for Augmented Reality", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2148"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality", 
+      "ranks": 1, 
+      "docid": "citeseerx-d1985"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality:", 
+      "ranks": 2, 
+      "docid": "citeseerx-d1986"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUGMENTED REALITY by", 
+      "ranks": 3, 
+      "docid": "citeseerx-d1988"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented reality . . .", 
+      "ranks": 5, 
+      "docid": "citeseerx-d1992"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Virtuality and Reality of Augmented Reality", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1994"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in Augmented Reality by", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1996"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SI: AUGMENTED REALITY Camera", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2000"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Augmented Reality", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2005"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Kanji Learning", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2017"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SI: AUGMENTED REALITY In-Place Augmented Reality", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2020"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented reality browser survey", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2023"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Collaborative Augmented Reality in Schools", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2025"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmenting Reality in Mobile", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2027"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality 2.0", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2042"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality on Smartphones", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2045"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Virtual and Augmented Reality Simulation", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2047"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Through Wearable Computing", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented reality with ARToolKit", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2053"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUGMENTED REALITY BASED ASSISTANCE", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2054"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "(Augmented Reality Peripheral Network)", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2056"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUGMENTED REALITY VISUALIZATION TOOL FOR", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensor Fusion for Augmented Reality ⋆", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2060"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Integral Perception in Augmented Reality", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2062"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Based", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2063"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Collaborative Augmented Reality", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2066"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Software Design for Augmented Reality", 
+      "ranks": 45, 
+      "docid": "citeseerx-d2069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Calibration for Augmented Reality", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2071"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MODELING AND SIMULATION WITH AUGMENTED REALITY", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2079"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sensor Fusion for Augmented Reality", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trends and Perspectives in Augmented Reality", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2085"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality for Board Games", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2088"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality at IBM", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2089"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fachgebiet Augmented Reality", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2095"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Collaborative Augmented Reality in Education", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2096"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AUGMENTED REALITY IN VIDEO GAMES", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2103"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN AUGMENTED REALITY AUDIO HEADSET", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2104"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fachgebiet Augmented Reality", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chair for Augmented Reality", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2106"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intelligent Filtering for Augmented Reality", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2116"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical Study in Augmented Reality", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2120"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality: Merging the Virtual and the Real", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2121"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tracking für Augmented Reality Anwendungen auf", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2122"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GIality – Geospatial Data for Augmented Reality", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2127"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rise Up: An Augmented Reality Application", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2128"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Experiences of Evaluating Presence in Augmented Realities", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2133"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "www.knowledgecuddle.com AUGMENTED REALITY", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2125"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Calibration Method for an Augmented Reality System", 
+      "ranks": 87, 
+      "docid": "citeseerx-d2137"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Simulations on Handheld Computers", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2144"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Technology for Education", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality Audio Editing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bimber and Raskar, Spatial Augmented Reality Modern Approaches to Augmented Reality", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2142"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Augmented Reality System for Military . . .", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2152"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using Laser Projectors for Augmented Reality", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2153"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented Reality And The Disappearing Computer", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2154"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving Augmented Reality using Image and Scene Constraints", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2156"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile Augmented Reality", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tracking for Augmented Reality on Wearable Computers", 
+      "ranks": 99, 
+      "docid": "citeseerx-d2160"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q115"
+}

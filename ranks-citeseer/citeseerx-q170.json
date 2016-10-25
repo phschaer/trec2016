@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1779, 
+      "title": "The SimpleScalar tool set, version 2.0", 
+      "ranks": 38, 
+      "docid": "citeseerx-d1080"
+    }, 
+    {
+      "citeBy": 1689, 
+      "title": "Wireless sensor networks: a survey", 
+      "ranks": 49, 
+      "docid": "citeseerx-d792"
+    }, 
+    {
+      "citeBy": 1339, 
+      "title": "Intelligent agents: Theory and practice", 
+      "ranks": 11, 
+      "docid": "citeseerx-d711"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 32, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1255, 
+      "title": "Temporal and modal logic", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2403"
+    }, 
+    {
+      "citeBy": 1093, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 5, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 18, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 1094, 
+      "title": "Mediators in the architecture of future information systems", 
+      "ranks": 23, 
+      "docid": "citeseerx-d550"
+    }, 
+    {
+      "citeBy": 1054, 
+      "title": "An application-specific protocol architecture for wireless   networks", 
+      "ranks": 52, 
+      "docid": "citeseerx-d762"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Disconnected Operation in the Coda File System", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3542"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 29, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 42, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 3, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 880, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 43, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 39, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 847, 
+      "title": "Evaluating collaborative filtering recommender systems", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3709"
+    }, 
+    {
+      "citeBy": 798, 
+      "title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being", 
+      "ranks": 21, 
+      "docid": "citeseerx-d3427"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Case-based reasoning; Foundational issues, methodological variations, and system approaches", 
+      "ranks": 20, 
+      "docid": "citeseerx-d625"
+    }, 
+    {
+      "citeBy": 755, 
+      "title": "A Framework for Defining Logics", 
+      "ranks": 40, 
+      "docid": "citeseerx-d7395"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 551, 
+      "title": "Goal-directed Requirements Acquisition", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7393"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Some optimal inapproximability results", 
+      "ranks": 55, 
+      "docid": "citeseerx-d226"
+    }, 
+    {
+      "citeBy": 668, 
+      "title": "The many faces of Publish/Subscribe", 
+      "ranks": 16, 
+      "docid": "citeseerx-d809"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 34, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 654, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 12, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 609, 
+      "title": "Nonmonotonic Reasoning, Preferential Models and Cumulative Logics", 
+      "ranks": 6, 
+      "docid": "citeseerx-d60"
+    }, 
+    {
+      "citeBy": 655, 
+      "title": "Sketchpad: A man-machine graphical communication system", 
+      "ranks": 17, 
+      "docid": "citeseerx-d329"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 41, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 621, 
+      "title": "Linked Data -- The story so far", 
+      "ranks": 13, 
+      "docid": "citeseerx-d15"
+    }, 
+    {
+      "citeBy": 624, 
+      "title": "Opinion Mining and Sentiment Analysis", 
+      "ranks": 31, 
+      "docid": "citeseerx-d924"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants", 
+      "ranks": 46, 
+      "docid": "citeseerx-d4598"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "DBpedia: A Nucleus for a Web of Open Data", 
+      "ranks": 9, 
+      "docid": "citeseerx-d8"
+    }, 
+    {
+      "citeBy": 604, 
+      "title": "Typesetting Concrete Mathematics", 
+      "ranks": 25, 
+      "docid": "citeseerx-d936"
+    }, 
+    {
+      "citeBy": 610, 
+      "title": "Program Analysis and Specialization for the C Programming Language", 
+      "ranks": 45, 
+      "docid": "citeseerx-d354"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "The Economics of Immigration", 
+      "ranks": 47, 
+      "docid": "citeseerx-d746"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 51, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "Model-Based Analysis of Oligonucleotide Arrays: Model Validation, Design Issues and Standard Error Application", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7340"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 581, 
+      "title": "The sequence of the human genome", 
+      "ranks": 50, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 26, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 547, 
+      "title": "Routing in a delay tolerant network", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2329"
+    }, 
+    {
+      "citeBy": 538, 
+      "title": "Answering Queries Using Views: A Survey", 
+      "ranks": 24, 
+      "docid": "citeseerx-d2345"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "The Spec# Programming System: An Overview", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7396"
+    }, 
+    {
+      "citeBy": 521, 
+      "title": "Modeling Strategic Relationships for Process Reengineering", 
+      "ranks": 27, 
+      "docid": "citeseerx-d85"
+    }, 
+    {
+      "citeBy": 506, 
+      "title": "Implicit social cognition: Attitudes, self-esteem, and stereotypes", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3450"
+    }, 
+    {
+      "citeBy": 508, 
+      "title": "Description Logic Programs: Combining Logic Programs with Description Logic", 
+      "ranks": 44, 
+      "docid": "citeseerx-d83"
+    }, 
+    {
+      "citeBy": 493, 
+      "title": "The lexical nature of syntactic ambiguity resolution", 
+      "ranks": 58, 
+      "docid": "citeseerx-d922"
+    }, 
+    {
+      "citeBy": 490, 
+      "title": "A Hierarchical Internet Object Cache", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1124"
+    }, 
+    {
+      "citeBy": 486, 
+      "title": "Rewriting", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7398"
+    }, 
+    {
+      "citeBy": 481, 
+      "title": "Data Mining: An Overview from Database Perspective", 
+      "ranks": 62, 
+      "docid": "citeseerx-d373"
+    }, 
+    {
+      "citeBy": 481, 
+      "title": "A Roadmap of Agent Research and Development", 
+      "ranks": 63, 
+      "docid": "citeseerx-d90"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 67, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 458, 
+      "title": "The Foundation of a Generic Theorem Prover", 
+      "ranks": 60, 
+      "docid": "citeseerx-d7399"
+    }, 
+    {
+      "citeBy": 450, 
+      "title": "Ontology Learning for the Semantic Web", 
+      "ranks": 71, 
+      "docid": "citeseerx-d18"
+    }, 
+    {
+      "citeBy": 448, 
+      "title": "The unbearable automaticity of being", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3583"
+    }, 
+    {
+      "citeBy": 432, 
+      "title": "Enhanced Hypertext Categorization Using Hyperlinks", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6615"
+    }, 
+    {
+      "citeBy": 432, 
+      "title": "Ant algorithms for discrete optimization", 
+      "ranks": 78, 
+      "docid": "citeseerx-d7327"
+    }, 
+    {
+      "citeBy": 428, 
+      "title": "Astrolabe: A Robust and Scalable Technology for Distributed System Monitoring, Management, and Data Mining", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1667"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "LSCs: Breathing Life into Message Sequence Charts", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7417"
+    }, 
+    {
+      "citeBy": 415, 
+      "title": "Measurements and analysis of end-to-end Internet dynamics", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2338"
+    }, 
+    {
+      "citeBy": 411, 
+      "title": "Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach", 
+      "ranks": 85, 
+      "docid": "citeseerx-d3511"
+    }, 
+    {
+      "citeBy": 410, 
+      "title": "Uniform proofs as a foundation for logic programming", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7410"
+    }, 
+    {
+      "citeBy": 407, 
+      "title": "Flow-Sensitive Type Qualifiers", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7411"
+    }, 
+    {
+      "citeBy": 403, 
+      "title": "The TSIMMIS Approach to Mediation: Data Models and Languages", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7409"
+    }, 
+    {
+      "citeBy": 394, 
+      "title": "Data Mining Approaches for Intrusion Detection", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1641"
+    }, 
+    {
+      "citeBy": 348, 
+      "title": "System Description: Twelf --- A Meta-Logical Framework for Deductive Systems", 
+      "ranks": 84, 
+      "docid": "citeseerx-d7408"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta-Pattern Extraction: Mining Cycles *", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7389"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta-Patterns: Revealing Hidden Periodic Patterns", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7390"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta-Patterns: Revealing Hidden Periodic Patterns", 
+      "ranks": 5, 
+      "docid": "citeseerx-d7391"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta-Patterns: Revealing Hidden Periodic Patterns", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7392"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A classification and comparison framework for software architecture description languages", 
+      "ranks": 7, 
+      "docid": "citeseerx-d58"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of AspectJ", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4082"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aspect-oriented programming", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 14, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KQML as an agent communication language", 
+      "ranks": 17, 
+      "docid": "citeseerx-d27"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Information Retrieval", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generic Schema Matching with Cupid", 
+      "ranks": 21, 
+      "docid": "citeseerx-d1589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 26, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Models and issues in data stream systems", 
+      "ranks": 28, 
+      "docid": "citeseerx-d580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wide-area cooperative storage with CFS", 
+      "ranks": 32, 
+      "docid": "citeseerx-d1075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Google File System", 
+      "ranks": 40, 
+      "docid": "citeseerx-d640"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 50, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 51, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MetaPatterns: A Pattern Language for Pattern Writing", 
+      "ranks": 57, 
+      "docid": "citeseerx-d7397"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Knowledge Representation: Logical, Philosophical, and Computational Foundations Computational Foundations by John F. Sowa (Book Review)", 
+      "ranks": 58, 
+      "docid": "citeseerx-d82"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "N: Meta-analysis in clinical trials", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The ant colony optimization meta-heuristic", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7401"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta-Patterns for Electronic Commerce Transactions based on FLBC", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7402"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cluster Ensembles - A Knowledge Reuse Framework for Combining Multiple Partitions", 
+      "ranks": 67, 
+      "docid": "citeseerx-d381"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta Patterns---A Means for Capturing the Essentials of Reusable Object--Oriented Design", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Meta Patterns for Developing a Minimalist Training Manual", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7404"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing Techniques in Wireless Sensor Networks: A Survey", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPFS: A Shared-Disk File System for Large Computing Clusters", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MetaCost: A General Method for Making Classifiers Cost-Sensitive", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The design and implementation of hierarchical software systems with reusable components", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4913"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reverse Engineering of Framework Design using a Meta-Patterns-based Approach", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7405"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query Processing for Sensor Networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7419"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Diagram Patterns and Meta-patterns to support formal modelling with instantiations for B, CSP, Z, Circus, and CSP | |B", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7424"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discriminative probabilistic models for relational data", 
+      "ranks": 98, 
+      "docid": "citeseerx-d1778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLASSIC: A Structural Data Model for Objects", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7428"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q170"
+}

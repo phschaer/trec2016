@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 5265, 
+      "title": "A tutorial on hidden Markov models and selected applications in speech recognition", 
+      "ranks": 27, 
+      "docid": "citeseerx-d3995"
+    }, 
+    {
+      "citeBy": 3227, 
+      "title": "Histograms of Oriented Gradients for Human Detection", 
+      "ranks": 60, 
+      "docid": "citeseerx-d1670"
+    }, 
+    {
+      "citeBy": 2778, 
+      "title": "Maintaining knowledge about temporal intervals", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5481"
+    }, 
+    {
+      "citeBy": 1987, 
+      "title": "Active Appearance Models", 
+      "ranks": 5, 
+      "docid": "citeseerx-d3967"
+    }, 
+    {
+      "citeBy": 1915, 
+      "title": "Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4193"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1575, 
+      "title": "Random Oracles are Practical: A Paradigm for Designing Efficient Protocols", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7341"
+    }, 
+    {
+      "citeBy": 1543, 
+      "title": "Color indexing", 
+      "ranks": 72, 
+      "docid": "citeseerx-d237"
+    }, 
+    {
+      "citeBy": 1362, 
+      "title": "Pfinder: Real-time tracking of the human body", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1807"
+    }, 
+    {
+      "citeBy": 1303, 
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms", 
+      "ranks": 38, 
+      "docid": "citeseerx-d686"
+    }, 
+    {
+      "citeBy": 1290, 
+      "title": "Progressive Meshes", 
+      "ranks": 63, 
+      "docid": "citeseerx-d288"
+    }, 
+    {
+      "citeBy": 1225, 
+      "title": "Object Detection with Discriminatively Trained Part Based Models", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1673"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2290"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 39, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 914, 
+      "title": "Speaker verification using Adapted Gaussian mixture models", 
+      "ranks": 2, 
+      "docid": "citeseerx-d220"
+    }, 
+    {
+      "citeBy": 1143, 
+      "title": "Surface Simplification Using Quadric Error Metrics", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1635"
+    }, 
+    {
+      "citeBy": 1105, 
+      "title": "Head-Driven Statistical Models for Natural Language Parsing", 
+      "ranks": 24, 
+      "docid": "citeseerx-d994"
+    }, 
+    {
+      "citeBy": 1078, 
+      "title": "A Language Modeling Approach to Information Retrieval", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6985"
+    }, 
+    {
+      "citeBy": 1118, 
+      "title": "Generative communication in Linda", 
+      "ranks": 78, 
+      "docid": "citeseerx-d1031"
+    }, 
+    {
+      "citeBy": 1079, 
+      "title": "Reversible jump Markov chain Monte Carlo computation and Bayesian model determination", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2440"
+    }, 
+    {
+      "citeBy": 1083, 
+      "title": "Robust Real-time Object Detection", 
+      "ranks": 70, 
+      "docid": "citeseerx-d302"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "A Morphable Model For The Synthesis Of 3D Faces", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2858"
+    }, 
+    {
+      "citeBy": 1061, 
+      "title": "Object class recognition by unsupervised scale-invariant learning", 
+      "ranks": 43, 
+      "docid": "citeseerx-d2957"
+    }, 
+    {
+      "citeBy": 1043, 
+      "title": "Biological sequence analysis: probabilistic models of proteins and nucleic acids. Cambridge Univ", 
+      "ranks": 28, 
+      "docid": "citeseerx-d4899"
+    }, 
+    {
+      "citeBy": 986, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 51, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 990, 
+      "title": "Myrinet: A Gigabit-per-Second Local Area Network", 
+      "ranks": 81, 
+      "docid": "citeseerx-d3445"
+    }, 
+    {
+      "citeBy": 976, 
+      "title": "A Theory of Objects", 
+      "ranks": 61, 
+      "docid": "citeseerx-d685"
+    }, 
+    {
+      "citeBy": 912, 
+      "title": "Using Bayesian networks to analyze expression data", 
+      "ranks": 87, 
+      "docid": "citeseerx-d564"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 57, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 901, 
+      "title": "Public-key cryptosystems based on composite degree residuosity classes", 
+      "ranks": 80, 
+      "docid": "citeseerx-d7387"
+    }, 
+    {
+      "citeBy": 892, 
+      "title": "Visual categorization with bags of keypoints", 
+      "ranks": 50, 
+      "docid": "citeseerx-d493"
+    }, 
+    {
+      "citeBy": 886, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 73, 
+      "docid": "citeseerx-d708"
+    }, 
+    {
+      "citeBy": 804, 
+      "title": "An Integrative Model of Organizational Trust", 
+      "ranks": 8, 
+      "docid": "citeseerx-d983"
+    }, 
+    {
+      "citeBy": 813, 
+      "title": "Introduction to redundant arrays of inexpensive disks", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8309"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 59, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 780, 
+      "title": "Centering: A Framework for Modeling the Local Coherence Of Discourse", 
+      "ranks": 22, 
+      "docid": "citeseerx-d3444"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 48, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 794, 
+      "title": "Hierarchical Dirichlet processes", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4514"
+    }, 
+    {
+      "citeBy": 766, 
+      "title": "A large mass hierarchy from a small extra dimension", 
+      "ranks": 42, 
+      "docid": "citeseerx-d8310"
+    }, 
+    {
+      "citeBy": 758, 
+      "title": "Shape modeling with front propagation: A level set approach", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4692"
+    }, 
+    {
+      "citeBy": 757, 
+      "title": "Pictorial Structures for Object Recognition", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1826"
+    }, 
+    {
+      "citeBy": 743, 
+      "title": "Fitting a mixture model by expectation maximization to discover motifs in biopolymers", 
+      "ranks": 26, 
+      "docid": "citeseerx-d8307"
+    }, 
+    {
+      "citeBy": 749, 
+      "title": "Real-Time Tracking of Non-Rigid Objects using Mean Shift", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1619"
+    }, 
+    {
+      "citeBy": 748, 
+      "title": "Markov Logic Networks", 
+      "ranks": 99, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 701, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 12, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 734, 
+      "title": "Training Products of Experts by Minimizing Contrastive Divergence", 
+      "ranks": 56, 
+      "docid": "citeseerx-d3540"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multi-band Image Segmentation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2956"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Free-form deformation of solid geometric models", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1148"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 65, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "Active Learning with Statistical Models", 
+      "ranks": 9, 
+      "docid": "citeseerx-d5603"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Learning generative visual models from few training examples: an incremental Bayesian approach tested on 101 object categories", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6968"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 85, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Probabilistic Visual Learning for Object Representation", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1804"
+    }, 
+    {
+      "citeBy": 635, 
+      "title": "Hierarchical Models of Object Recognition in Cortex", 
+      "ranks": 13, 
+      "docid": "citeseerx-d3661"
+    }, 
+    {
+      "citeBy": 653, 
+      "title": "Directional Statistics and Shape Analysis", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6951"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models", 
+      "ranks": 19, 
+      "docid": "citeseerx-d6392"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "W4: Real-time surveillance of people and their activities", 
+      "ranks": 53, 
+      "docid": "citeseerx-d986"
+    }, 
+    {
+      "citeBy": 551, 
+      "title": "On active contour models and balloons", 
+      "ranks": 6, 
+      "docid": "citeseerx-d8306"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 21, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 611, 
+      "title": "Attention, similarity, and the identification-Categorization Relationship", 
+      "ranks": 67, 
+      "docid": "citeseerx-d3446"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 71, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "Why there are complementary learning systems in the hippocampus and neocortex: insights from the successes and failures of connectionist models of learning and memory", 
+      "ranks": 35, 
+      "docid": "citeseerx-d78"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 91, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 556, 
+      "title": "The dangers of replication and a solution", 
+      "ranks": 90, 
+      "docid": "citeseerx-d1088"
+    }, 
+    {
+      "citeBy": 434, 
+      "title": "Type IIB Green-Schwarz superstring in plane wave Ramond-Ramond background", 
+      "ranks": 37, 
+      "docid": "citeseerx-d8308"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Background Modeling", 
+      "ranks": 0, 
+      "docid": "citeseerx-d8303"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-parametric model for background subtraction", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7648"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "background model", 
+      "ranks": 3, 
+      "docid": "citeseerx-d8304"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Background • Model", 
+      "ranks": 4, 
+      "docid": "citeseerx-d8305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model checking and abstraction", 
+      "ranks": 7, 
+      "docid": "citeseerx-d403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hierarchical model-based motion estimation", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6453"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model-Based Analysis of Oligonucleotide Arrays: Model Validation, Design Issues and Standard Error Application", 
+      "ranks": 13, 
+      "docid": "citeseerx-d7340"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flocks, herds, and schools: a distributed behavioral model", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling Rational Agents within a BDI-Architecture", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope", 
+      "ranks": 26, 
+      "docid": "citeseerx-d533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Model of Saliency-based Visual Attention for Rapid Scene Analysis", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics", 
+      "ranks": 32, 
+      "docid": "citeseerx-d6375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Graph Cuts for Optimal Boundary &amp; Region Segmentation of Objects in N-D Images", 
+      "ranks": 39, 
+      "docid": "citeseerx-d3610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&quot;GrabCut” -- interactive foreground extraction using iterated graph cuts", 
+      "ranks": 47, 
+      "docid": "citeseerx-d290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONDENSATION - conditional density propagation for visual tracking", 
+      "ranks": 54, 
+      "docid": "citeseerx-d4906"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 65, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy-Preserving Data Mining", 
+      "ranks": 67, 
+      "docid": "citeseerx-d472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Foundations for the Study of Software Architecture", 
+      "ranks": 69, 
+      "docid": "citeseerx-d700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-time american sign language recognition using desk and wearable  computer based video", 
+      "ranks": 71, 
+      "docid": "citeseerx-d749"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Visual Analysis of Human Movement: A Survey", 
+      "ranks": 72, 
+      "docid": "citeseerx-d244"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contour Tracking By Stochastic Propagation of Conditional Density", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6952"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobility increases the capacity of ad-hoc wireless networks", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2386"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 84, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TOSSIM: Accurate and Scalable Simulation of Entire TinyOS Applications", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1087"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 89, 
+      "docid": "citeseerx-d336"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithms for Quantum Computation: Discrete Logarithms and Factoring", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6452"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GOLOG: A Logic Programming Language for Dynamic Domains", 
+      "ranks": 91, 
+      "docid": "citeseerx-d55"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Stochastic Logic Programs", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2159"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bigtable: A distributed storage system for structured data", 
+      "ranks": 93, 
+      "docid": "citeseerx-d1067"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 94, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Object Recognition from Local Scale-Invariant Features", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1829"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Eigenfaces vs. Fisherfaces: Recognition Using Class Specific Linear Projection", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1847"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Texture Synthesis by Non-parametric Sampling", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Geodesic Active Contours", 
+      "ranks": 99, 
+      "docid": "citeseerx-d3631"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q179"
+}

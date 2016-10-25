@@ -1,0 +1,522 @@
+{
+  "doclist": [
+    {
+      "citeBy": 96, 
+      "title": "Design and Implementation of a High-Fidelity AC Metering Network", 
+      "ranks": 10, 
+      "docid": "citeseerx-d2175"
+    }, 
+    {
+      "citeBy": 93, 
+      "title": "IP is Dead, Long Live IP for Wireless Sensor Networks", 
+      "ranks": 13, 
+      "docid": "citeseerx-d2179"
+    }, 
+    {
+      "citeBy": 40, 
+      "title": "Towards a Zero-Configuration Wireless Sensor Network Architecture for Smart Buildings", 
+      "ranks": 26, 
+      "docid": "citeseerx-d2211"
+    }, 
+    {
+      "citeBy": 25, 
+      "title": "Extending IP to Low-Power, wireless personal area networks", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2174"
+    }, 
+    {
+      "citeBy": 25, 
+      "title": "Transmission of ipv6 packets over ieee 802.15.4 networks", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2178"
+    }, 
+    {
+      "citeBy": 26, 
+      "title": "From the Internet of Computers to the Internet of Things", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2217"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Embedding Internet Technology for Home Automation", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2184"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Neighbor Discovery Optimization for IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs)", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2167"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "An Extended Internet Architecture for Low-Power Wireless Networks - Design and Implementation", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2216"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Beyond Interoperability: Pushing the Performance of Sensornet IP Stacks", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2220"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Wireless sensor networks: The biggest cross-community design exercise to-date", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2228"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "The Internet Underwater: An IP-compatible Protocol Stack for Commercial Undersea Modems", 
+      "ranks": 34, 
+      "docid": "citeseerx-d2209"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Lightweight IPv6 Stacks for Smart Objects: the Experience of Three Independent and Interoperable Implementations Internet Protocol for Smart Objects (IPSO) Alliance", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2223"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Integrating Challenged Networks", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2232"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Article IPv6 Addressing Proxy: Mapping Native Addressing from Legacy Technologies and Devices to the Internet of Things (IPv6)", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2258"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Some Considerations on Routing in Particular and Lossy Environments", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2249"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Disentangling wireless sensing from mesh networking", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2198"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Problem Statement and Requirements for IPv6 over Low-Power Wireless Personal Area Network (6LoWPAN) Routing", 
+      "ranks": 5, 
+      "docid": "citeseerx-d2168"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Industry: Beyond Interoperability – Pushing the Performance of Sensor Network IP Stacks", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2255"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Interconnection between 802.15.4 Devices and IPv6: Implications and Existing Approaches", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2194"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IPv6 over Low power WPAN WG (6lowpan) Chairs:", 
+      "ranks": 0, 
+      "docid": "citeseerx-d2161"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Routing Protocols in IPv6 enabled LoWPAN: A Survey", 
+      "ranks": 1, 
+      "docid": "citeseerx-d2163"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A STUDY ON PROTOCOL STACK IN 6LOWPAN MODEL 1", 
+      "ranks": 2, 
+      "docid": "citeseerx-d2164"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of 6LoWPAN for the Real-Time Positioning of Manufacturing Assets", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2166"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A 6LoWPAN Sensor Node Mobility Scheme Based on Proxy Mobile IPv6", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2169"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interoperability of LoWPANs Based on the IEEE802.15.4 Standard through IPV6", 
+      "ranks": 7, 
+      "docid": "citeseerx-d2170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance Analysis of IP over IEEE 802.15.4 Radio using 6LoWPAN", 
+      "ranks": 8, 
+      "docid": "citeseerx-d2172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "2009 Sixth International Conference on Information Technology: New Generations Supporting stateless address Auto-configuration in IP-based Wireless Sensor Networks", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Advisors:", 
+      "ranks": 14, 
+      "docid": "citeseerx-d2180"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Key Management in IP-based Ubiquitous Sensor Networks: Issues, Challenges and Solutions", 
+      "ranks": 16, 
+      "docid": "citeseerx-d2183"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transmission of IPv6 Packets over DECT Ultra Low Energy", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2181"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Review Article Security and Vulnerability of SCADA Systems over IP-Based Wireless Sensor Networks", 
+      "ranks": 18, 
+      "docid": "citeseerx-d2185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intended status: Standards Track", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2188"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IETF STANDARDS UPDATE Connecting Low-Power and Lossy Networks to the Internet", 
+      "ranks": 21, 
+      "docid": "citeseerx-d2190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Provisions Relating to IETF Documents", 
+      "ranks": 22, 
+      "docid": "citeseerx-d2192"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intended status: Standards Track Sigma Designs", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2187"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transmission of IPv6 Packets over DECT Ultra Low Energy", 
+      "ranks": 23, 
+      "docid": "citeseerx-d2193"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transmission of IPv6 Packets over DECT Ultra Low Energy", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2195"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet Protocol over Wireless Sensor Networks, from Myth to Reality", 
+      "ranks": 28, 
+      "docid": "citeseerx-d2200"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OPEN ACCESS", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance of constrained wireless devices in the Internet of Things", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Neighbor Discovery Proxy-Gateway for 6LoWPAN-based Wireless Sensor Networks", 
+      "ranks": 31, 
+      "docid": "citeseerx-d2196"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;IJDBCN (2010)--&quot; PLC sensor IPv6 networking interoperabe with WSN", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INVITED PAPER IPv6 in Low-Power Wireless Networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d2203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HES-SO", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "layer IPv6 Networking", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cisco Systems M. Wasserman Painless Security", 
+      "ranks": 38, 
+      "docid": "citeseerx-d2213"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Energy Aware IPv6 Neighbor Discovery Optimizations", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2210"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Status of This Memo", 
+      "ranks": 39, 
+      "docid": "citeseerx-d2215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DAD", 
+      "ranks": 42, 
+      "docid": "citeseerx-d2219"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet Protocol for Smart Objects (IPSO) Alliance", 
+      "ranks": 44, 
+      "docid": "citeseerx-d2222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HomeWeb: An Application Framework for", 
+      "ranks": 49, 
+      "docid": "citeseerx-d2229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Copyright Notice", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2230"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ENSA Of Tangier", 
+      "ranks": 51, 
+      "docid": "citeseerx-d2231"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SUMMARY", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2233"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Figure 1.  The Telecom Network Architecture Viewed as a Hierarchy of Interrelated Networks", 
+      "ranks": 54, 
+      "docid": "citeseerx-d2234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ZigBee/IEEE 802.15.4 Technologies in Ambient Assisted Living Applications", 
+      "ranks": 55, 
+      "docid": "citeseerx-d2235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploration of Existing Frameworks for Connecting Wireless Sensor Networks (WSNs) with Current Internet", 
+      "ranks": 56, 
+      "docid": "citeseerx-d2236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Connecting BT-LE sensors to the Internet using Ipv6", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2226"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Network Architecture for Smart Buildings", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2239"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IETF Internet-Draft Intended status: Informational", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Informatica, Universidade de", 
+      "ranks": 60, 
+      "docid": "citeseerx-d2241"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Copyright Notice", 
+      "ranks": 61, 
+      "docid": "citeseerx-d2242"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "12/20/13 Naming in the Internet of Things www.cse.wustl.edu/~jain/cse570-13/ftp/iot_name/index.html 1/7 Naming in the Internet of Things", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2243"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Deeper Problem Than It Seems", 
+      "ranks": 64, 
+      "docid": "citeseerx-d2246"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Enhanced Architecture for an Infrastructure based Middle-ware using Adaptive Network Coding and Global Data Formatting to Achieve Efficient IoTs", 
+      "ranks": 65, 
+      "docid": "citeseerx-d2247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Preface 7", 
+      "ranks": 66, 
+      "docid": "citeseerx-d2248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Web Service-based Communication Architecture for Smartphone/WPAN Sensor Ensembles", 
+      "ranks": 68, 
+      "docid": "citeseerx-d2250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Toshiba", 
+      "ranks": 69, 
+      "docid": "citeseerx-d2252"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ETH Zurich", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2253"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Project full title: Reconfigurable Ubiquitous Networked Embedded Systems", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2254"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;Workshop Interdisciplinaire Sur la Sécurité Globale (WISG) (2012)&quot; SAFEST: A Framework for Early Security Triggers in Public Spaces", 
+      "ranks": 73, 
+      "docid": "citeseerx-d2256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "This document is subject to BCP 78 and the IETF Trust’s Legal", 
+      "ranks": 74, 
+      "docid": "citeseerx-d2257"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The RUNES Architecture for Reconfigurable Embedded and Sensor Networks", 
+      "ranks": 76, 
+      "docid": "citeseerx-d2259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Copyright Notice", 
+      "ranks": 77, 
+      "docid": "citeseerx-d2260"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article eHealth Service Support in Future IPv6 Vehicular Networks", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article CoAP-Based Mobility Management for the Internet of Things", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2261"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Research Article Wireless Sensor Networks for Smart Grid Applications: A Case Study on Link Reliability and Node Lifetime Evaluations in Power Distribution Systems", 
+      "ranks": 79, 
+      "docid": "citeseerx-d2262"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "• Key Differences between IPv4 and IPv6 • Security Considerations • Infrastructure Migration • Migrating Code to IPv6", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SOME NOTES AND PROPOSALS ON THE USE OF IP-BASED APPROACHES IN WIRELESS SENSOR NETWORKS", 
+      "ranks": 81, 
+      "docid": "citeseerx-d2265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sixth Framework NoE 026854 Public Deliverable D5.5 European Sixth Framework Network of Excellence FP6-2004-IST-026854-NoE Deliverable D5.5", 
+      "ranks": 82, 
+      "docid": "citeseerx-d2266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Long-term outdoor reliability assessment of a wireless unit for air-quality monitoring based on nanostructured films integrated on micromachined platforms. Sensors 2012", 
+      "ranks": 83, 
+      "docid": "citeseerx-d2268"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "5", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Patents on IPv6-Related Technologies", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IP-Disruptive Wireless Networking: Integration in the Internet", 
+      "ranks": 85, 
+      "docid": "citeseerx-d2270"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q116"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 578, 
+      "title": "Social Network Sites: A Definition A History of Social Network Sites Previous Scholarship", 
+      "ranks": 6, 
+      "docid": "citeseerx-d553"
+    }, 
+    {
+      "citeBy": 487, 
+      "title": "Cloud Computing and Emerging IT Platforms: Vision, Hype, and Reality for Delivering Computing as the 5th Utility", 
+      "ranks": 8, 
+      "docid": "citeseerx-d465"
+    }, 
+    {
+      "citeBy": 394, 
+      "title": "The benefits of Facebook “friends”: Social capital and college students’ use of online social network sites", 
+      "ranks": 7, 
+      "docid": "citeseerx-d554"
+    }, 
+    {
+      "citeBy": 205, 
+      "title": "Imagined communities: Awareness, information sharing, and privacy on the Facebook", 
+      "ranks": 9, 
+      "docid": "citeseerx-d559"
+    }, 
+    {
+      "citeBy": 147, 
+      "title": "On the Evolution of User Interaction in Facebook", 
+      "ranks": 12, 
+      "docid": "citeseerx-d560"
+    }, 
+    {
+      "citeBy": 149, 
+      "title": "Looking at, looking up or keeping up with people?: Motives and use of Facebook", 
+      "ranks": 22, 
+      "docid": "citeseerx-d579"
+    }, 
+    {
+      "citeBy": 130, 
+      "title": "A familiar Face(book): Profile elements as signals in an online social network", 
+      "ranks": 38, 
+      "docid": "citeseerx-d578"
+    }, 
+    {
+      "citeBy": 121, 
+      "title": "Persona: An Online Social Network with User-Defined Privacy", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5329"
+    }, 
+    {
+      "citeBy": 82, 
+      "title": "Characterizing Privacy in Online Social Networks", 
+      "ranks": 62, 
+      "docid": "citeseerx-d5353"
+    }, 
+    {
+      "citeBy": 58, 
+      "title": "Analyzing Facebook privacy settings: User expectations vs. reality", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5257"
+    }, 
+    {
+      "citeBy": 63, 
+      "title": "NOYB: Privacy in Online Social Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5327"
+    }, 
+    {
+      "citeBy": 62, 
+      "title": "Flybynight: mitigating the privacy risks of social networking", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5363"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "The Taste for Privacy: An Analysis of College Student Privacy Settings in an Online Social Network", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5383"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "Changes in use and perception of Facebook", 
+      "ranks": 33, 
+      "docid": "citeseerx-d576"
+    }, 
+    {
+      "citeBy": 46, 
+      "title": "Social capital on Facebook: Differentiating uses and users", 
+      "ranks": 96, 
+      "docid": "citeseerx-d687"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "Friends Only: Examining a Privacy-Enhancing Behavior in Facebook", 
+      "ranks": 17, 
+      "docid": "citeseerx-d5271"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Information revelation and internet privacy concerns on social network sites: A case study of Facebook", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5369"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "An investigation into Facebook friend grouping", 
+      "ranks": 39, 
+      "docid": "citeseerx-d585"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "The Personality of Popular Facebook Users", 
+      "ranks": 46, 
+      "docid": "citeseerx-d591"
+    }, 
+    {
+      "citeBy": 21, 
+      "title": "Social Structure of Facebook Networks", 
+      "ranks": 51, 
+      "docid": "citeseerx-d589"
+    }, 
+    {
+      "citeBy": 16, 
+      "title": "Student awareness of the privacy implications when using Facebook", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5281"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Third-party Apps on Facebook: Privacy and the Illusion of Control", 
+      "ranks": 1, 
+      "docid": "citeseerx-d5251"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Silent Listeners: The Evolution of Privacy and Disclosure on Facebook", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5288"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "A Study of Privacy Settings Errors in an Online Social Network", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5358"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "The Post Anachronism: The Temporal Dimension of Facebook Privacy", 
+      "ranks": 2, 
+      "docid": "citeseerx-d5255"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Analyzing the Facebook Friendship Graph", 
+      "ranks": 58, 
+      "docid": "citeseerx-d607"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Identifying Social Capital in the Facebook Interface", 
+      "ranks": 27, 
+      "docid": "citeseerx-d697"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Understanding Motivations for Facebook Use: Usage Metrics, Network Structure, and Privacy", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5273"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Oops, I Did It Again: Mitigating Repeated Access Control Errors on Facebook", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5307"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Loosing ‘friends’ on Facebook", 
+      "ranks": 71, 
+      "docid": "citeseerx-d599"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Self-Censorship on Facebook", 
+      "ranks": 66, 
+      "docid": "citeseerx-d623"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Families on Facebook", 
+      "ranks": 40, 
+      "docid": "citeseerx-d565"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "C4PS- Helping Facebookers Manage their Privacy Settings", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5310"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Student athletes on Facebook", 
+      "ranks": 75, 
+      "docid": "citeseerx-d610"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Security Issue challenging facebook", 
+      "ranks": 79, 
+      "docid": "citeseerx-d624"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Modeling and Reasoning Upon Facebook Privacy Settings", 
+      "ranks": 3, 
+      "docid": "citeseerx-d5253"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "ABSTRACT Toward Usable Access Control for End-users: A Case Study of Facebook Privacy Settings", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5260"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Intelligent content-based privacy assistant for facebook", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5290"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Places to Go: Facebook", 
+      "ranks": 65, 
+      "docid": "citeseerx-d615"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Unbiased sampling of facebook", 
+      "ranks": 72, 
+      "docid": "citeseerx-d621"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Finding similar users in Facebook", 
+      "ranks": 90, 
+      "docid": "citeseerx-d645"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Perceptions of Facebook Privacy and Career Impression Management", 
+      "ranks": 0, 
+      "docid": "citeseerx-d5250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy and Facebook", 
+      "ranks": 6, 
+      "docid": "citeseerx-d563"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook: Threats to Privacy", 
+      "ranks": 9, 
+      "docid": "citeseerx-d581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PRIVACY CONCERNS IN FACEBOOK SITE", 
+      "ranks": 10, 
+      "docid": "citeseerx-d603"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy and Awareness on Facebook.com", 
+      "ranks": 11, 
+      "docid": "citeseerx-d632"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Perceptions of Privacy on Facebook", 
+      "ranks": 12, 
+      "docid": "citeseerx-d643"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook and Privacy: It’s Complicated", 
+      "ranks": 15, 
+      "docid": "citeseerx-d680"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Poster: Privacy Attitudes of Facebook Users", 
+      "ranks": 18, 
+      "docid": "citeseerx-d694"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy Perceptions of Photo Sharing in Facebook", 
+      "ranks": 18, 
+      "docid": "citeseerx-d5275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding Privacy Settings in Facebook with an Audience View", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5279"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy in Interaction: Exploring Disclosure and Social Capital in Facebook", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5294"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy Nudges for Social Media: An Exploratory Facebook Study", 
+      "ranks": 30, 
+      "docid": "citeseerx-d5295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trust and Privacy: A Comparison of Facebook and MySpace", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gender Differences in Student Attitude toward Privacy in Facebook", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5286"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USERS ’ PERCEPTIONS ON FACEBOOK’S PRIVACY POLICIES", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5292"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A privacy preservation model for Facebook-style social network systems", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5305"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PLEASE SCROLL DOWN FOR ARTICLETo Facebook, or not to Facebook To Facebook, or not to Facebook", 
+      "ranks": 41, 
+      "docid": "citeseerx-d569"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Privacy Preservation Model for Facebook-Like Social Network Systems", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5312"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Goes to the Doctor", 
+      "ranks": 43, 
+      "docid": "citeseerx-d654"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A comparison of Facebook and MySpace", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5308"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook and Privacy: The Balancing Act of Personality, Gender, and Relationship Currency", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5317"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook&apos;s Privacy Trainwreck Exposure, Invasion, and Social Convergence", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5318"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Experience and Privacy: Exploring the Disclosure Behaviors of Established Facebook Users", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5315"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "New services such as Facebook Platform,", 
+      "ranks": 57, 
+      "docid": "citeseerx-d641"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SI689 Computer Supported Cooperative Work Fall 2006 Privacy on Facebook", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5319"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Research ethics in the Facebook era: privacy, anonymity, and oversight", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Privacy and Disclosure on Facebook: Youth and Adults ’ Information Disclosure and Perceptions of Privacy Risks", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5340"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Case of Coopetition: Facebook and Decentralized Alternatives", 
+      "ranks": 67, 
+      "docid": "citeseerx-d701"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook Friend Suggestion", 
+      "ranks": 68, 
+      "docid": "citeseerx-d620"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Facebook in Education: Lessons", 
+      "ranks": 69, 
+      "docid": "citeseerx-d633"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy as information access and illusory control: The case of the Facebook News Feed privacy outcry", 
+      "ranks": 75, 
+      "docid": "citeseerx-d5352"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Enhance “Book Learning ” with Facebook", 
+      "ranks": 77, 
+      "docid": "citeseerx-d600"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inference Channels in the Facebook Social Network", 
+      "ranks": 79, 
+      "docid": "citeseerx-d706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network-level footprints of Facebook applications", 
+      "ranks": 80, 
+      "docid": "citeseerx-d676"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IDENTITY NEGOTIATION ON FACEBOOK.COM by", 
+      "ranks": 81, 
+      "docid": "citeseerx-d608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Analysis of Facebook Photo Caching", 
+      "ranks": 82, 
+      "docid": "citeseerx-d628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy wizards for social networking sites", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5365"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Online Social Networks in a Post-Soviet State: How Hungarians Protect and Share on Facebook", 
+      "ranks": 83, 
+      "docid": "citeseerx-d5367"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Translating Facebook into Endangered Languages", 
+      "ranks": 84, 
+      "docid": "citeseerx-d611"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emotional Experience on Facebook Site", 
+      "ranks": 85, 
+      "docid": "citeseerx-d618"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy-Preserving Data Publishing: A Survey on Recent Developments", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5371"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Opening Facebook: How to Use Facebook in the College Classroom", 
+      "ranks": 86, 
+      "docid": "citeseerx-d691"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Extraction and Analysis of Facebook Friendship Relations", 
+      "ranks": 87, 
+      "docid": "citeseerx-d705"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reporting on the Reporters: Facebook and Journalists", 
+      "ranks": 88, 
+      "docid": "citeseerx-d636"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatially bounded online social networks and social capital: the role of Facebook", 
+      "ranks": 88, 
+      "docid": "citeseerx-d682"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy Protection for Social Networking Platforms,” Web 2.0 Security and Privacy", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5376"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is the Privacy of Network Data an Oxymoron?", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5378"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identity construction on Facebook: Digital", 
+      "ranks": 91, 
+      "docid": "citeseerx-d642"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy: Is There An App for That?", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5380"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Investigation into the Problematic Use of Facebook", 
+      "ranks": 92, 
+      "docid": "citeseerx-d639"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Calling All Facebook Friends: Exploring Requests for Help on Facebook", 
+      "ranks": 93, 
+      "docid": "citeseerx-d684"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The “Facebook ” Effect Mashing Congress", 
+      "ranks": 95, 
+      "docid": "citeseerx-d646"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Identity Management: Multiple Presentations of Self in Facebook", 
+      "ranks": 95, 
+      "docid": "citeseerx-d689"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FACEBOOK’S POTENTIAL IN THE CLASSROOM 1 FACEBOOK’S POTENTIAL IN THE CLASSROOM", 
+      "ranks": 96, 
+      "docid": "citeseerx-d692"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Journal of Computer-Mediated Communication Facebook and Online Privacy: Attitudes, Behaviors, and Unintended Consequences", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5390"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "First Doctoral Symposium on Engineering Secure Software und Systems Modeling Social Networking Privacy", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5355"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy in Implementation ∗", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5392"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE FACEBOOK PROJECT THE MISSING BOX: THE RACIAL POLITICS BEHIND THE FACEBOOK INTERFACE", 
+      "ranks": 99, 
+      "docid": "citeseerx-d695"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q146"
+}

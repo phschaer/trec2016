@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 76, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Independent Component Analysis", 
+      "ranks": 84, 
+      "docid": "citeseerx-d793"
+    }, 
+    {
+      "citeBy": 728, 
+      "title": "A fast iterative shrinkage-thresholding algorithm with application to . . .", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6601"
+    }, 
+    {
+      "citeBy": 699, 
+      "title": "Independent component analysis: algorithms and applications", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1721"
+    }, 
+    {
+      "citeBy": 632, 
+      "title": "Graphical models, exponential families, and variational inference", 
+      "ranks": 86, 
+      "docid": "citeseerx-d1023"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "A Practical Guide to Wavelet Analysis", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1781"
+    }, 
+    {
+      "citeBy": 420, 
+      "title": "A review of image denoising algorithms, with a new one", 
+      "ranks": 74, 
+      "docid": "citeseerx-d6604"
+    }, 
+    {
+      "citeBy": 381, 
+      "title": "", 
+      "ranks": 90, 
+      "docid": "citeseerx-d6606"
+    }, 
+    {
+      "citeBy": 370, 
+      "title": "A non-local algorithm for image denoising", 
+      "ranks": 77, 
+      "docid": "citeseerx-d6611"
+    }, 
+    {
+      "citeBy": 366, 
+      "title": "Image denoising using a scale mixture of Gaussians in the wavelet domain", 
+      "ranks": 89, 
+      "docid": "citeseerx-d2474"
+    }, 
+    {
+      "citeBy": 362, 
+      "title": "The curvelet transform for image denoising", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4923"
+    }, 
+    {
+      "citeBy": 323, 
+      "title": "Adaptive Wavelet Thresholding for Image Denoising and Compression", 
+      "ranks": 70, 
+      "docid": "citeseerx-d6584"
+    }, 
+    {
+      "citeBy": 306, 
+      "title": "An EM Algorithm for Wavelet-Based Image Restoration", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6599"
+    }, 
+    {
+      "citeBy": 299, 
+      "title": "Iterative Methods For Total Variation Denoising", 
+      "ranks": 92, 
+      "docid": "citeseerx-d6603"
+    }, 
+    {
+      "citeBy": 278, 
+      "title": "Translation-invariant de-noising", 
+      "ranks": 72, 
+      "docid": "citeseerx-d6583"
+    }, 
+    {
+      "citeBy": 97, 
+      "title": "Block Coordinate Relaxation Methods for Nonparametric Wavelet Denoising", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6506"
+    }, 
+    {
+      "citeBy": 46, 
+      "title": "Improved Wavelet Denoising via Empirical Wiener Filtering", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6501"
+    }, 
+    {
+      "citeBy": 20, 
+      "title": "Artifact Free Signal Denoising With Wavelets", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6605"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "2000: Obtaining Single Stimulus Evoked Potentials with Wavelet Denoising", 
+      "ranks": 54, 
+      "docid": "citeseerx-d6561"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Diffusion-Inspired Shrinkage Functions and Stability Results for Wavelet Denoising", 
+      "ranks": 45, 
+      "docid": "citeseerx-d6546"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Multiple basis wavelet denoising using besov projections", 
+      "ranks": 31, 
+      "docid": "citeseerx-d6521"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Experiments with Adapted Wavelet De-Noising for Medical Signals and Images", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6554"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "A novel stationary wavelet denoising algorithm for array-based dna copy number data", 
+      "ranks": 62, 
+      "docid": "citeseerx-d6568"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Fast Haar-wavelet denoising of multidimensional fluorescence microscopy data", 
+      "ranks": 59, 
+      "docid": "citeseerx-d6565"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Enhancing Functional Neuroimages: Wavelet Denoising as an Alternative to Gaussian Smoothing", 
+      "ranks": 53, 
+      "docid": "citeseerx-d6558"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "CONVERGENCE AND PERFORMANCES OF THE PEELING WAVELET DENOISING ALGORITHM", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6494"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Shift-Invariant Wavelet Denoising Using Interscale Dependency", 
+      "ranks": 15, 
+      "docid": "citeseerx-d6502"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "A Semi-Local Paradigm for Wavelet Denoising", 
+      "ranks": 18, 
+      "docid": "citeseerx-d6505"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Pixel Fusion Based Curvelets and Wavelets Denoise Algorithm", 
+      "ranks": 19, 
+      "docid": "citeseerx-d6508"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Translation invariant wavelet denoising of poisson data", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6526"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Morphology of the galaxy distribution from wavelet denoising, Astrophys", 
+      "ranks": 35, 
+      "docid": "citeseerx-d6532"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "OCULAR ARTIFACTS REMOVAL IN SCALP EEG: COMBINING ICA AND WAVELET DENOISING", 
+      "ranks": 42, 
+      "docid": "citeseerx-d6542"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Time Adaptive Wavelet Denoising", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6488"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "MDL and wavelet denoising with soft thresholding", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6491"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Distributed wavelet de-noising for sensor networks", 
+      "ranks": 20, 
+      "docid": "citeseerx-d6509"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "A comparison study of signal extension methods for wavelet denoising of array", 
+      "ranks": 25, 
+      "docid": "citeseerx-d6514"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Fusion of brushlet and wavelet denoising methods for nuclear images", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6524"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Improvement Of Tdoa Measurement Using Wavelet Denoising With A Novel Thresholding Technique", 
+      "ranks": 46, 
+      "docid": "citeseerx-d6551"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "On-Line Wavelet Denoising with Application to the Control of a Reaction Wheel System", 
+      "ranks": 57, 
+      "docid": "citeseerx-d6563"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Portfolio Value at Risk Estimate for Crude Oil Markets: A Multivariate Wavelet Denoising Approach", 
+      "ranks": 82, 
+      "docid": "citeseerx-d6592"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Robust Speech Recognition Using Perceptual Wavelet Denoising and Mel-frequency Product Spectrum Cepstral Coefficient Features", 
+      "ranks": 88, 
+      "docid": "citeseerx-d6596"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Wavelet Denoising", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6487"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Robust Wavelet Denoising", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising and Speech Enhancement", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6490"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising by Recursive Cycle Spinning", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6492"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NMR Signal Processing with Wavelet Denoising", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6493"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet denoising of magnetic prospecting data", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising of Functional MRI Data", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Wavelet Denoising and Speech Enhancement", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET DE-NOISING IN IMAGE SEGMENTATION", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6498"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONVERGENCE AND PERFORMANCE OF THE PEELING WAVELET DENOISING ALGORITHM", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6499"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONVERGENCE AND PERFORMANCE OF THE PEELING WAVELET DENOISING ALGORITHM", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6500"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET DENOISING FOR P300 SINGLE-TRIAL DETECTION", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On wavelet denoising and its application to time delay estimation", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6504"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet denoising vs ica denoising for functional optical imaging", 
+      "ranks": 22, 
+      "docid": "citeseerx-d6511"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "How Well Can Wavelet Denoising Improve the Accuracy of Computing Fundamental Matrices?", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Preliminary investigation of multi-wavelet denoising in partial discharge detection", 
+      "ranks": 24, 
+      "docid": "citeseerx-d6513"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Wavelet De-noising in Vibration Torque Measurement", 
+      "ranks": 26, 
+      "docid": "citeseerx-d6515"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Wavelet Denoising to the Detection of Shared Congestion in Overlay Multimedia Networks", 
+      "ranks": 27, 
+      "docid": "citeseerx-d6516"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising of Chirp-like Signals in the Fourier Domain", 
+      "ranks": 28, 
+      "docid": "citeseerx-d6518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SPEECH ENHANCEMENT BASED ON WAVELET DENOISING S.MANIKANDAN,", 
+      "ranks": 29, 
+      "docid": "citeseerx-d6519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Investigation of neighbor multi-wavelet denoising in partial discharge", 
+      "ranks": 30, 
+      "docid": "citeseerx-d6520"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising Using the Pareto Optimal Threshold", 
+      "ranks": 32, 
+      "docid": "citeseerx-d6522"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast DOA estimation using wavelet denoising on", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6527"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet De-Noised Financial Time Series", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet denoising based on local regularity information", 
+      "ranks": 38, 
+      "docid": "citeseerx-d6535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet Denoising for Multi-lead High Resolution ECG Signals", 
+      "ranks": 39, 
+      "docid": "citeseerx-d6537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet denoising of the electrocardiogram signal based on the corrupted noise estimation", 
+      "ranks": 40, 
+      "docid": "citeseerx-d6539"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet denoising multicomponent images, uing a Gaussian scale mixture model, in", 
+      "ranks": 41, 
+      "docid": "citeseerx-d6540"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "De-Noising By Soft-Thresholding", 
+      "ranks": 43, 
+      "docid": "citeseerx-d4290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Denoising functional MR images: a comparison of wavelet denoising and Gaussian smoothing", 
+      "ranks": 46, 
+      "docid": "citeseerx-d6549"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ESTIMATION OF BRAIN RESPONSES BASED ON INDEPENDENT COMPONENT ANALYSIS AND WAVELET DENOISING 1", 
+      "ranks": 47, 
+      "docid": "citeseerx-d6552"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design of Hybrid Filter with Wavelet denoising and Anisotropic Diffusion Filter for Image Despeckling", 
+      "ranks": 49, 
+      "docid": "citeseerx-d6545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Diusion-Inspired Shrinkage Functions and Stability Results for Wavelet Denoising", 
+      "ranks": 50, 
+      "docid": "citeseerx-d6556"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Noise-based Wavelet Denoising Technique for Partial Discharge Measurement", 
+      "ranks": 51, 
+      "docid": "citeseerx-d6557"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SPATIAL OBJECT RECOGNITION VIA INTEGRATION OF DISCRETE WAVELET DENOISING AND NONLINEAR SEGMENTATION", 
+      "ranks": 56, 
+      "docid": "citeseerx-d6560"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET DE-NOISING AND GRADIENT ENHANCEMENT IN BIOMEDICAL IMAGE PROCESSING", 
+      "ranks": 57, 
+      "docid": "citeseerx-d6566"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet de-noising technique applied to the PLL of a GPS", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET DE-NOISING OF TERRESTRIAL LASER SCANNER DATA FOR THE CHARACTERIZATION OF ROCK SURFACE ROUGHNESS", 
+      "ranks": 61, 
+      "docid": "citeseerx-d6571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMAGE RESTORATION USING A HYBRID COMBINATION OF PARTICLE FILTERING AND WAVELET DENOISING", 
+      "ranks": 63, 
+      "docid": "citeseerx-d6569"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of Wavelet De-noising Technique on a Congested Internet Protocol (IP) Network", 
+      "ranks": 64, 
+      "docid": "citeseerx-d6573"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Singularity Detection And Processing With Wavelets", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4865"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IMPROVED BEARING ESTIMATION IN OCEAN BY NONLINEAR WAVELET DENOISING UNDER NON-GAUSSIAN NOISE CONDITIONS", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6572"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Refining Envelope Analysis Methods using Wavelet De-Noising to Identify Bearing Faults", 
+      "ranks": 71, 
+      "docid": "citeseerx-d6576"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiresolution Wavelet Denoising for Ultra-Wideband Time-of-Arrival Estimation with Regularized Least Squares ✩", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6577"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SUBMITTED TO CURRENT MEDICAL IMAGING REVIEWS 1 A review of wavelet denoising in MRI and ultrasound brain imaging", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6580"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "APPLICATION OF A MULTIDIMENSIONAL WAVELET DENOISING ALGORITHM FOR THE DETECTION AND CHARACTERIZATION OF ASTROPHYSICAL SOURCES OF GAMMA RAYS", 
+      "ranks": 79, 
+      "docid": "citeseerx-d6586"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 APPLICATION OF A MULTIDIMENSIONAL WAVELET DENOISING ALGORITHM FOR THE DETECTION AND CHARACTERIZATION OF ASTROPHYSICAL SOURCES OF GAMMA RAYS", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Entropy-Based Wavelet De-noising Method for Time Series Analysis Yan-Fang Sang", 
+      "ranks": 81, 
+      "docid": "citeseerx-d6590"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Dantzig Selector: Statistical Estimation When p Is Much Larger Than n", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1746"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelet-based statistical signal processing using hidden Markov models", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6597"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;EUPSICO 2008, 16th European Signal Processing Program (2008)&quot; WAVELET DENOISING BASED ON LOCAL REGULARITY INFORMATION", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Behavior of MDL Denoising", 
+      "ranks": 87, 
+      "docid": "citeseerx-d6595"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Habituation and sensitization in rat auditory evoked", 
+      "ranks": 87, 
+      "docid": "citeseerx-d6600"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Modificatin of AIC using Denoising by Wavelet", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6607"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artifact Free Signal Denoising With Wavelets", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Denoising", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6609"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Denoising Using Wavelets — Wavelets &amp; Time Frequency —", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;7th IEEE International Symposium on Signal Processing and its applications, Paris: France (2003)&quot; FETAL ELECTROCARDIOGRAM EXTRACTION BASED ON NON-STATIONARY ICA AND WAVELET DENOISING", 
+      "ranks": 99, 
+      "docid": "citeseerx-d6612"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q158"
+}

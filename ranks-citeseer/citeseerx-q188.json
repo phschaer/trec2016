@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 7891, 
+      "title": "Distinctive Image Features from Scale-Invariant Keypoints", 
+      "ranks": 44, 
+      "docid": "citeseerx-d1808"
+    }, 
+    {
+      "citeBy": 5265, 
+      "title": "A tutorial on hidden Markov models and selected applications in speech recognition", 
+      "ranks": 86, 
+      "docid": "citeseerx-d3995"
+    }, 
+    {
+      "citeBy": 4144, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 3678, 
+      "title": "Snakes: Active contour models", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4601"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 3, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 81, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2213, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 56, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 1841, 
+      "title": "The probabilistic method", 
+      "ranks": 4, 
+      "docid": "citeseerx-d1117"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 1, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1915, 
+      "title": "Robust Uncertainty Principles: Exact Signal Reconstruction From Highly Incomplete Frequency Information", 
+      "ranks": 69, 
+      "docid": "citeseerx-d4193"
+    }, 
+    {
+      "citeBy": 1798, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 90, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 1703, 
+      "title": "A tutorial on particle filters for online nonlinear/non-Gaussian Bayesian tracking", 
+      "ranks": 80, 
+      "docid": "citeseerx-d292"
+    }, 
+    {
+      "citeBy": 1680, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 52, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 74, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 1218, 
+      "title": "Monte Carlo Statistical Methods", 
+      "ranks": 6, 
+      "docid": "citeseerx-d440"
+    }, 
+    {
+      "citeBy": 1312, 
+      "title": "SCOP, Structural Classification of Proteins Database: Applications to Evaluation of the Effectiveness of Sequence Alignment Methods and Statistics of Protein Structural Data", 
+      "ranks": 22, 
+      "docid": "citeseerx-d535"
+    }, 
+    {
+      "citeBy": 1337, 
+      "title": "Wrappers for Feature Subset Selection", 
+      "ranks": 91, 
+      "docid": "citeseerx-d271"
+    }, 
+    {
+      "citeBy": 1254, 
+      "title": "A Bayesian method for the induction of probabilistic networks from data", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1581"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 1246, 
+      "title": "Performance of optical flow techniques", 
+      "ranks": 59, 
+      "docid": "citeseerx-d2432"
+    }, 
+    {
+      "citeBy": 1237, 
+      "title": "Face Recognition: A Literature Survey", 
+      "ranks": 72, 
+      "docid": "citeseerx-d202"
+    }, 
+    {
+      "citeBy": 1220, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 97, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 1174, 
+      "title": "Probabilistic Roadmaps for Path Planning in High-Dimensional Configuration Spaces", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7294"
+    }, 
+    {
+      "citeBy": 1179, 
+      "title": "Automatic Acquisition of Hyponyms from Large Text Corpora", 
+      "ranks": 96, 
+      "docid": "citeseerx-d251"
+    }, 
+    {
+      "citeBy": 1124, 
+      "title": "Near Optimal Signal Recovery From Random Projections: Universal Encoding Strategies?", 
+      "ranks": 42, 
+      "docid": "citeseerx-d249"
+    }, 
+    {
+      "citeBy": 1022, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 7, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 1108, 
+      "title": "Constraint Networks", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2328"
+    }, 
+    {
+      "citeBy": 1076, 
+      "title": "Fronts propagating with curvature dependent speed: algorithms based on Hamilton–Jacobi formulations", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4274"
+    }, 
+    {
+      "citeBy": 1001, 
+      "title": "AN INTRODUCTION TO VARIATIONAL METHODS FOR GRAPHICAL MODELS", 
+      "ranks": 9, 
+      "docid": "citeseerx-d970"
+    }, 
+    {
+      "citeBy": 1000, 
+      "title": "USER’S GUIDE TO VISCOSITY SOLUTIONS OF SECOND ORDER PARTIAL DIFFERENTIAL EQUATIONS", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5405"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Planning and acting in partially observable stochastic domains", 
+      "ranks": 33, 
+      "docid": "citeseerx-d3550"
+    }, 
+    {
+      "citeBy": 1047, 
+      "title": "The JPEG still picture compression standard", 
+      "ranks": 49, 
+      "docid": "citeseerx-d3945"
+    }, 
+    {
+      "citeBy": 1056, 
+      "title": "Next century challenges: Scalable coordination in sensor networks", 
+      "ranks": 93, 
+      "docid": "citeseerx-d828"
+    }, 
+    {
+      "citeBy": 1017, 
+      "title": "Genetic Programming", 
+      "ranks": 39, 
+      "docid": "citeseerx-d255"
+    }, 
+    {
+      "citeBy": 997, 
+      "title": "The Lumigraph", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4287"
+    }, 
+    {
+      "citeBy": 921, 
+      "title": "GPS-less Low Cost Outdoor Localization For Very Small Devices", 
+      "ranks": 58, 
+      "docid": "citeseerx-d784"
+    }, 
+    {
+      "citeBy": 912, 
+      "title": "Using Bayesian networks to analyze expression data", 
+      "ranks": 87, 
+      "docid": "citeseerx-d564"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 64, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 89, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 845, 
+      "title": "Boosting the margin: A new explanation for the effectiveness of voting methods", 
+      "ranks": 20, 
+      "docid": "citeseerx-d3616"
+    }, 
+    {
+      "citeBy": 863, 
+      "title": "The rendering equation", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4455"
+    }, 
+    {
+      "citeBy": 859, 
+      "title": "Non-Uniform Random Variate Generation", 
+      "ranks": 71, 
+      "docid": "citeseerx-d794"
+    }, 
+    {
+      "citeBy": 849, 
+      "title": "A Delay-Tolerant Network Architecture for Challenged Internets”, Intel Research", 
+      "ranks": 84, 
+      "docid": "citeseerx-d614"
+    }, 
+    {
+      "citeBy": 827, 
+      "title": "Inverse Acoustic and Electromagnetic Scattering Theory, Second Edition", 
+      "ranks": 30, 
+      "docid": "citeseerx-d4265"
+    }, 
+    {
+      "citeBy": 795, 
+      "title": "OBB-Tree: A hierarchical structure for rapid interference detection", 
+      "ranks": 77, 
+      "docid": "citeseerx-d1636"
+    }, 
+    {
+      "citeBy": 790, 
+      "title": "Sparse Bayesian Learning and the Relevance Vector Machine", 
+      "ranks": 95, 
+      "docid": "citeseerx-d310"
+    }, 
+    {
+      "citeBy": 783, 
+      "title": "The FF planning system: Fast plan generation through heuristic search", 
+      "ranks": 65, 
+      "docid": "citeseerx-d776"
+    }, 
+    {
+      "citeBy": 753, 
+      "title": "A Survey of Program Slicing Techniques", 
+      "ranks": 29, 
+      "docid": "citeseerx-d2351"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "Multidimensional Access Methods", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5401"
+    }, 
+    {
+      "citeBy": 758, 
+      "title": "Shape modeling with front propagation: A level set approach", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4692"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 43, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Tabu Search", 
+      "ranks": 45, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "A Security Architecture for Computational Grids", 
+      "ranks": 2, 
+      "docid": "citeseerx-d3415"
+    }, 
+    {
+      "citeBy": 683, 
+      "title": "Multimodality Image Registration by Maximization of Mutual Information", 
+      "ranks": 35, 
+      "docid": "citeseerx-d4902"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 17, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 613, 
+      "title": "Image registration methods: a survey", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1733"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Transfer of Cognitive Skill", 
+      "ranks": 46, 
+      "docid": "citeseerx-d979"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "A Signal Processing Approach To Fair Surface Design", 
+      "ranks": 66, 
+      "docid": "citeseerx-d449"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "An Empirical Comparison of Voting Classification Algorithms: Bagging, Boosting, and Variants", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4598"
+    }, 
+    {
+      "citeBy": 565, 
+      "title": "Interior-point Methods", 
+      "ranks": 10, 
+      "docid": "citeseerx-d307"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "Comparing Images Using the Hausdorff Distance", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7694"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "On agent-based software engineering", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Multivariate adaptive regression splines", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1106"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 94, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 568, 
+      "title": "Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search", 
+      "ranks": 24, 
+      "docid": "citeseerx-d364"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Learning probabilistic relational models", 
+      "ranks": 54, 
+      "docid": "citeseerx-d803"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 36, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "Model Checking Programs", 
+      "ranks": 92, 
+      "docid": "citeseerx-d688"
+    }, 
+    {
+      "citeBy": 519, 
+      "title": "Inductive Logic Programming: Theory and Methods", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4554"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Volumetric Method for Building Complex Models from Range Images", 
+      "ranks": 11, 
+      "docid": "citeseerx-d1068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge", 
+      "ranks": 12, 
+      "docid": "citeseerx-d264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sequential data assimilation with a nonlinear quasi-geostrophic model using Monte Carlo methods to forecast error statistics", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6375"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDDL2.1: An extension to PDDL for expressing temporal planning domains", 
+      "ranks": 21, 
+      "docid": "citeseerx-d67"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Semi-Structured Data", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1735"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiobjective evolutionary algorithms: a comparative case study and the strength pareto approach", 
+      "ranks": 26, 
+      "docid": "citeseerx-d201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automatic Subspace Clustering of High Dimensional Data", 
+      "ranks": 29, 
+      "docid": "citeseerx-d1688"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Finding structure in time", 
+      "ranks": 30, 
+      "docid": "citeseerx-d657"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A case study of open source software development: the Apache server", 
+      "ranks": 33, 
+      "docid": "citeseerx-d1052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Graph Cuts for Optimal Boundary &amp; Region Segmentation of Objects in N-D Images", 
+      "ranks": 40, 
+      "docid": "citeseerx-d3610"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "De-Noising By Soft-Thresholding", 
+      "ranks": 43, 
+      "docid": "citeseerx-d4290"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Relations between the statistics of natural images and the response properties of cortical cells", 
+      "ranks": 46, 
+      "docid": "citeseerx-d2285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Surface Simplification Using Quadric Error Metrics", 
+      "ranks": 47, 
+      "docid": "citeseerx-d1635"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ant System: Optimization by a colony of cooperating agents", 
+      "ranks": 50, 
+      "docid": "citeseerx-d236"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey on Sensor Networks", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2326"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reliable Communication in the Presence of Failures", 
+      "ranks": 59, 
+      "docid": "citeseerx-d1121"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality", 
+      "ranks": 60, 
+      "docid": "citeseerx-d407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Cricket Location-Support System", 
+      "ranks": 61, 
+      "docid": "citeseerx-d3052"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Indexing by latent semantic analysis", 
+      "ranks": 73, 
+      "docid": "citeseerx-d1825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An approach to correlate tandem mass spectral data of peptides with amino acid sequences in a protein database", 
+      "ranks": 76, 
+      "docid": "citeseerx-d1084"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast Planning Through Planning Graph Analysis", 
+      "ranks": 84, 
+      "docid": "citeseerx-d2171"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generic Schema Matching with Cupid", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Active Appearance Models", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3967"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Image Quilting for Texture Synthesis and Transfer", 
+      "ranks": 91, 
+      "docid": "citeseerx-d2926"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ANALYSIS OF WIRELESS SENSOR NETWORKS FOR HABITAT MONITORING", 
+      "ranks": 92, 
+      "docid": "citeseerx-d756"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 93, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 94, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Multilevel k-way Partitioning Scheme for Irregular Graphs", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4671"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The model checker SPIN", 
+      "ranks": 98, 
+      "docid": "citeseerx-d763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Maximum Entropy approach to Natural Language Processing", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4676"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q188"
+}

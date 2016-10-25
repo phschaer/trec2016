@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1413, 
+      "title": "Bayes Factors", 
+      "ranks": 5, 
+      "docid": "citeseerx-d755"
+    }, 
+    {
+      "citeBy": 810, 
+      "title": "THE CAUSAL EFFECT OF EDUCATION ON EARNINGS", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4548"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Africa´s Growth Tragedy: Policies and Ethnic Divisions”, The Quarterly", 
+      "ranks": 4, 
+      "docid": "citeseerx-d783"
+    }, 
+    {
+      "citeBy": 1193, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 10, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 972, 
+      "title": "Planning Algorithms", 
+      "ranks": 14, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 729, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 11, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "The Economics of Immigration", 
+      "ranks": 3, 
+      "docid": "citeseerx-d746"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "Time Discounting and Time Preference: A Critical Review", 
+      "ranks": 7, 
+      "docid": "citeseerx-d3490"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "A distributed, developmental model of word recognition and naming", 
+      "ranks": 12, 
+      "docid": "citeseerx-d209"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Universals in the content and structure of values: theoretical advances and empirical tests in 20 countries", 
+      "ranks": 9, 
+      "docid": "citeseerx-d9147"
+    }, 
+    {
+      "citeBy": 517, 
+      "title": "Executive Compensation", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1876"
+    }, 
+    {
+      "citeBy": 492, 
+      "title": "The Skill Content of Recent Technological Change: An Empirical Exploration", 
+      "ranks": 15, 
+      "docid": "citeseerx-d3524"
+    }, 
+    {
+      "citeBy": 467, 
+      "title": "Imagined Communities", 
+      "ranks": 16, 
+      "docid": "citeseerx-d9149"
+    }, 
+    {
+      "citeBy": 454, 
+      "title": "The Structuring of Organizations", 
+      "ranks": 17, 
+      "docid": "citeseerx-d830"
+    }, 
+    {
+      "citeBy": 436, 
+      "title": "ReVirt: Enabling Intrusion Analysis through Virtual-Machine Logging and Replay", 
+      "ranks": 18, 
+      "docid": "citeseerx-d9145"
+    }, 
+    {
+      "citeBy": 428, 
+      "title": "The role of deliberate practice in the acquisition of expert performance", 
+      "ranks": 19, 
+      "docid": "citeseerx-d2506"
+    }, 
+    {
+      "citeBy": 422, 
+      "title": "The psychological foundations of culture", 
+      "ranks": 20, 
+      "docid": "citeseerx-d2341"
+    }, 
+    {
+      "citeBy": 399, 
+      "title": "Computing Inequality: Have Computers Changed the Labor Market?”Quarterly", 
+      "ranks": 21, 
+      "docid": "citeseerx-d9155"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Can Falling Supply Explain the Rising Return to College for Younger Men? A Cohort-Based Analysis", 
+      "ranks": 22, 
+      "docid": "citeseerx-d9165"
+    }, 
+    {
+      "citeBy": 359, 
+      "title": "The Microfinance Promise", 
+      "ranks": 23, 
+      "docid": "citeseerx-d9162"
+    }, 
+    {
+      "citeBy": 358, 
+      "title": "Positive psychology: An introduction", 
+      "ranks": 24, 
+      "docid": "citeseerx-d3602"
+    }, 
+    {
+      "citeBy": 340, 
+      "title": "Institutions as the Fundamental Cause of Long-Run Growth", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4010"
+    }, 
+    {
+      "citeBy": 336, 
+      "title": "An Empirical Study of Operating System Errors", 
+      "ranks": 26, 
+      "docid": "citeseerx-d9163"
+    }, 
+    {
+      "citeBy": 334, 
+      "title": "The Constitution of", 
+      "ranks": 28, 
+      "docid": "citeseerx-d9166"
+    }, 
+    {
+      "citeBy": 331, 
+      "title": "State Transition Analysis: A Rule-Based Intrusion Detection Approach", 
+      "ranks": 29, 
+      "docid": "citeseerx-d9157"
+    }, 
+    {
+      "citeBy": 313, 
+      "title": "The proper scope of government: Theory and an application to prisons. Quarterly", 
+      "ranks": 30, 
+      "docid": "citeseerx-d9168"
+    }, 
+    {
+      "citeBy": 308, 
+      "title": "Productivity Growth, Convergence, and Welfare: What the Long-Run Data Show", 
+      "ranks": 31, 
+      "docid": "citeseerx-d9180"
+    }, 
+    {
+      "citeBy": 303, 
+      "title": "Economic Performance Through Time", 
+      "ranks": 32, 
+      "docid": "citeseerx-d9173"
+    }, 
+    {
+      "citeBy": 301, 
+      "title": "Determinants of long-term growth: a Bayesian Averaging of Classical Estimates (BACE) approach", 
+      "ranks": 33, 
+      "docid": "citeseerx-d9171"
+    }, 
+    {
+      "citeBy": 286, 
+      "title": "The political blogosphere and the 2004 U.S. election: Divided they blog", 
+      "ranks": 35, 
+      "docid": "citeseerx-d42"
+    }, 
+    {
+      "citeBy": 278, 
+      "title": "An introduction to the five-factor model and its applications", 
+      "ranks": 36, 
+      "docid": "citeseerx-d9213"
+    }, 
+    {
+      "citeBy": 269, 
+      "title": "Economic Shocks and Civil Conflict: An Instrumental Variables Approach", 
+      "ranks": 37, 
+      "docid": "citeseerx-d9218"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "Hmm-based word alignment in statistical translation", 
+      "ranks": 38, 
+      "docid": "citeseerx-d9178"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "Pricing the Internet", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4007"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 1, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 7, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The DLV System for Knowledge Representation and Reasoning", 
+      "ranks": 17, 
+      "docid": "citeseerx-d9152"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education", 
+      "ranks": 22, 
+      "docid": "citeseerx-d9159"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment", 
+      "ranks": 23, 
+      "docid": "citeseerx-d3594"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational education Teacher training", 
+      "ranks": 34, 
+      "docid": "citeseerx-d9175"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Vocational Education Vocational Certificates", 
+      "ranks": 35, 
+      "docid": "citeseerx-d9177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Representations of Rigid Solids: Theory, Methods, and Systems", 
+      "ranks": 38, 
+      "docid": "citeseerx-d9182"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic storage allocation: A survey and critical review", 
+      "ranks": 39, 
+      "docid": "citeseerx-d9184"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Empathy: A Study of Resentment by the", 
+      "ranks": 40, 
+      "docid": "citeseerx-d9187"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "vocational education", 
+      "ranks": 41, 
+      "docid": "citeseerx-d9189"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Vocational Education", 
+      "ranks": 42, 
+      "docid": "citeseerx-d9191"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy by Design - Principles of Privacy-Aware Ubiquitous Systems", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5666"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Maximum Entropy Models for Natural Language Ambiguity Resolution", 
+      "ranks": 44, 
+      "docid": "citeseerx-d9193"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational education", 
+      "ranks": 45, 
+      "docid": "citeseerx-d9195"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Returns to Computer Use Revisited: Have Pencils Changed the Wage Structure Too?” NBER Working Paper 5606", 
+      "ranks": 47, 
+      "docid": "citeseerx-d9197"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Adaptive Execution in Complex Dynamic Worlds", 
+      "ranks": 48, 
+      "docid": "citeseerx-d9015"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Intertemporal choice and inequality", 
+      "ranks": 49, 
+      "docid": "citeseerx-d9201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mudding: Social phenomena in text-based virtual realities", 
+      "ranks": 50, 
+      "docid": "citeseerx-d9203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OECD Reviews of Vocational Education and Training", 
+      "ranks": 51, 
+      "docid": "citeseerx-d9206"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "IN VOCATIONAL ACCESS COURSES IN NUMERACY", 
+      "ranks": 52, 
+      "docid": "citeseerx-d9207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rights Education in Technical Education and Vocational Training PROJECT THE", 
+      "ranks": 53, 
+      "docid": "citeseerx-d9209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Education and self-selection", 
+      "ranks": 54, 
+      "docid": "citeseerx-d9211"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transforming Data to Satisfy Privacy Constraints", 
+      "ranks": 56, 
+      "docid": "citeseerx-d9216"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Vocational EducationPolicies and Guidelines for Educational and Vocational Guidance", 
+      "ranks": 58, 
+      "docid": "citeseerx-d9220"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Vocational Education Policies and Guidelines for Educational and Vocational Guidance", 
+      "ranks": 59, 
+      "docid": "citeseerx-d9222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education in England", 
+      "ranks": 60, 
+      "docid": "citeseerx-d9223"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transforming Vocational Education in Slovakia", 
+      "ranks": 61, 
+      "docid": "citeseerx-d9225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Australian Vocational Education Review", 
+      "ranks": 62, 
+      "docid": "citeseerx-d9227"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The vocational equivalent to Year 12", 
+      "ranks": 63, 
+      "docid": "citeseerx-d9228"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AND VOCATIONAL EDUCATION AND TRAINING", 
+      "ranks": 64, 
+      "docid": "citeseerx-d9231"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational education in China", 
+      "ranks": 65, 
+      "docid": "citeseerx-d9234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Innovation in vocational education in The", 
+      "ranks": 66, 
+      "docid": "citeseerx-d9235"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational and Technical Education", 
+      "ranks": 67, 
+      "docid": "citeseerx-d9238"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Foucauldian strategy for vocational education and training research", 
+      "ranks": 68, 
+      "docid": "citeseerx-d9240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithms for Sequential Decision Making", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Welfare to Work: Considerations for Adult and Vocational Education Programs", 
+      "ranks": 70, 
+      "docid": "citeseerx-d9243"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education and the Labor Market", 
+      "ranks": 71, 
+      "docid": "citeseerx-d9245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Individual Risk Attitudes: New Evidence from a Large, Representative, Experimentally-Validated Survey.” Discussion Paper No", 
+      "ranks": 72, 
+      "docid": "citeseerx-d9248"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education and Training", 
+      "ranks": 73, 
+      "docid": "citeseerx-d9250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Curriculum design in vocational education", 
+      "ranks": 74, 
+      "docid": "citeseerx-d9252"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Technical and Vocational Education and Training", 
+      "ranks": 75, 
+      "docid": "citeseerx-d9254"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOCATIONAL, EDUCATION AND TRAINING", 
+      "ranks": 76, 
+      "docid": "citeseerx-d9256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The effects of cognitive and non-cognitive abilities on labor market outcomes and social behavior", 
+      "ranks": 77, 
+      "docid": "citeseerx-d9257"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Educational and Vocational Guidance", 
+      "ranks": 78, 
+      "docid": "citeseerx-d9259"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education and Training Network", 
+      "ranks": 79, 
+      "docid": "citeseerx-d9261"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TECHNICAL AND VOCATIONAL EDUCATION.", 
+      "ranks": 80, 
+      "docid": "citeseerx-d9263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "D: A LANGUAGE FRAMEWORK FOR DISTRIBUTED PROGRAMMING", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1425"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOCATIONAL SECONDARY EDUCATION", 
+      "ranks": 82, 
+      "docid": "citeseerx-d9265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational and Technical Education", 
+      "ranks": 83, 
+      "docid": "citeseerx-d9267"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Can Vocational Education Improve the", 
+      "ranks": 84, 
+      "docid": "citeseerx-d9269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Office of Vocational and Adult Education", 
+      "ranks": 85, 
+      "docid": "citeseerx-d9272"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PORTFOLIO ASSESSMENT IN VOCATIONAL EDUCATION: THE", 
+      "ranks": 86, 
+      "docid": "citeseerx-d9274"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AND VOCATIONAL EDUCATION AND TRAINING", 
+      "ranks": 87, 
+      "docid": "citeseerx-d9275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "pedagogic spaces in vocational education", 
+      "ranks": 88, 
+      "docid": "citeseerx-d9276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Vocational Education Training Practices", 
+      "ranks": 89, 
+      "docid": "citeseerx-d9277"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOCATIONAL/TECHNICAL INSTITUTES By", 
+      "ranks": 90, 
+      "docid": "citeseerx-d9278"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Education Vocational Training Council", 
+      "ranks": 91, 
+      "docid": "citeseerx-d9279"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education and Training", 
+      "ranks": 92, 
+      "docid": "citeseerx-d9281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AND VOCATIONAL TRAINING IN", 
+      "ranks": 93, 
+      "docid": "citeseerx-d9283"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Grandmothers and Granddaughters: Old-Age Pensions and Intrahousehold Allocation in", 
+      "ranks": 94, 
+      "docid": "citeseerx-d9285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CASE Tools as Organizational Change: Investigating Incremental . . .", 
+      "ranks": 95, 
+      "docid": "citeseerx-d9286"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Peer-to-Peer Computing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6089"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "2006) “Trade, FDI, and the Organization of Firms", 
+      "ranks": 97, 
+      "docid": "citeseerx-d9288"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The weighting of evidence and the determinants of confidence", 
+      "ranks": 98, 
+      "docid": "citeseerx-d9291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vocational Education and Training: the role of ODL", 
+      "ranks": 99, 
+      "docid": "citeseerx-d9293"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q189"
+}

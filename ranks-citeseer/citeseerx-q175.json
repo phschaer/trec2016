@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 26, 
+      "title": "From the Internet of Computers to the Internet of Things", 
+      "ranks": 9, 
+      "docid": "citeseerx-d2217"
+    }, 
+    {
+      "citeBy": 24, 
+      "title": "Embedded Interaction – Interacting with the Internet of Things", 
+      "ranks": 18, 
+      "docid": "citeseerx-d7735"
+    }, 
+    {
+      "citeBy": 16, 
+      "title": "Smart Semantic Middleware for the Internet of Things", 
+      "ranks": 39, 
+      "docid": "citeseerx-d7768"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Mobile Interaction with the Internet of Things", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7720"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Object Recognition for the Internet of Things", 
+      "ranks": 21, 
+      "docid": "citeseerx-d7743"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "The Software Fabric for the Internet of Things", 
+      "ranks": 7, 
+      "docid": "citeseerx-d7722"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Firm Firmware and Apps for the Internet of Things", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7771"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Market-based user innovation in the internet of things", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7828"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "CA4IOT: Context Awareness for Internet of Things", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7866"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Middleware support for the “Internet of Things”", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7729"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Efficient information lookup for the Internet of Things", 
+      "ranks": 60, 
+      "docid": "citeseerx-d7791"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "An Autonomic-oriented Architecture for the Internet of Things", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7776"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Semantic-Service Provisioning for the Internet of Things", 
+      "ranks": 66, 
+      "docid": "citeseerx-d7812"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Network Self-Organization in the Internet of Things", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7736"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Service Oriented Middleware for the Internet of Things: A Perspective ⋆", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7795"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "A Middleware Framework for the Internet of Things", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7809"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Improving Service Management in the Internet of Things", 
+      "ranks": 73, 
+      "docid": "citeseerx-d7822"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Security challenges in the IP-based internet of things", 
+      "ranks": 80, 
+      "docid": "citeseerx-d7829"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "A Survey on Internet of Things: Security and Privacy Issues", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7831"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7707"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "to the Internet of Things", 
+      "ranks": 1, 
+      "docid": "citeseerx-d7710"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7712"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SOFIA, Internet of Things and", 
+      "ranks": 3, 
+      "docid": "citeseerx-d7715"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE INTERNET OF THINGS Smart Community: An Internet of Things Application", 
+      "ranks": 4, 
+      "docid": "citeseerx-d7717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Internet of Things in an Enterprise Context", 
+      "ranks": 5, 
+      "docid": "citeseerx-d7719"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "RFID, ENERGY, AND INTERNET OF THINGS", 
+      "ranks": 8, 
+      "docid": "citeseerx-d7724"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Query by Combination in the Internet of Things", 
+      "ranks": 10, 
+      "docid": "citeseerx-d7726"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Services Internet of Things", 
+      "ranks": 13, 
+      "docid": "citeseerx-d7733"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Challenges and Opportunities of Internet of Things", 
+      "ranks": 14, 
+      "docid": "citeseerx-d7731"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things: A New Paradigm", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7739"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Case for Open Ecosystems for the Internet of Things", 
+      "ranks": 22, 
+      "docid": "citeseerx-d7741"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Identities in the Future Internet of Things", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7755"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lightweight Cryptography for the Internet of Things", 
+      "ranks": 27, 
+      "docid": "citeseerx-d7750"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things: Services and Applications Categorization", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7762"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Advanced Internet of Things", 
+      "ranks": 29, 
+      "docid": "citeseerx-d7754"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trust and the Internet of Things", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7757"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Application of the Internet of things in Colleges ’ management", 
+      "ranks": 34, 
+      "docid": "citeseerx-d7745"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Securing the Internet of Things with DTLS", 
+      "ranks": 35, 
+      "docid": "citeseerx-d7747"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Micro Grids Internet of Things", 
+      "ranks": 36, 
+      "docid": "citeseerx-d7759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introduction to Internet of Things", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7752"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AN ANALYSIS OF AUTHENTICATION SCHEMES FOR INTERNET OF THINGS", 
+      "ranks": 38, 
+      "docid": "citeseerx-d7760"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "o c,* Keywords: Internet of Things", 
+      "ranks": 41, 
+      "docid": "citeseerx-d7763"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PERSONALIZED HEALTHCARE COMMUNICATION IN INTERNET OF THINGS", 
+      "ranks": 42, 
+      "docid": "citeseerx-d7765"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Things That Twitter: Social Networks and the Internet of Things", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BIT – A Browser for the Internet of Things", 
+      "ranks": 45, 
+      "docid": "citeseerx-d7769"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy, Trust and Interaction in the Internet of Things", 
+      "ranks": 47, 
+      "docid": "citeseerx-d7773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security in the Internet of Things: A Review", 
+      "ranks": 49, 
+      "docid": "citeseerx-d7778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Internet of Things – Promise for the Future? An Introduction", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7807"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INTELLIGENT CARGO USING INTERNET OF THINGS", 
+      "ranks": 51, 
+      "docid": "citeseerx-d7785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Importance of Network Security in Internet of Things", 
+      "ranks": 54, 
+      "docid": "citeseerx-d7786"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software Quality Assurance in Internet of Things", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Service Co-evolution in the Internet of Things", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things Wireless Sensor Networks", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7820"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Middleware for the Internet of Things, Design Goals and", 
+      "ranks": 57, 
+      "docid": "citeseerx-d7780"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using the Internet of Things to Improve the Public Transport Experience", 
+      "ranks": 59, 
+      "docid": "citeseerx-d7789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Connecting Passive RFID Tags to the Internet of Things", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7797"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Realizing the Internet of Things in Service-Centric Environments", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Index Terms—mobile service interaction, Internet of things,", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7805"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things: Architecture, Security Issues and Countermeasures", 
+      "ranks": 67, 
+      "docid": "citeseerx-d7845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Case for Integrating Needs and Preferences in the Internet of Things", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7799"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LIGHTWEIGHT SECURITY SOLUTIONS FOR THE INTERNET OF THINGS", 
+      "ranks": 69, 
+      "docid": "citeseerx-d7814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nanotechnology, Ubiquitous Computing and The Internet of Things:", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ubiquitous Computing The Internet of Things 5", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7818"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "OPTIMIZING CLOUD RESOURCES ALLOCATION FOR AN INTERNET OF THINGS ARCHITECTURE∗", 
+      "ranks": 75, 
+      "docid": "citeseerx-d7860"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Multimodal Information Processing GroupINTERNET OF THINGS", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Perci: Pervasive Service Interaction with the Internet of Things", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Smart Subway Information Platform based on Internet of Things", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7863"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet Protocol", 
+      "ranks": 78, 
+      "docid": "citeseerx-d3518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance of constrained wireless devices in the Internet of Things", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INTRODUCTION TO THE SPECIAL ISSUE ON CLOUD FOR INTERNET OF THINGS", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7836"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-User Development in the Internet of Things Era", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cover Feature Prototyping Connected Devices for the Internet of Things", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7834"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "7 Technologies, Applications, and Governance in the Internet of Things", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7869"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Review on Internet of Things (IoT)", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7871"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Research of routing protocol in RFID-based internet of things", 
+      "ranks": 84, 
+      "docid": "citeseerx-d7839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "POSTER: Computations on Encrypted Data in the Internet of Things Applications", 
+      "ranks": 84, 
+      "docid": "citeseerx-d7873"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architecture and Protocols for the Internet of Things: A Case Study", 
+      "ranks": 85, 
+      "docid": "citeseerx-d7874"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Healthcare applications of the Internet of Things: A Review", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7856"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Sensor Networks and the Internet of Things: Selected Challenges", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7875"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EDITORIAL Editorial: Special issue on Internet of Things:", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7877"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SNViz: Analysis-oriented Visualization for the Internet of Things", 
+      "ranks": 88, 
+      "docid": "citeseerx-d7844"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Augmented reality as an enabling factor for the Internet of Things", 
+      "ranks": 88, 
+      "docid": "citeseerx-d7879"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COVER FEATURE OUTLOOK Enabling the Internet of Things", 
+      "ranks": 89, 
+      "docid": "citeseerx-d7847"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Poster: Towards Encrypted Query Processing for the Internet of Things", 
+      "ranks": 89, 
+      "docid": "citeseerx-d7880"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 The cooperative Internet of Things enabled Smart Grid", 
+      "ranks": 90, 
+      "docid": "citeseerx-d7881"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tasking Wireless Sensor Nodes in the Internet of Things", 
+      "ranks": 91, 
+      "docid": "citeseerx-d7855"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architectural Solutions for Mobile RFID Services on Internet of Things", 
+      "ranks": 91, 
+      "docid": "citeseerx-d7882"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A lightweight agent-based architecture for the Internet of Things", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7849"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Semantic Models for Scalable Search in the Internet of Things", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7883"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Flexible Architecture for Internet of Things Utilizing an Local Manager", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7851"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Cryptographic Approaches to Internet-Of-Things Security", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Toward User-Centric Feature Composition for the Internet of Things", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A User-Centered Application Layer for the Internet of Things", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7853"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Padova Smart City: an Urban Internet of Things Experimentation", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7887"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Talos: Encrypted Query Processing for the Internet of Things", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7888"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Classification of Cyberphysical Smart Objects in the Internet of Things", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7891"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Car Accident Notification System based on Internet of Things", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7842"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NETCONF-based Integrated Management for Internet of Things using RESTful Web Services", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7893"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Smart Objects as Building Blocks for the Internet of Things", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7858"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Internet of Things Track Building the Internet of Things Using RFID The RFID Ecosystem Experience", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7895"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q175"
+}

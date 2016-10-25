@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 65, 
+      "title": "The Growing Hierarchical Self-Organizing Map", 
+      "ranks": 11, 
+      "docid": "citeseerx-d7515"
+    }, 
+    {
+      "citeBy": 54, 
+      "title": "Energy Functions for Self-Organizing Maps", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7600"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "Bankruptcy Analysis with Self-Organizing Maps in Learning Metrics", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7593"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "Comparing Self-Organizing Maps", 
+      "ranks": 10, 
+      "docid": "citeseerx-d7513"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "LabelSOM: On the Labeling of Self-Organizing Maps", 
+      "ranks": 66, 
+      "docid": "citeseerx-d7590"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "Nonlinear Blind Source Separation by Self-Organizing Maps", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7607"
+    }, 
+    {
+      "citeBy": 47, 
+      "title": "GTM: A Principled Alternative to the Self-Organizing Map", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7608"
+    }, 
+    {
+      "citeBy": 35, 
+      "title": "A Stochastic Self-Organizing Map for Proximity Data", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7606"
+    }, 
+    {
+      "citeBy": 34, 
+      "title": "Alternative Ways for Cluster Visualization in Self-Organizing Maps", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7595"
+    }, 
+    {
+      "citeBy": 31, 
+      "title": "On the Analysis of Pattern Sequences by Self-Organizing Maps", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7550"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Hyperparameter selection for self-organizing maps", 
+      "ranks": 25, 
+      "docid": "citeseerx-d7541"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Context Learning with the Self-Organizing Map", 
+      "ranks": 15, 
+      "docid": "citeseerx-d7524"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Aligned Self-Organizing Maps", 
+      "ranks": 3, 
+      "docid": "citeseerx-d7499"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Process Modeling Using the Self-Organizing Map", 
+      "ranks": 80, 
+      "docid": "citeseerx-d7605"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Recent Advances with the Growing Hierarchical Self-Organizing Map", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7621"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Weighted Self-Organizing Maps: Incorporating User Feedback", 
+      "ranks": 51, 
+      "docid": "citeseerx-d7574"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Raike A.: Self-organizing maps and constructive learning", 
+      "ranks": 49, 
+      "docid": "citeseerx-d7573"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Learning more accurate metrics for self-organizing maps", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7629"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "The Parameter-Less Self-Organizing Map algorithm", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7596"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Document Classification with Self-Organizing Maps", 
+      "ranks": 35, 
+      "docid": "citeseerx-d7552"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Mnemonic soms: Recognizable shapes for self-organizing maps", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7610"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Time Topology for the Self-Organizing Map", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7539"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "String Averages and Self-Organizing Maps for Strings", 
+      "ranks": 69, 
+      "docid": "citeseerx-d7594"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Developments and Applications of the Self-Organizing Map and Related Algorithms", 
+      "ranks": 85, 
+      "docid": "citeseerx-d7611"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Competitive Financial Benchmarking Using Self-Organizing Maps", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7612"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "ASSOCIATIVE SELF-ORGANIZING MAP", 
+      "ranks": 8, 
+      "docid": "citeseerx-d7507"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Rough Self Organizing Map", 
+      "ranks": 14, 
+      "docid": "citeseerx-d7521"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "On Global Self-Organizing Maps.", 
+      "ranks": 22, 
+      "docid": "citeseerx-d7535"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Privacy-preserving self-organizing map", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7543"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Analyzing Financial Statements with the Self-Organizing Map", 
+      "ranks": 59, 
+      "docid": "citeseerx-d7583"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "A supervised self-organizing map for structures", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7588"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Identification and Classification of Multiple Reflections With Self-Organizing Maps", 
+      "ranks": 67, 
+      "docid": "citeseerx-d7591"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Evolutionary Self-Organizing Map", 
+      "ranks": 7, 
+      "docid": "citeseerx-d7505"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Winner-Relaxing Self-Organizing Maps", 
+      "ranks": 32, 
+      "docid": "citeseerx-d7547"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Order Parameters for Self-Organizing Maps", 
+      "ranks": 39, 
+      "docid": "citeseerx-d7557"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Object Recovery Using Hierarchical Self-Organizing Maps", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7570"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Microarray Gene Selection Using Self-Organizing Map", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7587"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "H.: Fusion of Self Organizing Maps", 
+      "ranks": 76, 
+      "docid": "citeseerx-d7599"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Process Monitoring and Visualisation Using Self-Organizing Maps", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7604"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Simplexes, Multi-Dimensional Scaling and Self-Organized Mapping", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7624"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Reunifying Self-Organizing Map", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7497"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Selective Attention and Self-Organizing Maps", 
+      "ranks": 17, 
+      "docid": "citeseerx-d7528"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Rushes Summarization with Self-Organizing Maps", 
+      "ranks": 34, 
+      "docid": "citeseerx-d7551"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Dynamic Extentions of Self-Organizing Maps", 
+      "ranks": 36, 
+      "docid": "citeseerx-d7554"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "AN ANTICIPATORY SELF-ORGANIZED MAP FOR ROBUST RECOGNITION", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7582"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Globalor : A Parallel Implementation Of The Self-Organizing Map", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7586"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Simulating Actions with the Associative Self-Organizing Map", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7626"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-organizing maps", 
+      "ranks": 1, 
+      "docid": "citeseerx-d7496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Disconnecting Self-Organizing Map", 
+      "ranks": 4, 
+      "docid": "citeseerx-d7501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering of the Self-Organizing Map", 
+      "ranks": 5, 
+      "docid": "citeseerx-d7495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering of Self-Organizing Map", 
+      "ranks": 5, 
+      "docid": "citeseerx-d7502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Chaotic Self-organizing Map", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7503"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multiple Self-Organizing Maps", 
+      "ranks": 9, 
+      "docid": "citeseerx-d7510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EM algorithms for self-organizing maps", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7517"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Web Usage Mining Using Self Organized Maps", 
+      "ranks": 13, 
+      "docid": "citeseerx-d7519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Self- • Organizing Map", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ubiquitous Self-Organizing Maps", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps for Representing Structures", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7531"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self–Organizing Maps #", 
+      "ranks": 20, 
+      "docid": "citeseerx-d7533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Metrics for Self-Organizing Maps", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Self-Organizing Map of Attribute Trees", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps, Vector Quantization, and Mixture Modeling", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7549"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps for Multi-Objective Optimization", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7555"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Self-Organizing Map in Industry Analysis", 
+      "ranks": 34, 
+      "docid": "citeseerx-d7556"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps for Time Series", 
+      "ranks": 38, 
+      "docid": "citeseerx-d7562"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognisable Shapes for Self-Organizing Maps", 
+      "ranks": 40, 
+      "docid": "citeseerx-d7559"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Topology-Preserving Interpolation in Self-organizing Maps", 
+      "ranks": 41, 
+      "docid": "citeseerx-d7560"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Task Assignment by Self-Organizing Maps", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7564"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self Organizing Maps for Visualization of Categories", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7571"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visualizing self-organizing maps with GIS", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7567"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps for Pattern Classification", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7572"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Disambiguating Words with Self-Organizing Maps", 
+      "ranks": 45, 
+      "docid": "citeseerx-d7569"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-organizing Maps with spiking neuron model JASTAP", 
+      "ranks": 48, 
+      "docid": "citeseerx-d7577"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ACCEPTED MANUSCRIPT SELF-ORGANIZING MAPS WITH DYNAMIC LEARNING FOR SIGNAL RECONSTRUCTION", 
+      "ranks": 53, 
+      "docid": "citeseerx-d7578"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "”Kernelized ” Self-Organizing Maps for Structured Data", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7579"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Use of Self-Organizing Map (SOM) in Linguistic Visualization", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7581"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GROWING HIERARCHICAL SELF ORGANIZING MAP", 
+      "ranks": 57, 
+      "docid": "citeseerx-d7575"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self Organizing Maps for Text Clustering", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7589"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimizing Parallel Program Execution by Self-Organizing Maps", 
+      "ranks": 60, 
+      "docid": "citeseerx-d7584"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Clustering of Self-Organizing Map Considering Winning Frequency", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7592"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps: Generalizations and New Optimization Techniques", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7602"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cartograms, Self-Organizing Maps, and magnification control", 
+      "ranks": 72, 
+      "docid": "citeseerx-d7597"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1Financial Applications of Self-Organizing Maps", 
+      "ranks": 73, 
+      "docid": "citeseerx-d7598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps Applied to Engine Health Diagnostics", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7613"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-organizing Maps vs. Backpropagation: An Experimental Study", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7616"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps And Software Reuse", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7617"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Organization Measures for Self-Organizing Maps", 
+      "ranks": 83, 
+      "docid": "citeseerx-d7618"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps in Evolutionary Approach meant for", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7622"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Map in Matlab: the SOM Toolbox", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7623"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kohonen Self-Organizing Map for the Traveling Salesperson Problem", 
+      "ranks": 88, 
+      "docid": "citeseerx-d7614"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A hierarchical Self-Organizing Map for classification problems", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7620"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps for Pareto Optimization of Airfoils", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fitness Functions for the Optimization of Self-Organizing Maps", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7630"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CHAOSOM: Collaboration between Chaos and Self-Organizing Map", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7631"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-organizing maps in sequence processing", 
+      "ranks": 96, 
+      "docid": "citeseerx-d7632"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Publication 7 Clustering of the Self−Organizing Map", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7625"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Processing Missing Values with Self-Organized Maps", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7633"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Organizing Maps In Sequence Processing", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7634"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Processing Symbolic Data With Self-Organizing Maps", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An accelerator for Kohonen Self-Organizing Maps", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7635"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q172"
+}

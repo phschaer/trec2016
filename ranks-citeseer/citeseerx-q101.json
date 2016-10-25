@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 511, 
+      "title": "Computing semantic relatedness using Wikipedia-based explicit semantic analysis", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4"
+    }, 
+    {
+      "citeBy": 695, 
+      "title": "Imagenet: A large-scale hierarchical image database", 
+      "ranks": 3, 
+      "docid": "citeseerx-d23"
+    }, 
+    {
+      "citeBy": 576, 
+      "title": "DBpedia: A Nucleus for a Web of Open Data", 
+      "ranks": 1, 
+      "docid": "citeseerx-d8"
+    }, 
+    {
+      "citeBy": 623, 
+      "title": "Photo tourism: Exploring photo collections in 3D", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6"
+    }, 
+    {
+      "citeBy": 621, 
+      "title": "Linked Data -- The story so far", 
+      "ranks": 4, 
+      "docid": "citeseerx-d15"
+    }, 
+    {
+      "citeBy": 564, 
+      "title": "Measurement and Analysis of Online Social Networks", 
+      "ranks": 5, 
+      "docid": "citeseerx-d14"
+    }, 
+    {
+      "citeBy": 489, 
+      "title": "The Wealth of Networks: How Social Production Transforms Markets and", 
+      "ranks": 6, 
+      "docid": "citeseerx-d19"
+    }, 
+    {
+      "citeBy": 466, 
+      "title": "Data Streams: Algorithms and Applications", 
+      "ranks": 7, 
+      "docid": "citeseerx-d12"
+    }, 
+    {
+      "citeBy": 462, 
+      "title": "Designing Games With A Purpose", 
+      "ranks": 8, 
+      "docid": "citeseerx-d22"
+    }, 
+    {
+      "citeBy": 459, 
+      "title": "Evaluation campaigns and TRECVid", 
+      "ranks": 10, 
+      "docid": "citeseerx-d17"
+    }, 
+    {
+      "citeBy": 437, 
+      "title": "Yago: A Core of Semantic Knowledge", 
+      "ranks": 11, 
+      "docid": "citeseerx-d28"
+    }, 
+    {
+      "citeBy": 441, 
+      "title": "Why We Twitter: Understanding Microblogging Usage and Communities", 
+      "ranks": 13, 
+      "docid": "citeseerx-d26"
+    }, 
+    {
+      "citeBy": 372, 
+      "title": "Crowdsourcing user studies with Mechanical Turk", 
+      "ranks": 14, 
+      "docid": "citeseerx-d33"
+    }, 
+    {
+      "citeBy": 336, 
+      "title": "DBpedia -- A Crystallization Point for the Web of Data", 
+      "ranks": 15, 
+      "docid": "citeseerx-d40"
+    }, 
+    {
+      "citeBy": 290, 
+      "title": "Learning to link with wikipedia", 
+      "ranks": 9, 
+      "docid": "citeseerx-d20"
+    }, 
+    {
+      "citeBy": 300, 
+      "title": "Studying Cooperation and Conflict between Authors with History Flow Visualizations", 
+      "ranks": 17, 
+      "docid": "citeseerx-d30"
+    }, 
+    {
+      "citeBy": 286, 
+      "title": "The political blogosphere and the 2004 U.S. election: Divided they blog", 
+      "ranks": 21, 
+      "docid": "citeseerx-d42"
+    }, 
+    {
+      "citeBy": 240, 
+      "title": "Semantic Wikipedia", 
+      "ranks": 12, 
+      "docid": "citeseerx-d10"
+    }, 
+    {
+      "citeBy": 238, 
+      "title": "Wikify!: linking documents to encyclopedic knowledge", 
+      "ranks": 22, 
+      "docid": "citeseerx-d87"
+    }, 
+    {
+      "citeBy": 207, 
+      "title": "Large-scale named entity disambiguation based on Wikipedia data", 
+      "ranks": 18, 
+      "docid": "citeseerx-d35"
+    }, 
+    {
+      "citeBy": 185, 
+      "title": "Becoming Wikipedian: Transformation of participation in a collaborative online encyclopedia", 
+      "ranks": 40, 
+      "docid": "citeseerx-d124"
+    }, 
+    {
+      "citeBy": 172, 
+      "title": "Wikirelate! computing semantic relatedness using wikipedia", 
+      "ranks": 19, 
+      "docid": "citeseerx-d31"
+    }, 
+    {
+      "citeBy": 144, 
+      "title": "An Effective, Low-Cost Measure of Semantic Relatedness Obtained from Wikipedia Links", 
+      "ranks": 27, 
+      "docid": "citeseerx-d66"
+    }, 
+    {
+      "citeBy": 110, 
+      "title": "Overcoming the brittleness bottleneck using wikipedia: enhancing text categorization with encyclopedic knowledge", 
+      "ranks": 43, 
+      "docid": "citeseerx-d74"
+    }, 
+    {
+      "citeBy": 108, 
+      "title": "Harnessing the Wisdom of Crowds in Wikipedia: Quality Through Coordination", 
+      "ranks": 30, 
+      "docid": "citeseerx-d64"
+    }, 
+    {
+      "citeBy": 98, 
+      "title": "Deriving a Large Scale Taxonomy from Wikipedia", 
+      "ranks": 35, 
+      "docid": "citeseerx-d72"
+    }, 
+    {
+      "citeBy": 94, 
+      "title": "Automatically Refining the Wikipedia Infobox Ontology", 
+      "ranks": 28, 
+      "docid": "citeseerx-d38"
+    }, 
+    {
+      "citeBy": 94, 
+      "title": "Collective Annotation of Wikipedia Entities in Web Text", 
+      "ranks": 39, 
+      "docid": "citeseerx-d99"
+    }, 
+    {
+      "citeBy": 93, 
+      "title": "He says, she says: conflict and coordination in wikipedia", 
+      "ranks": 37, 
+      "docid": "citeseerx-d70"
+    }, 
+    {
+      "citeBy": 87, 
+      "title": "Power of the few vs. wisdom of the crowd: Wikipedia and the rise of the bourgeoisie", 
+      "ranks": 69, 
+      "docid": "citeseerx-d139"
+    }, 
+    {
+      "citeBy": 85, 
+      "title": "BOpen information extraction using Wikipedia", 
+      "ranks": 34, 
+      "docid": "citeseerx-d79"
+    }, 
+    {
+      "citeBy": 66, 
+      "title": "Using Wikipedia for Automatic Word Sense Disambiguation", 
+      "ranks": 68, 
+      "docid": "citeseerx-d119"
+    }, 
+    {
+      "citeBy": 63, 
+      "title": "Mining meaning from Wikipedia", 
+      "ranks": 33, 
+      "docid": "citeseerx-d51"
+    }, 
+    {
+      "citeBy": 58, 
+      "title": "Creating, Destroying, and Restoring Value in Wikipedia", 
+      "ranks": 56, 
+      "docid": "citeseerx-d86"
+    }, 
+    {
+      "citeBy": 56, 
+      "title": "Information quality work organization in Wikipedia", 
+      "ranks": 62, 
+      "docid": "citeseerx-d91"
+    }, 
+    {
+      "citeBy": 45, 
+      "title": "Clustering Short Texts using Wikipedia", 
+      "ranks": 71, 
+      "docid": "citeseerx-d110"
+    }, 
+    {
+      "citeBy": 44, 
+      "title": "Automatic Vandalism Detection in Wikipedia", 
+      "ranks": 46, 
+      "docid": "citeseerx-d61"
+    }, 
+    {
+      "citeBy": 43, 
+      "title": "Topic Indexing with Wikipedia", 
+      "ranks": 47, 
+      "docid": "citeseerx-d68"
+    }, 
+    {
+      "citeBy": 43, 
+      "title": "Cooperation and quality in Wikipedia", 
+      "ranks": 49, 
+      "docid": "citeseerx-d62"
+    }, 
+    {
+      "citeBy": 31, 
+      "title": "Network analysis for Wikipedia", 
+      "ranks": 63, 
+      "docid": "citeseerx-d76"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Socialization tactics in wikipedia and their effects", 
+      "ranks": 73, 
+      "docid": "citeseerx-d101"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Measuring Author Contributions to the Wikipedia", 
+      "ranks": 78, 
+      "docid": "citeseerx-d97"
+    }, 
+    {
+      "citeBy": 21, 
+      "title": "Visualizing activity on Wikipedia with Chromograms", 
+      "ranks": 77, 
+      "docid": "citeseerx-d105"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Finding experts using wikipedia", 
+      "ranks": 76, 
+      "docid": "citeseerx-d93"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Entity ranking in Wikipedia", 
+      "ranks": 88, 
+      "docid": "citeseerx-d113"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "The importance of link evidence in Wikipedia", 
+      "ranks": 86, 
+      "docid": "citeseerx-d104"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Faceted wikipedia search", 
+      "ranks": 83, 
+      "docid": "citeseerx-d108"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Assessing the value of cooperation in wikipedia", 
+      "ranks": 98, 
+      "docid": "citeseerx-d117"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Intelligence in Wikipedia", 
+      "ranks": 44, 
+      "docid": "citeseerx-d44"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Content-Driven Reputation System for the Wikipedia", 
+      "ranks": 18, 
+      "docid": "citeseerx-d37"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is Wikipedia Biased?", 
+      "ranks": 23, 
+      "docid": "citeseerx-d46"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia-based", 
+      "ranks": 29, 
+      "docid": "citeseerx-d57"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia as an ontology for describing documents", 
+      "ranks": 41, 
+      "docid": "citeseerx-d81"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Yago: A Large Ontology from Wikipedia and WordNet", 
+      "ranks": 42, 
+      "docid": "citeseerx-d84"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia and the Semantic Web - The Missing Links", 
+      "ranks": 45, 
+      "docid": "citeseerx-d89"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is Wikipedia Too Difficult? Comparative Analysis of Readability of Wikipedia, Simple Wikipedia and Britannica", 
+      "ranks": 48, 
+      "docid": "citeseerx-d95"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Authority of Wikipedia", 
+      "ranks": 50, 
+      "docid": "citeseerx-d48"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Notes on Wikipedia", 
+      "ranks": 51, 
+      "docid": "citeseerx-d52"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summarizing with Wikipedia", 
+      "ranks": 52, 
+      "docid": "citeseerx-d54"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia Mining Wikipedia as a Corpus for Knowledge Extraction", 
+      "ranks": 52, 
+      "docid": "citeseerx-d102"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "According to Wikipedia", 
+      "ranks": 53, 
+      "docid": "citeseerx-d56"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trustworthiness of Wikipedia", 
+      "ranks": 54, 
+      "docid": "citeseerx-d59"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Is Wikipedia link structure different", 
+      "ranks": 57, 
+      "docid": "citeseerx-d111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia Workload Analysis for Decentralized Hosting", 
+      "ranks": 59, 
+      "docid": "citeseerx-d115"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Why Is Wikipedia Not More Widely", 
+      "ranks": 61, 
+      "docid": "citeseerx-d118"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Named Entity Recognition in Wikipedia", 
+      "ranks": 63, 
+      "docid": "citeseerx-d121"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using and detecting links in wikipedia", 
+      "ranks": 64, 
+      "docid": "citeseerx-d123"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Measuring the Quality of Wikipedia Articles", 
+      "ranks": 66, 
+      "docid": "citeseerx-d126"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia workload analysis, in", 
+      "ranks": 67, 
+      "docid": "citeseerx-d128"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scientific citations in wikipedia", 
+      "ranks": 68, 
+      "docid": "citeseerx-d131"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improving Wikipedia with DBpedia", 
+      "ranks": 69, 
+      "docid": "citeseerx-d133"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using Wikipedia at the TREC  QA Track", 
+      "ranks": 70, 
+      "docid": "citeseerx-d136"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Spatiotemporal mapping of Wikipedia concepts", 
+      "ranks": 71, 
+      "docid": "citeseerx-d137"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Focused Access to Wikipedia", 
+      "ranks": 73, 
+      "docid": "citeseerx-d141"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trust Evaluation Mechanisms for Wikipedia", 
+      "ranks": 74, 
+      "docid": "citeseerx-d143"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Wikipedia Documents and Relationships", 
+      "ranks": 75, 
+      "docid": "citeseerx-d146"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Uncovering the semantics of wikipedia pagelinks", 
+      "ranks": 76, 
+      "docid": "citeseerx-d148"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Knowledge management using Wikipedia", 
+      "ranks": 77, 
+      "docid": "citeseerx-d150"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of community structure in wikipedia", 
+      "ranks": 78, 
+      "docid": "citeseerx-d151"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Link Spamming Wikipedia for Profit", 
+      "ranks": 79, 
+      "docid": "citeseerx-d153"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Searching the Wikipedia with Contextual Information", 
+      "ranks": 80, 
+      "docid": "citeseerx-d155"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detailed Text Categorisation for Wikipedia", 
+      "ranks": 81, 
+      "docid": "citeseerx-d157"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sense and Reference Disambiguation in Wikipedia", 
+      "ranks": 82, 
+      "docid": "citeseerx-d158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detecting Vandalism in Wikipedia Edits", 
+      "ranks": 83, 
+      "docid": "citeseerx-d161"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Edit wars in Wikipedia", 
+      "ranks": 84, 
+      "docid": "citeseerx-d163"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Infobox Suggestion for Wikipedia Entities", 
+      "ranks": 85, 
+      "docid": "citeseerx-d166"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Task Recommendation on Wikipedia", 
+      "ranks": 86, 
+      "docid": "citeseerx-d168"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Towards the Natural Ontology of Wikipedia", 
+      "ranks": 87, 
+      "docid": "citeseerx-d170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia: Nowhere to grow", 
+      "ranks": 88, 
+      "docid": "citeseerx-d172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summarizing Definition from Wikipedia", 
+      "ranks": 89, 
+      "docid": "citeseerx-d173"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Triplifying Wikipedia’s Tables", 
+      "ranks": 90, 
+      "docid": "citeseerx-d176"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Societal Controversies in Wikipedia Articles", 
+      "ranks": 91, 
+      "docid": "citeseerx-d177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Linking Wikipedia to the Web", 
+      "ranks": 92, 
+      "docid": "citeseerx-d179"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Defense and Illustration of Wikipedia", 
+      "ranks": 93, 
+      "docid": "citeseerx-d180"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "(Co)ReferenceResolution in Wikipedia", 
+      "ranks": 94, 
+      "docid": "citeseerx-d182"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Summarization using Wikipedia", 
+      "ranks": 95, 
+      "docid": "citeseerx-d185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "THE ADOPTION OF WIKIPEDIA: A COMMUNITY- AND", 
+      "ranks": 96, 
+      "docid": "citeseerx-d186"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wikipedia in Higher Education", 
+      "ranks": 97, 
+      "docid": "citeseerx-d188"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Semantic Convergence of Wikipedia Articles", 
+      "ranks": 98, 
+      "docid": "citeseerx-d190"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An analysis of Wikipedia digital writing", 
+      "ranks": 99, 
+      "docid": "citeseerx-d193"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q101"
+}

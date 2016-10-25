@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2135, 
+      "title": "Agents and the Semantic Web", 
+      "ranks": 0, 
+      "docid": "citeseerx-d24"
+    }, 
+    {
+      "citeBy": 3680, 
+      "title": "PAUP*: Phylogenetic Analysis Using Parsimony (and other methods) 4.0.b5", 
+      "ranks": 8, 
+      "docid": "citeseerx-d330"
+    }, 
+    {
+      "citeBy": 1165, 
+      "title": "Mfold web server for nucleic acid folding and hybridization prediction", 
+      "ranks": 1, 
+      "docid": "citeseerx-d385"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "From SHIQ and RDF to OWL: The Making of a Web Ontology Language", 
+      "ranks": 2, 
+      "docid": "citeseerx-d11"
+    }, 
+    {
+      "citeBy": 666, 
+      "title": "Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web", 
+      "ranks": 5, 
+      "docid": "citeseerx-d389"
+    }, 
+    {
+      "citeBy": 603, 
+      "title": "Focused crawling: a new approach to topic-specific Web resource discovery", 
+      "ranks": 4, 
+      "docid": "citeseerx-d289"
+    }, 
+    {
+      "citeBy": 523, 
+      "title": "Data Preparation for Mining World Wide Web Browsing Patterns", 
+      "ranks": 3, 
+      "docid": "citeseerx-d391"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 9, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hypertext Transfer Protocol - HTTP/1.1", 
+      "ranks": 8, 
+      "docid": "citeseerx-d396"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 9, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cost-Aware WWW Proxy Caching Algorithms", 
+      "ranks": 10, 
+      "docid": "citeseerx-d398"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Database resources of the National Center for Biotechnology Information", 
+      "ranks": 11, 
+      "docid": "citeseerx-d400"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 12, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 13, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Model checking and abstraction", 
+      "ranks": 14, 
+      "docid": "citeseerx-d403"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 15, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality", 
+      "ranks": 16, 
+      "docid": "citeseerx-d407"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 17, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A taxonomy and evaluation of dense two-frame stereo correspondence algorithms", 
+      "ranks": 18, 
+      "docid": "citeseerx-d410"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by . . .", 
+      "ranks": 19, 
+      "docid": "citeseerx-d368"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tabu Search", 
+      "ranks": 20, 
+      "docid": "citeseerx-d275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 21, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A flexible new technique for camera calibration", 
+      "ranks": 22, 
+      "docid": "citeseerx-d415"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Construction of abstract state graphs with PVS", 
+      "ranks": 23, 
+      "docid": "citeseerx-d417"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ATOMIC DECOMPOSITION BY BASIS PURSUIT", 
+      "ranks": 24, 
+      "docid": "citeseerx-d270"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Course in Game Theory", 
+      "ranks": 25, 
+      "docid": "citeseerx-d419"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The sequence of the human genome", 
+      "ranks": 26, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "From System F to Typed Assembly Language", 
+      "ranks": 27, 
+      "docid": "citeseerx-d422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Progressive Meshes", 
+      "ranks": 28, 
+      "docid": "citeseerx-d288"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 29, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Etale Cohomology", 
+      "ranks": 30, 
+      "docid": "citeseerx-d427"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USER ACCEPTANCE OF INFORMATION TECHNOLOGY: TOWARD A UNIFIED VIEW", 
+      "ranks": 31, 
+      "docid": "citeseerx-d429"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Factor Graphs and the Sum-Product Algorithm", 
+      "ranks": 32, 
+      "docid": "citeseerx-d431"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Planning Algorithms", 
+      "ranks": 33, 
+      "docid": "citeseerx-d323"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Nonparametric Regression", 
+      "ranks": 34, 
+      "docid": "citeseerx-d435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Aggregation Algorithms for Middleware", 
+      "ranks": 35, 
+      "docid": "citeseerx-d437"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Muscle: multiple sequence alignment with high accuracy and high throughput", 
+      "ranks": 36, 
+      "docid": "citeseerx-d291"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 37, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Monte Carlo Statistical Methods", 
+      "ranks": 38, 
+      "docid": "citeseerx-d440"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 39, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Internet Network Distance with Coordinates-Based Approaches", 
+      "ranks": 40, 
+      "docid": "citeseerx-d443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bigraphs and Mobile Processes", 
+      "ranks": 41, 
+      "docid": "citeseerx-d445"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algebraic topology", 
+      "ranks": 42, 
+      "docid": "citeseerx-d447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Signal Processing Approach To Fair Surface Design", 
+      "ranks": 43, 
+      "docid": "citeseerx-d449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prediction of complete gene structures in human genomic DNA", 
+      "ranks": 44, 
+      "docid": "citeseerx-d451"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 45, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VisualSEEk: a fully automated content-based image query system", 
+      "ranks": 46, 
+      "docid": "citeseerx-d457"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Network motifs: simple building blocks of complex networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 48, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Understanding Social Preferences with Simple Tests", 
+      "ranks": 49, 
+      "docid": "citeseerx-d464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Efficient Boosting Algorithm for Combining Preferences", 
+      "ranks": 50, 
+      "docid": "citeseerx-d281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Regression quantiles", 
+      "ranks": 51, 
+      "docid": "citeseerx-d467"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prospect theory: An analysis of decisions under risk", 
+      "ranks": 52, 
+      "docid": "citeseerx-d469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical Analysis of Predictive Algorithm for Collaborative Filtering", 
+      "ranks": 53, 
+      "docid": "citeseerx-d470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Privacy-Preserving Data Mining", 
+      "ranks": 54, 
+      "docid": "citeseerx-d472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparison of discrimination methods for the classification of tumors using gene expression data", 
+      "ranks": 55, 
+      "docid": "citeseerx-d474"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Querying Heterogeneous Information Sources Using Source Descriptions", 
+      "ranks": 56, 
+      "docid": "citeseerx-d476"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 57, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 58, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 59, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling Term Structures of Defaultable Bonds", 
+      "ranks": 60, 
+      "docid": "citeseerx-d484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Handbook of Applied Cryptography", 
+      "ranks": 61, 
+      "docid": "citeseerx-d325"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machine Active Learning with Applications to Text Classification", 
+      "ranks": 62, 
+      "docid": "citeseerx-d300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Financial Intermediation and Growth: Causality and Causes", 
+      "ranks": 63, 
+      "docid": "citeseerx-d489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "UPPAAL in a Nutshell", 
+      "ranks": 64, 
+      "docid": "citeseerx-d491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning Patterns of Activity Using Real-Time Tracking", 
+      "ranks": 65, 
+      "docid": "citeseerx-d263"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Visual categorization with bags of keypoints", 
+      "ranks": 66, 
+      "docid": "citeseerx-d493"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Text Classification from Labeled and Unlabeled Documents using EM", 
+      "ranks": 67, 
+      "docid": "citeseerx-d63"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The click modular router", 
+      "ranks": 68, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 69, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Communications", 
+      "ranks": 70, 
+      "docid": "citeseerx-d499"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 71, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 72, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 73, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Mathematics of Statistical Machine Translation: Parameter Estimation", 
+      "ranks": 74, 
+      "docid": "citeseerx-d508"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level", 
+      "ranks": 75, 
+      "docid": "citeseerx-d510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 76, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resource Description Framework (RDF) Model and Syntax Specification", 
+      "ranks": 77, 
+      "docid": "citeseerx-d514"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithmic mechanism design", 
+      "ranks": 78, 
+      "docid": "citeseerx-d516"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 79, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interior-point Methods", 
+      "ranks": 80, 
+      "docid": "citeseerx-d307"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Xen and the art of virtualization", 
+      "ranks": 81, 
+      "docid": "citeseerx-d521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wrapper Induction for Information Extraction", 
+      "ranks": 82, 
+      "docid": "citeseerx-d293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cilk: An Efficient Multithreaded Runtime System", 
+      "ranks": 83, 
+      "docid": "citeseerx-d295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Transductive Inference for Text Classification using Support Vector Machines", 
+      "ranks": 84, 
+      "docid": "citeseerx-d524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voronoi diagrams -- a survey of a fundamental geometric data structure", 
+      "ranks": 85, 
+      "docid": "citeseerx-d296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Molecular classification of cancer: class discovery and class prediction by gene expression monitoring", 
+      "ranks": 86, 
+      "docid": "citeseerx-d526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Behaviour of Stock Market Prices", 
+      "ranks": 87, 
+      "docid": "citeseerx-d528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gapped Blast and PsiBlast: a new generation of protein database search programs", 
+      "ranks": 88, 
+      "docid": "citeseerx-d530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Markov Logic Networks", 
+      "ranks": 89, 
+      "docid": "citeseerx-d283"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 90, 
+      "docid": "citeseerx-d222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling the Shape of the Scene: A Holistic Representation of the Spatial Envelope", 
+      "ranks": 91, 
+      "docid": "citeseerx-d533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SCOP, Structural Classification of Proteins Database: Applications to Evaluation of the Effectiveness of Sequence Alignment Methods and Statistics of Protein Structural Data", 
+      "ranks": 92, 
+      "docid": "citeseerx-d535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mobile ambients", 
+      "ranks": 93, 
+      "docid": "citeseerx-d538"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Proof-Carrying Code", 
+      "ranks": 94, 
+      "docid": "citeseerx-d540"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Decentralized Trust Management", 
+      "ranks": 95, 
+      "docid": "citeseerx-d542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 96, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Z-Tree: Zurich Toolbox for Readymade Economic Experiments, Working paper No", 
+      "ranks": 97, 
+      "docid": "citeseerx-d546"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Formal Languages", 
+      "ranks": 98, 
+      "docid": "citeseerx-d547"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Nonlinear dimensionality reduction by locally linear embedding", 
+      "ranks": 99, 
+      "docid": "citeseerx-d549"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q3"
+}

@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 587, 
+      "title": "OpenFlow: Enabling Innovation in Campus Networks", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4606"
+    }, 
+    {
+      "citeBy": 397, 
+      "title": "Delayed Internet Routing Convergence", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4605"
+    }, 
+    {
+      "citeBy": 294, 
+      "title": "The Changing Usage of a Mature Campus-wide Wireless Network", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4610"
+    }, 
+    {
+      "citeBy": 275, 
+      "title": "An analysis of the skype peer-to-peer Internet telephony protocol", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4611"
+    }, 
+    {
+      "citeBy": 289, 
+      "title": "Tussle in cyberspace: Defining tomorrow’s Internet", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4004"
+    }, 
+    {
+      "citeBy": 272, 
+      "title": "iPlane: An information plane for distributed services", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4636"
+    }, 
+    {
+      "citeBy": 268, 
+      "title": "Mobile ad hoc networking: imperatives and challenges", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4013"
+    }, 
+    {
+      "citeBy": 261, 
+      "title": "Genetic Programming", 
+      "ranks": 11, 
+      "docid": "citeseerx-d2969"
+    }, 
+    {
+      "citeBy": 239, 
+      "title": "Spectrum Sharing for Unlicensed Bands", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4673"
+    }, 
+    {
+      "citeBy": 182, 
+      "title": "An experimental study of the skype peer-to-peer voip system", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4607"
+    }, 
+    {
+      "citeBy": 72, 
+      "title": "Solutions to Performance Problems in VoIP over a 802.11 Wireless LAN", 
+      "ranks": 69, 
+      "docid": "citeseerx-d4690"
+    }, 
+    {
+      "citeBy": 63, 
+      "title": "An experimental study of throughput for UDP and VoIP traffic", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4626"
+    }, 
+    {
+      "citeBy": 55, 
+      "title": "Impact of link failures on VoIP performance", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4632"
+    }, 
+    {
+      "citeBy": 44, 
+      "title": "Capacity of an IEEE 802.11b Wireless LAN Supporting VoIP", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4672"
+    }, 
+    {
+      "citeBy": 40, 
+      "title": "Improving VoIP quality through path switching", 
+      "ranks": 37, 
+      "docid": "citeseerx-d4640"
+    }, 
+    {
+      "citeBy": 37, 
+      "title": "Analysis of On-Off Patterns in VoIP and Their Effect on Voice Traffic Aggregation", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4680"
+    }, 
+    {
+      "citeBy": 26, 
+      "title": "Performance optimizations for deploying voip services in mesh networks", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4668"
+    }, 
+    {
+      "citeBy": 16, 
+      "title": "Understanding voip from backbone measurements", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4633"
+    }, 
+    {
+      "citeBy": 15, 
+      "title": "Intra-flow Loss Recovery and Control for VoIP", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4674"
+    }, 
+    {
+      "citeBy": 14, 
+      "title": "Fractal Analysis and Modeling of VoIP Traffic", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4670"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "Evaluation of Transport Services for VoIP", 
+      "ranks": 72, 
+      "docid": "citeseerx-d4646"
+    }, 
+    {
+      "citeBy": 13, 
+      "title": "An overlay architecture for high quality VoIP streams", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4669"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Wijesekera: Voice Pharming Attack and the Trust of VoIP", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4675"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Towards energy efficient voip over wireless lans", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4691"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Performance Optimization of VoIP using an Overlay Network", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4677"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Assessing the security of VoIP Services", 
+      "ranks": 35, 
+      "docid": "citeseerx-d4634"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Adaptive VoIP Playout Scheduling: Assessing User", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4685"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "The NESPOLE! VoIP Dialogue Database", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4637"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "An Assessment of VoIP Covert Channel Threats", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4679"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Assessment of VoIP Quality over Internet Backbones", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4612"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Is the Internet ready for VoIP?", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4613"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Qos evaluation of voip end-points", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4638"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "On admission of voip calls over wireless mesh network", 
+      "ranks": 84, 
+      "docid": "citeseerx-d4683"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "Secure VoIP: call establishment and media protection", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4686"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Advantages of VoIP in the german research network", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4682"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "On Packet Aggregation for VoIP in Wireless Meshed Networks", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4688"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Open Source VoIP Traffic Monitoring", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4693"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Performance Analysis of Scheduling Algorithms for VoIP", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4689"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Facilitating the interoperability among different voip protocols with voip web services", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4635"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Real-Time, Non-intrusive Evaluation of VoIP", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4697"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Attack patterns in VoIP", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4615"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Online pairing of voip conversations", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4618"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Comparative study of voip over wimax and wifi", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voip Protocols", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4608"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "of VoIP", 
+      "ranks": 4, 
+      "docid": "citeseerx-d4609"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Mobility Issues", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4617"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security in VoIP", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4614"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Security Traits of VoIP", 
+      "ranks": 17, 
+      "docid": "citeseerx-d4616"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP in the Context of Security", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4622"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Coded VoIP Signal", 
+      "ranks": 20, 
+      "docid": "citeseerx-d4619"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Misuse Patterns in VoIP", 
+      "ranks": 21, 
+      "docid": "citeseerx-d4620"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Small World VoIP", 
+      "ranks": 22, 
+      "docid": "citeseerx-d4621"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOIP Project: Final Report", 
+      "ranks": 22, 
+      "docid": "citeseerx-d4625"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Echo cancellation in VOIP", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4623"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP and IP Telephony", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Mediaproxy Method on VoIP", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4624"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Application", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4628"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOIP Project: System Design", 
+      "ranks": 26, 
+      "docid": "citeseerx-d4629"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Security", 
+      "ranks": 28, 
+      "docid": "citeseerx-d4631"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in emerging VoIP technologies.", 
+      "ranks": 31, 
+      "docid": "citeseerx-d4630"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Building Blocks...................................................................................................................3", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4639"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP in Applications for Wireless Access", 
+      "ranks": 39, 
+      "docid": "citeseerx-d4642"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP malware: Attack Tool . . .", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4643"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SECURITY ISSUES AND COUNTERMEASURES FOR VOIP NETWORKS", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4641"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP – Time to Make the Call?", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4644"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wireless Ad Hoc VoIP", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4645"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance issues for VOIP in Access Networks", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4647"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the TCP-Friendliness of VoIP Traffic", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4648"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "STUDY OF VOIP SERVICES AND ITS APPLICATIONS", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4649"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Time Synchronization for VoIP Quality of", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4651"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Security --  Attacks and Solutions", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4655"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Call Routing in VoIP", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4653"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Optimal Gateway Selection in VoIP", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4654"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The New VoIP Performance Management", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4656"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Voice Over IP (VoIP)", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "� Different Approaches of VoIP Provision", 
+      "ranks": 61, 
+      "docid": "citeseerx-d4660"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Contribution to Securing Communications ommunications on VOIP", 
+      "ranks": 62, 
+      "docid": "citeseerx-d4661"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A study on VoIP Security", 
+      "ranks": 63, 
+      "docid": "citeseerx-d4662"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NAT TRAVERSAL AND MOBILITY IN VOIP APPLICATIONS", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4663"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SERVER ALLOCATION ALGORITHMS FOR VOIP CONFERENCING", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4665"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling the Packet Loss in VoIP", 
+      "ranks": 66, 
+      "docid": "citeseerx-d4666"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Performance of VoIP strategies for hybrid", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4667"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SECURING VOIP COMMUNICATIONS IN AN OPEN NETWORK", 
+      "ranks": 68, 
+      "docid": "citeseerx-d4657"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evaluation of VoIP quality over WiBro", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4678"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Assessment of VoIP Service Availability in the Current Internet", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4681"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A VoIP emergency services architecture and prototype", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4684"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP Technology: Security Issues Analysis", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4696"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Patterns for VoIP Signaling Protocol Architectures Abstract", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4702"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Seamless vertical handover of VoIP calls based on", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4703"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Perception of Utility in Autonomic VoIP Systems", 
+      "ranks": 91, 
+      "docid": "citeseerx-d4706"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Conversational Model Based VoIP Traffic Generation", 
+      "ranks": 92, 
+      "docid": "citeseerx-d4707"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A New VoIP Adaptive Playout Algorithm", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4709"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Senior Product Manager VoIP Technologies", 
+      "ranks": 94, 
+      "docid": "citeseerx-d4694"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An analysis for anonymity and unlinkability for a VoIP conversation", 
+      "ranks": 94, 
+      "docid": "citeseerx-d4711"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "software. VoIP Media Gateway Reference Platform", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4695"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improvement in Performance of the VoIP over WLAN", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4713"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VoIP over Wireless for Mobile Multimedia Applications", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4715"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EVALUATION OF AN EFFICIENT APPROACH TO PROVIDE QOS TO VOIP", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4717"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "VOIP PERFORMANCE MEASUREMENT USING QoS PARAMETERS", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4718"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Providing Voip Service In Umts-Hsdpa With Frame Aggregation", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4720"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q141"
+}

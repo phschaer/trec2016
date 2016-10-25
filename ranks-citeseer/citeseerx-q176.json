@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 676, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers", 
+      "ranks": 45, 
+      "docid": "citeseerx-d3720"
+    }, 
+    {
+      "citeBy": 571, 
+      "title": "Boinc: A system for public-resource computing and storage", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7987"
+    }, 
+    {
+      "citeBy": 488, 
+      "title": "A survey of general-purpose computation on graphics hardware", 
+      "ranks": 48, 
+      "docid": "citeseerx-d2663"
+    }, 
+    {
+      "citeBy": 476, 
+      "title": "Real-time human pose recognition in parts from single depth images", 
+      "ranks": 49, 
+      "docid": "citeseerx-d8070"
+    }, 
+    {
+      "citeBy": 447, 
+      "title": "Precomputed Radiance Transfer for Real-Time Rendering in Dynamic, Low-Frequency Lighting Environments", 
+      "ranks": 51, 
+      "docid": "citeseerx-d7991"
+    }, 
+    {
+      "citeBy": 425, 
+      "title": "The Landscape of Parallel Computing Research: A View from Berkeley", 
+      "ranks": 55, 
+      "docid": "citeseerx-d1367"
+    }, 
+    {
+      "citeBy": 343, 
+      "title": "Random walks for image segmentation", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5830"
+    }, 
+    {
+      "citeBy": 149, 
+      "title": "PacketShader: a GPU-Accelerated Software Router", 
+      "ranks": 61, 
+      "docid": "citeseerx-d8030"
+    }, 
+    {
+      "citeBy": 52, 
+      "title": "Demystifying gpu microarchitecture through microbenchmarking", 
+      "ranks": 78, 
+      "docid": "citeseerx-d8052"
+    }, 
+    {
+      "citeBy": 31, 
+      "title": "Hwu, “Gpu clusters for high-performance computing", 
+      "ranks": 2, 
+      "docid": "citeseerx-d7900"
+    }, 
+    {
+      "citeBy": 39, 
+      "title": "Adapting a Message-Driven Parallel Application to GPU-Accelerated Clusters", 
+      "ranks": 65, 
+      "docid": "citeseerx-d8000"
+    }, 
+    {
+      "citeBy": 25, 
+      "title": "Glimmer: Multilevel MDS on the GPU", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8034"
+    }, 
+    {
+      "citeBy": 22, 
+      "title": "Fast tridiagonal solvers on the GPU", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8039"
+    }, 
+    {
+      "citeBy": 19, 
+      "title": "Empowering Visual Categorization With the GPU", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8044"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Scaling hierarchical n-body simulations on gpu clusters", 
+      "ranks": 8, 
+      "docid": "citeseerx-d7911"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Large volume visualization of compressed time-dependent datasets on GPU clusters", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7938"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "SnuCL: An OpenCL Framework for Heterogeneous CPU/GPU", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8036"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Dense matrix algebra on the GPU", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8049"
+    }, 
+    {
+      "citeBy": 8, 
+      "title": "Auto-Generation and Auto-Tuning of 3D Stencil Codes on GPU Clusters ∗", 
+      "ranks": 22, 
+      "docid": "citeseerx-d7941"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "High Dimensional Pricing of Exotic European Contracts on a GPU Cluster, and Comparison to a CPU Cluster", 
+      "ranks": 34, 
+      "docid": "citeseerx-d7961"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "A Scalable Framework for Heterogeneous GPU-Based Clusters ∗ (Regular Submission)", 
+      "ranks": 77, 
+      "docid": "citeseerx-d8022"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Hierarchical Visualization and Compression of Large Volume Datasets Using GPU Clusters", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7932"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Large-Scale Multi-Dimensional Document Clustering on GPU Clusters", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7920"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Auto-Generation and Auto-Tuning of 3D Stencil Codes on Homogeneous and Heterogeneous GPU Clusters ∗", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7966"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Online Document Clustering Using the GPU", 
+      "ranks": 67, 
+      "docid": "citeseerx-d8004"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Predictive Modeling and Analysis of OP2 on Distributed Memory GPU Clusters ∗ ABSTRACT", 
+      "ranks": 17, 
+      "docid": "citeseerx-d7926"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Towards User Transparent Parallel Multimedia Computing on GPU-clusters", 
+      "ranks": 15, 
+      "docid": "citeseerx-d7924"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "GStream: A General-Purpose Data Streaming Framework on GPU Clusters ∗", 
+      "ranks": 25, 
+      "docid": "citeseerx-d7954"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Flexible Hardware Mapping for Finite Element Simulations on Hybrid CPU / GPU Clusters", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7945"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "2015) Scalable and Efficient Spatial Data Management on Multi-Core CPU and GPU Clusters: A Preliminary Implementation based on Impala. Technical report, http://www-cs.ccny.cuny.edu/~jzhang/papers/isp_gpu_tr.pdf (project website at http://simin.me/projects", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7997"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Multilevel Multidimensional Scaling on the GPU", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8054"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Variable Selection in a GPU Cluster Using Delta Test", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7943"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Parallel 3D Image Segmentation of Large Data Sets on a GPU Cluster", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7977"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Social Simulations Accelerated: Large-Scale Agent-Based Modeling on a GPU Cluster", 
+      "ranks": 53, 
+      "docid": "citeseerx-d7983"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Graph coarsening and clustering on the GPU", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7998"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU cluster for high performance computing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7897"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU Cluster with MATLAB", 
+      "ranks": 1, 
+      "docid": "citeseerx-d7899"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Monte-Carlo computations on GPU clusters.", 
+      "ranks": 4, 
+      "docid": "citeseerx-d7904"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scalable Lattice Boltzmann Solvers for CUDA GPU Clusters", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7906"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast System Matrix Generation on a GPU Cluster", 
+      "ranks": 7, 
+      "docid": "citeseerx-d7908"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Online Scheduling on a CPU-GPU Cluster ⋆", 
+      "ranks": 8, 
+      "docid": "citeseerx-d7913"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hydrodynamic Computation with Hybrid Programming on CPU-GPU Clusters", 
+      "ranks": 9, 
+      "docid": "citeseerx-d7915"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Oncilla: GAS GPU Cluster Model Collaboration with", 
+      "ranks": 11, 
+      "docid": "citeseerx-d7918"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large-Scale Pairwise Sequence Alignments on a Large-Scale GPU Cluster", 
+      "ranks": 14, 
+      "docid": "citeseerx-d7922"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "heidelberg.de", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7930"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast American Basket Option Pricing on a multi-GPU Cluster", 
+      "ranks": 18, 
+      "docid": "citeseerx-d7928"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Asynchronous Communication for Finite-Difference Simulations on GPU Clusters using CUDA and MPI", 
+      "ranks": 21, 
+      "docid": "citeseerx-d7933"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hierarchical Visualization and Compression of Large Volume Datasets Using GPU Clusters", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7947"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A GPU Cluster Without the Clutter: A Drop-in Scalable", 
+      "ranks": 25, 
+      "docid": "citeseerx-d7949"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Techniques for Mapping Synthetic Aperture Radar Processing Algorithms to Multi-GPU Clusters", 
+      "ranks": 29, 
+      "docid": "citeseerx-d7952"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACT TASK PARALLELISM FOR RAY TRACING ON A GPU CLUSTER", 
+      "ranks": 30, 
+      "docid": "citeseerx-d7956"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accurate Sequence Alignment using Distributed Filtering on GPU Clusters", 
+      "ranks": 31, 
+      "docid": "citeseerx-d7958"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Large Data Visualization on Distributed Memory Multi-GPU Clusters", 
+      "ranks": 32, 
+      "docid": "citeseerx-d7936"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fast and Accurate Finite Element Multigrid Solvers for PDE Simulations on GPU Clusters", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7959"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Texture-Based Vector Field Visualization on Curved Surfaces Using GPU Cluster Computers", 
+      "ranks": 36, 
+      "docid": "citeseerx-d7969"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cluster-SkePU: A Multi-Backend Skeleton Programming Library for GPU Clusters", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7971"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accelerated 3-D Monte Carlo Light Dosimetry Using a Graphics Processing Unit (GPU) Cluster", 
+      "ranks": 38, 
+      "docid": "citeseerx-d7964"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "INS Preprint No. 1113 October 2011Solving Incompressible Two-Phase Flows on Multi-GPU Clusters", 
+      "ranks": 40, 
+      "docid": "citeseerx-d7968"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Texture-Based Vector Field Visualization on Curved Surfaces Using GPU Cluster Computers", 
+      "ranks": 41, 
+      "docid": "citeseerx-d7963"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Fastplay: A Parallelization Model and Implementation of SMC on CUDA Based GPU Cluster Architecture", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7974"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "&amp; PhD Forum Quantitative Trait Locus Analysis Using a Partitioned Linear Model on a GPU Cluster", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7984"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;A4MMC 2010- 1st Workshop on Applications for Multi and Many Core Processors (2010)&quot; Towards User Transparent Parallel Multimedia Computing on GPU-clusters", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7989"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Distributed Video Generation on a GPU-Cluster for the Web-Based Analysis of Medical Image Data", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7979"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABSTRACT DATA PARALLELISM FOR RAY CASTING LARGE SCENES ON A CPU-GPU CLUSTER", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7981"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU-Aware Intranode MPI_Allreduce", 
+      "ranks": 54, 
+      "docid": "citeseerx-d8001"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 7 Development methodologies for GPU and cluster of GPUs", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7993"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for GPU Computing", 
+      "ranks": 58, 
+      "docid": "citeseerx-d8011"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Author manuscript, published in &quot;Journal of Real-Time Image Processing, Special issue (2012) online&quot; DOI: 10.1007/s11554-012-0279-0 Journal of Real-Time Image Processing manuscript No. (will be inserted by the editor)", 
+      "ranks": 60, 
+      "docid": "citeseerx-d8016"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "High-order", 
+      "ranks": 63, 
+      "docid": "citeseerx-d8020"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accelerating large graph algorithms on the GPU using CUDA", 
+      "ranks": 64, 
+      "docid": "citeseerx-d8021"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Exploring weak scalability for FEM calculations on a GPU-enhanced cluster", 
+      "ranks": 68, 
+      "docid": "citeseerx-d8006"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract GPU Acceleration of Iterative Clustering", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8009"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU Accelerated PK-means Algorithm for Gene Clustering", 
+      "ranks": 70, 
+      "docid": "citeseerx-d8031"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Collision for 75-step SHA-1: Intensive Parallelization with GPU", 
+      "ranks": 73, 
+      "docid": "citeseerx-d8013"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-GPU Island-Based Genetic Algorithm for Solving the Knapsack Problem", 
+      "ranks": 75, 
+      "docid": "citeseerx-d8041"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "incorporating", 
+      "ranks": 79, 
+      "docid": "citeseerx-d8050"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallel Hyperbolic PDE Simulation on Clusters: Cell versus GPU", 
+      "ranks": 80, 
+      "docid": "citeseerx-d8024"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Parallelization Approach for Heterogeneous GPU–CPU Clusters", 
+      "ranks": 81, 
+      "docid": "citeseerx-d8026"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CPU/GPU Runtime System", 
+      "ranks": 82, 
+      "docid": "citeseerx-d8056"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Velocity-Pressure Coupling on GPU", 
+      "ranks": 83, 
+      "docid": "citeseerx-d8058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Interactive Distributed Fluid Simulation on the GPU", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8028"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU-accelerated text mining", 
+      "ranks": 84, 
+      "docid": "citeseerx-d8060"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Chemistries on GPU", 
+      "ranks": 85, 
+      "docid": "citeseerx-d8063"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Implementing Ray Tracing on GPU", 
+      "ranks": 86, 
+      "docid": "citeseerx-d8064"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU Rendering of Secondary Effects", 
+      "ranks": 87, 
+      "docid": "citeseerx-d8067"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CrystalGPU: Transparent and Efficient Utilization of GPU Power", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8038"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Accelerating Visual Categorization with the GPU", 
+      "ranks": 88, 
+      "docid": "citeseerx-d8069"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multi-GPU MapReduce on GPU clusters", 
+      "ranks": 89, 
+      "docid": "citeseerx-d7902"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Seismic Shot Processing on GPU", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8047"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU Architecture and Programming∗", 
+      "ranks": 90, 
+      "docid": "citeseerx-d8071"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Granular Visibility Queries on the GPU", 
+      "ranks": 91, 
+      "docid": "citeseerx-d8072"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Simulating spin models on GPU", 
+      "ranks": 92, 
+      "docid": "citeseerx-d8073"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU Accelerated Cardiac Electrophysiology", 
+      "ranks": 93, 
+      "docid": "citeseerx-d8074"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-Time GPU Surface . . .", 
+      "ranks": 94, 
+      "docid": "citeseerx-d8075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Techniques for GPU Volume", 
+      "ranks": 95, 
+      "docid": "citeseerx-d8076"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Solid Environment Reconstruction on the GPU", 
+      "ranks": 96, 
+      "docid": "citeseerx-d8077"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DIGITAL COMPRESSION ON GPU", 
+      "ranks": 97, 
+      "docid": "citeseerx-d8078"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GPU-based password cracking", 
+      "ranks": 98, 
+      "docid": "citeseerx-d8079"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Computational Statistics via GPU", 
+      "ranks": 99, 
+      "docid": "citeseerx-d8080"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q176"
+}

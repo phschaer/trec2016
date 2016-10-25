@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 227, 
+      "title": "Building Secure and Reliable Network Applications", 
+      "ranks": 6, 
+      "docid": "citeseerx-d1828"
+    }, 
+    {
+      "citeBy": 138, 
+      "title": "Health Organization", 
+      "ranks": 49, 
+      "docid": "citeseerx-d4544"
+    }, 
+    {
+      "citeBy": 134, 
+      "title": "Towards parameter-free data mining", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1698"
+    }, 
+    {
+      "citeBy": 69, 
+      "title": "Making Time-series Classification More Accurate Using Learned Constraints", 
+      "ranks": 83, 
+      "docid": "citeseerx-d4538"
+    }, 
+    {
+      "citeBy": 18, 
+      "title": "Markov models for automated ECG interval analysis", 
+      "ranks": 35, 
+      "docid": "citeseerx-d4466"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Automatic pattern recognition in ECG time series", 
+      "ranks": 70, 
+      "docid": "citeseerx-d4505"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "An Autonomic Cloud Environment for Hosting ECG Data Analysis Services", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4497"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "EFFICIENT PRIVACY-PRESERVING CLASSIFICATION OF ECG SIGNALS Mauro Barni,", 
+      "ranks": 44, 
+      "docid": "citeseerx-d4476"
+    }, 
+    {
+      "citeBy": 6, 
+      "title": "Intimate Heartbeats: Opportunities for Affective Communication Technology” IEEE Transaction on affective computing vol1. No 2July-December2010", 
+      "ranks": 48, 
+      "docid": "citeseerx-d4479"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "A Patient-Adaptive Profiling Scheme for ECG Beat Classification", 
+      "ranks": 45, 
+      "docid": "citeseerx-d4477"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Integrating Analytic and Appearance Attributes for Human Identification from ECG Signals", 
+      "ranks": 50, 
+      "docid": "citeseerx-d4485"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Shape-based Matching of ECG Recordings", 
+      "ranks": 57, 
+      "docid": "citeseerx-d4487"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Automatic Classification of Heartbeats Using ECG Morphology and Heartbeat Interval Features", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4420"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Active Learning Applied to Patient-Adaptive Heartbeat Classification", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4425"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Statistical Coding and Decoding of Heartbeat Intervals", 
+      "ranks": 19, 
+      "docid": "citeseerx-d4445"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "A Trainable Neural Network Ensemble for ECG Beat Classification", 
+      "ranks": 16, 
+      "docid": "citeseerx-d4440"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "AN X-RAY ON METHODS AIMING AT ARRHYTHMIA CLASSIFICATION IN ECG SIGNALS", 
+      "ranks": 23, 
+      "docid": "citeseerx-d4448"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Combining Signal Processing and Cryptographic Protocol Design for Efficient ECG Classification", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4482"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Recognition of Cardiac Arrhythmias by Means of Beat Clustering on ECG-Holter Records", 
+      "ranks": 55, 
+      "docid": "citeseerx-d4483"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "A Human ECG Identification System Based on Ensemble Empirical Mode Decomposition", 
+      "ranks": 67, 
+      "docid": "citeseerx-d4499"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Cardiac Arrhythmia Detection By ECG Feature Extraction", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4507"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Electrocardiogram compression and optimal ECG filtering algorithms", 
+      "ranks": 77, 
+      "docid": "citeseerx-d4508"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "An Efficient Technique for Classification of Electrocardiogram Signals", 
+      "ranks": 79, 
+      "docid": "citeseerx-d4511"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Coherence Analysis between ECG Signal and EEG Signal 1 2 3", 
+      "ranks": 80, 
+      "docid": "citeseerx-d4515"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Information flow and data reduction in the ECG interpretation process", 
+      "ranks": 86, 
+      "docid": "citeseerx-d4518"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Selecting Features of Single Lead ECG Signal for Automatic Sleep Stages Classification using Correlation-based Feature Subset Selection", 
+      "ranks": 94, 
+      "docid": "citeseerx-d4534"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4418"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Classification of ECG . . .", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4422"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "classification using single-lead ECG", 
+      "ranks": 3, 
+      "docid": "citeseerx-d4423"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heartbeat Time Series Data", 
+      "ranks": 6, 
+      "docid": "citeseerx-d4428"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Personalized long-term ECG classification: A", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4430"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Classification of Premature Ventricular Contraction in ECG", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4431"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heartbeat time series classification with support vector machines,” Information Technology in Biomedicine", 
+      "ranks": 10, 
+      "docid": "citeseerx-d4435"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Beat Diagnosis Approach for ECG Printout Based on Expert System", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4436"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heartbeat Tracking Application for Mobile Devices- Arrhythmia Recognition Module", 
+      "ranks": 12, 
+      "docid": "citeseerx-d4438"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DIFFERENCE-BASED PARAMETER SET FOR LOCAL HEARTBEAT CLASSIFICATION: RANKING OF THE PARAMETERS", 
+      "ranks": 13, 
+      "docid": "citeseerx-d4433"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Classification of ECG Signals Using Particle Swarm Optimization and Extreme Learning Machine", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4441"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparison of Inductive Modeling Method to Other Classification Methods for Holter ECG", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG SIGNAL CLASSIFICATION USING ENSEMBLE DECISION TREE", 
+      "ranks": 18, 
+      "docid": "citeseerx-d4447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG to individual identification", 
+      "ranks": 20, 
+      "docid": "citeseerx-d4449"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Image Classification and Detection of Trend of Heart Diseases", 
+      "ranks": 24, 
+      "docid": "citeseerx-d4454"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TIME AND FREQUENCY DOMAIN ANALYSIS OF FIVE HEARTBEAT TYPES", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4450"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article Early Classification of Pathological Heartbeats on Wireless Body Sensor Nodes", 
+      "ranks": 26, 
+      "docid": "citeseerx-d4452"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SUPERVISED CLASSIFICATION OF ECG USING NEURAL NETWORKS", 
+      "ranks": 27, 
+      "docid": "citeseerx-d4453"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Study on ECG Signal Classification Techniques", 
+      "ranks": 28, 
+      "docid": "citeseerx-d4456"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Heartbeat of a nest: Using imagers as biological sensors", 
+      "ranks": 28, 
+      "docid": "citeseerx-d4460"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Improved Approach for Automatic Heartbeat Recognition using HOS of WPD Coefficients", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4458"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Neural Network Approach for ECG Classification", 
+      "ranks": 30, 
+      "docid": "citeseerx-d4459"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Beat Detection Using Filter Banks", 
+      "ranks": 31, 
+      "docid": "citeseerx-d4463"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determination of Angry Condition based on EEG, Speech and Heartbeat", 
+      "ranks": 32, 
+      "docid": "citeseerx-d4461"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Compression And Classification Of Ecg Signal Based On Morphological And Dynamic Features", 
+      "ranks": 33, 
+      "docid": "citeseerx-d4462"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applicability of Lead V2 ECG Measurements in Biometrics", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4464"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG SIGNAL FILTERING 8", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4467"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article A Novel Approach to ECG Classification Based upon Two-Layered HMMs in Body Sensor Networks", 
+      "ranks": 36, 
+      "docid": "citeseerx-d4470"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Based Authentication", 
+      "ranks": 37, 
+      "docid": "citeseerx-d4471"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Real-Time Classification of Heartbeats using Least Square Acceleration Filter for Ambulatory Monitoring", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4469"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG, USAID/Indonesia", 
+      "ranks": 38, 
+      "docid": "citeseerx-d4472"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Biometric Recognition without Fiducial Detection", 
+      "ranks": 40, 
+      "docid": "citeseerx-d4474"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analyzing ECG Signals and Detection of Cardiac Arrhythmia Using Back Propagation Neural Network- Part I: Model Development", 
+      "ranks": 43, 
+      "docid": "citeseerx-d4478"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 4 A Generic and Patient-Specific Electrocardiogram Signal Classification System", 
+      "ranks": 47, 
+      "docid": "citeseerx-d4473"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 Classification of cardiac arrhythmia with respect to ECG and HRV signal by genetic programming", 
+      "ranks": 51, 
+      "docid": "citeseerx-d4486"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Projection Matrices Influence in the Classification of Compressed Sensed ECG Signals", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4480"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A NOVEL, BATCH MODULAR LEARNING APPROACH FOR ECG BEAT CLASSIFICATION", 
+      "ranks": 53, 
+      "docid": "citeseerx-d4481"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Kernel Dimensionality Reduction on Sleep Stage Classification using ECG Signal", 
+      "ranks": 54, 
+      "docid": "citeseerx-d4484"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG HOLTER SYSTEMS- DEVELOPMENT AND PERSPECTIVES", 
+      "ranks": 57, 
+      "docid": "citeseerx-d4492"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MULTITUNABLE MICROWAVE SYSTEM FOR TOUCHLESS HEARTBEAT DETECTION AND HEART RATE VARIABILITY EXTRACTION", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4489"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of ECG Data Compression Techniques", 
+      "ranks": 58, 
+      "docid": "citeseerx-d4494"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Sachin,&quot;An Advanced ECG Signal Processing for Ubiquitous Healthcare System", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4495"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MYOCARDIAL PERFUSION IMAGING Effects of Missing Dynamic Images on Myocardial Perfusion Reserve Index Calculation: Comparison Between an Every Heartbeat and an Alternate Heartbeat Acquisition#", 
+      "ranks": 60, 
+      "docid": "citeseerx-d4490"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FILTERING TECHNIQUES FOR ECG SIGNAL PROCESSING", 
+      "ranks": 61, 
+      "docid": "citeseerx-d4491"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of extrema of heartbeat time series in", 
+      "ranks": 63, 
+      "docid": "citeseerx-d4446"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "a", 
+      "ranks": 64, 
+      "docid": "citeseerx-d4500"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Study ECG Effects in Alcoholic and Normals", 
+      "ranks": 65, 
+      "docid": "citeseerx-d4496"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abstract ECG in Biometric Recognition: Time Dependency and Application Challenges", 
+      "ranks": 68, 
+      "docid": "citeseerx-d4498"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CYCLOSTATIONARITY-BASED ESTIMATION OF THE FOETUS SUBSPACE DIMENSION FROM ECG RECORDINGS", 
+      "ranks": 71, 
+      "docid": "citeseerx-d4502"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "JDL Fusion Model for ECG Arrhythmia Detection", 
+      "ranks": 73, 
+      "docid": "citeseerx-d4504"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automatic Classification of ECG Beats Using Waveform Shape and Heart Beat Interval Features", 
+      "ranks": 75, 
+      "docid": "citeseerx-d4516"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Novel Method for ECG Signal Discrimination of Cardiac Arrhythmias Based on Pade’s Approximation Technique", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4506"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ECG Signal Analysis and Classification using Data Mining and Artificial Neural Networks 1", 
+      "ranks": 76, 
+      "docid": "citeseerx-d4517"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Malignant Ventricular Arrhythmia ECG using Adaptive Neuro-Fuzzy Interface System 1", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4510"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Survey Approach on ECG Feature Extraction Techniques", 
+      "ranks": 78, 
+      "docid": "citeseerx-d4519"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Finger ECG Signal for User Authentication: Usability and Performance", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4513"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Arrhythmia Detection Technique using basic ECG Parameters", 
+      "ranks": 81, 
+      "docid": "citeseerx-d4523"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Classification Algorithm for Feature Extraction using Linear Discriminant Analysis and Cross-correlation on ECG Signals", 
+      "ranks": 83, 
+      "docid": "citeseerx-d4525"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Multimodal Biometric Authentication using ECG and Fingerprint", 
+      "ranks": 85, 
+      "docid": "citeseerx-d4527"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "WAVELET BASED ECG SIGNAL COMPONENT IDENTIFICATION", 
+      "ranks": 87, 
+      "docid": "citeseerx-d4530"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Deployment of Novel Techniques for Mobile ECG Monitoring", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4520"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analyzing ECG Signals and Detection of Cardiac Arrhythmia Using Back Propagation Neural Network-", 
+      "ranks": 88, 
+      "docid": "citeseerx-d4532"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "FPGA-based Online-learning using Parallel Genetic Algorithm and Neural Network for ECG Signal Classification", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4521"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Detection of obstructive sleep apnea through ECG signal features", 
+      "ranks": 89, 
+      "docid": "citeseerx-d4533"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "HEART RATE MONITOR DESIGN AND ECG SOFTWARE DEVELOPMENT", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4524"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1 A Combinatorial Model for ECG Interpretation", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4526"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Electrocardiogram Beat Classification using Probabilistic Neural Network", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4537"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "TECHNOLOGY Electrocardiogram (ECG) Signals Feature Extraction and Classification using Various Signal Analysis Techniques", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4528"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Abbreviations CHF Congestive heart failure ECG Electrocardiogram", 
+      "ranks": 95, 
+      "docid": "citeseerx-d4539"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Automated Detection and Classification of Sleep Apnea Types Using Electrocardiogram (ECG) and Electroencephalogram (EEG) Features", 
+      "ranks": 96, 
+      "docid": "citeseerx-d4541"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Activity-aware ECG-based patient authentication for remote health monitoring", 
+      "ranks": 97, 
+      "docid": "citeseerx-d4542"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Physiological ECG Compression Based on Integer Time-Frequency Pattern Matching", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4535"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Evaluation of ECG: Comparison of Decision Tree and Fuzzy Rules Induction", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4543"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ABNORMALITY DETECTION IN ECG USING ARTIFICIAL NEURAL NETWORKS", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4536"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q139"
+}

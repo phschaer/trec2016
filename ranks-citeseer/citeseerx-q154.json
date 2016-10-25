@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 4769, 
+      "title": "Prospect theory: An analysis of decisions under risk", 
+      "ranks": 65, 
+      "docid": "citeseerx-d469"
+    }, 
+    {
+      "citeBy": 3393, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 75, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 0, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 2884, 
+      "title": "Inflation and Growth", 
+      "ranks": 34, 
+      "docid": "citeseerx-d4488"
+    }, 
+    {
+      "citeBy": 2511, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 51, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 2441, 
+      "title": "Endogenous technological change", 
+      "ranks": 81, 
+      "docid": "citeseerx-d1352"
+    }, 
+    {
+      "citeBy": 2006, 
+      "title": "Why Do Some Countries Produce So Much More Output Per Worker Than Others?", 
+      "ranks": 17, 
+      "docid": "citeseerx-d722"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 85, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 1974, 
+      "title": "Corporate Financing and Investment Decisions when Firms Have Information that Investors Do Not Have", 
+      "ranks": 68, 
+      "docid": "citeseerx-d4108"
+    }, 
+    {
+      "citeBy": 1788, 
+      "title": "The tragedy of the commons", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4084"
+    }, 
+    {
+      "citeBy": 1779, 
+      "title": "The SimpleScalar tool set, version 2.0", 
+      "ranks": 64, 
+      "docid": "citeseerx-d1080"
+    }, 
+    {
+      "citeBy": 1582, 
+      "title": "Reinforcement learning: a survey", 
+      "ranks": 15, 
+      "docid": "citeseerx-d379"
+    }, 
+    {
+      "citeBy": 1514, 
+      "title": "Machine Learning in Automated Text Categorization", 
+      "ranks": 86, 
+      "docid": "citeseerx-d287"
+    }, 
+    {
+      "citeBy": 1258, 
+      "title": "The Colonial Origins of Comparative Development: An Empirical Analysis", 
+      "ranks": 8, 
+      "docid": "citeseerx-d805"
+    }, 
+    {
+      "citeBy": 1368, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 52, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 1325, 
+      "title": "The physiology of the grid: An open grid services architecture for distributed systems integration", 
+      "ranks": 27, 
+      "docid": "citeseerx-d334"
+    }, 
+    {
+      "citeBy": 1091, 
+      "title": "Africa´s Growth Tragedy: Policies and Ethnic Divisions”, The Quarterly", 
+      "ranks": 3, 
+      "docid": "citeseerx-d783"
+    }, 
+    {
+      "citeBy": 1228, 
+      "title": "Proof-Carrying Code", 
+      "ranks": 11, 
+      "docid": "citeseerx-d540"
+    }, 
+    {
+      "citeBy": 1108, 
+      "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2319"
+    }, 
+    {
+      "citeBy": 1281, 
+      "title": "Instance-based learning algorithms", 
+      "ranks": 99, 
+      "docid": "citeseerx-d1822"
+    }, 
+    {
+      "citeBy": 1088, 
+      "title": "The click modular router", 
+      "ranks": 20, 
+      "docid": "citeseerx-d285"
+    }, 
+    {
+      "citeBy": 1080, 
+      "title": "Does Social Capital Have an Economic Payoff? A Cross-Country Investigation", 
+      "ranks": 38, 
+      "docid": "citeseerx-d723"
+    }, 
+    {
+      "citeBy": 1093, 
+      "title": "Oceanstore: An architecture for global-scale persistent storage", 
+      "ranks": 91, 
+      "docid": "citeseerx-d286"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Parameterized Complexity", 
+      "ranks": 18, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 1036, 
+      "title": "The Design and Implementation of a Log-Structured File System", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1090"
+    }, 
+    {
+      "citeBy": 1060, 
+      "title": "A fast and high quality multilevel scheme for partitioning irregular graphs", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6311"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Planning and acting in partially observable stochastic domains", 
+      "ranks": 36, 
+      "docid": "citeseerx-d3550"
+    }, 
+    {
+      "citeBy": 1051, 
+      "title": "SRILM -- An extensible language modeling toolkit", 
+      "ranks": 96, 
+      "docid": "citeseerx-d227"
+    }, 
+    {
+      "citeBy": 1020, 
+      "title": "The Protein Data Bank", 
+      "ranks": 84, 
+      "docid": "citeseerx-d41"
+    }, 
+    {
+      "citeBy": 990, 
+      "title": "Myrinet: A Gigabit-per-Second Local Area Network", 
+      "ranks": 30, 
+      "docid": "citeseerx-d3445"
+    }, 
+    {
+      "citeBy": 998, 
+      "title": "Web Caching and Zipf-like Distributions: Evidence and Implications", 
+      "ranks": 58, 
+      "docid": "citeseerx-d2238"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Disconnected Operation in the Coda File System", 
+      "ranks": 79, 
+      "docid": "citeseerx-d3542"
+    }, 
+    {
+      "citeBy": 965, 
+      "title": "Geography-informed Energy Conservation for Ad Hoc Routing", 
+      "ranks": 25, 
+      "docid": "citeseerx-d3019"
+    }, 
+    {
+      "citeBy": 951, 
+      "title": "Incentives Build Robustness in BitTorrent", 
+      "ranks": 97, 
+      "docid": "citeseerx-d5119"
+    }, 
+    {
+      "citeBy": 941, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 82, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 870, 
+      "title": "Bro: A System for Detecting Network Intruders in Real-Time", 
+      "ranks": 12, 
+      "docid": "citeseerx-d769"
+    }, 
+    {
+      "citeBy": 925, 
+      "title": "Thumbs up? Sentiment Classification using Machine Learning Techniques", 
+      "ranks": 83, 
+      "docid": "citeseerx-d712"
+    }, 
+    {
+      "citeBy": 921, 
+      "title": "Adaptive Constraint Satisfaction", 
+      "ranks": 76, 
+      "docid": "citeseerx-d6313"
+    }, 
+    {
+      "citeBy": 862, 
+      "title": "Logical foundations of object-oriented and frame-based languages", 
+      "ranks": 93, 
+      "docid": "citeseerx-d2165"
+    }, 
+    {
+      "citeBy": 771, 
+      "title": "Language-Based Information-Flow Security", 
+      "ranks": 7, 
+      "docid": "citeseerx-d673"
+    }, 
+    {
+      "citeBy": 762, 
+      "title": "Design and Evaluation of a Wide-Area Event Notification Service", 
+      "ranks": 9, 
+      "docid": "citeseerx-d1079"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Organizations", 
+      "ranks": 42, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 778, 
+      "title": "Storage management and caching in PAST, a large-scale, persistent peer-to-peer storage utility", 
+      "ranks": 57, 
+      "docid": "citeseerx-d462"
+    }, 
+    {
+      "citeBy": 591, 
+      "title": "Enforceable Security Policies", 
+      "ranks": 2, 
+      "docid": "citeseerx-d4367"
+    }, 
+    {
+      "citeBy": 739, 
+      "title": "Taming the Underlying Challenges of Reliable Multihop Routing in Sensor Networks", 
+      "ranks": 48, 
+      "docid": "citeseerx-d1110"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 22, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Is public expenditure productive", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4268"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Dynamic Bayesian Networks: Representation, Inference and Learning", 
+      "ranks": 29, 
+      "docid": "citeseerx-d218"
+    }, 
+    {
+      "citeBy": 710, 
+      "title": "TOSSIM: Accurate and Scalable Simulation of Entire TinyOS Applications", 
+      "ranks": 95, 
+      "docid": "citeseerx-d1087"
+    }, 
+    {
+      "citeBy": 694, 
+      "title": "Exploring Internal Stickiness: Impediments to the Transfer of Best Practice within the Firm", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2753"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "A Scheme for Real-Time Channel Establishment in Wide-Area Networks", 
+      "ranks": 62, 
+      "docid": "citeseerx-d2275"
+    }, 
+    {
+      "citeBy": 692, 
+      "title": "Exokernel: An Operating System Architecture for Application-Level Resource Management", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1651"
+    }, 
+    {
+      "citeBy": 686, 
+      "title": "Basic concepts and taxonomy of dependable and secure computing", 
+      "ranks": 89, 
+      "docid": "citeseerx-d321"
+    }, 
+    {
+      "citeBy": 677, 
+      "title": "Grid Information Services for Distributed Resource Sharing", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1815"
+    }, 
+    {
+      "citeBy": 663, 
+      "title": "Probabilistic Inference Using Markov Chain Monte Carlo Methods", 
+      "ranks": 31, 
+      "docid": "citeseerx-d324"
+    }, 
+    {
+      "citeBy": 596, 
+      "title": "The Economics of Immigration", 
+      "ranks": 6, 
+      "docid": "citeseerx-d746"
+    }, 
+    {
+      "citeBy": 639, 
+      "title": "Search and replication in unstructured peer-to-peer networks", 
+      "ranks": 28, 
+      "docid": "citeseerx-d319"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "Exchange rate dynamics redux", 
+      "ranks": 45, 
+      "docid": "citeseerx-d6292"
+    }, 
+    {
+      "citeBy": 600, 
+      "title": "Abduction in Logic Programming", 
+      "ranks": 10, 
+      "docid": "citeseerx-d34"
+    }, 
+    {
+      "citeBy": 637, 
+      "title": "Financial Intermediation and Growth: Causality and Causes", 
+      "ranks": 63, 
+      "docid": "citeseerx-d489"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 35, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 40, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Learning to act using real-time dynamic programming", 
+      "ranks": 39, 
+      "docid": "citeseerx-d735"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Dynamic taint analysis for automatic detection, analysis, and signature generation of exploits on commodity software", 
+      "ranks": 54, 
+      "docid": "citeseerx-d1786"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "On agent-based software engineering", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Service Disciplines for Guaranteed Performance Service in Packet-Switching Networks", 
+      "ranks": 90, 
+      "docid": "citeseerx-d2307"
+    }, 
+    {
+      "citeBy": 584, 
+      "title": "Data Security", 
+      "ranks": 80, 
+      "docid": "citeseerx-d1109"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "The Resurrecting Duckling:  Security Issues for Ad-hoc Wireless Networks", 
+      "ranks": 50, 
+      "docid": "citeseerx-d748"
+    }, 
+    {
+      "citeBy": 549, 
+      "title": "A Security Architecture for Computational Grids", 
+      "ranks": 16, 
+      "docid": "citeseerx-d3415"
+    }, 
+    {
+      "citeBy": 552, 
+      "title": "A Fast File System for UNIX", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5103"
+    }, 
+    {
+      "citeBy": 566, 
+      "title": "StackGuard: Automatic adaptive detection and prevention of buffer-overflow attacks", 
+      "ranks": 88, 
+      "docid": "citeseerx-d1791"
+    }, 
+    {
+      "citeBy": 562, 
+      "title": "Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism", 
+      "ranks": 74, 
+      "docid": "citeseerx-d768"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 1, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Rules, discretion, and reputation in a model of monetary policy", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 6, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Lattice-Based Access Control Models", 
+      "ranks": 8, 
+      "docid": "citeseerx-d675"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Markov games as a framework for multi-agent reinforcement learning", 
+      "ranks": 10, 
+      "docid": "citeseerx-d1111"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling TCP Throughput: A Simple Model and its Empirical Validation", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4650"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 32, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 36, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 39, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Globus: A Metacomputing Infrastructure Toolkit", 
+      "ranks": 40, 
+      "docid": "citeseerx-d627"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Resilient Overlay Networks", 
+      "ranks": 41, 
+      "docid": "citeseerx-d322"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Evolution of Cooperation", 
+      "ranks": 48, 
+      "docid": "citeseerx-d3468"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Does trade cause growth", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4664"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An overview of the KL-ONE knowledge representation system", 
+      "ranks": 63, 
+      "docid": "citeseerx-d2162"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of context-aware mobile computing research", 
+      "ranks": 68, 
+      "docid": "citeseerx-d1839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics", 
+      "ranks": 81, 
+      "docid": "citeseerx-d945"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Pervasive Computing: Vision and Challenges", 
+      "ranks": 87, 
+      "docid": "citeseerx-d258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GroupLens: An Open Architecture for Collaborative Filtering of Netnews", 
+      "ranks": 89, 
+      "docid": "citeseerx-d817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the pricing of corporate debt: The risk structure of interest rates", 
+      "ranks": 90, 
+      "docid": "citeseerx-d4273"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Architecture for Wide-Area Multicast Routing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3655"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applied Cryptography -- Protocols, Algorithms, and . . .", 
+      "ranks": 92, 
+      "docid": "citeseerx-d335"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The sequence of the human genome", 
+      "ranks": 93, 
+      "docid": "citeseerx-d69"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Comparing Predictive Accuracy", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6341"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The cascade-correlation learning architecture", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5615"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "End-To-End Arguments In System Design", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6343"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1599"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Applying design by contract", 
+      "ranks": 98, 
+      "docid": "citeseerx-d4285"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Cognitive Radio: Brain-Empowered Wireless Communications", 
+      "ranks": 99, 
+      "docid": "citeseerx-d336"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q154"
+}

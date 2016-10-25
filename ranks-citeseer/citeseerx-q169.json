@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 10418, 
+      "title": "Maximum likelihood from incomplete data via the EM algorithm", 
+      "ranks": 0, 
+      "docid": "citeseerx-d3128"
+    }, 
+    {
+      "citeBy": 4144, 
+      "title": "A computational approach to edge detection", 
+      "ranks": 41, 
+      "docid": "citeseerx-d1092"
+    }, 
+    {
+      "citeBy": 3393, 
+      "title": "Graph-based algorithms for Boolean function manipulation", 
+      "ranks": 17, 
+      "docid": "citeseerx-d1055"
+    }, 
+    {
+      "citeBy": 3231, 
+      "title": "A Scalable Content-Addressable Network", 
+      "ranks": 93, 
+      "docid": "citeseerx-d512"
+    }, 
+    {
+      "citeBy": 2825, 
+      "title": "Regression Shrinkage and Selection Via the Lasso", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4468"
+    }, 
+    {
+      "citeBy": 2539, 
+      "title": "Statecharts: A Visual Formalism For Complex Systems", 
+      "ranks": 7, 
+      "docid": "citeseerx-d702"
+    }, 
+    {
+      "citeBy": 2077, 
+      "title": "The structure and function of complex networks", 
+      "ranks": 2, 
+      "docid": "citeseerx-d497"
+    }, 
+    {
+      "citeBy": 2626, 
+      "title": "Particle swarm optimization", 
+      "ranks": 90, 
+      "docid": "citeseerx-d221"
+    }, 
+    {
+      "citeBy": 2558, 
+      "title": "Online Learning with Kernels", 
+      "ranks": 49, 
+      "docid": "citeseerx-d1801"
+    }, 
+    {
+      "citeBy": 2449, 
+      "title": "Capacity of multi-antenna Gaussian channels", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2273"
+    }, 
+    {
+      "citeBy": 2124, 
+      "title": "Mean shift: A robust approach toward feature space analysis", 
+      "ranks": 40, 
+      "docid": "citeseerx-d1119"
+    }, 
+    {
+      "citeBy": 1692, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 3, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 1999, 
+      "title": "Generalized Additive Models", 
+      "ranks": 85, 
+      "docid": "citeseerx-d1838"
+    }, 
+    {
+      "citeBy": 1666, 
+      "title": "A training algorithm for optimal margin classifiers", 
+      "ranks": 38, 
+      "docid": "citeseerx-d239"
+    }, 
+    {
+      "citeBy": 1568, 
+      "title": "Space-time codes for high data rate wireless communication: Performance criterion and code construction", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2278"
+    }, 
+    {
+      "citeBy": 1538, 
+      "title": "Factor Graphs and the Sum-Product Algorithm", 
+      "ranks": 37, 
+      "docid": "citeseerx-d431"
+    }, 
+    {
+      "citeBy": 1434, 
+      "title": "Monads for functional programming", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1057"
+    }, 
+    {
+      "citeBy": 1489, 
+      "title": "Information Theory and Statistics", 
+      "ranks": 65, 
+      "docid": "citeseerx-d944"
+    }, 
+    {
+      "citeBy": 1411, 
+      "title": "Matching pursuits with time-frequency dictionaries", 
+      "ranks": 27, 
+      "docid": "citeseerx-d1112"
+    }, 
+    {
+      "citeBy": 1408, 
+      "title": "Nonlinear component analysis as a kernel eigenvalue problem", 
+      "ranks": 48, 
+      "docid": "citeseerx-d478"
+    }, 
+    {
+      "citeBy": 894, 
+      "title": "Closed-form solution of absolute orientation using unit quaternions", 
+      "ranks": 1, 
+      "docid": "citeseerx-d4570"
+    }, 
+    {
+      "citeBy": 1183, 
+      "title": "The knowledge complexity of interactive proof systems", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4353"
+    }, 
+    {
+      "citeBy": 1219, 
+      "title": "Analysis of relative gene expression data using real-time quantitative", 
+      "ranks": 14, 
+      "docid": "citeseerx-d3598"
+    }, 
+    {
+      "citeBy": 1251, 
+      "title": "A Case for End System Multicast", 
+      "ranks": 98, 
+      "docid": "citeseerx-d320"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Parameterized Complexity", 
+      "ranks": 4, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 1148, 
+      "title": "Learning Stochastic Logic Programs", 
+      "ranks": 57, 
+      "docid": "citeseerx-d2159"
+    }, 
+    {
+      "citeBy": 1076, 
+      "title": "Fronts propagating with curvature dependent speed: algorithms based on Hamilton–Jacobi formulations", 
+      "ranks": 83, 
+      "docid": "citeseerx-d4274"
+    }, 
+    {
+      "citeBy": 1040, 
+      "title": "Least angle regression", 
+      "ranks": 36, 
+      "docid": "citeseerx-d1645"
+    }, 
+    {
+      "citeBy": 1028, 
+      "title": "The Design and Use of Steerable Filters", 
+      "ranks": 82, 
+      "docid": "citeseerx-d4444"
+    }, 
+    {
+      "citeBy": 996, 
+      "title": "Symbolic Boolean manipulation with ordered binary-decision diagrams", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1072"
+    }, 
+    {
+      "citeBy": 997, 
+      "title": "The Lumigraph", 
+      "ranks": 52, 
+      "docid": "citeseerx-d4287"
+    }, 
+    {
+      "citeBy": 956, 
+      "title": "What energy functions can be minimized via graph cuts", 
+      "ranks": 19, 
+      "docid": "citeseerx-d316"
+    }, 
+    {
+      "citeBy": 986, 
+      "title": "Large N field theories, string theory and gravity", 
+      "ranks": 75, 
+      "docid": "citeseerx-d771"
+    }, 
+    {
+      "citeBy": 975, 
+      "title": "End-To-End Arguments In System Design", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6343"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 58, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 820, 
+      "title": "Greedy Function Approximation: A Gradient Boosting Machine", 
+      "ranks": 6, 
+      "docid": "citeseerx-d294"
+    }, 
+    {
+      "citeBy": 901, 
+      "title": "Public-key cryptosystems based on composite degree residuosity classes", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7387"
+    }, 
+    {
+      "citeBy": 833, 
+      "title": "Pseudo-Random Generation from One-Way Functions", 
+      "ranks": 11, 
+      "docid": "citeseerx-d7364"
+    }, 
+    {
+      "citeBy": 859, 
+      "title": "Non-Uniform Random Variate Generation", 
+      "ranks": 66, 
+      "docid": "citeseerx-d794"
+    }, 
+    {
+      "citeBy": 827, 
+      "title": "On understanding types, data abstraction, and polymorphism", 
+      "ranks": 61, 
+      "docid": "citeseerx-d570"
+    }, 
+    {
+      "citeBy": 829, 
+      "title": "Data cube: A relational aggregation operator generalizing group-by, cross-tab, and sub-totals", 
+      "ranks": 77, 
+      "docid": "citeseerx-d596"
+    }, 
+    {
+      "citeBy": 808, 
+      "title": "Centrality in social networks conceptual clarification", 
+      "ranks": 31, 
+      "docid": "citeseerx-d506"
+    }, 
+    {
+      "citeBy": 790, 
+      "title": "Sparse Bayesian Learning and the Relevance Vector Machine", 
+      "ranks": 35, 
+      "docid": "citeseerx-d310"
+    }, 
+    {
+      "citeBy": 797, 
+      "title": "Kernel-Based Object Tracking", 
+      "ranks": 71, 
+      "docid": "citeseerx-d278"
+    }, 
+    {
+      "citeBy": 795, 
+      "title": "OBB-Tree: A hierarchical structure for rapid interference detection", 
+      "ranks": 63, 
+      "docid": "citeseerx-d1636"
+    }, 
+    {
+      "citeBy": 783, 
+      "title": "Simultaneous Multithreading: Maximizing On-Chip Parallelism", 
+      "ranks": 74, 
+      "docid": "citeseerx-d1056"
+    }, 
+    {
+      "citeBy": 731, 
+      "title": "Light Linear Logic", 
+      "ranks": 21, 
+      "docid": "citeseerx-d6460"
+    }, 
+    {
+      "citeBy": 753, 
+      "title": "The cascade-correlation learning architecture", 
+      "ranks": 95, 
+      "docid": "citeseerx-d5615"
+    }, 
+    {
+      "citeBy": 742, 
+      "title": "Query evaluation techniques for large databases", 
+      "ranks": 62, 
+      "docid": "citeseerx-d1070"
+    }, 
+    {
+      "citeBy": 723, 
+      "title": "VisualSEEk: a fully automated content-based image query system", 
+      "ranks": 23, 
+      "docid": "citeseerx-d457"
+    }, 
+    {
+      "citeBy": 738, 
+      "title": "Region Competition: Unifying Snakes, Region Growing, and Bayes/MDL for Multi-band Image Segmentation", 
+      "ranks": 50, 
+      "docid": "citeseerx-d2956"
+    }, 
+    {
+      "citeBy": 736, 
+      "title": "Plenoptic Modeling: An Image-Based Rendering System", 
+      "ranks": 67, 
+      "docid": "citeseerx-d1604"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Automatic labeling of semantic roles", 
+      "ranks": 25, 
+      "docid": "citeseerx-d4370"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Hierarchical Models of Object Recognition in Cortex", 
+      "ranks": 34, 
+      "docid": "citeseerx-d3661"
+    }, 
+    {
+      "citeBy": 715, 
+      "title": "Symbolic Model Checking: 10^20 States and Beyond", 
+      "ranks": 79, 
+      "docid": "citeseerx-d6454"
+    }, 
+    {
+      "citeBy": 714, 
+      "title": "A tutorial on support vector regression", 
+      "ranks": 87, 
+      "docid": "citeseerx-d1065"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 5, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 702, 
+      "title": "An integrated theory of the mind", 
+      "ranks": 43, 
+      "docid": "citeseerx-d298"
+    }, 
+    {
+      "citeBy": 703, 
+      "title": "Fast and robust fixed-point algorithms for independent component analysis", 
+      "ranks": 51, 
+      "docid": "citeseerx-d1064"
+    }, 
+    {
+      "citeBy": 701, 
+      "title": "A Compositional Approach to Performance Modelling", 
+      "ranks": 60, 
+      "docid": "citeseerx-d644"
+    }, 
+    {
+      "citeBy": 670, 
+      "title": "Probabilistic Visual Learning for Object Representation", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1804"
+    }, 
+    {
+      "citeBy": 661, 
+      "title": "The SWISS-PROT protein sequence database and its supplement TrEMBL in 2000", 
+      "ranks": 89, 
+      "docid": "citeseerx-d1782"
+    }, 
+    {
+      "citeBy": 657, 
+      "title": "Snakes, Shapes, and Gradient Vector Flow", 
+      "ranks": 94, 
+      "docid": "citeseerx-d2557"
+    }, 
+    {
+      "citeBy": 644, 
+      "title": "The x-Kernel: An Architecture for Implementing Network Protocols", 
+      "ranks": 70, 
+      "docid": "citeseerx-d2380"
+    }, 
+    {
+      "citeBy": 634, 
+      "title": "Inducing Features of Random Fields", 
+      "ranks": 42, 
+      "docid": "citeseerx-d4586"
+    }, 
+    {
+      "citeBy": 579, 
+      "title": "Keying hash functions for message authentication", 
+      "ranks": 16, 
+      "docid": "citeseerx-d1054"
+    }, 
+    {
+      "citeBy": 605, 
+      "title": "Fair end-to-end window-based congestion control", 
+      "ranks": 91, 
+      "docid": "citeseerx-d3507"
+    }, 
+    {
+      "citeBy": 582, 
+      "title": "Lexical-Functional Grammar:  A Formal System for Grammatical Representation", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1003"
+    }, 
+    {
+      "citeBy": 585, 
+      "title": "Multivariate adaptive regression splines", 
+      "ranks": 24, 
+      "docid": "citeseerx-d1106"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "On agent-based software engineering", 
+      "ranks": 78, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 588, 
+      "title": "View Interpolation for Image Synthesis", 
+      "ranks": 73, 
+      "docid": "citeseerx-d3705"
+    }, 
+    {
+      "citeBy": 533, 
+      "title": "Collaborative Plans for Complex Group Action", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5591"
+    }, 
+    {
+      "citeBy": 565, 
+      "title": "Interior-point Methods", 
+      "ranks": 55, 
+      "docid": "citeseerx-d307"
+    }, 
+    {
+      "citeBy": 561, 
+      "title": "Locally weighted learning", 
+      "ranks": 68, 
+      "docid": "citeseerx-d338"
+    }, 
+    {
+      "citeBy": 537, 
+      "title": "The Plenoptic Function and the Elements of Early Vision", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1060"
+    }, 
+    {
+      "citeBy": 545, 
+      "title": "Invariance Theory, the Heat Equation, and the Atiyah-Singer Index Theorem, Publish or Perish", 
+      "ranks": 64, 
+      "docid": "citeseerx-d3568"
+    }, 
+    {
+      "citeBy": 522, 
+      "title": "A semantics of multiple inheritance", 
+      "ranks": 22, 
+      "docid": "citeseerx-d548"
+    }, 
+    {
+      "citeBy": 530, 
+      "title": "Monitors: An Operating System Structuring Concept", 
+      "ranks": 99, 
+      "docid": "citeseerx-d4347"
+    }, 
+    {
+      "citeBy": 525, 
+      "title": "Interior Point Methods in Semidefinite Programming with Applications to Combinatorial Optimization", 
+      "ranks": 53, 
+      "docid": "citeseerx-d2383"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The space complexity of approximating the frequency moments", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6447"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The particel swarm: Explosion, stability, and convergence in a multidimensional complex space [J", 
+      "ranks": 8, 
+      "docid": "citeseerx-d266"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Quantum complexity theory", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4075"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Volumetric Method for Building Complex Models from Range Images", 
+      "ranks": 14, 
+      "docid": "citeseerx-d1068"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Wavelets and Subband Coding", 
+      "ranks": 27, 
+      "docid": "citeseerx-d331"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm", 
+      "ranks": 41, 
+      "docid": "citeseerx-d269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Using SeDuMi 1.02, a MATLAB toolbox for optimization over symmetric cones", 
+      "ranks": 71, 
+      "docid": "citeseerx-d2402"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Advances in Prospect Theory: Cumulative Representation of Uncertainty", 
+      "ranks": 72, 
+      "docid": "citeseerx-d3591"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predicting Internet Network Distance with Coordinates-Based Approaches", 
+      "ranks": 74, 
+      "docid": "citeseerx-d443"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recognition-by-components: A theory of human image understanding", 
+      "ranks": 76, 
+      "docid": "citeseerx-d934"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Foundations for the Study of Software Architecture", 
+      "ranks": 86, 
+      "docid": "citeseerx-d700"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The C Programming Language", 
+      "ranks": 89, 
+      "docid": "citeseerx-d954"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The strength of weak learnability", 
+      "ranks": 90, 
+      "docid": "citeseerx-d272"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Generalized Autoregressive Conditional Heteroskedasticity", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6349"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The nesC language: A holistic approach to networked embedded systems", 
+      "ranks": 92, 
+      "docid": "citeseerx-d708"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Approximating discrete probability distributions with dependence trees", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7388"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Separation of ownership and control", 
+      "ranks": 94, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Algorithms for Non-negative Matrix Factorization", 
+      "ranks": 95, 
+      "docid": "citeseerx-d2415"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recovering High Dynamic Range Radiance Maps from Photographs", 
+      "ranks": 96, 
+      "docid": "citeseerx-d2284"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Universally composable security: A new paradigm for cryptographic protocols", 
+      "ranks": 98, 
+      "docid": "citeseerx-d598"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GMRES: A generalized minimal residual algorithm for solving nonsymmetric linear systems", 
+      "ranks": 99, 
+      "docid": "citeseerx-d6445"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q169"
+}

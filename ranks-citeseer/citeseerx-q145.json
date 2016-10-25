@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 898, 
+      "title": "Location Systems for Ubiquitous Computing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d250"
+    }, 
+    {
+      "citeBy": 904, 
+      "title": "A Mathematical Introduction to Robotic Manipulation", 
+      "ranks": 2, 
+      "docid": "citeseerx-d337"
+    }, 
+    {
+      "citeBy": 574, 
+      "title": "Detection of Abrupt Changes: Theory and Application", 
+      "ranks": 1, 
+      "docid": "citeseerx-d357"
+    }, 
+    {
+      "citeBy": 485, 
+      "title": "Feedback Control Theory", 
+      "ranks": 3, 
+      "docid": "citeseerx-d2659"
+    }, 
+    {
+      "citeBy": 415, 
+      "title": "Anomaly Detection: A Survey", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5130"
+    }, 
+    {
+      "citeBy": 306, 
+      "title": "Why Cryptosystems Fail", 
+      "ranks": 5, 
+      "docid": "citeseerx-d5127"
+    }, 
+    {
+      "citeBy": 251, 
+      "title": "Outline of a Theory of Intelligence", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1851"
+    }, 
+    {
+      "citeBy": 250, 
+      "title": "United Nations Framework Convention on Climate Change. Convention on climate change. http://www.unfccc.de/resource/conv/index.html UNFCCC", 
+      "ranks": 8, 
+      "docid": "citeseerx-d1413"
+    }, 
+    {
+      "citeBy": 223, 
+      "title": "Adapting to Network and Client Variability via On-Demand Dynamic Distillation", 
+      "ranks": 10, 
+      "docid": "citeseerx-d5131"
+    }, 
+    {
+      "citeBy": 222, 
+      "title": "The Value of a Statistical Life: A Critical Review of Market Estimates Throughout the World", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4020"
+    }, 
+    {
+      "citeBy": 221, 
+      "title": "Adaptive Filtering and Change Detection", 
+      "ranks": 12, 
+      "docid": "citeseerx-d1895"
+    }, 
+    {
+      "citeBy": 216, 
+      "title": "Personalised hypermedia presentation techniques for improving online customer relationships", 
+      "ranks": 13, 
+      "docid": "citeseerx-d5132"
+    }, 
+    {
+      "citeBy": 208, 
+      "title": "Navigating the Patent Thicket: Cross Licenses, Patent Pools, and Standard-Setting", 
+      "ranks": 14, 
+      "docid": "citeseerx-d5133"
+    }, 
+    {
+      "citeBy": 197, 
+      "title": "Joint MAP registration and high-resolution image estimation using a sequence of undersampled images", 
+      "ranks": 16, 
+      "docid": "citeseerx-d5134"
+    }, 
+    {
+      "citeBy": 192, 
+      "title": "Synthetic Aperture Radar Interferometry", 
+      "ranks": 15, 
+      "docid": "citeseerx-d4836"
+    }, 
+    {
+      "citeBy": 183, 
+      "title": "Particle Filters for Positioning, Navigation and Tracking", 
+      "ranks": 17, 
+      "docid": "citeseerx-d3729"
+    }, 
+    {
+      "citeBy": 183, 
+      "title": "Symmetry-Breaking Predicates for Search Problems", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5135"
+    }, 
+    {
+      "citeBy": 182, 
+      "title": "Computer Vision: Algorithms and Applications", 
+      "ranks": 20, 
+      "docid": "citeseerx-d1152"
+    }, 
+    {
+      "citeBy": 178, 
+      "title": "Multiagent Systems: Algorithmic, GameTheoretic, and Logical Foundations", 
+      "ranks": 18, 
+      "docid": "citeseerx-d5152"
+    }, 
+    {
+      "citeBy": 176, 
+      "title": "Energy conservation in wireless sensor networks: A survey", 
+      "ranks": 21, 
+      "docid": "citeseerx-d5217"
+    }, 
+    {
+      "citeBy": 172, 
+      "title": "On Task Schedulability in Real-Time Control Systems", 
+      "ranks": 22, 
+      "docid": "citeseerx-d5138"
+    }, 
+    {
+      "citeBy": 163, 
+      "title": "Dealing with Mobility: Understanding access anytime, anywhere", 
+      "ranks": 23, 
+      "docid": "citeseerx-d5141"
+    }, 
+    {
+      "citeBy": 133, 
+      "title": "2000. “State of the practice of intrusion detection technologies.” Carnegie Mellon University. Software Engineering Institute. CMU/ SEI-99-TR-028 ESC-TR-99-028 www.sei.cmu.edu/publications/documents/99.reports/99tr028/99tr028title.html Ananth, Dr. K.P. 20", 
+      "ranks": 27, 
+      "docid": "citeseerx-d5149"
+    }, 
+    {
+      "citeBy": 132, 
+      "title": "Use Case Maps for Object-Oriented Systems", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5156"
+    }, 
+    {
+      "citeBy": 126, 
+      "title": "Experience with Market-Based Environmental Policy Instruments", 
+      "ranks": 38, 
+      "docid": "citeseerx-d5212"
+    }, 
+    {
+      "citeBy": 125, 
+      "title": "Collaborative In-Network Processing for Target Tracking", 
+      "ranks": 39, 
+      "docid": "citeseerx-d5168"
+    }, 
+    {
+      "citeBy": 117, 
+      "title": "Adapting to Network and Client Variation Using Active Proxies: Lessons and Perspectives", 
+      "ranks": 45, 
+      "docid": "citeseerx-d5161"
+    }, 
+    {
+      "citeBy": 114, 
+      "title": "Image Registration", 
+      "ranks": 48, 
+      "docid": "citeseerx-d5190"
+    }, 
+    {
+      "citeBy": 104, 
+      "title": "An Exploration Towards a Production Theory and Its Application to Construction", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5231"
+    }, 
+    {
+      "citeBy": 56, 
+      "title": "Imprecision in Engineering Design", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5202"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Terrain Navigation using Bayesian Statistics", 
+      "ranks": 80, 
+      "docid": "citeseerx-d5213"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "D.: Probabilistic Design Methodology for Composite Aircraft Structures", 
+      "ranks": 86, 
+      "docid": "citeseerx-d5219"
+    }, 
+    {
+      "citeBy": 7, 
+      "title": "An Interdisciplinary Approach to Inflight Aircraft Icing Safety", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5234"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Probabilistic Methods For Uncertainty Propagation Applied To Aircraft Design", 
+      "ranks": 92, 
+      "docid": "citeseerx-d5241"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "A comparison of filtering approaches for aircraft engine health estimation", 
+      "ranks": 64, 
+      "docid": "citeseerx-d5197"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "The Typical General Aviation Aircraft", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5159"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Injuries in Fatal Aircraft Accidents", 
+      "ranks": 50, 
+      "docid": "citeseerx-d5165"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Effects of Structural Tests on Aircraft Safety", 
+      "ranks": 79, 
+      "docid": "citeseerx-d5210"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Efficient Conditional Failure Analysis - Application to an Aircraft", 
+      "ranks": 88, 
+      "docid": "citeseerx-d5223"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Analysis of Electro-Mechanical Actuator Systems in  MORE ELECTRIC AIRCRAFT APPLICATIONS", 
+      "ranks": 90, 
+      "docid": "citeseerx-d5228"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Radioisotope Power Systems", 
+      "ranks": 93, 
+      "docid": "citeseerx-d5239"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Virtual and Mixed Reality Interfaces for e-Training: Examples of Applications in Light Aircraft Maintenance", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5244"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Impact of Aircraft Performance Characteristics on Air Trac Delays", 
+      "ranks": 99, 
+      "docid": "citeseerx-d5247"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Unscented Filtering and Nonlinear Estimation", 
+      "ranks": 4, 
+      "docid": "citeseerx-d3677"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "D.: A wireless sensor network for structural monitoring", 
+      "ranks": 6, 
+      "docid": "citeseerx-d2384"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Users&apos; Guide for the Harwell-Boeing Sparse Matrix Collection (Release I)", 
+      "ranks": 7, 
+      "docid": "citeseerx-d1850"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "MAGNETIC PISTON ENGINE", 
+      "ranks": 9, 
+      "docid": "citeseerx-d5129"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Solving Systems of Polynomial Equations", 
+      "ranks": 19, 
+      "docid": "citeseerx-d5136"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Predictive piston motion control in a free-piston internal combustion engineI", 
+      "ranks": 24, 
+      "docid": "citeseerx-d5137"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Bird/Wildlife Aircraft Strike", 
+      "ranks": 25, 
+      "docid": "citeseerx-d5139"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Header for SPIE use Alaskan Flight Trials of a Synthetic Vision System for Instrument Landings of a Piston Twin Aircraft", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ENGINEERING", 
+      "ranks": 26, 
+      "docid": "citeseerx-d5142"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aircraft Industry", 
+      "ranks": 28, 
+      "docid": "citeseerx-d5144"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "JOURNAL OF AIRCRAFT", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5143"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Systèmes (EDSYS) Contribution to Engine-out Aircraft Trajectory Management and Control", 
+      "ranks": 29, 
+      "docid": "citeseerx-d5145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "General Aviation Aircraft Reliability Study", 
+      "ranks": 32, 
+      "docid": "citeseerx-d5148"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "General Aviation Aircraft Reliability Study", 
+      "ranks": 33, 
+      "docid": "citeseerx-d5147"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PDF:", 
+      "ranks": 34, 
+      "docid": "citeseerx-d5150"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NAVY UNMANNED AIRCRAFT SYSTEMS", 
+      "ranks": 36, 
+      "docid": "citeseerx-d5151"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "DEVELOPMENT THE OIL SYSTEM OF AIRCRAFT", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5153"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Air-Cooled Aircraft Engine Cylinders An Evolutionary Odyssey", 
+      "ranks": 37, 
+      "docid": "citeseerx-d5154"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in Concurrent Engineering by", 
+      "ranks": 40, 
+      "docid": "citeseerx-d5155"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Evaluation of the 1910 Wright Vertical Four Aircraft Engine", 
+      "ranks": 41, 
+      "docid": "citeseerx-d5157"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Agent Aided Aircraft Maintenance", 
+      "ranks": 42, 
+      "docid": "citeseerx-d5146"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Agent Aided Aircraft Maintenance", 
+      "ranks": 43, 
+      "docid": "citeseerx-d5158"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A THERMODYNAMICS BASED MODEL FOR PREDICTING PISTON ENGINE PERFORMANCE FOR USE IN AVIATION VEHICLE DESIGN", 
+      "ranks": 44, 
+      "docid": "citeseerx-d5160"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Article An Experimental Investigation on the Combustion and Heat Release Characteristics of an Opposed-Piston Folded-Cranktrain Diesel Engine", 
+      "ranks": 46, 
+      "docid": "citeseerx-d5163"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The typical general aviation aircraft", 
+      "ranks": 47, 
+      "docid": "citeseerx-d5164"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Laser-Induced Fluorescence Imaging in Free-Piston Shock Tunnels", 
+      "ranks": 49, 
+      "docid": "citeseerx-d5166"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CONTROLLED AIRCRAFT (CCA) PROTOTYPE", 
+      "ranks": 51, 
+      "docid": "citeseerx-d5167"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "NIST Calibration Services for Pressure Using Piston Gauge Standards", 
+      "ranks": 52, 
+      "docid": "citeseerx-d5170"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aircraft Transporation System", 
+      "ranks": 54, 
+      "docid": "citeseerx-d5172"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aircraft management guidelines", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5174"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Airport and Aircraft Safety", 
+      "ranks": 55, 
+      "docid": "citeseerx-d5175"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "SIMULATING THE DISTRIBUTION OF HALON 1301 IN AN AIRCRAFT", 
+      "ranks": 56, 
+      "docid": "citeseerx-d5177"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Recursive Bayesian estimation: Navigation and tracking applications. Thesis No", 
+      "ranks": 57, 
+      "docid": "citeseerx-d5176"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design Requirements for Service Aircraft", 
+      "ranks": 58, 
+      "docid": "citeseerx-d5179"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Associated Biodynamics in Aircraft", 
+      "ranks": 59, 
+      "docid": "citeseerx-d5181"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "COMMUNICATED BY THE DEPUTY CONTROLLER AIRCRAFT", 
+      "ranks": 60, 
+      "docid": "citeseerx-d5183"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Aircraft Pitch Attitude Control Using Backstepping", 
+      "ranks": 62, 
+      "docid": "citeseerx-d5185"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "PARAMETRIC AND MATERIAL OPTIMIZATION OF TWO WHEELER PISTON USING ALUMINUM ALLOY 7475-761 AND ALUMINUM ALLOY 6061", 
+      "ranks": 63, 
+      "docid": "citeseerx-d5186"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "GT2008-51393 PROBABILISTIC TREATMENT OF AIRCRAFT ENGINE USAGE", 
+      "ranks": 65, 
+      "docid": "citeseerx-d5188"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ENGINEER", 
+      "ranks": 66, 
+      "docid": "citeseerx-d5192"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "United Kingdom’s Future Aircraft Carrier (cvf)", 
+      "ranks": 68, 
+      "docid": "citeseerx-d5194"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ejection Seat Mechanism in Civil Aircraft", 
+      "ranks": 69, 
+      "docid": "citeseerx-d5199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A Small Aircraft Transportation System (SATS) Demand Model", 
+      "ranks": 70, 
+      "docid": "citeseerx-d5201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Analysis of the pulsation in aircraft deicing system", 
+      "ranks": 72, 
+      "docid": "citeseerx-d5203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "“HIGH ANGLE OF ATTACK MANEUVERING AND STABILIZATION CONTROL OF AIRCRAFT”", 
+      "ranks": 73, 
+      "docid": "citeseerx-d5204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "USE OF AIRCRAFT FOR ZERO-GRAVITY ENVIRONMENT", 
+      "ranks": 74, 
+      "docid": "citeseerx-d5205"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Use of Alternate Fuels in Light Aircraft", 
+      "ranks": 76, 
+      "docid": "citeseerx-d5207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Reaction of Barren-Ground Caribou to Aircraft", 
+      "ranks": 77, 
+      "docid": "citeseerx-d5208"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Emission Characteristics of a Jet a Fueled Aviation Diesel Engine and other Small Aircraft Engines", 
+      "ranks": 78, 
+      "docid": "citeseerx-d5209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Remotely Piloted Aircraft Studies (CIRPAS).", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "AIRCRAFT FUEL TANK ULLAGE 6. Performing", 
+      "ranks": 82, 
+      "docid": "citeseerx-d5216"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Design of a Free Piston Pneumatic Compressor as a Mobile Robot Power Supply", 
+      "ranks": 85, 
+      "docid": "citeseerx-d5220"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modeling and Analysis of Piston Rod for Brake Spider Fixture by Fem Using ANSYS Software", 
+      "ranks": 87, 
+      "docid": "citeseerx-d5222"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "EXPERIMENTAL STUDY ON THE PERFORMANCE ESTIMATION EFFICIENCY MODEL OF A HYDRAULIC AXIAL PISTON MOTORS", 
+      "ranks": 89, 
+      "docid": "citeseerx-d5226"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Vertical Specialization and the Changing Nature of World Trade,” Economic Policy Review", 
+      "ranks": 91, 
+      "docid": "citeseerx-d5230"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Avoiding Surprise in an Era of Global Technology Advances", 
+      "ranks": 94, 
+      "docid": "citeseerx-d5237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ENGINEER PAMPHLET", 
+      "ranks": 98, 
+      "docid": "citeseerx-d5245"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q145"
+}

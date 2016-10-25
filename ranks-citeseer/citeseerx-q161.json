@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 1705, 
+      "title": "Some philosophical problems from the standpoint of artificial intelligence", 
+      "ranks": 0, 
+      "docid": "citeseerx-d4085"
+    }, 
+    {
+      "citeBy": 216, 
+      "title": "Steps toward artificial intelligence", 
+      "ranks": 4, 
+      "docid": "citeseerx-d5452"
+    }, 
+    {
+      "citeBy": 161, 
+      "title": "Epistemological Problems of Artificial Intelligence", 
+      "ranks": 6, 
+      "docid": "citeseerx-d6776"
+    }, 
+    {
+      "citeBy": 134, 
+      "title": "Generality In Artificial Intelligence", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6821"
+    }, 
+    {
+      "citeBy": 80, 
+      "title": "Argumentation in artificial intelligence", 
+      "ranks": 85, 
+      "docid": "citeseerx-d6877"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "Application of Artificial Intelligence to Wireless Communications", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6879"
+    }, 
+    {
+      "citeBy": 9, 
+      "title": "Strategic directions for artificial intelligence", 
+      "ranks": 94, 
+      "docid": "citeseerx-d6875"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Big Problems for Artificial Intelligence", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6882"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6772"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 2, 
+      "docid": "citeseerx-d6773"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ARTIFICIAL INTELLIGENCE", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6774"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 5, 
+      "docid": "citeseerx-d6775"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "- Artificial Intelligence", 
+      "ranks": 7, 
+      "docid": "citeseerx-d6777"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence for Artificial Artificial Intelligence", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6778"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 9, 
+      "docid": "citeseerx-d6779"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 10, 
+      "docid": "citeseerx-d6780"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Life with Artificial Intelligence", 
+      "ranks": 11, 
+      "docid": "citeseerx-d6781"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence – An Introduction to Robotics", 
+      "ranks": 12, 
+      "docid": "citeseerx-d6782"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 13, 
+      "docid": "citeseerx-d6783"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 14, 
+      "docid": "citeseerx-d6784"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 15, 
+      "docid": "citeseerx-d6785"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 16, 
+      "docid": "citeseerx-d6786"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "in Artificial Intelligence", 
+      "ranks": 17, 
+      "docid": "citeseerx-d6787"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 18, 
+      "docid": "citeseerx-d6788"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 19, 
+      "docid": "citeseerx-d6789"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Artificial Intelligence", 
+      "ranks": 20, 
+      "docid": "citeseerx-d6790"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 21, 
+      "docid": "citeseerx-d6791"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 22, 
+      "docid": "citeseerx-d6792"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 23, 
+      "docid": "citeseerx-d6793"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 24, 
+      "docid": "citeseerx-d6794"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence,", 
+      "ranks": 25, 
+      "docid": "citeseerx-d6795"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 26, 
+      "docid": "citeseerx-d6796"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 27, 
+      "docid": "citeseerx-d6797"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "for Artificial Intelligence", 
+      "ranks": 28, 
+      "docid": "citeseerx-d6798"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 29, 
+      "docid": "citeseerx-d6799"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 30, 
+      "docid": "citeseerx-d6800"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 31, 
+      "docid": "citeseerx-d6801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 32, 
+      "docid": "citeseerx-d6802"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6803"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 34, 
+      "docid": "citeseerx-d6804"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 35, 
+      "docid": "citeseerx-d6805"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 36, 
+      "docid": "citeseerx-d6806"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 37, 
+      "docid": "citeseerx-d6807"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 38, 
+      "docid": "citeseerx-d6808"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "on Artificial Intelligence", 
+      "ranks": 39, 
+      "docid": "citeseerx-d6809"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 40, 
+      "docid": "citeseerx-d6810"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "and Artificial Intelligence", 
+      "ranks": 41, 
+      "docid": "citeseerx-d6811"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 42, 
+      "docid": "citeseerx-d6812"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 43, 
+      "docid": "citeseerx-d6813"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 44, 
+      "docid": "citeseerx-d6814"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 45, 
+      "docid": "citeseerx-d6815"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 46, 
+      "docid": "citeseerx-d6816"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 47, 
+      "docid": "citeseerx-d6817"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6818"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 49, 
+      "docid": "citeseerx-d6819"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 50, 
+      "docid": "citeseerx-d6820"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 52, 
+      "docid": "citeseerx-d6822"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 53, 
+      "docid": "citeseerx-d6823"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 54, 
+      "docid": "citeseerx-d6824"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 55, 
+      "docid": "citeseerx-d6825"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 56, 
+      "docid": "citeseerx-d6826"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 57, 
+      "docid": "citeseerx-d6827"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 58, 
+      "docid": "citeseerx-d6828"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 59, 
+      "docid": "citeseerx-d6829"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 60, 
+      "docid": "citeseerx-d6830"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 61, 
+      "docid": "citeseerx-d6831"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 62, 
+      "docid": "citeseerx-d6832"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 63, 
+      "docid": "citeseerx-d6833"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 64, 
+      "docid": "citeseerx-d6834"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 65, 
+      "docid": "citeseerx-d6835"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 66, 
+      "docid": "citeseerx-d6836"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 67, 
+      "docid": "citeseerx-d6837"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6838"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 69, 
+      "docid": "citeseerx-d6839"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 70, 
+      "docid": "citeseerx-d6840"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 71, 
+      "docid": "citeseerx-d6841"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ARTIFICIAL INTELLIGENCE", 
+      "ranks": 72, 
+      "docid": "citeseerx-d6842"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 73, 
+      "docid": "citeseerx-d6843"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 74, 
+      "docid": "citeseerx-d6845"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 75, 
+      "docid": "citeseerx-d6846"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 76, 
+      "docid": "citeseerx-d6848"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 77, 
+      "docid": "citeseerx-d6850"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence", 
+      "ranks": 78, 
+      "docid": "citeseerx-d6851"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Artificial Life Roots of Artificial Intelligence", 
+      "ranks": 79, 
+      "docid": "citeseerx-d6852"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence Creativity and artificial intelligence", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6854"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence – Now and the Future", 
+      "ranks": 82, 
+      "docid": "citeseerx-d6859"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence in Engineering:", 
+      "ranks": 83, 
+      "docid": "citeseerx-d6861"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Elsevier Logic and artificial intelligence", 
+      "ranks": 84, 
+      "docid": "citeseerx-d6857"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "ARTIFICIAL INTELLIGENCE AND AESTHETICS", 
+      "ranks": 86, 
+      "docid": "citeseerx-d6866"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Introduction EPISTEMOLOGICAL PROBLEMS OF ARTIFICIAL INTELLIGENCE", 
+      "ranks": 87, 
+      "docid": "citeseerx-d6862"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Artificial Intelligence: Structure and Examining ∗", 
+      "ranks": 88, 
+      "docid": "citeseerx-d6871"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Association for Artificial Intelligence", 
+      "ranks": 89, 
+      "docid": "citeseerx-d6865"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Prospects for Artificial Intelligence", 
+      "ranks": 91, 
+      "docid": "citeseerx-d6868"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Chapter 9 Artificial Intelligence", 
+      "ranks": 93, 
+      "docid": "citeseerx-d6872"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Artificial Intelligence and Environmental Issues", 
+      "ranks": 95, 
+      "docid": "citeseerx-d6883"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Ethics of Artificial Intelligence", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6880"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Epistemology and artificial intelligence", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6884"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Economic Approach to Artificial Intelligence", 
+      "ranks": 97, 
+      "docid": "citeseerx-d6886"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "For The Cambridge Handbook to Artificial Intelligence", 
+      "ranks": 98, 
+      "docid": "citeseerx-d6887"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Reasoning with Conditionals in Artificial Intelligence", 
+      "ranks": 99, 
+      "docid": "citeseerx-d6889"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q161"
+}

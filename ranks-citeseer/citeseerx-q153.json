@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 2628, 
+      "title": "Congestion Avoidance and Control", 
+      "ranks": 57, 
+      "docid": "citeseerx-d767"
+    }, 
+    {
+      "citeBy": 2441, 
+      "title": "Endogenous technological change", 
+      "ranks": 50, 
+      "docid": "citeseerx-d1352"
+    }, 
+    {
+      "citeBy": 2357, 
+      "title": "Social Capital in the Creation of Human Capital", 
+      "ranks": 52, 
+      "docid": "citeseerx-d734"
+    }, 
+    {
+      "citeBy": 2081, 
+      "title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure", 
+      "ranks": 24, 
+      "docid": "citeseerx-d545"
+    }, 
+    {
+      "citeBy": 1711, 
+      "title": "Common Risk Factors in the Returns On Stocks And Bonds", 
+      "ranks": 11, 
+      "docid": "citeseerx-d4181"
+    }, 
+    {
+      "citeBy": 1684, 
+      "title": "Affective Computing", 
+      "ranks": 93, 
+      "docid": "citeseerx-d233"
+    }, 
+    {
+      "citeBy": 1602, 
+      "title": "The cross-section of expected stock returns", 
+      "ranks": 33, 
+      "docid": "citeseerx-d6170"
+    }, 
+    {
+      "citeBy": 1612, 
+      "title": "Capitalism, Socialism and Democracy", 
+      "ranks": 64, 
+      "docid": "citeseerx-d720"
+    }, 
+    {
+      "citeBy": 1599, 
+      "title": "The Science of Monetary Policy: A New Keynesian Perspective", 
+      "ranks": 69, 
+      "docid": "citeseerx-d808"
+    }, 
+    {
+      "citeBy": 1547, 
+      "title": "Monopolistic competition and optimum product diversity", 
+      "ranks": 42, 
+      "docid": "citeseerx-d3473"
+    }, 
+    {
+      "citeBy": 1452, 
+      "title": "Economic Growth in a Cross Section of Countries", 
+      "ranks": 75, 
+      "docid": "citeseerx-d504"
+    }, 
+    {
+      "citeBy": 1405, 
+      "title": "Credit Cycles", 
+      "ranks": 53, 
+      "docid": "citeseerx-d3475"
+    }, 
+    {
+      "citeBy": 1388, 
+      "title": "Increasing Returns and Economic Geography", 
+      "ranks": 37, 
+      "docid": "citeseerx-d1094"
+    }, 
+    {
+      "citeBy": 1396, 
+      "title": "A dynamic theory of organizational knowledge creation", 
+      "ranks": 56, 
+      "docid": "citeseerx-d45"
+    }, 
+    {
+      "citeBy": 1343, 
+      "title": "Discovery of Grounded Theory", 
+      "ranks": 18, 
+      "docid": "citeseerx-d312"
+    }, 
+    {
+      "citeBy": 1368, 
+      "title": "THE FINANCIAL ACCELERATOR IN A QUANTITATIVE BUSINESS CYCLE FRAMEWORK", 
+      "ranks": 39, 
+      "docid": "citeseerx-d1127"
+    }, 
+    {
+      "citeBy": 1256, 
+      "title": "Dynamic capabilities and strategic management", 
+      "ranks": 31, 
+      "docid": "citeseerx-d616"
+    }, 
+    {
+      "citeBy": 1145, 
+      "title": "Separation of ownership and control", 
+      "ranks": 45, 
+      "docid": "citeseerx-d1115"
+    }, 
+    {
+      "citeBy": 1129, 
+      "title": "The eyes have it: A task by data type taxonomy for information visualizations", 
+      "ranks": 80, 
+      "docid": "citeseerx-d2958"
+    }, 
+    {
+      "citeBy": 1108, 
+      "title": "Nominal Rigidities and the Dynamic Effects of a Shock to Monetary Policy", 
+      "ranks": 67, 
+      "docid": "citeseerx-d2319"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "The Behaviour of Stock Market Prices", 
+      "ranks": 4, 
+      "docid": "citeseerx-d528"
+    }, 
+    {
+      "citeBy": 1049, 
+      "title": "Parameterized Complexity", 
+      "ranks": 84, 
+      "docid": "citeseerx-d344"
+    }, 
+    {
+      "citeBy": 1017, 
+      "title": "Genetic Programming", 
+      "ranks": 27, 
+      "docid": "citeseerx-d255"
+    }, 
+    {
+      "citeBy": 974, 
+      "title": "Architectural Styles and the Design of Network-based Software Architectures", 
+      "ranks": 23, 
+      "docid": "citeseerx-d327"
+    }, 
+    {
+      "citeBy": 988, 
+      "title": "A tutorial on learning with Bayesian networks", 
+      "ranks": 98, 
+      "docid": "citeseerx-d2371"
+    }, 
+    {
+      "citeBy": 916, 
+      "title": "MediaBench: A Tool for Evaluating and Synthesizing Multimedia and Communications Systems", 
+      "ranks": 30, 
+      "docid": "citeseerx-d2267"
+    }, 
+    {
+      "citeBy": 900, 
+      "title": "Intelligence without reason", 
+      "ranks": 88, 
+      "docid": "citeseerx-d376"
+    }, 
+    {
+      "citeBy": 868, 
+      "title": "Financial Dependence and Growth", 
+      "ranks": 29, 
+      "docid": "citeseerx-d501"
+    }, 
+    {
+      "citeBy": 824, 
+      "title": "Monetary Policy Shocks: What Have we Learned and to What End?", 
+      "ranks": 58, 
+      "docid": "citeseerx-d782"
+    }, 
+    {
+      "citeBy": 810, 
+      "title": "THE CAUSAL EFFECT OF EDUCATION ON EARNINGS", 
+      "ranks": 68, 
+      "docid": "citeseerx-d4548"
+    }, 
+    {
+      "citeBy": 806, 
+      "title": "Organizations", 
+      "ranks": 72, 
+      "docid": "citeseerx-d1001"
+    }, 
+    {
+      "citeBy": 769, 
+      "title": "The Protection of Information in Computer Systems", 
+      "ranks": 21, 
+      "docid": "citeseerx-d788"
+    }, 
+    {
+      "citeBy": 782, 
+      "title": "A theory of fairness, competition and cooperation", 
+      "ranks": 51, 
+      "docid": "citeseerx-d813"
+    }, 
+    {
+      "citeBy": 779, 
+      "title": "Multitask principal-agent analyses: incentive contracts, asset ownership, and job design", 
+      "ranks": 78, 
+      "docid": "citeseerx-d780"
+    }, 
+    {
+      "citeBy": 687, 
+      "title": "A Set Of Principles For Conducting And  Evaluating Interpretive Field Studies In Information Systems", 
+      "ranks": 6, 
+      "docid": "citeseerx-d779"
+    }, 
+    {
+      "citeBy": 762, 
+      "title": "Design and Evaluation of a Wide-Area Event Notification Service", 
+      "ranks": 96, 
+      "docid": "citeseerx-d1079"
+    }, 
+    {
+      "citeBy": 706, 
+      "title": "Coherent Measures of Risk", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4184"
+    }, 
+    {
+      "citeBy": 732, 
+      "title": "The provision of incentives in firms", 
+      "ranks": 70, 
+      "docid": "citeseerx-d758"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "The interdisciplinary study of coordination", 
+      "ranks": 28, 
+      "docid": "citeseerx-d690"
+    }, 
+    {
+      "citeBy": 705, 
+      "title": "No Silver Bullet: Essence and Accidents of Software Engineering", 
+      "ranks": 71, 
+      "docid": "citeseerx-d3045"
+    }, 
+    {
+      "citeBy": 700, 
+      "title": "Indivisible labor and the business cycle", 
+      "ranks": 61, 
+      "docid": "citeseerx-d1027"
+    }, 
+    {
+      "citeBy": 566, 
+      "title": "Does the stock market overreact", 
+      "ranks": 3, 
+      "docid": "citeseerx-d6148"
+    }, 
+    {
+      "citeBy": 688, 
+      "title": "Why a diagram is (sometimes) worth ten thousand words", 
+      "ranks": 86, 
+      "docid": "citeseerx-d961"
+    }, 
+    {
+      "citeBy": 518, 
+      "title": "Ontologies: Principles, methods and applications", 
+      "ranks": 2, 
+      "docid": "citeseerx-d9"
+    }, 
+    {
+      "citeBy": 674, 
+      "title": "Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?", 
+      "ranks": 48, 
+      "docid": "citeseerx-d6185"
+    }, 
+    {
+      "citeBy": 664, 
+      "title": "An introduction to software architecture", 
+      "ranks": 95, 
+      "docid": "citeseerx-d974"
+    }, 
+    {
+      "citeBy": 652, 
+      "title": "A Perspective on Psychology and Economics", 
+      "ranks": 49, 
+      "docid": "citeseerx-d741"
+    }, 
+    {
+      "citeBy": 627, 
+      "title": "The Mechanisms of Governance", 
+      "ranks": 16, 
+      "docid": "citeseerx-d765"
+    }, 
+    {
+      "citeBy": 642, 
+      "title": "The Capital Structure Puzzle", 
+      "ranks": 54, 
+      "docid": "citeseerx-d753"
+    }, 
+    {
+      "citeBy": 590, 
+      "title": "A Simple Model of Capital Market Equilibrium with Incomplete Information", 
+      "ranks": 9, 
+      "docid": "citeseerx-d4178"
+    }, 
+    {
+      "citeBy": 626, 
+      "title": "MACROECONOMICS AND REALITY", 
+      "ranks": 41, 
+      "docid": "citeseerx-d2320"
+    }, 
+    {
+      "citeBy": 607, 
+      "title": "Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays", 
+      "ranks": 17, 
+      "docid": "citeseerx-d2762"
+    }, 
+    {
+      "citeBy": 631, 
+      "title": "Algorithmic mechanism design", 
+      "ranks": 79, 
+      "docid": "citeseerx-d516"
+    }, 
+    {
+      "citeBy": 616, 
+      "title": "The architecture of complexity", 
+      "ranks": 46, 
+      "docid": "citeseerx-d785"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "Direct manipulation: a step beyond programming languages", 
+      "ranks": 59, 
+      "docid": "citeseerx-d4382"
+    }, 
+    {
+      "citeBy": 592, 
+      "title": "Modeling Term Structures of Defaultable Bonds", 
+      "ranks": 40, 
+      "docid": "citeseerx-d484"
+    }, 
+    {
+      "citeBy": 599, 
+      "title": "On agent-based software engineering", 
+      "ranks": 97, 
+      "docid": "citeseerx-d2749"
+    }, 
+    {
+      "citeBy": 575, 
+      "title": "Improved algorithms for optimal winner determination in combinatorial auctions and generalizations", 
+      "ranks": 90, 
+      "docid": "citeseerx-d241"
+    }, 
+    {
+      "citeBy": 558, 
+      "title": "Three Generative, Lexicalised Models for Statistical Parsing", 
+      "ranks": 77, 
+      "docid": "citeseerx-d6208"
+    }, 
+    {
+      "citeBy": 550, 
+      "title": "The process group approach to reliable distributed computing", 
+      "ranks": 91, 
+      "docid": "citeseerx-d678"
+    }, 
+    {
+      "citeBy": 536, 
+      "title": "Understanding Code Mobility", 
+      "ranks": 85, 
+      "docid": "citeseerx-d659"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principles of Marketing", 
+      "ranks": 0, 
+      "docid": "citeseerx-d6139"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "principles in markets”", 
+      "ranks": 1, 
+      "docid": "citeseerx-d6141"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Principles involving marketing policies: An empirical assessment", 
+      "ranks": 4, 
+      "docid": "citeseerx-d6145"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Market Efficiency, Long-Term Returns, and Behavioral Finance", 
+      "ranks": 5, 
+      "docid": "citeseerx-d4119"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hedonic Prices and Implicit Markets: Product Differentiation in Pure Competition", 
+      "ranks": 8, 
+      "docid": "citeseerx-d6151"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Option Pricing: A Simplified Approach", 
+      "ranks": 14, 
+      "docid": "citeseerx-d4282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Discrete Choice: Methods with Simulation", 
+      "ranks": 23, 
+      "docid": "citeseerx-d759"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The limits of arbitrage", 
+      "ranks": 25, 
+      "docid": "citeseerx-d2293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Determinants of corporate borrowing", 
+      "ranks": 27, 
+      "docid": "citeseerx-d2324"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The modern industrial revolution, exit, and the failure of internal control systems", 
+      "ranks": 28, 
+      "docid": "citeseerx-d518"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Trade Policy and Economic Growth: A Skeptic&apos;s Guide to the Cross-National Evidence", 
+      "ranks": 34, 
+      "docid": "citeseerx-d770"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Essay on Fiscal Federalism", 
+      "ranks": 37, 
+      "docid": "citeseerx-d2321"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Theory of Economic Regulation", 
+      "ranks": 41, 
+      "docid": "citeseerx-d743"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "A survey of corporate governance", 
+      "ranks": 46, 
+      "docid": "citeseerx-d1140"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ontologies: A Silver Bullet for Knowledge Management and Electronic", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Empirical performance of alternative option pricing models", 
+      "ranks": 54, 
+      "docid": "citeseerx-d6201"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Mining: Concepts and Techniques", 
+      "ranks": 61, 
+      "docid": "citeseerx-d225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The pricing of options on assets with stochastic volatilities", 
+      "ranks": 66, 
+      "docid": "citeseerx-d6212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "1990]:”Property Rights and the Nature of the Firm", 
+      "ranks": 68, 
+      "docid": "citeseerx-d6215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Inflation Forecast Targeting: Implementing and Monitoring Inflation Targets", 
+      "ranks": 80, 
+      "docid": "citeseerx-d6227"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Estimating the Support of a High-Dimensional Distribution", 
+      "ranks": 81, 
+      "docid": "citeseerx-d297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Authoritative Sources in a Hyperlinked Environment", 
+      "ranks": 82, 
+      "docid": "citeseerx-d406"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "LogP: Towards a Realistic Model of Parallel Computation", 
+      "ranks": 83, 
+      "docid": "citeseerx-d1058"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tangible bits: towards seamless interfaces between people, bits and atoms", 
+      "ranks": 84, 
+      "docid": "citeseerx-d686"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Software Engineering Economics", 
+      "ranks": 85, 
+      "docid": "citeseerx-d728"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Being There -- Putting Brain, Body, and World Together Again", 
+      "ranks": 86, 
+      "docid": "citeseerx-d240"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure", 
+      "ranks": 87, 
+      "docid": "citeseerx-d277"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Anatomy of the Grid - Enabling Scalable Virtual Organizations", 
+      "ranks": 88, 
+      "docid": "citeseerx-d801"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "KQML as an agent communication language", 
+      "ranks": 89, 
+      "docid": "citeseerx-d27"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The JPEG still picture compression standard", 
+      "ranks": 90, 
+      "docid": "citeseerx-d3945"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical mechanics of complex networks", 
+      "ranks": 91, 
+      "docid": "citeseerx-d483"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Overview of the H.264/AVC Video Coding Standard", 
+      "ranks": 92, 
+      "docid": "citeseerx-d2302"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "The Macroscopic Behavior of the TCP Congestion Avoidance Algorithm", 
+      "ranks": 93, 
+      "docid": "citeseerx-d4199"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Gradient-based learning applied to document recognition", 
+      "ranks": 94, 
+      "docid": "citeseerx-d207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Statistical pattern recognition: A review", 
+      "ranks": 95, 
+      "docid": "citeseerx-d204"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "BoosTexter: A Boosting-based System for Text Categorization", 
+      "ranks": 96, 
+      "docid": "citeseerx-d6245"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Matching words and pictures", 
+      "ranks": 97, 
+      "docid": "citeseerx-d1134"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Modern Information Retrieval", 
+      "ranks": 98, 
+      "docid": "citeseerx-d276"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Data Clustering: A Review", 
+      "ranks": 99, 
+      "docid": "citeseerx-d222"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q153"
+}

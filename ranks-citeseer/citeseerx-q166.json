@@ -1,0 +1,606 @@
+{
+  "doclist": [
+    {
+      "citeBy": 5412, 
+      "title": "LIBSVM: a Library for Support Vector Machines", 
+      "ranks": 3, 
+      "docid": "citeseerx-d7198"
+    }, 
+    {
+      "citeBy": 2942, 
+      "title": "A tutorial on support vector machines for pattern recognition", 
+      "ranks": 5, 
+      "docid": "citeseerx-d372"
+    }, 
+    {
+      "citeBy": 2127, 
+      "title": "Text Categorization with Support Vector Machines: Learning with Many Relevant Features", 
+      "ranks": 18, 
+      "docid": "citeseerx-d1669"
+    }, 
+    {
+      "citeBy": 940, 
+      "title": "Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods", 
+      "ranks": 53, 
+      "docid": "citeseerx-d1674"
+    }, 
+    {
+      "citeBy": 908, 
+      "title": "Gene selection for cancer classification using support vector machines", 
+      "ranks": 30, 
+      "docid": "citeseerx-d742"
+    }, 
+    {
+      "citeBy": 813, 
+      "title": "A Comparison of Methods for Multiclass Support Vector Machines", 
+      "ranks": 8, 
+      "docid": "citeseerx-d4600"
+    }, 
+    {
+      "citeBy": 825, 
+      "title": "Transductive Inference for Text Classification using Support Vector Machines", 
+      "ranks": 13, 
+      "docid": "citeseerx-d524"
+    }, 
+    {
+      "citeBy": 690, 
+      "title": "Training Support Vector Machines: an Application to Face Detection", 
+      "ranks": 7, 
+      "docid": "citeseerx-d261"
+    }, 
+    {
+      "citeBy": 573, 
+      "title": "Making Large-Scale Support Vector Machine Learning Practical", 
+      "ranks": 25, 
+      "docid": "citeseerx-d394"
+    }, 
+    {
+      "citeBy": 411, 
+      "title": "Choosing multiple parameters for support vector machines", 
+      "ranks": 12, 
+      "docid": "citeseerx-d7210"
+    }, 
+    {
+      "citeBy": 392, 
+      "title": "Sequential minimal optimization: A fast algorithm for training support vector machines", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7288"
+    }, 
+    {
+      "citeBy": 324, 
+      "title": "Regularization networks and support vector machines", 
+      "ranks": 4, 
+      "docid": "citeseerx-d2533"
+    }, 
+    {
+      "citeBy": 367, 
+      "title": "Benchmarking Least Squares Support Vector Machine Classifiers", 
+      "ranks": 29, 
+      "docid": "citeseerx-d4590"
+    }, 
+    {
+      "citeBy": 309, 
+      "title": "An Improved Training Algorithm for Support Vector Machines", 
+      "ranks": 50, 
+      "docid": "citeseerx-d7242"
+    }, 
+    {
+      "citeBy": 279, 
+      "title": "Leave-One-Out Support Vector Machines", 
+      "ranks": 34, 
+      "docid": "citeseerx-d7246"
+    }, 
+    {
+      "citeBy": 257, 
+      "title": "Less is more: Active learning with support vector machines", 
+      "ranks": 71, 
+      "docid": "citeseerx-d5709"
+    }, 
+    {
+      "citeBy": 225, 
+      "title": "Hidden Markov Support Vector Machines", 
+      "ranks": 10, 
+      "docid": "citeseerx-d7200"
+    }, 
+    {
+      "citeBy": 209, 
+      "title": "Chunking with Support Vector Machines", 
+      "ranks": 6, 
+      "docid": "citeseerx-d7199"
+    }, 
+    {
+      "citeBy": 226, 
+      "title": "Incremental and Decremental Support Vector Machine Learning", 
+      "ranks": 74, 
+      "docid": "citeseerx-d7280"
+    }, 
+    {
+      "citeBy": 207, 
+      "title": "Semi-supervised support vector machines", 
+      "ranks": 23, 
+      "docid": "citeseerx-d7208"
+    }, 
+    {
+      "citeBy": 195, 
+      "title": "Sparseness of support vector machines", 
+      "ranks": 9, 
+      "docid": "citeseerx-d7201"
+    }, 
+    {
+      "citeBy": 168, 
+      "title": "Training Invariant Support Vector Machines", 
+      "ranks": 33, 
+      "docid": "citeseerx-d7226"
+    }, 
+    {
+      "citeBy": 159, 
+      "title": "Predicting Time Series with Support Vector Machines", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7302"
+    }, 
+    {
+      "citeBy": 152, 
+      "title": "RSVM: Reduced support vector machines", 
+      "ranks": 91, 
+      "docid": "citeseerx-d7286"
+    }, 
+    {
+      "citeBy": 140, 
+      "title": "Proximal support vector machine classifiers", 
+      "ranks": 40, 
+      "docid": "citeseerx-d7230"
+    }, 
+    {
+      "citeBy": 117, 
+      "title": "Generalized Support Vector Machines", 
+      "ranks": 32, 
+      "docid": "citeseerx-d7223"
+    }, 
+    {
+      "citeBy": 99, 
+      "title": "Lagrangian Support Vector Machines", 
+      "ranks": 19, 
+      "docid": "citeseerx-d7204"
+    }, 
+    {
+      "citeBy": 95, 
+      "title": "Model selection for support vector machines", 
+      "ranks": 54, 
+      "docid": "citeseerx-d7235"
+    }, 
+    {
+      "citeBy": 89, 
+      "title": "Controlling the Sensitivity of Support Vector Machines", 
+      "ranks": 70, 
+      "docid": "citeseerx-d7262"
+    }, 
+    {
+      "citeBy": 87, 
+      "title": "Face Recognition by Support Vector Machines", 
+      "ranks": 69, 
+      "docid": "citeseerx-d3177"
+    }, 
+    {
+      "citeBy": 85, 
+      "title": "Kernel Methods and Support Vector Machines", 
+      "ranks": 90, 
+      "docid": "citeseerx-d7276"
+    }, 
+    {
+      "citeBy": 84, 
+      "title": "Authorship Attribution with Support Vector Machines", 
+      "ranks": 88, 
+      "docid": "citeseerx-d7284"
+    }, 
+    {
+      "citeBy": 83, 
+      "title": "Incremental Learning with Support Vector Machines", 
+      "ranks": 85, 
+      "docid": "citeseerx-d7273"
+    }, 
+    {
+      "citeBy": 33, 
+      "title": "Incremental Support Vector Machine", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7231"
+    }, 
+    {
+      "citeBy": 33, 
+      "title": "Probabilistic methods for Support Vector Machines", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7283"
+    }, 
+    {
+      "citeBy": 32, 
+      "title": "Incremental training of support vector machines", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7253"
+    }, 
+    {
+      "citeBy": 30, 
+      "title": "Properties of Support Vector Machines", 
+      "ranks": 49, 
+      "docid": "citeseerx-d7233"
+    }, 
+    {
+      "citeBy": 23, 
+      "title": "Relevance Feedback using Support Vector Machines", 
+      "ranks": 39, 
+      "docid": "citeseerx-d7222"
+    }, 
+    {
+      "citeBy": 17, 
+      "title": "Language recognition with support vector machines", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7266"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Normalization in support vector machines", 
+      "ranks": 35, 
+      "docid": "citeseerx-d7219"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "Sex with Support Vector Machines", 
+      "ranks": 41, 
+      "docid": "citeseerx-d7224"
+    }, 
+    {
+      "citeBy": 12, 
+      "title": "On transductive support vector machines", 
+      "ranks": 52, 
+      "docid": "citeseerx-d7236"
+    }, 
+    {
+      "citeBy": 11, 
+      "title": "The Bayesian Committee Support Vector Machine", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7274"
+    }, 
+    {
+      "citeBy": 10, 
+      "title": "Subsurface Characterization with Support Vector Machines", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7291"
+    }, 
+    {
+      "citeBy": 5, 
+      "title": "Sequential Support Vector Machines", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7211"
+    }, 
+    {
+      "citeBy": 4, 
+      "title": "Parallel Support Vector Machines", 
+      "ranks": 56, 
+      "docid": "citeseerx-d7239"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Distributed support vector machine", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7228"
+    }, 
+    {
+      "citeBy": 3, 
+      "title": "Nested Support Vector Machines", 
+      "ranks": 57, 
+      "docid": "citeseerx-d7238"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Minimax Support Vector Machines", 
+      "ranks": 58, 
+      "docid": "citeseerx-d7241"
+    }, 
+    {
+      "citeBy": 2, 
+      "title": "Semismooth Support Vector Machines", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7248"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Clustered Support Vector Machines", 
+      "ranks": 36, 
+      "docid": "citeseerx-d7220"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Oblique Support Vector Machines ∗", 
+      "ranks": 37, 
+      "docid": "citeseerx-d7217"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Optimisation on Support Vector Machines", 
+      "ranks": 43, 
+      "docid": "citeseerx-d7227"
+    }, 
+    {
+      "citeBy": 1, 
+      "title": "Bit Reduction Support Vector Machine", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7267"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines Support Vector Machines Support Vector Machines", 
+      "ranks": 0, 
+      "docid": "citeseerx-d7197"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines for spam categorization", 
+      "ranks": 11, 
+      "docid": "citeseerx-d7203"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machine Active Learning with Applications to Text Classification", 
+      "ranks": 12, 
+      "docid": "citeseerx-d300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Scaled Support Vector Machine", 
+      "ranks": 15, 
+      "docid": "citeseerx-d7202"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machine Solvers", 
+      "ranks": 16, 
+      "docid": "citeseerx-d7206"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines in R", 
+      "ranks": 17, 
+      "docid": "citeseerx-d7207"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Latent Support Vector Machines", 
+      "ranks": 22, 
+      "docid": "citeseerx-d7205"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machine active learning for image retrieval", 
+      "ranks": 23, 
+      "docid": "citeseerx-d1776"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines for Classification and Regression", 
+      "ranks": 24, 
+      "docid": "citeseerx-d7212"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines: Training and applications", 
+      "ranks": 25, 
+      "docid": "citeseerx-d7213"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Tropical Support Vector Machines", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7209"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines", 
+      "ranks": 26, 
+      "docid": "citeseerx-d7214"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines Explained", 
+      "ranks": 28, 
+      "docid": "citeseerx-d7215"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Non-symmetric Support Vector Machines", 
+      "ranks": 42, 
+      "docid": "citeseerx-d7225"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Catenary Support Vector Machines", 
+      "ranks": 44, 
+      "docid": "citeseerx-d7234"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On Universum-Support Vector Machines ∗", 
+      "ranks": 46, 
+      "docid": "citeseerx-d7229"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Catenary Support Vector Machines", 
+      "ranks": 48, 
+      "docid": "citeseerx-d7232"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Based on Support Vector Machines", 
+      "ranks": 55, 
+      "docid": "citeseerx-d7237"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "CLASSIFICATION SUPPORT VECTOR MACHINES", 
+      "ranks": 60, 
+      "docid": "citeseerx-d7243"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "with support vector machine", 
+      "ranks": 61, 
+      "docid": "citeseerx-d7254"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines", 
+      "ranks": 62, 
+      "docid": "citeseerx-d7256"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines: Hype or Hallelujah?", 
+      "ranks": 63, 
+      "docid": "citeseerx-d7258"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines and Pattern Recognition", 
+      "ranks": 64, 
+      "docid": "citeseerx-d7260"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Squares Support Vector Machine", 
+      "ranks": 65, 
+      "docid": "citeseerx-d7249"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "On the Support Vector Machine", 
+      "ranks": 66, 
+      "docid": "citeseerx-d7250"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Binarized Support Vector Machines ∗", 
+      "ranks": 67, 
+      "docid": "citeseerx-d7251"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines", 
+      "ranks": 67, 
+      "docid": "citeseerx-d7264"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines", 
+      "ranks": 68, 
+      "docid": "citeseerx-d7265"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machine Solvers Support Vector Machine Solvers", 
+      "ranks": 71, 
+      "docid": "citeseerx-d7269"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines for speech recognition", 
+      "ranks": 72, 
+      "docid": "citeseerx-d7270"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines for Face Authentication", 
+      "ranks": 77, 
+      "docid": "citeseerx-d7275"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Incremental Learning with Support Vector Machines", 
+      "ranks": 79, 
+      "docid": "citeseerx-d7278"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines for multiple-instance learning", 
+      "ranks": 81, 
+      "docid": "citeseerx-d7281"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Incremental Support Vector Machine Classification", 
+      "ranks": 82, 
+      "docid": "citeseerx-d7282"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Language Recognition with Support Vector Machines", 
+      "ranks": 86, 
+      "docid": "citeseerx-d7272"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector, Support Vector Machine", 
+      "ranks": 87, 
+      "docid": "citeseerx-d7289"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Proximal support vector machines", 
+      "ranks": 89, 
+      "docid": "citeseerx-d7293"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "An Introduction to Support Vector Machines", 
+      "ranks": 90, 
+      "docid": "citeseerx-d7295"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines", 
+      "ranks": 91, 
+      "docid": "citeseerx-d7296"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines in Bioinformatics", 
+      "ranks": 92, 
+      "docid": "citeseerx-d7297"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Hidden space support vector machines", 
+      "ranks": 93, 
+      "docid": "citeseerx-d7299"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Ellipsoidal support vector machines", 
+      "ranks": 94, 
+      "docid": "citeseerx-d7300"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines-type", 
+      "ranks": 95, 
+      "docid": "citeseerx-d7301"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support vector machines for 3-D object recognition", 
+      "ranks": 97, 
+      "docid": "citeseerx-d7303"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Successive Overrelaxation for Support Vector Machines", 
+      "ranks": 98, 
+      "docid": "citeseerx-d7304"
+    }, 
+    {
+      "citeBy": 0, 
+      "title": "Support Vector Machines in . . .", 
+      "ranks": 99, 
+      "docid": "citeseerx-d7305"
+    }
+  ], 
+  "runid": "firstRun", 
+  "qid": "citeseerx-q166"
+}
