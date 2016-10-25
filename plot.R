@@ -13,3 +13,10 @@ y<-data$V2
 
 barplot(y, ylim = c(-1,1), names.arg = x)
 barplot(y, ylim = c(-1,1))
+
+
+setwd('~/Desktop/TREC OpenSearch 2016/trec2016/')
+data<-read.csv2("kendall-citeseerx.csv", sep = ";", header = FALSE, col.names = c('qid','tau'))
+sorted <- data[order(qid),]
+x<-data$V1
+y<-data$V2
